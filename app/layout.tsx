@@ -1,5 +1,12 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { Inter } from "next/font/google";
+import CenteredScrollLink from "./components/centered-scroll-link";
+import { LocalizedText } from "./components/i18n";
+import LanguageToggle from "./components/language-toggle";
+import MobileNavbarMenu from "./components/mobile-navbar-menu";
+import ScrollRevealController from "./components/scroll-reveal-controller";
+import TypedBrand from "./components/typed-brand";
 import "./globals.css";
 
 const inter = Inter({
@@ -64,9 +71,10 @@ export default function RootLayout({
           href="#konten"
           className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[60] focus:bg-white focus:px-4 focus:py-2 focus:text-sm focus:font-bold focus:text-brand-dark"
         >
-          Lewati ke konten
+          <LocalizedText id="skip.content">Lewati ke konten</LocalizedText>
         </a>
         <Navbar />
+        <ScrollRevealController />
         {children}
       </body>
     </html>
@@ -75,36 +83,52 @@ export default function RootLayout({
 
 function Navbar() {
   const links = [
-    { href: "#layanan", label: "Layanan" },
-    { href: "#proses", label: "Proses" },
-    { href: "#paket", label: "Paket" },
-    { href: "#faq", label: "FAQ" },
+    { href: "#beranda", label: "Beranda", textId: "nav.home" },
+    { href: "#layanan", label: "Layanan", textId: "nav.services" },
+    { href: "#proses", label: "Proses", textId: "nav.process" },
+    { href: "#project", label: "Project", textId: "nav.project" },
+    { href: "#paket", label: "Paket", textId: "nav.package" },
+    { href: "#faq", label: "FAQ", textId: "nav.faq" },
+    { href: "#kontak", label: "Kontak", textId: "nav.contact" },
   ];
 
   return (
     <header className="fixed inset-x-0 top-0 z-50 border-b border-white/10 bg-brand-dark/88 backdrop-blur-xl">
-      <nav aria-label="Navigasi utama" className="mx-auto flex h-16 w-full max-w-7xl items-center justify-between px-6">
-        <a href="#konten" className="flex items-center gap-3 text-white" aria-label="nocoding beranda">
-          <span className="grid h-9 w-9 place-items-center bg-brand-gradient text-lg font-black text-white">N</span>
-          <span className="text-xl font-black">
-            nocoding<span className="text-brand-cyan">.</span>
+      <nav aria-label="Navigasi utama" className="relative mx-auto flex h-16 w-full max-w-7xl items-center justify-between px-6">
+        <a href="#beranda" className="flex items-center gap-3 text-white" aria-label="nocoding beranda">
+          <span className="nocoding-logo-mark grid h-10 w-10 place-items-center">
+            <Image
+              src="/nocoding-logo.png"
+              alt=""
+              width={40}
+              height={37}
+              className="nocoding-logo-mark__image h-10 w-10 object-contain"
+              priority
+            />
+          </span>
+          <span className="flex h-10 -translate-y-0.5 items-center">
+            <TypedBrand className="text-xl font-black leading-none" />
           </span>
         </a>
 
-        <div className="hidden items-center gap-8 md:flex">
+        <div className="absolute left-1/2 hidden -translate-x-1/2 items-center gap-4 lg:flex xl:gap-6">
           {links.map((link) => (
-            <a key={link.href} href={link.href} className="text-sm font-semibold text-slate-300 transition hover:text-white">
-              {link.label}
-            </a>
+            <CenteredScrollLink
+              key={link.href}
+              href={link.href}
+              activeClassName="nav-section-link--active"
+              scrollBlock={["#beranda", "#project", "#kontak"].includes(link.href) ? "start" : "center"}
+              className="nav-section-link text-xs font-semibold text-slate-300 transition hover:text-white xl:text-sm"
+            >
+              <LocalizedText id={link.textId}>{link.label}</LocalizedText>
+            </CenteredScrollLink>
           ))}
         </div>
 
-        <a
-          href="#kontak"
-          className="hidden min-h-10 items-center justify-center rounded-full bg-brand-cyan px-4 py-2 text-sm font-bold text-brand-dark transition hover:bg-brand-lime focus:outline-none focus:ring-2 focus:ring-brand-lime focus:ring-offset-2 focus:ring-offset-brand-dark sm:inline-flex"
-        >
-          Mulai
-        </a>
+        <div className="ml-auto flex items-center gap-3">
+          <LanguageToggle />
+          <MobileNavbarMenu links={links} />
+        </div>
       </nav>
     </header>
   );

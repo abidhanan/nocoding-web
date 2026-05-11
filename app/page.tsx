@@ -154,7 +154,7 @@ const faqs = [
   answer: string;
 }>;
 
-const contactEmail = "halonocoding@gmail.com";
+const contactEmail = "nocodingindonesia@gmail.com";
 const contactEmailHref = `https://mail.google.com/mail/?view=cm&fs=1&to=${contactEmail}&su=Konsultasi%20Website%20nocoding`;
 
 const socialLinks = [
@@ -201,7 +201,7 @@ function Hero() {
             <span className="h-2 w-2 bg-brand-lime" aria-hidden="true" />
             <LocalizedText id="hero.eyebrow">Studio website no-code dan custom system</LocalizedText>
           </p>
-          <h1 aria-label="nocoding._" className="text-5xl font-black leading-[0.95] text-white sm:text-6xl lg:text-7xl">
+          <h1 aria-label="nocoding_" className="text-5xl font-black leading-[0.95] text-white sm:text-6xl lg:text-7xl">
             <TypedBrand />
           </h1>
           <p className="mt-7 max-w-2xl text-lg leading-8 text-slate-300 sm:text-xl">
@@ -504,7 +504,7 @@ function Footer() {
       <div className="mx-0 w-full max-w-[21.5rem] sm:mx-auto sm:max-w-7xl">
         <div className="grid gap-6 md:grid-cols-3 md:items-start">
           <div className="flex flex-col items-start">
-            <a href="#konten" className="inline-flex h-9 items-center gap-2.5 text-white" aria-label="nocoding beranda">
+            <a href="#konten" className="inline-flex h-9 items-center gap-2.5 text-white" aria-label="nocoding_ beranda">
               <span className="nocoding-logo-mark grid h-9 w-9 place-items-center">
                 <Image
                   src="/nocoding-logo.png"
@@ -550,7 +550,7 @@ function Footer() {
 
         <div className="mt-7 border-t border-white/10 pt-4 text-center text-[0.72rem] text-slate-500">
           <p>
-            <LocalizedText id="footer.copyright">&copy; 2026 nocoding._ Semua hak cipta dilindungi.</LocalizedText>
+            <LocalizedText id="footer.copyright">&copy; 2026 nocoding_ Semua hak cipta dilindungi.</LocalizedText>
           </p>
         </div>
       </div>

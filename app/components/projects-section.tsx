@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { useEffect, useRef, useState } from "react";
+import { createPortal } from "react-dom";
 import { LocalizedText, useLocalizedText } from "./i18n";
 
 type Project = {
@@ -121,21 +122,7 @@ export default function ProjectsSection() {
       return;
     }
 
-    const scrollY = window.scrollY;
-    const originalHtmlOverflow = document.documentElement.style.overflow;
-    const originalHtmlHeight = document.documentElement.style.height;
-    const originalHtmlOverscrollBehavior = document.documentElement.style.overscrollBehavior;
-    const originalHtmlScrollBehavior = document.documentElement.style.scrollBehavior;
     const originalOverflow = document.body.style.overflow;
-    const originalBodyHeight = document.body.style.height;
-    const originalBodyLeft = document.body.style.left;
-    const originalBodyOverscrollBehavior = document.body.style.overscrollBehavior;
-    const originalBodyScrollBehavior = document.body.style.scrollBehavior;
-    const originalPosition = document.body.style.position;
-    const originalRight = document.body.style.right;
-    const originalTouchAction = document.body.style.touchAction;
-    const originalTop = document.body.style.top;
-    const originalWidth = document.body.style.width;
     const scrollKeys = new Set([
       "ArrowDown",
       "ArrowLeft",
@@ -147,18 +134,6 @@ export default function ProjectsSection() {
       "PageUp",
       " ",
     ]);
-    const preventBackgroundScroll = (event: Event) => {
-      const target = event.target instanceof Element ? event.target : null;
-
-      if (target?.closest("[data-project-overlay-scroll]")) {
-        return;
-      }
-
-      event.preventDefault();
-    };
-    const keepScrollPosition = () => {
-      window.scrollTo(0, scrollY);
-    };
     const closeOnEscape = (event: KeyboardEvent) => {
       if (event.key === "Escape") {
         setSelectedProject(null);
@@ -170,94 +145,55 @@ export default function ProjectsSection() {
       }
     };
 
-    document.documentElement.style.setProperty("height", "100%", "important");
-    document.documentElement.style.setProperty("overflow", "hidden", "important");
-    document.documentElement.style.setProperty("overscroll-behavior", "none", "important");
-    document.documentElement.style.scrollBehavior = "auto";
-    document.body.style.setProperty("height", "100%", "important");
     document.body.style.setProperty("overflow", "hidden", "important");
-    document.body.style.position = "fixed";
-    document.body.style.top = `-${scrollY}px`;
-    document.body.style.left = "0";
-    document.body.style.right = "0";
-    document.body.style.width = "100%";
-    document.body.style.overscrollBehavior = "none";
-    document.body.style.scrollBehavior = "auto";
-    document.body.style.touchAction = "none";
     window.addEventListener("keydown", closeOnEscape);
-    window.addEventListener("scroll", keepScrollPosition);
-    window.addEventListener("wheel", preventBackgroundScroll, { passive: false });
-    window.addEventListener("touchmove", preventBackgroundScroll, { passive: false });
-    document.addEventListener("wheel", preventBackgroundScroll, { passive: false });
-    document.addEventListener("touchmove", preventBackgroundScroll, { passive: false });
 
     return () => {
-      document.documentElement.style.height = originalHtmlHeight;
-      document.documentElement.style.overflow = originalHtmlOverflow;
-      document.documentElement.style.overscrollBehavior = originalHtmlOverscrollBehavior;
       window.removeEventListener("keydown", closeOnEscape);
-      window.removeEventListener("scroll", keepScrollPosition);
-      window.removeEventListener("wheel", preventBackgroundScroll);
-      window.removeEventListener("touchmove", preventBackgroundScroll);
-      document.removeEventListener("wheel", preventBackgroundScroll);
-      document.removeEventListener("touchmove", preventBackgroundScroll);
-      window.scrollTo(0, scrollY);
-      document.body.style.height = originalBodyHeight;
       document.body.style.overflow = originalOverflow;
-      document.body.style.position = originalPosition;
-      document.body.style.left = originalBodyLeft;
-      document.body.style.right = originalRight;
-      document.body.style.overscrollBehavior = originalBodyOverscrollBehavior;
-      document.body.style.scrollBehavior = originalBodyScrollBehavior;
-      document.body.style.touchAction = originalTouchAction;
-      document.body.style.top = originalTop;
-      document.body.style.width = originalWidth;
-      requestAnimationFrame(() => {
-        window.scrollTo(0, scrollY);
-        document.documentElement.style.scrollBehavior = originalHtmlScrollBehavior;
-      });
     };
   }, [selectedProject]);
 
   return (
-    <section id="project" className="flex min-h-[calc(100svh-4rem)] flex-col justify-center overflow-hidden border-y border-white/10 bg-brand-night py-8 sm:py-10">
-      <div className="mx-auto w-full max-w-[21.5rem] px-6 text-center sm:max-w-3xl">
-        <p className="text-sm font-bold uppercase text-brand-cyan">
-          <LocalizedText id="projects.eyebrow">Project sebelumnya</LocalizedText>
-        </p>
-        <p className="mt-4 leading-8 text-slate-400">
-          <LocalizedText id="projects.description">
-            Setiap project dibuat untuk membawa pesan bisnis ke halaman yang lebih jelas, lebih siap dibuka di semua perangkat, dan lebih mudah ditindaklanjuti pengguna.
-          </LocalizedText>
-        </p>
-      </div>
-
-      <div className="project-marquee mt-8" aria-label="Daftar project sebelumnya yang bergerak dari kanan ke kiri">
-        <div className="project-marquee__track">
-          {[0, 1].map((groupIndex) => (
-            <div
-              key={groupIndex}
-              aria-hidden={groupIndex === 1 || undefined}
-              className="project-marquee__group"
-            >
-              {marqueeProjects.map((project, projectIndex) => (
-                <ProjectCard
-                  key={`${project.name}-${groupIndex}-${projectIndex}`}
-                  isDuplicate={groupIndex === 1 || projectIndex >= projects.length}
-                  project={project}
-                  onSelect={setSelectedProject}
-                />
-              ))}
-            </div>
-          ))}
+    <>
+      <section id="project" className="flex min-h-[calc(100svh-4rem)] flex-col justify-center overflow-hidden border-y border-white/10 bg-brand-night py-8 sm:py-10">
+        <div className="mx-auto w-full max-w-[21.5rem] px-6 text-center sm:max-w-3xl">
+          <p className="text-sm font-bold uppercase text-brand-cyan">
+            <LocalizedText id="projects.eyebrow">Project sebelumnya</LocalizedText>
+          </p>
+          <p className="mt-4 leading-8 text-slate-400">
+            <LocalizedText id="projects.description">
+              Setiap project dibuat untuk membawa pesan bisnis ke halaman yang lebih jelas, lebih siap dibuka di semua perangkat, dan lebih mudah ditindaklanjuti pengguna.
+            </LocalizedText>
+          </p>
         </div>
-      </div>
 
+        <div className="project-marquee mt-8" aria-label="Daftar project sebelumnya yang bergerak dari kanan ke kiri">
+          <div className="project-marquee__track">
+            {[0, 1].map((groupIndex) => (
+              <div
+                key={groupIndex}
+                aria-hidden={groupIndex === 1 || undefined}
+                className="project-marquee__group"
+              >
+                {marqueeProjects.map((project, projectIndex) => (
+                  <ProjectCard
+                    key={`${project.name}-${groupIndex}-${projectIndex}`}
+                    isDuplicate={groupIndex === 1 || projectIndex >= projects.length}
+                    project={project}
+                    onSelect={setSelectedProject}
+                  />
+                ))}
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
       <ProjectOverlay
         project={selectedProject}
         onClose={() => setSelectedProject(null)}
       />
-    </section>
+    </>
   );
 }
 
@@ -278,7 +214,11 @@ function ProjectCard({
         type="button"
         aria-label={`Buka detail project ${project.name}`}
         tabIndex={isDuplicate ? -1 : 0}
-        onClick={() => onSelect(project)}
+        onClick={(event) => {
+          event.preventDefault();
+          event.stopPropagation();
+          onSelect(project);
+        }}
         className="group flex h-full w-full flex-col rounded-lg border border-white/10 bg-brand-dark p-4 text-left shadow-[0_18px_45px_rgba(0,0,0,0.24)] transition hover:-translate-y-1 hover:border-brand-cyan/60 hover:bg-brand-surface focus:outline-none focus:ring-2 focus:ring-brand-cyan focus:ring-offset-2 focus:ring-offset-brand-night"
       >
         <span className="relative aspect-[4/3] overflow-hidden rounded-lg border border-white/10 bg-white/5">
@@ -323,11 +263,11 @@ function ProjectOverlay({
 }) {
   const closeLabel = useLocalizedText("project.close", "Tutup detail project");
 
-  if (!project) {
+  if (!project || typeof document === "undefined") {
     return null;
   }
 
-  return (
+  return createPortal(
     <div
       data-project-overlay-scroll
       className="fixed inset-0 z-[80] flex min-h-[100dvh] items-start justify-center overflow-y-auto overscroll-contain bg-brand-dark/88 px-3 py-3 backdrop-blur-xl sm:grid sm:place-items-center sm:px-6"
@@ -395,13 +335,20 @@ function ProjectOverlay({
           </div>
         </div>
       </div>
-    </div>
+    </div>,
+    document.body,
   );
 }
 
 function ProjectMedia({ project }: { project: Project }) {
   const [activeIndex, setActiveIndex] = useState(0);
-  const mediaRef = useRef<HTMLDivElement>(null);
+  const mediaViewportRef = useRef<HTMLDivElement>(null);
+  const dragStateRef = useRef({
+    isDragging: false,
+    pointerId: 0,
+    scrollLeft: 0,
+    startX: 0,
+  });
   const mediaItems = [
     {
       label: "Foto mockup",
@@ -419,7 +366,7 @@ function ProjectMedia({ project }: { project: Project }) {
   const hasMultipleMedia = mediaItems.length > 1;
 
   useEffect(() => {
-    const videos = mediaRef.current?.querySelectorAll("video") ?? [];
+    const videos = mediaViewportRef.current?.querySelectorAll("video") ?? [];
 
     videos.forEach((video) => {
       const isActive = Number(video.dataset.mediaIndex) === activeIndex;
@@ -438,20 +385,99 @@ function ProjectMedia({ project }: { project: Project }) {
     });
   }, [activeIndex]);
 
-  const goToPrevious = () => {
+  const syncActiveMedia = () => {
+    const viewport = mediaViewportRef.current;
+
+    if (!viewport) {
+      return;
+    }
+
+    const slides = Array.from(
+      viewport.querySelectorAll<HTMLElement>("[data-project-media-slide]"),
+    );
+
+    if (!slides.length) {
+      return;
+    }
+
+    const viewportCenter = viewport.scrollLeft + viewport.clientWidth / 2;
+    let closestIndex = 0;
+    let closestDistance = Number.POSITIVE_INFINITY;
+
+    slides.forEach((slide, index) => {
+      const slideCenter = slide.offsetLeft + slide.clientWidth / 2;
+      const distance = Math.abs(slideCenter - viewportCenter);
+
+      if (distance < closestDistance) {
+        closestDistance = distance;
+        closestIndex = index;
+      }
+    });
+
     setActiveIndex((currentIndex) =>
-      currentIndex === 0 ? mediaItems.length - 1 : currentIndex - 1,
+      currentIndex === closestIndex ? currentIndex : closestIndex,
     );
   };
 
-  const goToNext = () => {
-    setActiveIndex((currentIndex) =>
-      currentIndex === mediaItems.length - 1 ? 0 : currentIndex + 1,
-    );
+  const scrollToMedia = (index: number) => {
+    const viewport = mediaViewportRef.current;
+    const slide = viewport?.querySelectorAll<HTMLElement>("[data-project-media-slide]")[index];
+
+    if (!viewport || !slide) {
+      return;
+    }
+
+    viewport.scrollTo({ behavior: "smooth", left: slide.offsetLeft });
+    setActiveIndex(index);
+  };
+
+  const startDrag = (event: React.PointerEvent<HTMLDivElement>) => {
+    const viewport = mediaViewportRef.current;
+
+    if (!viewport) {
+      return;
+    }
+
+    dragStateRef.current = {
+      isDragging: true,
+      pointerId: event.pointerId,
+      scrollLeft: viewport.scrollLeft,
+      startX: event.clientX,
+    };
+    viewport.setPointerCapture(event.pointerId);
+  };
+
+  const moveDrag = (event: React.PointerEvent<HTMLDivElement>) => {
+    const viewport = mediaViewportRef.current;
+    const dragState = dragStateRef.current;
+
+    if (!viewport || !dragState.isDragging || dragState.pointerId !== event.pointerId) {
+      return;
+    }
+
+    event.preventDefault();
+    viewport.scrollLeft = dragState.scrollLeft - (event.clientX - dragState.startX);
+  };
+
+  const stopDrag = (event: React.PointerEvent<HTMLDivElement>) => {
+    const viewport = mediaViewportRef.current;
+    const dragState = dragStateRef.current;
+
+    if (!viewport || dragState.pointerId !== event.pointerId) {
+      return;
+    }
+
+    dragStateRef.current.isDragging = false;
+
+    if (viewport.hasPointerCapture(event.pointerId)) {
+      viewport.releasePointerCapture(event.pointerId);
+    }
+
+    syncActiveMedia();
   };
 
   return (
-    <div ref={mediaRef} className="mx-auto w-full max-w-[38rem] overflow-hidden rounded-lg bg-brand-dark">
+    <div className="mx-auto w-full max-w-[38rem] overflow-hidden rounded-lg bg-brand-dark">
       <div className="flex items-center justify-between gap-3 border-b border-white/10 bg-brand-surface px-3 py-2">
         <span className="text-xs font-black uppercase text-brand-cyan">
           <LocalizedText id={mediaItems[activeIndex].labelId}>{mediaItems[activeIndex].label}</LocalizedText>
@@ -463,15 +489,21 @@ function ProjectMedia({ project }: { project: Project }) {
         ) : null}
       </div>
 
-      <div className="group/media relative aspect-[1.774] overflow-hidden bg-brand-dark">
+      <div className="relative aspect-[1.774] overflow-hidden bg-brand-dark">
         <div
-          className="flex h-full transition-transform duration-500 ease-out"
-          style={{ transform: `translateX(-${activeIndex * 100}%)` }}
+          ref={mediaViewportRef}
+          className="project-detail-media__viewport flex h-full snap-x snap-mandatory overflow-x-auto"
+          onPointerDown={startDrag}
+          onPointerLeave={stopDrag}
+          onPointerMove={moveDrag}
+          onPointerUp={stopDrag}
+          onScroll={syncActiveMedia}
         >
           {mediaItems.map((item, index) => (
             <div
               key={`${item.type}-${item.src}`}
-              className="relative grid h-full min-w-full place-items-center bg-brand-dark"
+              data-project-media-slide
+              className="relative grid h-full min-w-full snap-center place-items-center bg-brand-dark"
             >
               {item.type === "image" ? (
                 <Image
@@ -502,35 +534,22 @@ function ProjectMedia({ project }: { project: Project }) {
             </div>
           ))}
         </div>
-        {hasMultipleMedia ? (
-          <>
-            <div className="absolute left-0 top-0 grid h-full w-20 place-items-center">
-              <button
-                type="button"
-                aria-label="Media sebelumnya"
-                onClick={goToPrevious}
-                className="grid h-10 w-10 place-items-center rounded-full border border-white/15 bg-brand-dark/80 text-white opacity-0 backdrop-blur transition group-hover/media:opacity-100 hover:border-brand-cyan hover:text-brand-cyan focus:outline-none focus:ring-2 focus:ring-brand-cyan"
-              >
-                <svg aria-hidden="true" className="h-5 w-5" fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" viewBox="0 0 24 24">
-                  <path d="m15 18-6-6 6-6" />
-                </svg>
-              </button>
-            </div>
-            <div className="absolute right-0 top-0 grid h-full w-20 place-items-center">
-              <button
-                type="button"
-                aria-label="Media berikutnya"
-                onClick={goToNext}
-                className="grid h-10 w-10 place-items-center rounded-full border border-white/15 bg-brand-dark/80 text-white opacity-0 backdrop-blur transition group-hover/media:opacity-100 hover:border-brand-cyan hover:text-brand-cyan focus:outline-none focus:ring-2 focus:ring-brand-cyan"
-              >
-                <svg aria-hidden="true" className="h-5 w-5" fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" viewBox="0 0 24 24">
-                  <path d="m9 18 6-6-6-6" />
-                </svg>
-              </button>
-            </div>
-          </>
-        ) : null}
       </div>
+      {hasMultipleMedia ? (
+        <div className="flex items-center justify-center gap-2 bg-brand-dark px-3 py-3">
+          {mediaItems.map((item, index) => (
+            <button
+              key={`${item.type}-${item.src}-dot`}
+              type="button"
+              aria-label={`Tampilkan ${item.label}`}
+              aria-current={activeIndex === index ? "true" : undefined}
+              onClick={() => scrollToMedia(index)}
+              className="h-2.5 w-2.5 rounded-full border border-brand-cyan/60 bg-transparent transition hover:border-brand-lime focus:outline-none focus:ring-2 focus:ring-brand-cyan data-[active=true]:w-7 data-[active=true]:border-brand-cyan data-[active=true]:bg-brand-cyan"
+              data-active={activeIndex === index}
+            />
+          ))}
+        </div>
+      ) : null}
     </div>
   );
 }

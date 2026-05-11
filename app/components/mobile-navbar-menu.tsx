@@ -68,14 +68,14 @@ export default function MobileNavbarMenu({ links }: { links: NavLink[] }) {
               <CenteredScrollLink
                 key={link.href}
                 href={link.href}
-                activeClassName="nav-section-link--active"
+                activeClassName="mobile-nav-link--active"
                 scrollBlock="start"
                 onNavigate={() => setIsOpen(false)}
-                className="nav-section-link flex min-h-11 items-center justify-between rounded-md px-3 text-sm font-bold text-slate-300 transition hover:bg-white/[0.04] hover:text-white"
+                className="mobile-nav-link flex min-h-11 items-center gap-3 rounded-md px-3 text-sm font-bold text-slate-300 transition hover:bg-white/[0.04] hover:text-white"
               >
-                <LocalizedText id={link.textId}>{link.label}</LocalizedText>
-                <span className="text-brand-cyan" aria-hidden="true">
-                  /
+                <span className="mobile-nav-link__dot" aria-hidden="true" />
+                <span>
+                  <LocalizedText id={link.textId}>{link.label}</LocalizedText>
                 </span>
               </CenteredScrollLink>
             ))}

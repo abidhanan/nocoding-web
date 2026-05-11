@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import Image from "next/image";
 import { Inter } from "next/font/google";
 import CenteredScrollLink from "./components/centered-scroll-link";
@@ -19,8 +19,8 @@ const siteUrl = "https://nocoding.id";
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "nocoding. | Website bisnis tanpa proses berbelit",
-    template: "%s | nocoding.",
+    default: "nocoding_ | Website bisnis tanpa proses berbelit",
+    template: "%s | nocoding_",
   },
   description:
     "nocoding membantu bisnis membuat website, landing page, katalog, dan sistem operasional yang responsif, cepat, dan siap launch.",
@@ -32,24 +32,24 @@ export const metadata: Metadata = {
     "no-code",
     "digitalisasi bisnis",
   ],
-  authors: [{ name: "nocoding." }],
-  creator: "nocoding.",
-  publisher: "nocoding.",
+  authors: [{ name: "nocoding_" }],
+  creator: "nocoding_",
+  publisher: "nocoding_",
   alternates: {
     canonical: "/",
   },
   openGraph: {
-    title: "nocoding. | Website bisnis tanpa proses berbelit",
+    title: "nocoding_ | Website bisnis tanpa proses berbelit",
     description:
       "Bangun website profesional, landing page, katalog, dan sistem operasional yang siap dikembangkan.",
     url: "/",
-    siteName: "nocoding.",
+    siteName: "nocoding_",
     locale: "id_ID",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "nocoding. | Website bisnis tanpa proses berbelit",
+    title: "nocoding_ | Website bisnis tanpa proses berbelit",
     description:
       "Website bisnis siap jalan, tampak serius, dan mudah dikembangkan.",
   },
@@ -57,6 +57,11 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
+};
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
 };
 
 export default function RootLayout({
@@ -95,7 +100,7 @@ function Navbar() {
   return (
     <header className="fixed inset-x-0 top-0 z-50 border-b border-white/10 bg-brand-dark/88 backdrop-blur-xl">
       <nav aria-label="Navigasi utama" className="relative mx-auto flex h-16 w-full max-w-7xl items-center justify-between px-6">
-        <a href="#beranda" className="flex items-center gap-3 text-white" aria-label="nocoding beranda">
+        <a href="#beranda" className="flex items-center gap-3 text-white" aria-label="nocoding_ beranda">
           <span className="nocoding-logo-mark grid h-10 w-10 place-items-center">
             <Image
               src="/nocoding-logo.png"

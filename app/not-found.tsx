@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Halaman tidak ditemukan",
-  description: "Halaman yang Anda cari tidak tersedia di nocoding.",
+  description: "Halaman yang Anda cari tidak tersedia di nocoding_",
 };
 
 export default function NotFound() {
@@ -13,7 +13,7 @@ export default function NotFound() {
         <p className="text-sm font-bold uppercase text-brand-cyan">404</p>
         <h1 className="mt-4 text-4xl font-black leading-tight sm:text-5xl">Halaman tidak ditemukan.</h1>
         <p className="mt-5 max-w-2xl leading-8 text-slate-400">
-          Link yang Anda buka mungkin sudah berubah atau belum tersedia. Kembali ke beranda untuk melihat layanan nocoding.
+          Link yang Anda buka mungkin sudah berubah atau belum tersedia. Kembali ke beranda untuk melihat layanan nocoding_.
         </p>
         <Link
           href="/"

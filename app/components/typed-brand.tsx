@@ -3,7 +3,7 @@
 import { useSyncExternalStore } from "react";
 
 const mainText = "nocoding";
-const totalGlyphs = mainText.length + 1;
+const totalGlyphs = mainText.length;
 const typeDelays = [210, 145, 165, 132, 188, 142, 176, 230];
 const eraseDelays = [90, 74, 82, 66, 86, 72, 78, 110];
 
@@ -129,7 +129,6 @@ export default function TypedBrand({ className = "" }: { className?: string }) {
     <span className={`nocoding-type-word ${className}`} aria-hidden="true">
       <span className="nocoding-type-word__ghost">
         <span>{mainText}</span>
-        <span className="nocoding-type-word__mark">.</span>
         <span className="nocoding-type-word__underscore-spacer" />
       </span>
       <span className="nocoding-type-word__line">
@@ -143,13 +142,6 @@ export default function TypedBrand({ className = "" }: { className?: string }) {
             {character}
           </span>
         ))}
-        <span
-          className={`nocoding-type-word__character nocoding-type-word__mark ${
-            visibleCount > mainText.length ? "nocoding-type-word__character--visible" : ""
-          }`}
-        >
-          .
-        </span>
         <span
           className={`nocoding-type-word__underscore ${
             showUnderscore ? "nocoding-type-word__underscore--visible" : ""

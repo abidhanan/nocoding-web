@@ -11,7 +11,7 @@ export default function NotFound() {
     <main className="min-h-screen bg-brand-dark px-6 pb-20 pt-32 text-white">
       <div className="mx-auto max-w-3xl">
         <p className="text-sm font-bold uppercase text-brand-cyan">404</p>
-        <h1 className="mt-4 text-4xl font-black leading-tight sm:text-5xl">Halaman tidak ditemukan.</h1>
+        <h1 className="mt-4 text-5xl font-black leading-tight">Halaman tidak ditemukan.</h1>
         <p className="mt-5 max-w-2xl leading-8 text-slate-400">
           Link yang Anda buka mungkin sudah berubah atau belum tersedia. Kembali ke beranda untuk melihat layanan nocoding_.
         </p>

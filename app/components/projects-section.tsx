@@ -305,7 +305,7 @@ function ProjectOverlay({
             <p className="inline-flex rounded-full border border-brand-cyan/30 bg-brand-cyan/10 px-2.5 py-0.5 text-[0.7rem] font-bold text-brand-cyan">
               <LocalizedText id={project.categoryId}>{project.category}</LocalizedText>
             </p>
-            <h3 id="project-detail-title" className="mt-2 text-xl font-black leading-tight text-white sm:text-2xl">
+            <h3 id="project-detail-title" className="mt-2 text-2xl font-black leading-tight text-white">
               {project.name}
             </h3>
             <p className="mt-2 max-w-4xl text-sm leading-6 text-slate-300">

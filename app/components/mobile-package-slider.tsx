@@ -56,14 +56,14 @@ export default function MobilePackageSlider({ packages }: { packages: PackageIte
     <div className="mx-auto mt-12 w-full max-w-[21.5rem] lg:hidden">
       <div
         ref={viewportRef}
-        className="package-slider__viewport flex snap-x snap-mandatory gap-4 overflow-x-auto px-[9%] pb-2 scroll-px-[9%]"
+        className="package-slider__viewport -mx-6 flex snap-x snap-mandatory gap-4 overflow-x-auto px-6 pb-2 scroll-px-6"
         onScroll={syncActiveSlide}
       >
         {packages.map((item, packageIndex) => (
           <article
             key={item.name}
             data-package-slide
-            className={`min-h-full w-[82%] shrink-0 snap-center rounded-lg border p-6 ${
+            className={`min-h-full w-full shrink-0 snap-center rounded-lg border p-6 ${
               item.featured
                 ? "border-brand-lime bg-brand-lime text-brand-dark"
                 : "border-white/10 bg-brand-dark text-slate-200"

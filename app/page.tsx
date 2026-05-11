@@ -201,10 +201,10 @@ function Hero() {
             <span className="h-2 w-2 bg-brand-lime" aria-hidden="true" />
             <LocalizedText id="hero.eyebrow">Studio website no-code dan custom system</LocalizedText>
           </p>
-          <h1 aria-label="nocoding_" className="text-6xl font-black leading-[0.95] text-white lg:text-7xl">
+          <h1 aria-label="nocoding_" className="text-7xl font-black leading-[0.95] text-white">
             <TypedBrand />
           </h1>
-          <p className="mt-7 max-w-2xl text-lg leading-8 text-slate-300 sm:text-xl">
+          <p className="mt-7 max-w-2xl text-xl leading-8 text-slate-300">
             <LocalizedText id="hero.description">
               Website bisnis siap jalan, tampak serius, dan mudah dikembangkan.
               Kami bantu dari strategi halaman, desain, konten, sampai launch.
@@ -539,7 +539,7 @@ function Footer() {
           </div>
 
           <div className="flex flex-col items-center md:items-end md:text-right">
-            <p className="flex h-9 items-center text-xs font-black uppercase tracking-[0.22em] text-brand-cyan sm:tracking-[0.32em]">
+            <p className="flex h-9 items-center text-xs font-black uppercase tracking-[0.32em] text-brand-cyan">
               <LocalizedText id="footer.connect">Mari Terhubung</LocalizedText>
             </p>
             <div className="mt-3 flex justify-center md:justify-end">

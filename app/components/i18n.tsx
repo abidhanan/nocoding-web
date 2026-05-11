@@ -115,7 +115,7 @@ const englishText: Record<string, string> = {
   "footer.tagline": "Business websites ready to launch, look serious, and are easy to grow.",
   "footer.contact": "Contact",
   "footer.connect": "Let's Connect",
-  "footer.copyright": "(c) 2026 nocoding_ All rights reserved.",
+  "footer.copyright": "(c) 2026 Nocoding - All rights reserved.",
   "project.category.ecoswap": "Used goods marketplace website",
   "project.description.ecoswap":
     "A pre-loved marketplace that helps users sell and buy used goods with a modern look, clear brand message, and responsive experience.",

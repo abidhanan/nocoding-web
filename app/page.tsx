@@ -160,7 +160,7 @@ const contactEmailHref = `https://mail.google.com/mail/?view=cm&fs=1&to=${contac
 const socialLinks = [
   {
     name: "Instagram",
-    href: "https://www.instagram.com/nocoding._?igsh=MTBtdWZsN2doODVtYw==",
+    href: "https://www.instagram.com/nocoding_id?igsh=MTBtdWZsN2doODVtYw==",
     icon: "instagram",
   },
   {

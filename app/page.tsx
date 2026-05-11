@@ -204,7 +204,7 @@ function Hero() {
           <h1 aria-label="nocoding_" className="text-6xl font-black leading-[0.95] text-white lg:text-7xl">
             <TypedBrand />
           </h1>
-          <p className="mt-7 max-w-2xl text-xl leading-8 text-slate-300">
+          <p className="mt-7 max-w-2xl text-lg leading-8 text-slate-300 sm:text-xl">
             <LocalizedText id="hero.description">
               Website bisnis siap jalan, tampak serius, dan mudah dikembangkan.
               Kami bantu dari strategi halaman, desain, konten, sampai launch.
@@ -222,7 +222,7 @@ function Hero() {
             </CenteredScrollLink>
             <CenteredScrollLink
               href="#layanan"
-              scrollBlock="center"
+              scrollBlock="start"
               className="inline-flex min-h-12 w-full items-center justify-center gap-2 rounded-full border border-white/20 px-6 py-3 text-sm font-bold text-white transition hover:border-brand-cyan hover:text-brand-cyan focus:outline-none focus:ring-2 focus:ring-brand-cyan focus:ring-offset-2 focus:ring-offset-brand-dark sm:w-auto"
             >
               <LocalizedText id="hero.cta.services">Lihat layanan</LocalizedText>

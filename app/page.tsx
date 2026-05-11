@@ -550,7 +550,7 @@ function Footer() {
 
         <div className="mt-7 border-t border-white/10 pt-4 text-center text-[0.72rem] text-slate-500">
           <p>
-            <LocalizedText id="footer.copyright">&copy; 2026 nocoding_ Semua hak cipta dilindungi.</LocalizedText>
+            <LocalizedText id="footer.copyright">&copy; 2026 Nocoding - Semua hak cipta dilindungi.</LocalizedText>
           </p>
         </div>
       </div>

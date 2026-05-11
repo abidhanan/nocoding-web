@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { useEffect, useRef, useState } from "react";
 import { createPortal } from "react-dom";
+import CenteredScrollLink from "./centered-scroll-link";
 import { LocalizedText, useLocalizedText } from "./i18n";
 
 type Project = {
@@ -324,13 +325,14 @@ function ProjectOverlay({
             </div>
 
             <div className="mt-3 flex justify-end">
-              <a
+              <CenteredScrollLink
                 href="#kontak"
-                onClick={onClose}
+                onNavigate={onClose}
+                scrollBlock="start"
                 className="inline-flex min-h-9 items-center justify-center rounded-full bg-brand-cyan px-4 py-2 text-xs font-bold text-brand-dark transition hover:bg-brand-lime focus:outline-none focus:ring-2 focus:ring-brand-lime focus:ring-offset-2 focus:ring-offset-brand-night"
               >
                 <LocalizedText id="project.consult">Konsultasi project serupa</LocalizedText>
-              </a>
+              </CenteredScrollLink>
             </div>
           </div>
         </div>

@@ -1,18 +1,24 @@
 "use client";
 
-import type { MouseEvent, ReactNode } from "react";
+import type { AnchorHTMLAttributes, MouseEvent, ReactNode } from "react";
 import { useEffect, useState } from "react";
 
-type CenteredScrollLinkProps = {
+type CenteredScrollLinkProps = Omit<
+  AnchorHTMLAttributes<HTMLAnchorElement>,
+  "children" | "href" | "onClick"
+> & {
   activeClassName?: string;
   children: ReactNode;
-  className?: string;
   href: string;
   onNavigate?: () => void;
   scrollBlock?: "start" | "center";
 };
 
 const navbarHeight = 64;
+
+function cleanCurrentUrl() {
+  return `${window.location.pathname}${window.location.search}`;
+}
 
 export default function CenteredScrollLink({
   activeClassName = "",
@@ -21,6 +27,7 @@ export default function CenteredScrollLink({
   href,
   onNavigate,
   scrollBlock = "center",
+  ...anchorProps
 }: CenteredScrollLinkProps) {
   const [isActive, setIsActive] = useState(false);
 
@@ -86,7 +93,7 @@ export default function CenteredScrollLink({
         ? targetTop + rect.height / 2 - (window.innerHeight + navbarHeight) / 2
         : targetTop - navbarHeight;
 
-    window.history.pushState(null, "", href);
+    window.history.replaceState(null, "", cleanCurrentUrl());
     window.scrollTo({
       top: Math.max(0, nextScroll),
       behavior: "smooth",
@@ -96,6 +103,7 @@ export default function CenteredScrollLink({
 
   return (
     <a
+      {...anchorProps}
       href={href}
       aria-current={isActive ? "page" : undefined}
       className={`${className}${isActive && activeClassName ? ` ${activeClassName}` : ""}`}

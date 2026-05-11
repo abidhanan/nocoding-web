@@ -504,7 +504,12 @@ function Footer() {
       <div className="mx-auto w-full max-w-[21.5rem] sm:max-w-7xl">
         <div className="grid gap-6 text-center md:grid-cols-3 md:items-start md:text-left">
           <div className="flex flex-col items-center md:items-start">
-            <a href="#konten" className="inline-flex h-9 items-center gap-2.5 text-white" aria-label="nocoding_ beranda">
+            <CenteredScrollLink
+              href="#beranda"
+              scrollBlock="start"
+              className="inline-flex h-9 items-center gap-2.5 text-white"
+              aria-label="nocoding_ beranda"
+            >
               <span className="nocoding-logo-mark grid h-9 w-9 place-items-center">
                 <Image
                   src="/nocoding-logo.png"
@@ -517,7 +522,7 @@ function Footer() {
               <span className="flex h-9 -translate-y-0.5 items-center text-lg font-black leading-none">
                 <TypedBrand />
               </span>
-            </a>
+            </CenteredScrollLink>
             <p className="mt-3 max-w-[17rem] leading-6 text-slate-500">
               <LocalizedText id="footer.tagline">Website bisnis siap jalan, tampak serius, dan mudah dikembangkan.</LocalizedText>
             </p>

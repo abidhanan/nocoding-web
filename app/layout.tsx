@@ -19,8 +19,8 @@ const siteUrl = "https://nocoding.id";
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "nocoding_ | Website bisnis tanpa proses berbelit",
-    template: "%s | nocoding_",
+    default: "Nocoding",
+    template: "%s | Nocoding",
   },
   description:
     "nocoding membantu bisnis membuat website, landing page, katalog, dan sistem operasional yang responsif, cepat, dan siap launch.",
@@ -38,8 +38,13 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "/",
   },
+  icons: {
+    icon: "/nocoding-logo.png",
+    shortcut: "/nocoding-logo.png",
+    apple: "/nocoding-logo.png",
+  },
   openGraph: {
-    title: "nocoding_ | Website bisnis tanpa proses berbelit",
+    title: "Nocoding",
     description:
       "Bangun website profesional, landing page, katalog, dan sistem operasional yang siap dikembangkan.",
     url: "/",
@@ -49,7 +54,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "nocoding_ | Website bisnis tanpa proses berbelit",
+    title: "Nocoding",
     description:
       "Website bisnis siap jalan, tampak serius, dan mudah dikembangkan.",
   },

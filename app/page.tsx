@@ -195,23 +195,23 @@ function Hero() {
       <div aria-hidden="true" className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-brand-cyan to-transparent opacity-80" />
       <HeroScene />
 
-      <div className="relative mx-0 flex w-full max-w-7xl flex-col items-start sm:mx-auto">
+      <div className="relative mx-auto flex w-full max-w-7xl flex-col items-center text-center lg:items-start lg:text-left">
         <div className="w-full max-w-[21.5rem] sm:max-w-3xl">
           <p className="mb-5 inline-flex items-center gap-2 border border-white/15 bg-white/5 px-3 py-1.5 text-sm font-medium text-slate-200 backdrop-blur">
             <span className="h-2 w-2 bg-brand-lime" aria-hidden="true" />
             <LocalizedText id="hero.eyebrow">Studio website no-code dan custom system</LocalizedText>
           </p>
-          <h1 aria-label="nocoding_" className="text-5xl font-black leading-[0.95] text-white sm:text-6xl lg:text-7xl">
+          <h1 aria-label="nocoding_" className="text-6xl font-black leading-[0.95] text-white lg:text-7xl">
             <TypedBrand />
           </h1>
-          <p className="mt-7 max-w-2xl text-lg leading-8 text-slate-300 sm:text-xl">
+          <p className="mt-7 max-w-2xl text-xl leading-8 text-slate-300">
             <LocalizedText id="hero.description">
               Website bisnis siap jalan, tampak serius, dan mudah dikembangkan.
               Kami bantu dari strategi halaman, desain, konten, sampai launch.
             </LocalizedText>
           </p>
 
-          <div className="mt-9 flex w-full max-w-[21.5rem] flex-col gap-3 sm:max-w-none sm:flex-row">
+          <div className="mt-9 flex w-full max-w-[21.5rem] flex-col gap-3 sm:max-w-none sm:flex-row sm:justify-center lg:justify-start">
             <CenteredScrollLink
               href="#kontak"
               scrollBlock="start"
@@ -298,7 +298,7 @@ function ServicesSection() {
         descriptionId="services.description"
       />
 
-      <div className="mx-0 mt-12 grid w-full max-w-[21.5rem] gap-4 sm:mx-auto sm:max-w-7xl md:grid-cols-3">
+      <div className="mx-auto mt-12 grid w-full max-w-[21.5rem] gap-4 sm:max-w-7xl md:grid-cols-3">
         {services.map((service, serviceIndex) => (
           <article key={service.title} className="rounded-lg border border-white/10 bg-white/[0.03] p-6 transition hover:border-brand-cyan/60 hover:bg-white/[0.05]">
             <div className="mb-6 grid h-11 w-11 place-items-center bg-brand-cyan/10 text-brand-cyan">
@@ -335,7 +335,7 @@ function ProcessSection() {
         descriptionId="process.description"
       />
 
-      <div className="process-mobile-timeline mx-0 mt-12 grid w-full max-w-[21.5rem] gap-4 sm:mx-auto sm:max-w-7xl lg:grid-cols-4">
+      <div className="process-mobile-timeline mx-auto mt-12 grid w-full max-w-[21.5rem] gap-4 sm:max-w-7xl lg:grid-cols-4">
         {process.map((step, index) => (
           <article key={step.title} className="process-timeline-card rounded-lg border border-white/10 bg-brand-dark p-6">
             <div className="flex items-center justify-between">
@@ -369,7 +369,7 @@ function PackagesSection() {
 
       <MobilePackageSlider packages={packages} />
 
-      <div className="mx-0 mt-12 hidden w-full max-w-[21.5rem] gap-4 sm:mx-auto sm:max-w-7xl lg:grid lg:grid-cols-3">
+      <div className="mx-auto mt-12 hidden w-full max-w-[21.5rem] gap-4 sm:max-w-7xl lg:grid lg:grid-cols-3">
         {packages.map((item, packageIndex) => (
           <article
             key={item.name}
@@ -417,12 +417,12 @@ function PackagesSection() {
 function FaqSection() {
   return (
     <section id="faq" className="flex min-h-[calc(100svh-4rem)] items-center bg-brand-dark px-6 py-16">
-      <div className="mx-0 grid w-full max-w-[21.5rem] gap-10 sm:mx-auto sm:max-w-7xl lg:grid-cols-[0.8fr_1.2fr] lg:items-center">
-        <div>
+      <div className="mx-auto grid w-full max-w-[21.5rem] gap-10 sm:max-w-7xl lg:grid-cols-[0.8fr_1.2fr] lg:items-center">
+        <div className="text-center lg:text-left">
           <p className="text-sm font-bold uppercase text-brand-cyan">
             <LocalizedText id="faq.eyebrow">FAQ</LocalizedText>
           </p>
-          <h2 className="mt-4 text-3xl font-black leading-tight text-white sm:text-4xl">
+          <h2 className="mt-4 text-4xl font-black leading-tight text-white">
             <LocalizedText id="faq.title">Pertanyaan yang biasanya muncul sebelum mulai.</LocalizedText>
           </h2>
           <p className="mt-5 leading-8 text-slate-400">
@@ -456,12 +456,12 @@ function ContactSection() {
   return (
     <section id="kontak" className="flex min-h-[calc(100svh-4rem)] flex-col border-y border-white/10 bg-brand-dark text-brand-dark">
       <div className="flex flex-1 items-center bg-white px-6 py-12">
-        <div className="mx-0 grid w-full max-w-[21.5rem] gap-6 sm:mx-auto sm:max-w-7xl lg:grid-cols-[1fr_0.9fr] lg:items-center">
+        <div className="mx-auto grid w-full max-w-[21.5rem] gap-6 text-center sm:max-w-7xl lg:grid-cols-[1fr_0.9fr] lg:items-center lg:text-left">
           <div>
             <p className="text-sm font-black uppercase text-brand-blue">
               <LocalizedText id="contact.eyebrow">Mulai proyek</LocalizedText>
             </p>
-            <h2 className="mt-4 text-3xl font-black leading-tight sm:text-4xl">
+            <h2 className="mt-4 text-4xl font-black leading-tight">
               <LocalizedText id="contact.title">Ceritakan kebutuhan website Anda. Kami bantu rapikan jalannya.</LocalizedText>
             </h2>
           </div>
@@ -471,7 +471,7 @@ function ContactSection() {
                 Kirim gambaran singkat tentang bisnis, target halaman, dan timeline yang diinginkan. Balasan awal akan berisi rekomendasi scope dan langkah berikutnya.
               </LocalizedText>
             </p>
-            <div className="flex flex-col gap-3 sm:flex-row">
+            <div className="flex flex-col gap-3 sm:flex-row sm:justify-center lg:justify-start">
               <a
                 href={contactEmailHref}
                 target="_blank"
@@ -501,9 +501,9 @@ function ContactSection() {
 function Footer() {
   return (
     <footer className="border-t border-white/10 bg-brand-dark px-6 py-7 text-xs text-slate-400">
-      <div className="mx-0 w-full max-w-[21.5rem] sm:mx-auto sm:max-w-7xl">
-        <div className="grid gap-6 md:grid-cols-3 md:items-start">
-          <div className="flex flex-col items-start">
+      <div className="mx-auto w-full max-w-[21.5rem] sm:max-w-7xl">
+        <div className="grid gap-6 text-center md:grid-cols-3 md:items-start md:text-left">
+          <div className="flex flex-col items-center md:items-start">
             <a href="#konten" className="inline-flex h-9 items-center gap-2.5 text-white" aria-label="nocoding_ beranda">
               <span className="nocoding-logo-mark grid h-9 w-9 place-items-center">
                 <Image
@@ -523,7 +523,7 @@ function Footer() {
             </p>
           </div>
 
-          <div className="flex flex-col items-start md:items-center md:text-center">
+          <div className="flex flex-col items-center md:text-center">
             <p className="flex h-9 items-center text-xs font-black uppercase tracking-[0.32em] text-brand-cyan">
               <LocalizedText id="footer.contact">Kontak</LocalizedText>
             </p>
@@ -538,11 +538,11 @@ function Footer() {
             </a>
           </div>
 
-          <div className="flex flex-col items-start md:items-end md:text-right">
+          <div className="flex flex-col items-center md:items-end md:text-right">
             <p className="flex h-9 items-center text-xs font-black uppercase tracking-[0.22em] text-brand-cyan sm:tracking-[0.32em]">
               <LocalizedText id="footer.connect">Mari Terhubung</LocalizedText>
             </p>
-            <div className="mt-3 flex md:justify-end">
+            <div className="mt-3 flex justify-center md:justify-end">
               <SocialLinks tone="light" />
             </div>
           </div>
@@ -594,7 +594,7 @@ function SectionHeader({
   descriptionId: string;
 }) {
   return (
-    <div className="mx-0 w-full max-w-[21.5rem] text-center sm:mx-auto sm:max-w-3xl">
+    <div className="mx-auto w-full max-w-[21.5rem] text-center sm:max-w-3xl">
       <p className="text-sm font-bold uppercase text-brand-cyan">
         <LocalizedText id={eyebrowId}>{eyebrow}</LocalizedText>
       </p>

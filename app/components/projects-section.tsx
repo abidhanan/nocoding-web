@@ -292,7 +292,7 @@ function ProjectOverlay({
         role="dialog"
         aria-modal="true"
         aria-labelledby="project-detail-title"
-        className="relative my-auto w-full max-w-3xl rounded-lg border border-white/10 bg-brand-night p-2.5 shadow-2xl shadow-black/50 sm:max-h-[calc(100svh-1rem)] sm:overflow-hidden sm:p-3"
+        className="relative my-auto w-full max-w-3xl rounded-lg border border-white/10 bg-brand-night p-2.5 pb-5 shadow-2xl shadow-black/50 sm:max-h-[calc(100svh-1rem)] sm:overflow-hidden sm:p-3 sm:pb-5"
       >
         <div className="mb-2 flex items-center justify-between gap-4">
           <span className="text-[0.68rem] font-black uppercase text-slate-500">
@@ -333,7 +333,7 @@ function ProjectOverlay({
               ))}
             </div>
 
-            <div className="mt-3 flex justify-end">
+            <div className="mt-3 flex justify-end pb-1 sm:pb-2">
               <a
                 href={createProjectConsultHref(project.name)}
                 target="_blank"

@@ -85,27 +85,43 @@ const process = [
   icon: IconName;
 }>;
 
+const contactEmail = "nocodingindonesia@gmail.com";
+const contactEmailHref = `https://mail.google.com/mail/?view=cm&fs=1&to=${contactEmail}&su=Konsultasi%20Website%20nocoding`;
+
+function createPackageEmailHref(packageName: string) {
+  const subject = encodeURIComponent(`Pilih Paket ${packageName} - Nocoding`);
+  const body = encodeURIComponent(
+    `Halo Nocoding,\n\nSaya tertarik memilih paket ${packageName}. Mohon info langkah berikutnya.\n\nTerima kasih.`,
+  );
+
+  return `https://mail.google.com/mail/?view=cm&fs=1&to=${contactEmail}&su=${subject}&body=${body}`;
+}
+
 const packages = [
   {
     name: "Starter",
     price: "Mulai Rp2,5 jt",
     description: "Untuk bisnis yang butuh halaman profesional cepat tayang.",
+    selectionHref: createPackageEmailHref("Starter"),
     features: [
       "1 landing page responsif",
       "Copywriting struktur utama",
       "SEO teknis dasar",
       "Form kontak via email",
+      "Gratis biaya maintenance + hosting selama 1 tahun",
     ],
   },
   {
     name: "Growth",
     price: "Mulai Rp7,5 jt",
     description: "Untuk brand yang butuh beberapa halaman dan alur konversi matang.",
+    selectionHref: createPackageEmailHref("Growth"),
     features: [
       "Hingga 5 halaman inti",
       "Desain komponen khusus",
       "Integrasi analytics",
       "Dokumentasi update konten",
+      "Gratis biaya maintenance + hosting selama 1 tahun",
     ],
     featured: true,
   },
@@ -113,17 +129,20 @@ const packages = [
     name: "System",
     price: "By scope",
     description: "Untuk workflow internal, portal, katalog, atau dashboard bisnis.",
+    selectionHref: createPackageEmailHref("System"),
     features: [
       "Mapping proses bisnis",
       "Dashboard atau portal",
       "Role dan akses pengguna",
       "Roadmap iterasi fitur",
+      "Gratis biaya maintenance + hosting selama 1 tahun",
     ],
   },
 ] satisfies Array<{
   name: string;
   price: string;
   description: string;
+  selectionHref: string;
   features: string[];
   featured?: boolean;
 }>;
@@ -153,9 +172,6 @@ const faqs = [
   question: string;
   answer: string;
 }>;
-
-const contactEmail = "nocodingindonesia@gmail.com";
-const contactEmailHref = `https://mail.google.com/mail/?view=cm&fs=1&to=${contactEmail}&su=Konsultasi%20Website%20nocoding`;
 
 const socialLinks = [
   {
@@ -373,7 +389,7 @@ function PackagesSection() {
         {packages.map((item, packageIndex) => (
           <article
             key={item.name}
-            className={`rounded-lg border p-6 ${
+            className={`flex h-full flex-col rounded-lg border p-6 ${
               item.featured
                 ? "border-brand-lime bg-brand-lime text-brand-dark"
                 : "border-white/10 bg-brand-dark text-slate-200"
@@ -397,7 +413,7 @@ function PackagesSection() {
               <LocalizedText id={`packages.${packageIndex}.price`}>{item.price}</LocalizedText>
             </p>
 
-            <ul className="mt-8 space-y-3">
+            <ul className="mt-8 grow space-y-3">
               {item.features.map((feature, featureIndex) => (
                 <li key={feature} className="flex gap-3 text-sm font-medium">
                   <Icon name="check" className={`mt-0.5 h-4 w-4 ${item.featured ? "text-brand-dark" : "text-brand-lime"}`} />
@@ -407,6 +423,20 @@ function PackagesSection() {
                 </li>
               ))}
             </ul>
+
+            <a
+              href={item.selectionHref}
+              target="_blank"
+              rel="noreferrer"
+              className={`mt-8 inline-flex min-h-11 items-center justify-center gap-2 rounded-full px-5 py-3 text-sm font-black transition focus:outline-none focus:ring-2 focus:ring-offset-2 ${
+                item.featured
+                  ? "bg-brand-dark text-white hover:bg-brand-blue focus:ring-brand-dark focus:ring-offset-brand-lime"
+                  : "bg-brand-cyan text-brand-dark hover:bg-brand-lime focus:ring-brand-cyan focus:ring-offset-brand-dark"
+              }`}
+            >
+              <LocalizedText id="packages.select">Pilih</LocalizedText>
+              <Icon name="arrow" className="h-4 w-4" />
+            </a>
           </article>
         ))}
       </div>

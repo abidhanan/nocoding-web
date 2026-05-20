@@ -7,6 +7,7 @@ type PackageItem = {
   name: string;
   price: string;
   description: string;
+  selectionHref: string;
   features: string[];
   featured?: boolean;
 };
@@ -63,7 +64,7 @@ export default function MobilePackageSlider({ packages }: { packages: PackageIte
           <article
             key={item.name}
             data-package-slide
-            className={`min-h-full w-full shrink-0 snap-center rounded-lg border p-6 ${
+            className={`flex min-h-full w-full shrink-0 snap-center flex-col rounded-lg border p-6 ${
               item.featured
                 ? "border-brand-lime bg-brand-lime text-brand-dark"
                 : "border-white/10 bg-brand-dark text-slate-200"
@@ -87,7 +88,7 @@ export default function MobilePackageSlider({ packages }: { packages: PackageIte
               <LocalizedText id={`packages.${packageIndex}.price`}>{item.price}</LocalizedText>
             </p>
 
-            <ul className="mt-8 space-y-3">
+            <ul className="mt-8 grow space-y-3">
               {item.features.map((feature, featureIndex) => (
                 <li key={feature} className="flex gap-3 text-sm font-medium">
                   <svg
@@ -108,6 +109,32 @@ export default function MobilePackageSlider({ packages }: { packages: PackageIte
                 </li>
               ))}
             </ul>
+
+            <a
+              href={item.selectionHref}
+              target="_blank"
+              rel="noreferrer"
+              className={`mt-8 inline-flex min-h-11 items-center justify-center gap-2 rounded-full px-5 py-3 text-sm font-black transition focus:outline-none focus:ring-2 focus:ring-offset-2 ${
+                item.featured
+                  ? "bg-brand-dark text-white hover:bg-brand-blue focus:ring-brand-dark focus:ring-offset-brand-lime"
+                  : "bg-brand-cyan text-brand-dark hover:bg-brand-lime focus:ring-brand-cyan focus:ring-offset-brand-dark"
+              }`}
+            >
+              <LocalizedText id="packages.select">Pilih</LocalizedText>
+              <svg
+                aria-hidden="true"
+                className="h-4 w-4"
+                fill="none"
+                stroke="currentColor"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
+                viewBox="0 0 24 24"
+              >
+                <path d="M5 12h14" />
+                <path d="m13 6 6 6-6 6" />
+              </svg>
+            </a>
           </article>
         ))}
       </div>

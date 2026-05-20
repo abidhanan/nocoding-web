@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, type PointerEvent as ReactPointerEvent } from "react";
 import { createPortal } from "react-dom";
 import CenteredScrollLink from "./centered-scroll-link";
 import { LocalizedText, useLocalizedText } from "./i18n";
@@ -117,6 +117,126 @@ const marqueeProjects = Array.from({ length: 4 }, () => projects).flat();
 
 export default function ProjectsSection() {
   const [selectedProject, setSelectedProject] = useState<Project | null>(null);
+  const marqueeRef = useRef<HTMLDivElement>(null);
+  const marqueeDragStateRef = useRef({
+    isDragging: false,
+    pointerId: 0,
+    scrollLeft: 0,
+    startX: 0,
+    wasDragged: false,
+  });
+  const marqueePausedRef = useRef(false);
+  const suppressProjectClickRef = useRef(false);
+
+  const normalizeMarqueeScroll = () => {
+    const marquee = marqueeRef.current;
+
+    if (!marquee) {
+      return;
+    }
+
+    const loopWidth = marquee.scrollWidth / 2;
+
+    if (loopWidth <= 0) {
+      return;
+    }
+
+    if (marquee.scrollLeft >= loopWidth) {
+      marquee.scrollLeft -= loopWidth;
+    }
+  };
+
+  useEffect(() => {
+    const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+
+    if (reducedMotion.matches) {
+      return undefined;
+    }
+
+    let animationFrame = 0;
+    let previousTimestamp = performance.now();
+    const speed = 34;
+
+    const tick = (timestamp: number) => {
+      const marquee = marqueeRef.current;
+      const delta = timestamp - previousTimestamp;
+
+      previousTimestamp = timestamp;
+
+      if (
+        marquee &&
+        !marqueeDragStateRef.current.isDragging &&
+        !marqueePausedRef.current
+      ) {
+        marquee.scrollLeft += (delta / 1000) * speed;
+        normalizeMarqueeScroll();
+      }
+
+      animationFrame = window.requestAnimationFrame(tick);
+    };
+
+    animationFrame = window.requestAnimationFrame(tick);
+
+    return () => window.cancelAnimationFrame(animationFrame);
+  }, []);
+
+  const startMarqueeDrag = (event: ReactPointerEvent<HTMLDivElement>) => {
+    const marquee = marqueeRef.current;
+
+    if (!marquee || (event.pointerType === "mouse" && event.button !== 0)) {
+      return;
+    }
+
+    marqueeDragStateRef.current = {
+      isDragging: true,
+      pointerId: event.pointerId,
+      scrollLeft: marquee.scrollLeft,
+      startX: event.clientX,
+      wasDragged: false,
+    };
+    marquee.setPointerCapture(event.pointerId);
+  };
+
+  const moveMarqueeDrag = (event: ReactPointerEvent<HTMLDivElement>) => {
+    const marquee = marqueeRef.current;
+    const dragState = marqueeDragStateRef.current;
+
+    if (!marquee || !dragState.isDragging || dragState.pointerId !== event.pointerId) {
+      return;
+    }
+
+    const dragDistance = event.clientX - dragState.startX;
+
+    if (Math.abs(dragDistance) > 4) {
+      dragState.wasDragged = true;
+      suppressProjectClickRef.current = true;
+      event.preventDefault();
+    }
+
+    marquee.scrollLeft = dragState.scrollLeft - dragDistance;
+    normalizeMarqueeScroll();
+  };
+
+  const stopMarqueeDrag = (event: ReactPointerEvent<HTMLDivElement>) => {
+    const marquee = marqueeRef.current;
+    const dragState = marqueeDragStateRef.current;
+
+    if (!marquee || !dragState.isDragging || dragState.pointerId !== event.pointerId) {
+      return;
+    }
+
+    dragState.isDragging = false;
+
+    if (marquee.hasPointerCapture(event.pointerId)) {
+      marquee.releasePointerCapture(event.pointerId);
+    }
+
+    if (dragState.wasDragged) {
+      window.setTimeout(() => {
+        suppressProjectClickRef.current = false;
+      }, 220);
+    }
+  };
 
   useEffect(() => {
     if (!selectedProject) {
@@ -169,7 +289,28 @@ export default function ProjectsSection() {
           </p>
         </div>
 
-        <div className="project-marquee mt-8" aria-label="Daftar project sebelumnya yang bergerak dari kanan ke kiri">
+        <div
+          ref={marqueeRef}
+          className="project-marquee mt-8"
+          aria-label="Daftar project sebelumnya yang bergerak dari kanan ke kiri"
+          onBlurCapture={() => {
+            marqueePausedRef.current = false;
+          }}
+          onFocusCapture={() => {
+            marqueePausedRef.current = true;
+          }}
+          onMouseEnter={() => {
+            marqueePausedRef.current = true;
+          }}
+          onMouseLeave={() => {
+            marqueePausedRef.current = false;
+          }}
+          onPointerCancel={stopMarqueeDrag}
+          onPointerDown={startMarqueeDrag}
+          onPointerLeave={stopMarqueeDrag}
+          onPointerMove={moveMarqueeDrag}
+          onPointerUp={stopMarqueeDrag}
+        >
           <div className="project-marquee__track">
             {[0, 1].map((groupIndex) => (
               <div
@@ -181,6 +322,7 @@ export default function ProjectsSection() {
                   <ProjectCard
                     key={`${project.name}-${groupIndex}-${projectIndex}`}
                     isDuplicate={groupIndex === 1 || projectIndex >= projects.length}
+                    shouldSuppressClick={() => suppressProjectClickRef.current}
                     project={project}
                     onSelect={setSelectedProject}
                   />
@@ -202,10 +344,12 @@ function ProjectCard({
   isDuplicate,
   onSelect,
   project,
+  shouldSuppressClick,
 }: {
   isDuplicate: boolean;
   onSelect: (project: Project) => void;
   project: Project;
+  shouldSuppressClick: () => boolean;
 }) {
   const viewDetailLabel = useLocalizedText("project.view", "Lihat detail");
 
@@ -218,6 +362,11 @@ function ProjectCard({
         onClick={(event) => {
           event.preventDefault();
           event.stopPropagation();
+
+          if (shouldSuppressClick()) {
+            return;
+          }
+
           onSelect(project);
         }}
         className="group flex h-full w-full flex-col rounded-lg border border-white/10 bg-brand-dark p-4 text-left shadow-[0_18px_45px_rgba(0,0,0,0.24)] transition hover:-translate-y-1 hover:border-brand-cyan/60 hover:bg-brand-surface focus:outline-none focus:ring-2 focus:ring-brand-cyan focus:ring-offset-2 focus:ring-offset-brand-night"

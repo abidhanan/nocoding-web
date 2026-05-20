@@ -3,7 +3,6 @@
 import Image from "next/image";
 import { useEffect, useRef, useState, type PointerEvent as ReactPointerEvent } from "react";
 import { createPortal } from "react-dom";
-import CenteredScrollLink from "./centered-scroll-link";
 import { LocalizedText, useLocalizedText } from "./i18n";
 
 type Project = {
@@ -114,6 +113,16 @@ const projects = [
 ] satisfies Project[];
 
 const marqueeProjects = Array.from({ length: 4 }, () => projects).flat();
+const contactEmail = "nocodingindonesia@gmail.com";
+
+function createProjectConsultHref(projectName: string) {
+  const subject = encodeURIComponent(`Konsultasi Project Serupa - ${projectName}`);
+  const body = encodeURIComponent(
+    `Halo Nocoding,\n\nSaya tertarik konsultasi project serupa dengan ${projectName}. Mohon info langkah berikutnya.\n\nTerima kasih.`,
+  );
+
+  return `https://mail.google.com/mail/?view=cm&fs=1&to=${contactEmail}&su=${subject}&body=${body}`;
+}
 
 export default function ProjectsSection() {
   const [selectedProject, setSelectedProject] = useState<Project | null>(null);
@@ -125,7 +134,6 @@ export default function ProjectsSection() {
     startX: 0,
     wasDragged: false,
   });
-  const marqueePausedRef = useRef(false);
   const suppressProjectClickRef = useRef(false);
 
   const normalizeMarqueeScroll = () => {
@@ -143,6 +151,8 @@ export default function ProjectsSection() {
 
     if (marquee.scrollLeft >= loopWidth) {
       marquee.scrollLeft -= loopWidth;
+    } else if (marquee.scrollLeft <= 0) {
+      marquee.scrollLeft += loopWidth;
     }
   };
 
@@ -165,8 +175,7 @@ export default function ProjectsSection() {
 
       if (
         marquee &&
-        !marqueeDragStateRef.current.isDragging &&
-        !marqueePausedRef.current
+        !marqueeDragStateRef.current.isDragging
       ) {
         marquee.scrollLeft += (delta / 1000) * speed;
         normalizeMarqueeScroll();
@@ -194,7 +203,6 @@ export default function ProjectsSection() {
       startX: event.clientX,
       wasDragged: false,
     };
-    marquee.setPointerCapture(event.pointerId);
   };
 
   const moveMarqueeDrag = (event: ReactPointerEvent<HTMLDivElement>) => {
@@ -226,10 +234,6 @@ export default function ProjectsSection() {
     }
 
     dragState.isDragging = false;
-
-    if (marquee.hasPointerCapture(event.pointerId)) {
-      marquee.releasePointerCapture(event.pointerId);
-    }
 
     if (dragState.wasDragged) {
       window.setTimeout(() => {
@@ -293,18 +297,6 @@ export default function ProjectsSection() {
           ref={marqueeRef}
           className="project-marquee mt-8"
           aria-label="Daftar project sebelumnya yang bergerak dari kanan ke kiri"
-          onBlurCapture={() => {
-            marqueePausedRef.current = false;
-          }}
-          onFocusCapture={() => {
-            marqueePausedRef.current = true;
-          }}
-          onMouseEnter={() => {
-            marqueePausedRef.current = true;
-          }}
-          onMouseLeave={() => {
-            marqueePausedRef.current = false;
-          }}
           onPointerCancel={stopMarqueeDrag}
           onPointerDown={startMarqueeDrag}
           onPointerLeave={stopMarqueeDrag}
@@ -369,7 +361,7 @@ function ProjectCard({
 
           onSelect(project);
         }}
-        className="group flex h-full w-full flex-col rounded-lg border border-white/10 bg-brand-dark p-4 text-left shadow-[0_18px_45px_rgba(0,0,0,0.24)] transition hover:-translate-y-1 hover:border-brand-cyan/60 hover:bg-brand-surface focus:outline-none focus:ring-2 focus:ring-brand-cyan focus:ring-offset-2 focus:ring-offset-brand-night"
+        className="group flex h-full w-full cursor-pointer flex-col rounded-lg border border-white/10 bg-brand-dark p-4 text-left shadow-[0_18px_45px_rgba(0,0,0,0.24)] transition hover:-translate-y-1 hover:border-brand-cyan/60 hover:bg-brand-surface focus:outline-none focus:ring-2 focus:ring-brand-cyan focus:ring-offset-2 focus:ring-offset-brand-night"
       >
         <span className="relative aspect-[4/3] overflow-hidden rounded-lg border border-white/10 bg-white/5">
           <Image
@@ -474,14 +466,14 @@ function ProjectOverlay({
             </div>
 
             <div className="mt-3 flex justify-end">
-              <CenteredScrollLink
-                href="#kontak"
-                onNavigate={onClose}
-                scrollBlock="start"
+              <a
+                href={createProjectConsultHref(project.name)}
+                target="_blank"
+                rel="noreferrer"
                 className="inline-flex min-h-9 items-center justify-center rounded-full bg-brand-cyan px-4 py-2 text-xs font-bold text-brand-dark transition hover:bg-brand-lime focus:outline-none focus:ring-2 focus:ring-brand-lime focus:ring-offset-2 focus:ring-offset-brand-night"
               >
                 <LocalizedText id="project.consult">Konsultasi project serupa</LocalizedText>
-              </CenteredScrollLink>
+              </a>
             </div>
           </div>
         </div>

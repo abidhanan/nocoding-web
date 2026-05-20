@@ -128,6 +128,7 @@ export default function ProjectsSection() {
   const [selectedProject, setSelectedProject] = useState<Project | null>(null);
   const marqueeRef = useRef<HTMLDivElement>(null);
   const marqueeDragStateRef = useRef({
+    captured: false,
     isDragging: false,
     pointerId: 0,
     scrollLeft: 0,
@@ -151,21 +152,13 @@ export default function ProjectsSection() {
 
     if (marquee.scrollLeft >= loopWidth) {
       marquee.scrollLeft -= loopWidth;
-    } else if (marquee.scrollLeft <= 0) {
-      marquee.scrollLeft += loopWidth;
     }
   };
 
   useEffect(() => {
-    const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
-
-    if (reducedMotion.matches) {
-      return undefined;
-    }
-
     let animationFrame = 0;
     let previousTimestamp = performance.now();
-    const speed = 34;
+    const speed = 72;
 
     const tick = (timestamp: number) => {
       const marquee = marqueeRef.current;
@@ -197,6 +190,7 @@ export default function ProjectsSection() {
     }
 
     marqueeDragStateRef.current = {
+      captured: false,
       isDragging: true,
       pointerId: event.pointerId,
       scrollLeft: marquee.scrollLeft,
@@ -219,6 +213,11 @@ export default function ProjectsSection() {
       dragState.wasDragged = true;
       suppressProjectClickRef.current = true;
       event.preventDefault();
+
+      if (!dragState.captured) {
+        marquee.setPointerCapture(event.pointerId);
+        dragState.captured = true;
+      }
     }
 
     marquee.scrollLeft = dragState.scrollLeft - dragDistance;
@@ -234,6 +233,10 @@ export default function ProjectsSection() {
     }
 
     dragState.isDragging = false;
+
+    if (dragState.captured && marquee.hasPointerCapture(event.pointerId)) {
+      marquee.releasePointerCapture(event.pointerId);
+    }
 
     if (dragState.wasDragged) {
       window.setTimeout(() => {
@@ -344,6 +347,11 @@ function ProjectCard({
   shouldSuppressClick: () => boolean;
 }) {
   const viewDetailLabel = useLocalizedText("project.view", "Lihat detail");
+  const pressStateRef = useRef({
+    openedFromPointer: false,
+    startX: 0,
+    startY: 0,
+  });
 
   return (
     <article className="project-marquee__item">
@@ -351,9 +359,40 @@ function ProjectCard({
         type="button"
         aria-label={`Buka detail project ${project.name}`}
         tabIndex={isDuplicate ? -1 : 0}
+        onPointerDown={(event) => {
+          if (event.pointerType === "mouse" && event.button !== 0) {
+            return;
+          }
+
+          pressStateRef.current = {
+            openedFromPointer: false,
+            startX: event.clientX,
+            startY: event.clientY,
+          };
+        }}
+        onPointerUp={(event) => {
+          const distance = Math.hypot(
+            event.clientX - pressStateRef.current.startX,
+            event.clientY - pressStateRef.current.startY,
+          );
+
+          if (distance > 6 || shouldSuppressClick()) {
+            return;
+          }
+
+          pressStateRef.current.openedFromPointer = true;
+          event.preventDefault();
+          event.stopPropagation();
+          onSelect(project);
+        }}
         onClick={(event) => {
           event.preventDefault();
           event.stopPropagation();
+
+          if (pressStateRef.current.openedFromPointer) {
+            pressStateRef.current.openedFromPointer = false;
+            return;
+          }
 
           if (shouldSuppressClick()) {
             return;

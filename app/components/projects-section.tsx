@@ -438,7 +438,7 @@ function ProjectOverlay({
   return createPortal(
     <div
       data-project-overlay-scroll
-      className="fixed inset-0 z-[80] flex min-h-[100dvh] items-start justify-center overflow-y-auto overscroll-contain bg-brand-dark/88 px-3 py-3 backdrop-blur-xl sm:grid sm:place-items-center sm:overflow-hidden sm:px-6"
+      className="project-detail-overlay fixed inset-0 z-[80] flex min-h-[100dvh] items-start justify-center overscroll-contain bg-brand-dark/88 px-3 py-3 backdrop-blur-xl sm:grid sm:place-items-center sm:px-6"
       role="presentation"
       onMouseDown={(event) => {
         if (event.target === event.currentTarget) {
@@ -450,7 +450,7 @@ function ProjectOverlay({
         role="dialog"
         aria-modal="true"
         aria-labelledby="project-detail-title"
-        className="relative my-auto w-full max-w-3xl rounded-lg border border-white/10 bg-brand-night p-2.5 pb-5 shadow-2xl shadow-black/50 sm:max-h-[calc(100dvh-1.5rem)] sm:max-w-[42rem] sm:overflow-hidden sm:p-3 sm:pb-3"
+        className="project-detail-dialog relative my-auto w-full max-w-3xl rounded-lg border border-white/10 bg-brand-night p-2.5 pb-5 shadow-2xl shadow-black/50 sm:max-h-[calc(100dvh-1.5rem)] sm:max-w-[38rem] sm:overflow-hidden sm:p-2.5 sm:pb-2.5"
       >
         <div className="mb-2 flex items-center justify-between gap-4 sm:mb-1.5">
           <span className="text-[0.68rem] font-black uppercase text-slate-500">
@@ -696,7 +696,7 @@ function ProjectMedia({ project }: { project: Project }) {
   };
 
   return (
-    <div className="mx-auto w-full max-w-[38rem] overflow-hidden rounded-lg bg-brand-dark sm:max-w-[30rem]">
+    <div className="project-detail-media-card mx-auto w-full max-w-[38rem] overflow-hidden rounded-lg bg-brand-dark sm:max-w-[26rem]">
       <div className="flex items-center justify-between gap-3 border-b border-white/10 bg-brand-surface px-3 py-2 sm:px-2.5 sm:py-1.5">
         <span className="text-xs font-black uppercase text-brand-cyan sm:text-[0.68rem]">
           <LocalizedText id={mediaItems[activeIndex].labelId}>{mediaItems[activeIndex].label}</LocalizedText>

@@ -327,6 +327,33 @@
   display: none;
 }
 
+.project-detail-overlay {
+  overflow: auto;
+  scrollbar-width: none;
+}
+
+.project-detail-overlay::-webkit-scrollbar {
+  display: none;
+}
+
+@media (min-width: 640px) {
+  .project-detail-overlay {
+    height: 100dvh;
+    max-height: 100dvh;
+    overflow: hidden !important;
+  }
+
+  .project-detail-dialog {
+    max-width: 38rem !important;
+    max-height: calc(100dvh - 1.5rem) !important;
+    overflow: hidden !important;
+  }
+
+  .project-detail-media-card {
+    max-width: 26rem !important;
+  }
+}
+
 @media (max-width: 1023px) {
   .project-marquee {
     --project-marquee-gap: 1.35rem;

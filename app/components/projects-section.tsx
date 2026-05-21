@@ -194,6 +194,7 @@ function ProjectMarquee({ onSelect }: { onSelect: (project: Project) => void }) 
   const lastFrameTimeRef = useRef<number | null>(null);
   const blockCardClickRef = useRef(false);
   const dragStateRef = useRef({
+    hasCaptured: false,
     isDragging: false,
     pointerId: 0,
     scrollLeft: 0,
@@ -239,12 +240,12 @@ function ProjectMarquee({ onSelect }: { onSelect: (project: Project) => void }) 
     }
 
     dragStateRef.current = {
+      hasCaptured: false,
       isDragging: true,
       pointerId: event.pointerId,
       scrollLeft: viewport.scrollLeft,
       startX: event.clientX,
     };
-    viewport.setPointerCapture(event.pointerId);
   };
 
   const moveDrag = (event: React.PointerEvent<HTMLDivElement>) => {
@@ -259,6 +260,11 @@ function ProjectMarquee({ onSelect }: { onSelect: (project: Project) => void }) 
 
     if (Math.abs(distance) > 5) {
       blockCardClickRef.current = true;
+
+      if (!dragState.hasCaptured) {
+        viewport.setPointerCapture(event.pointerId);
+        dragState.hasCaptured = true;
+      }
     }
 
     const loopWidth = viewport.scrollWidth / 2;
@@ -285,7 +291,7 @@ function ProjectMarquee({ onSelect }: { onSelect: (project: Project) => void }) 
 
     dragStateRef.current.isDragging = false;
 
-    if (viewport.hasPointerCapture(event.pointerId)) {
+    if (dragState.hasCaptured && viewport.hasPointerCapture(event.pointerId)) {
       viewport.releasePointerCapture(event.pointerId);
     }
 

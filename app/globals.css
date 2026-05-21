@@ -313,6 +313,7 @@
 
 .project-detail-media__viewport {
   cursor: grab;
+  overscroll-behavior: contain;
   scrollbar-width: none;
   touch-action: pan-x;
   user-select: none;
@@ -321,7 +322,10 @@
 
 .project-detail-media__track {
   backface-visibility: hidden;
+  contain: layout paint;
+  transition: none;
   transform: translate3d(0, 0, 0);
+  transform-style: preserve-3d;
   will-change: transform;
 }
 

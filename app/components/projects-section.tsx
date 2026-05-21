@@ -532,13 +532,21 @@ function ProjectMedia({ project }: { project: Project }) {
   const [activeIndex, setActiveIndex] = useState(0);
   const mediaViewportRef = useRef<HTMLDivElement>(null);
   const mediaTrackRef = useRef<HTMLDivElement>(null);
+  const activeIndexRef = useRef(0);
+  const animationFrameRef = useRef<number | null>(null);
+  const positionRef = useRef(0);
+  const targetPositionRef = useRef(0);
   const dragStateRef = useRef({
     isDragging: false,
     hasMoved: false,
     lastX: 0,
     pointerId: 0,
+    previousTime: 0,
+    previousX: 0,
     startIndex: 0,
+    startPosition: 0,
     startX: 0,
+    velocityX: 0,
   });
   const wheelSnapTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const wheelOffsetRef = useRef(0);
@@ -557,6 +565,78 @@ function ProjectMedia({ project }: { project: Project }) {
     })) ?? []),
   ];
   const hasMultipleMedia = mediaItems.length > 1;
+
+  const clampMediaIndex = (index: number) => {
+    return Math.min(mediaItems.length - 1, Math.max(0, index));
+  };
+
+  const getSlidePosition = (index: number, offset = 0) => {
+    const viewport = mediaViewportRef.current;
+
+    return viewport ? -index * viewport.clientWidth + offset : 0;
+  };
+
+  const applyTrackPosition = (position: number) => {
+    const track = mediaTrackRef.current;
+
+    if (!track) {
+      return;
+    }
+
+    track.style.transform = `translate3d(${position}px, 0, 0)`;
+  };
+
+  const stopTrackAnimation = () => {
+    if (!animationFrameRef.current) {
+      return;
+    }
+
+    window.cancelAnimationFrame(animationFrameRef.current);
+    animationFrameRef.current = null;
+  };
+
+  const animateTrack = () => {
+    const currentPosition = positionRef.current;
+    const targetPosition = targetPositionRef.current;
+    const distance = targetPosition - currentPosition;
+
+    if (Math.abs(distance) < 0.22) {
+      positionRef.current = targetPosition;
+      applyTrackPosition(targetPosition);
+      animationFrameRef.current = null;
+      return;
+    }
+
+    const ease = dragStateRef.current.isDragging ? 0.46 : 0.22;
+    const nextPosition = currentPosition + distance * ease;
+
+    positionRef.current = nextPosition;
+    applyTrackPosition(nextPosition);
+    animationFrameRef.current = window.requestAnimationFrame(animateTrack);
+  };
+
+  const setTrackTarget = (position: number, immediate = false) => {
+    targetPositionRef.current = position;
+
+    if (immediate) {
+      stopTrackAnimation();
+      positionRef.current = position;
+      applyTrackPosition(position);
+      return;
+    }
+
+    if (!animationFrameRef.current) {
+      animationFrameRef.current = window.requestAnimationFrame(animateTrack);
+    }
+  };
+
+  const activateMediaIndex = (index: number, immediate = false) => {
+    const nextIndex = clampMediaIndex(index);
+
+    activeIndexRef.current = nextIndex;
+    setActiveIndex(nextIndex);
+    setTrackTarget(getSlidePosition(nextIndex), immediate);
+  };
 
   useEffect(() => {
     const videos = mediaViewportRef.current?.querySelectorAll("video") ?? [];
@@ -583,55 +663,73 @@ function ProjectMedia({ project }: { project: Project }) {
       if (wheelSnapTimeoutRef.current) {
         clearTimeout(wheelSnapTimeoutRef.current);
       }
+
+      if (animationFrameRef.current) {
+        window.cancelAnimationFrame(animationFrameRef.current);
+      }
     };
   }, []);
 
-  const setMediaTrackTransform = (
-    index: number,
-    offset = 0,
-    shouldAnimate = true,
-  ) => {
-    const track = mediaTrackRef.current;
-
-    if (!track) {
-      return;
-    }
-
-    track.style.transition = shouldAnimate
-      ? "transform 420ms cubic-bezier(0.22, 1, 0.36, 1)"
-      : "none";
-    track.style.transform = `translate3d(calc(${-index * 100}% + ${offset}px), 0, 0)`;
-  };
-
   useEffect(() => {
-    setMediaTrackTransform(activeIndex);
-  }, [activeIndex]);
-
-  const clampMediaIndex = (index: number) => {
-    return Math.min(mediaItems.length - 1, Math.max(0, index));
-  };
-
-  const scrollToMedia = (index: number) => {
-    const nextIndex = clampMediaIndex(index);
-    setActiveIndex(nextIndex);
-    setMediaTrackTransform(nextIndex);
-  };
-
-  const startDrag = (event: React.PointerEvent<HTMLDivElement>) => {
     const viewport = mediaViewportRef.current;
 
     if (!viewport) {
       return;
     }
 
+    const syncPosition = () => {
+      const track = mediaTrackRef.current;
+      const position = -activeIndexRef.current * viewport.clientWidth;
+
+      targetPositionRef.current = position;
+      positionRef.current = position;
+
+      if (animationFrameRef.current) {
+        window.cancelAnimationFrame(animationFrameRef.current);
+        animationFrameRef.current = null;
+      }
+
+      if (track) {
+        track.style.transform = `translate3d(${position}px, 0, 0)`;
+      }
+    };
+
+    syncPosition();
+
+    const resizeObserver = new ResizeObserver(syncPosition);
+    resizeObserver.observe(viewport);
+
+    return () => {
+      resizeObserver.disconnect();
+    };
+  }, []);
+
+  const scrollToMedia = (index: number) => {
+    activateMediaIndex(index);
+  };
+
+  const startDrag = (event: React.PointerEvent<HTMLDivElement>) => {
+    const viewport = mediaViewportRef.current;
+
+    if (!viewport || !hasMultipleMedia) {
+      return;
+    }
+
     event.preventDefault();
+    const startX = event.clientX;
+    const startTime = window.performance.now();
+
     dragStateRef.current = {
       isDragging: true,
       hasMoved: false,
-      lastX: event.clientX,
+      lastX: startX,
       pointerId: event.pointerId,
-      startIndex: activeIndex,
-      startX: event.clientX,
+      previousTime: startTime,
+      previousX: startX,
+      startIndex: activeIndexRef.current,
+      startPosition: getSlidePosition(activeIndexRef.current),
+      startX,
+      velocityX: 0,
     };
     viewport.setPointerCapture(event.pointerId);
   };
@@ -646,24 +744,30 @@ function ProjectMedia({ project }: { project: Project }) {
 
     event.preventDefault();
     const distance = event.clientX - dragState.startX;
+    const now = window.performance.now();
+    const elapsed = Math.max(now - dragState.previousTime, 1);
+
+    dragState.velocityX = (event.clientX - dragState.previousX) / elapsed;
     dragState.lastX = event.clientX;
+    dragState.previousTime = now;
+    dragState.previousX = event.clientX;
 
     if (Math.abs(distance) > 2) {
       dragState.hasMoved = true;
     }
 
-    const maxOffset = viewport.clientWidth * 0.42;
-    const easedDistance =
-      Math.sign(distance) * Math.min(Math.abs(distance) * 1.08, maxOffset);
+    const isPullingPastStart = dragState.startIndex === 0 && distance > 0;
+    const isPullingPastEnd = dragState.startIndex === mediaItems.length - 1 && distance < 0;
+    const easedDistance = isPullingPastStart || isPullingPastEnd ? distance * 0.32 : distance;
 
-    setMediaTrackTransform(dragState.startIndex, easedDistance, false);
+    setTrackTarget(dragState.startPosition + easedDistance);
   };
 
   const stopDrag = (event: React.PointerEvent<HTMLDivElement>) => {
     const viewport = mediaViewportRef.current;
     const dragState = dragStateRef.current;
 
-    if (!viewport || dragState.pointerId !== event.pointerId) {
+    if (!viewport || !dragState.isDragging || dragState.pointerId !== event.pointerId) {
       return;
     }
 
@@ -675,16 +779,20 @@ function ProjectMedia({ project }: { project: Project }) {
 
     if (dragState.hasMoved) {
       const dragDistance = dragState.lastX - dragState.startX;
-      const slideThreshold = viewport.clientWidth * 0.12;
+      const slideThreshold = viewport.clientWidth * 0.11;
+      const velocityThreshold = 0.34;
       let nextIndex = dragState.startIndex;
 
-      if (Math.abs(dragDistance) >= slideThreshold) {
+      if (Math.abs(dragDistance) >= slideThreshold || Math.abs(dragState.velocityX) >= velocityThreshold) {
         const direction = dragDistance < 0 ? 1 : -1;
         nextIndex = clampMediaIndex(dragState.startIndex + direction);
       }
 
-      scrollToMedia(nextIndex);
+      activateMediaIndex(nextIndex);
+      return;
     }
+
+    setTrackTarget(getSlidePosition(activeIndexRef.current));
   };
 
   const scrollMediaWithWheel = (event: React.WheelEvent<HTMLDivElement>) => {
@@ -703,12 +811,12 @@ function ProjectMedia({ project }: { project: Project }) {
     event.preventDefault();
     wheelOffsetRef.current += event.deltaX;
 
-    const maxOffset = viewport.clientWidth * 0.34;
+    const maxOffset = viewport.clientWidth * 0.38;
     const easedOffset =
       -Math.sign(wheelOffsetRef.current) *
-      Math.min(Math.abs(wheelOffsetRef.current), maxOffset);
+      Math.min(Math.abs(wheelOffsetRef.current) * 0.82, maxOffset);
 
-    setMediaTrackTransform(activeIndex, easedOffset, false);
+    setTrackTarget(getSlidePosition(activeIndexRef.current, easedOffset));
 
     if (wheelSnapTimeoutRef.current) {
       clearTimeout(wheelSnapTimeoutRef.current);
@@ -716,14 +824,14 @@ function ProjectMedia({ project }: { project: Project }) {
 
     wheelSnapTimeoutRef.current = setTimeout(() => {
       const wheelThreshold = viewport.clientWidth * 0.1;
-      let nextIndex = activeIndex;
+      let nextIndex = activeIndexRef.current;
 
       if (Math.abs(wheelOffsetRef.current) >= wheelThreshold) {
-        nextIndex = clampMediaIndex(activeIndex + (wheelOffsetRef.current > 0 ? 1 : -1));
+        nextIndex = clampMediaIndex(activeIndexRef.current + (wheelOffsetRef.current > 0 ? 1 : -1));
       }
 
       wheelOffsetRef.current = 0;
-      scrollToMedia(nextIndex);
+      activateMediaIndex(nextIndex);
     }, 120);
   };
 
@@ -778,7 +886,7 @@ function ProjectMedia({ project }: { project: Project }) {
                     muted
                     playsInline
                     poster={project.image}
-                    preload="metadata"
+                    preload="auto"
                     controlsList="nofullscreen nodownload noremoteplayback"
                   >
                     <source src={item.src} type="video/mp4" />

@@ -121,7 +121,7 @@ function createProjectConsultHref(projectName: string) {
     `Halo Nocoding,\n\nSaya tertarik konsultasi project serupa dengan ${projectName}. Mohon info langkah berikutnya.\n\nTerima kasih.`,
   );
 
-  return `https://mail.google.com/mail/?view=cm&fs=1&to=${contactEmail}&su=${subject}&body=${body}`;
+  return `mailto:${contactEmail}?subject=${subject}&body=${body}`;
 }
 
 export default function ProjectsSection() {
@@ -193,6 +193,7 @@ function ProjectMarquee({ onSelect }: { onSelect: (project: Project) => void }) 
   const autoScrollIntervalRef = useRef<number | null>(null);
   const lastFrameTimeRef = useRef<number | null>(null);
   const blockCardClickRef = useRef(false);
+  const isPointerOverRef = useRef(false);
   const dragStateRef = useRef({
     hasCaptured: false,
     isDragging: false,
@@ -211,7 +212,7 @@ function ProjectMarquee({ onSelect }: { onSelect: (project: Project) => void }) 
         const deltaTime = Math.min(time - previousTime, 64);
         const loopWidth = viewport.scrollWidth / 2;
 
-        if (!dragStateRef.current.isDragging && loopWidth > 0) {
+        if (!dragStateRef.current.isDragging && !isPointerOverRef.current && loopWidth > 0) {
           viewport.scrollLeft += deltaTime * 0.05;
 
           if (viewport.scrollLeft >= loopWidth) {
@@ -223,7 +224,7 @@ function ProjectMarquee({ onSelect }: { onSelect: (project: Project) => void }) 
       }
     };
 
-    autoScrollIntervalRef.current = window.setInterval(autoScroll, 16);
+    autoScrollIntervalRef.current = window.setInterval(autoScroll, 32);
 
     return () => {
       if (autoScrollIntervalRef.current) {
@@ -285,6 +286,10 @@ function ProjectMarquee({ onSelect }: { onSelect: (project: Project) => void }) 
     const viewport = viewportRef.current;
     const dragState = dragStateRef.current;
 
+    if (event.type === "pointerleave") {
+      isPointerOverRef.current = false;
+    }
+
     if (!viewport || dragState.pointerId !== event.pointerId) {
       return;
     }
@@ -339,6 +344,9 @@ function ProjectMarquee({ onSelect }: { onSelect: (project: Project) => void }) 
       className="project-marquee mt-8"
       aria-label="Daftar project sebelumnya yang bergerak dari kanan ke kiri"
       onPointerDown={startDrag}
+      onPointerEnter={() => {
+        isPointerOverRef.current = true;
+      }}
       onPointerCancel={stopDrag}
       onPointerLeave={stopDrag}
       onPointerMove={moveDrag}
@@ -505,8 +513,6 @@ function ProjectOverlay({
             <div className="mt-5 flex justify-end pb-6 sm:mt-2 sm:-translate-y-3 sm:pb-0">
               <a
                 href={createProjectConsultHref(project.name)}
-                target="_blank"
-                rel="noreferrer"
                 className="inline-flex min-h-9 items-center justify-center rounded-full bg-brand-cyan px-4 py-2 text-xs font-bold text-brand-dark transition hover:bg-brand-lime focus:outline-none focus:ring-2 focus:ring-brand-lime focus:ring-offset-2 focus:ring-offset-brand-night sm:min-h-8 sm:px-3.5 sm:py-1.5 sm:text-[0.72rem]"
               >
                 <LocalizedText id="project.consult">Konsultasi project serupa</LocalizedText>
@@ -529,6 +535,7 @@ function ProjectMedia({ project }: { project: Project }) {
     scrollLeft: 0,
     startX: 0,
   });
+  const wheelSnapTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const mediaItems = [
     {
       label: "Foto mockup",
@@ -564,6 +571,14 @@ function ProjectMedia({ project }: { project: Project }) {
       }
     });
   }, [activeIndex]);
+
+  useEffect(() => {
+    return () => {
+      if (wheelSnapTimeoutRef.current) {
+        clearTimeout(wheelSnapTimeoutRef.current);
+      }
+    };
+  }, []);
 
   const getClosestMediaIndex = (viewport: HTMLDivElement) => {
     const slides = Array.from(
@@ -634,6 +649,7 @@ function ProjectMedia({ project }: { project: Project }) {
       return;
     }
 
+    event.preventDefault();
     dragStateRef.current = {
       isDragging: true,
       pointerId: event.pointerId,
@@ -672,6 +688,30 @@ function ProjectMedia({ project }: { project: Project }) {
     snapToClosestMedia();
   };
 
+  const scrollMediaWithWheel = (event: React.WheelEvent<HTMLDivElement>) => {
+    const viewport = mediaViewportRef.current;
+
+    if (!viewport || !hasMultipleMedia) {
+      return;
+    }
+
+    const isHorizontalIntent = Math.abs(event.deltaX) > Math.abs(event.deltaY) * 1.25;
+
+    if (!isHorizontalIntent || Math.abs(event.deltaX) < 1) {
+      return;
+    }
+
+    event.preventDefault();
+    viewport.scrollLeft += event.deltaX;
+    syncActiveMedia();
+
+    if (wheelSnapTimeoutRef.current) {
+      clearTimeout(wheelSnapTimeoutRef.current);
+    }
+
+    wheelSnapTimeoutRef.current = setTimeout(snapToClosestMedia, 140);
+  };
+
   return (
     <div className="project-detail-media-card mx-auto w-full max-w-[38rem] overflow-hidden rounded-lg bg-brand-dark sm:max-w-[26rem]">
       <div className="flex items-center justify-between gap-3 border-b border-white/10 bg-brand-surface px-3 py-2 sm:px-2.5 sm:py-1.5">
@@ -696,6 +736,7 @@ function ProjectMedia({ project }: { project: Project }) {
           onPointerUp={stopDrag}
           onLostPointerCapture={stopDrag}
           onScroll={syncActiveMedia}
+          onWheel={scrollMediaWithWheel}
         >
           {mediaItems.map((item, index) => (
             <div
@@ -709,7 +750,8 @@ function ProjectMedia({ project }: { project: Project }) {
                   alt={project.imageAlt}
                   fill
                   sizes="(min-width: 1024px) 38rem, 92vw"
-                  className="bg-white object-contain"
+                  className="pointer-events-none select-none bg-white object-contain"
+                  draggable={false}
                   priority
                 />
               ) : (

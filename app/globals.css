@@ -319,6 +319,12 @@
   -webkit-overflow-scrolling: touch;
 }
 
+.project-detail-media__track {
+  backface-visibility: hidden;
+  transform: translate3d(0, 0, 0);
+  will-change: transform;
+}
+
 .project-detail-media__viewport:active {
   cursor: grabbing;
 }

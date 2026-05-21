@@ -529,16 +529,17 @@ function ProjectOverlay({
 function ProjectMedia({ project }: { project: Project }) {
   const [activeIndex, setActiveIndex] = useState(0);
   const mediaViewportRef = useRef<HTMLDivElement>(null);
+  const mediaTrackRef = useRef<HTMLDivElement>(null);
   const dragStateRef = useRef({
     isDragging: false,
     hasMoved: false,
     lastX: 0,
     pointerId: 0,
     startIndex: 0,
-    scrollLeft: 0,
     startX: 0,
   });
   const wheelSnapTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const wheelOffsetRef = useRef(0);
   const mediaItems = [
     {
       label: "Foto mockup",
@@ -583,66 +584,35 @@ function ProjectMedia({ project }: { project: Project }) {
     };
   }, []);
 
-  const getClosestMediaIndex = (viewport: HTMLDivElement) => {
-    const slides = Array.from(
-      viewport.querySelectorAll<HTMLElement>("[data-project-media-slide]"),
-    );
+  const setMediaTrackTransform = (
+    index: number,
+    offset = 0,
+    shouldAnimate = true,
+  ) => {
+    const track = mediaTrackRef.current;
 
-    if (!slides.length) {
-      return 0;
-    }
-
-    const viewportCenter = viewport.scrollLeft + viewport.clientWidth / 2;
-    let closestIndex = 0;
-    let closestDistance = Number.POSITIVE_INFINITY;
-
-    slides.forEach((slide, index) => {
-      const slideCenter = slide.offsetLeft + slide.clientWidth / 2;
-      const distance = Math.abs(slideCenter - viewportCenter);
-
-      if (distance < closestDistance) {
-        closestDistance = distance;
-        closestIndex = index;
-      }
-    });
-
-    return closestIndex;
-  };
-
-  const syncActiveMedia = () => {
-    const viewport = mediaViewportRef.current;
-
-    if (!viewport) {
+    if (!track) {
       return;
     }
 
-    const closestIndex = getClosestMediaIndex(viewport);
+    track.style.transition = shouldAnimate
+      ? "transform 420ms cubic-bezier(0.22, 1, 0.36, 1)"
+      : "none";
+    track.style.transform = `translate3d(calc(${-index * 100}% + ${offset}px), 0, 0)`;
+  };
 
-    setActiveIndex((currentIndex) =>
-      currentIndex === closestIndex ? currentIndex : closestIndex,
-    );
+  useEffect(() => {
+    setMediaTrackTransform(activeIndex);
+  }, [activeIndex]);
+
+  const clampMediaIndex = (index: number) => {
+    return Math.min(mediaItems.length - 1, Math.max(0, index));
   };
 
   const scrollToMedia = (index: number) => {
-    const viewport = mediaViewportRef.current;
-    const slide = viewport?.querySelectorAll<HTMLElement>("[data-project-media-slide]")[index];
-
-    if (!viewport || !slide) {
-      return;
-    }
-
-    viewport.scrollTo({ behavior: "smooth", left: slide.offsetLeft });
-    setActiveIndex(index);
-  };
-
-  const snapToClosestMedia = () => {
-    const viewport = mediaViewportRef.current;
-
-    if (!viewport) {
-      return;
-    }
-
-    scrollToMedia(getClosestMediaIndex(viewport));
+    const nextIndex = clampMediaIndex(index);
+    setActiveIndex(nextIndex);
+    setMediaTrackTransform(nextIndex);
   };
 
   const startDrag = (event: React.PointerEvent<HTMLDivElement>) => {
@@ -659,7 +629,6 @@ function ProjectMedia({ project }: { project: Project }) {
       lastX: event.clientX,
       pointerId: event.pointerId,
       startIndex: activeIndex,
-      scrollLeft: viewport.scrollLeft,
       startX: event.clientX,
     };
     viewport.setPointerCapture(event.pointerId);
@@ -681,7 +650,11 @@ function ProjectMedia({ project }: { project: Project }) {
       dragState.hasMoved = true;
     }
 
-    viewport.scrollLeft = dragState.scrollLeft - distance * 1.08;
+    const maxOffset = viewport.clientWidth * 0.42;
+    const easedDistance =
+      Math.sign(distance) * Math.min(Math.abs(distance) * 1.08, maxOffset);
+
+    setMediaTrackTransform(dragState.startIndex, easedDistance, false);
   };
 
   const stopDrag = (event: React.PointerEvent<HTMLDivElement>) => {
@@ -701,18 +674,14 @@ function ProjectMedia({ project }: { project: Project }) {
     if (dragState.hasMoved) {
       const dragDistance = dragState.lastX - dragState.startX;
       const slideThreshold = viewport.clientWidth * 0.12;
+      let nextIndex = dragState.startIndex;
 
       if (Math.abs(dragDistance) >= slideThreshold) {
         const direction = dragDistance < 0 ? 1 : -1;
-        const nextIndex = Math.min(
-          mediaItems.length - 1,
-          Math.max(0, dragState.startIndex + direction),
-        );
-
-        scrollToMedia(nextIndex);
-      } else {
-        snapToClosestMedia();
+        nextIndex = clampMediaIndex(dragState.startIndex + direction);
       }
+
+      scrollToMedia(nextIndex);
     }
   };
 
@@ -730,14 +699,30 @@ function ProjectMedia({ project }: { project: Project }) {
     }
 
     event.preventDefault();
-    viewport.scrollLeft += event.deltaX;
-    syncActiveMedia();
+    wheelOffsetRef.current += event.deltaX;
+
+    const maxOffset = viewport.clientWidth * 0.34;
+    const easedOffset =
+      -Math.sign(wheelOffsetRef.current) *
+      Math.min(Math.abs(wheelOffsetRef.current), maxOffset);
+
+    setMediaTrackTransform(activeIndex, easedOffset, false);
 
     if (wheelSnapTimeoutRef.current) {
       clearTimeout(wheelSnapTimeoutRef.current);
     }
 
-    wheelSnapTimeoutRef.current = setTimeout(snapToClosestMedia, 140);
+    wheelSnapTimeoutRef.current = setTimeout(() => {
+      const wheelThreshold = viewport.clientWidth * 0.1;
+      let nextIndex = activeIndex;
+
+      if (Math.abs(wheelOffsetRef.current) >= wheelThreshold) {
+        nextIndex = clampMediaIndex(activeIndex + (wheelOffsetRef.current > 0 ? 1 : -1));
+      }
+
+      wheelOffsetRef.current = 0;
+      scrollToMedia(nextIndex);
+    }, 120);
   };
 
   return (
@@ -756,50 +741,51 @@ function ProjectMedia({ project }: { project: Project }) {
       <div className="relative aspect-[1.774] overflow-hidden bg-brand-dark">
         <div
           ref={mediaViewportRef}
-          className="project-detail-media__viewport flex h-full overflow-x-auto overflow-y-hidden"
+          className="project-detail-media__viewport h-full overflow-hidden"
           onPointerDown={startDrag}
           onPointerCancel={stopDrag}
           onPointerMove={moveDrag}
           onPointerUp={stopDrag}
           onLostPointerCapture={stopDrag}
-          onScroll={syncActiveMedia}
           onWheel={scrollMediaWithWheel}
         >
-          {mediaItems.map((item, index) => (
-            <div
-              key={`${item.type}-${item.src}`}
-              data-project-media-slide
-              className="relative grid h-full min-w-full place-items-center bg-brand-dark"
-            >
-              {item.type === "image" ? (
-                <Image
-                  src={item.src}
-                  alt={project.imageAlt}
-                  fill
-                  sizes="(min-width: 1024px) 38rem, 92vw"
-                  className="pointer-events-none select-none bg-white object-contain"
-                  draggable={false}
-                  priority
-                />
-              ) : (
-                <video
-                  className="pointer-events-none h-full w-full bg-brand-dark object-contain"
-                  autoPlay={index === activeIndex}
-                  data-media-index={index}
-                  disablePictureInPicture
-                  loop
-                  muted
-                  playsInline
-                  poster={project.image}
-                  preload="metadata"
-                  controlsList="nofullscreen nodownload noremoteplayback"
-                >
-                  <source src={item.src} type="video/mp4" />
-                  Browser Anda tidak mendukung pemutar video.
-                </video>
-              )}
-            </div>
-          ))}
+          <div ref={mediaTrackRef} className="project-detail-media__track flex h-full">
+            {mediaItems.map((item, index) => (
+              <div
+                key={`${item.type}-${item.src}`}
+                data-project-media-slide
+                className="relative grid h-full min-w-full place-items-center bg-brand-dark"
+              >
+                {item.type === "image" ? (
+                  <Image
+                    src={item.src}
+                    alt={project.imageAlt}
+                    fill
+                    sizes="(min-width: 1024px) 38rem, 92vw"
+                    className="pointer-events-none select-none bg-white object-contain"
+                    draggable={false}
+                    priority
+                  />
+                ) : (
+                  <video
+                    className="pointer-events-none h-full w-full bg-brand-dark object-contain"
+                    autoPlay={index === activeIndex}
+                    data-media-index={index}
+                    disablePictureInPicture
+                    loop
+                    muted
+                    playsInline
+                    poster={project.image}
+                    preload="metadata"
+                    controlsList="nofullscreen nodownload noremoteplayback"
+                  >
+                    <source src={item.src} type="video/mp4" />
+                    Browser Anda tidak mendukung pemutar video.
+                  </video>
+                )}
+              </div>
+            ))}
+          </div>
         </div>
       </div>
       {hasMultipleMedia ? (

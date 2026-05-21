@@ -307,9 +307,14 @@ function ProjectMarquee({ onSelect }: { onSelect: (project: Project) => void }) 
       return;
     }
 
-    const delta = Math.abs(event.deltaX) > Math.abs(event.deltaY) ? event.deltaX : event.deltaY;
+    const isHorizontalIntent = Math.abs(event.deltaX) > Math.abs(event.deltaY) * 1.25;
+    const delta = event.shiftKey ? event.deltaY : event.deltaX;
 
-    if (!delta) {
+    if (!event.shiftKey && !isHorizontalIntent) {
+      return;
+    }
+
+    if (Math.abs(delta) < 1) {
       return;
     }
 
@@ -524,7 +529,6 @@ function ProjectMedia({ project }: { project: Project }) {
     scrollLeft: 0,
     startX: 0,
   });
-  const wheelSnapTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const mediaItems = [
     {
       label: "Foto mockup",
@@ -560,14 +564,6 @@ function ProjectMedia({ project }: { project: Project }) {
       }
     });
   }, [activeIndex]);
-
-  useEffect(() => {
-    return () => {
-      if (wheelSnapTimeoutRef.current) {
-        clearTimeout(wheelSnapTimeoutRef.current);
-      }
-    };
-  }, []);
 
   const getClosestMediaIndex = (viewport: HTMLDivElement) => {
     const slides = Array.from(
@@ -676,31 +672,6 @@ function ProjectMedia({ project }: { project: Project }) {
     snapToClosestMedia();
   };
 
-  const scrollWithWheel = (event: React.WheelEvent<HTMLDivElement>) => {
-    const viewport = mediaViewportRef.current;
-
-    if (!viewport || !hasMultipleMedia) {
-      return;
-    }
-
-    const delta =
-      Math.abs(event.deltaX) > Math.abs(event.deltaY) ? event.deltaX : event.deltaY;
-
-    if (!delta) {
-      return;
-    }
-
-    event.preventDefault();
-    viewport.scrollLeft += delta;
-    syncActiveMedia();
-
-    if (wheelSnapTimeoutRef.current) {
-      clearTimeout(wheelSnapTimeoutRef.current);
-    }
-
-    wheelSnapTimeoutRef.current = setTimeout(snapToClosestMedia, 140);
-  };
-
   return (
     <div className="project-detail-media-card mx-auto w-full max-w-[38rem] overflow-hidden rounded-lg bg-brand-dark sm:max-w-[26rem]">
       <div className="flex items-center justify-between gap-3 border-b border-white/10 bg-brand-surface px-3 py-2 sm:px-2.5 sm:py-1.5">
@@ -717,7 +688,7 @@ function ProjectMedia({ project }: { project: Project }) {
       <div className="relative aspect-[1.774] overflow-hidden bg-brand-dark">
         <div
           ref={mediaViewportRef}
-          className="project-detail-media__viewport flex h-full snap-x snap-mandatory overflow-x-auto"
+          className="project-detail-media__viewport flex h-full snap-x snap-mandatory overflow-hidden"
           onPointerDown={startDrag}
           onPointerCancel={stopDrag}
           onPointerLeave={stopDrag}
@@ -725,7 +696,6 @@ function ProjectMedia({ project }: { project: Project }) {
           onPointerUp={stopDrag}
           onLostPointerCapture={stopDrag}
           onScroll={syncActiveMedia}
-          onWheel={scrollWithWheel}
         >
           {mediaItems.map((item, index) => (
             <div

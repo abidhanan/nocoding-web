@@ -86,15 +86,24 @@ const process = [
 }>;
 
 const contactEmail = "nocodingindonesia@gmail.com";
-const contactEmailHref = `mailto:${contactEmail}?subject=${encodeURIComponent("Konsultasi Website nocoding")}`;
 
-function createPackageEmailHref(packageName: string) {
-  const subject = encodeURIComponent(`Pilih Paket ${packageName} - Nocoding`);
-  const body = encodeURIComponent(
-    `Halo Nocoding,\n\nSaya tertarik memilih paket ${packageName}. Mohon info langkah berikutnya.\n\nTerima kasih.`,
-  );
+function createEmailHref(subjectText: string, bodyText: string) {
+  const subject = encodeURIComponent(subjectText);
+  const body = encodeURIComponent(bodyText);
 
   return `mailto:${contactEmail}?subject=${subject}&body=${body}`;
+}
+
+const contactEmailHref = createEmailHref(
+  "Konsultasi Website nocoding",
+  "Halo Nocoding,\n\nSaya ingin konsultasi kebutuhan website untuk bisnis saya. Mohon info langkah berikutnya.\n\nTerima kasih.",
+);
+
+function createPackageEmailHref(packageName: string) {
+  return createEmailHref(
+    `Pilih Paket ${packageName} - Nocoding`,
+    `Halo Nocoding,\n\nSaya tertarik memilih paket ${packageName}. Mohon info langkah berikutnya.\n\nTerima kasih.`,
+  );
 }
 
 const packages = [

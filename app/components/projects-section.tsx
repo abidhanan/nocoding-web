@@ -531,7 +531,10 @@ function ProjectMedia({ project }: { project: Project }) {
   const mediaViewportRef = useRef<HTMLDivElement>(null);
   const dragStateRef = useRef({
     isDragging: false,
+    hasMoved: false,
+    lastX: 0,
     pointerId: 0,
+    startIndex: 0,
     scrollLeft: 0,
     startX: 0,
   });
@@ -652,7 +655,10 @@ function ProjectMedia({ project }: { project: Project }) {
     event.preventDefault();
     dragStateRef.current = {
       isDragging: true,
+      hasMoved: false,
+      lastX: event.clientX,
       pointerId: event.pointerId,
+      startIndex: activeIndex,
       scrollLeft: viewport.scrollLeft,
       startX: event.clientX,
     };
@@ -668,7 +674,14 @@ function ProjectMedia({ project }: { project: Project }) {
     }
 
     event.preventDefault();
-    viewport.scrollLeft = dragState.scrollLeft - (event.clientX - dragState.startX);
+    const distance = event.clientX - dragState.startX;
+    dragState.lastX = event.clientX;
+
+    if (Math.abs(distance) > 2) {
+      dragState.hasMoved = true;
+    }
+
+    viewport.scrollLeft = dragState.scrollLeft - distance * 1.08;
   };
 
   const stopDrag = (event: React.PointerEvent<HTMLDivElement>) => {
@@ -685,7 +698,22 @@ function ProjectMedia({ project }: { project: Project }) {
       viewport.releasePointerCapture(event.pointerId);
     }
 
-    snapToClosestMedia();
+    if (dragState.hasMoved) {
+      const dragDistance = dragState.lastX - dragState.startX;
+      const slideThreshold = viewport.clientWidth * 0.12;
+
+      if (Math.abs(dragDistance) >= slideThreshold) {
+        const direction = dragDistance < 0 ? 1 : -1;
+        const nextIndex = Math.min(
+          mediaItems.length - 1,
+          Math.max(0, dragState.startIndex + direction),
+        );
+
+        scrollToMedia(nextIndex);
+      } else {
+        snapToClosestMedia();
+      }
+    }
   };
 
   const scrollMediaWithWheel = (event: React.WheelEvent<HTMLDivElement>) => {
@@ -728,10 +756,9 @@ function ProjectMedia({ project }: { project: Project }) {
       <div className="relative aspect-[1.774] overflow-hidden bg-brand-dark">
         <div
           ref={mediaViewportRef}
-          className="project-detail-media__viewport flex h-full snap-x snap-mandatory overflow-x-auto overflow-y-hidden"
+          className="project-detail-media__viewport flex h-full overflow-x-auto overflow-y-hidden"
           onPointerDown={startDrag}
           onPointerCancel={stopDrag}
-          onPointerLeave={stopDrag}
           onPointerMove={moveDrag}
           onPointerUp={stopDrag}
           onLostPointerCapture={stopDrag}
@@ -742,7 +769,7 @@ function ProjectMedia({ project }: { project: Project }) {
             <div
               key={`${item.type}-${item.src}`}
               data-project-media-slide
-              className="relative grid h-full min-w-full snap-center place-items-center bg-brand-dark"
+              className="relative grid h-full min-w-full place-items-center bg-brand-dark"
             >
               {item.type === "image" ? (
                 <Image

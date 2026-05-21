@@ -262,9 +262,16 @@
   --project-marquee-gap: clamp(1.25rem, 2vw, 1.75rem);
   position: relative;
   width: 100%;
-  overflow: hidden;
+  overflow-x: auto;
+  overflow-y: hidden;
   padding-block: 0.75rem 0.5rem;
   contain: layout paint;
+  cursor: grab;
+  scrollbar-width: none;
+  scroll-behavior: auto;
+  touch-action: pan-x pan-y;
+  user-select: none;
+  -webkit-overflow-scrolling: touch;
 }
 
 .project-marquee::before,
@@ -272,16 +279,18 @@
   display: none;
 }
 
+.project-marquee:active {
+  cursor: grabbing;
+}
+
+.project-marquee::-webkit-scrollbar {
+  display: none;
+}
+
 .project-marquee__track {
   display: flex;
   width: max-content;
   gap: var(--project-marquee-gap);
-  animation: project-scroll-left 144s linear infinite;
-}
-
-.project-marquee:has(.project-marquee__item:hover) .project-marquee__track,
-.project-marquee:has(.project-marquee__item:focus-within) .project-marquee__track {
-  animation-play-state: paused;
 }
 
 .project-marquee__group {
@@ -318,23 +327,14 @@
   display: none;
 }
 
-@keyframes project-scroll-left {
-  from {
-    transform: translateX(0);
-  }
-
-  to {
-    transform: translateX(calc(-50% - (var(--project-marquee-gap) / 2)));
-  }
-}
-
 @media (max-width: 1023px) {
   .project-marquee {
     --project-marquee-gap: 1.35rem;
     width: 100vw;
     max-width: 100vw;
     margin-inline: calc(50% - 50vw);
-    overflow: hidden;
+    overflow-x: auto;
+    overflow-y: hidden;
     clip-path: inset(0 round 0.5rem);
   }
 
@@ -345,7 +345,6 @@
 
   .project-marquee__track {
     width: max-content;
-    animation: project-scroll-left 92s linear infinite;
   }
 
   .project-marquee__item {

@@ -178,26 +178,7 @@ export default function ProjectsSection() {
           </p>
         </div>
 
-        <div className="project-marquee mt-8" aria-label="Daftar project sebelumnya yang bergerak dari kanan ke kiri">
-          <div className="project-marquee__track">
-            {[0, 1].map((groupIndex) => (
-              <div
-                key={groupIndex}
-                aria-hidden={groupIndex === 1 || undefined}
-                className="project-marquee__group"
-              >
-                {marqueeProjects.map((project, projectIndex) => (
-                  <ProjectCard
-                    key={`${project.name}-${groupIndex}-${projectIndex}`}
-                    isDuplicate={groupIndex === 1 || projectIndex >= projects.length}
-                    project={project}
-                    onSelect={setSelectedProject}
-                  />
-                ))}
-              </div>
-            ))}
-          </div>
-        </div>
+        <ProjectMarquee onSelect={setSelectedProject} />
       </section>
       <ProjectOverlay
         project={selectedProject}
@@ -207,14 +188,186 @@ export default function ProjectsSection() {
   );
 }
 
+function ProjectMarquee({ onSelect }: { onSelect: (project: Project) => void }) {
+  const viewportRef = useRef<HTMLDivElement>(null);
+  const autoScrollIntervalRef = useRef<number | null>(null);
+  const lastFrameTimeRef = useRef<number | null>(null);
+  const blockCardClickRef = useRef(false);
+  const dragStateRef = useRef({
+    isDragging: false,
+    pointerId: 0,
+    scrollLeft: 0,
+    startX: 0,
+  });
+
+  useEffect(() => {
+    const autoScroll = () => {
+      const viewport = viewportRef.current;
+      const time = window.performance.now();
+
+      if (viewport) {
+        const previousTime = lastFrameTimeRef.current ?? time;
+        const deltaTime = Math.min(time - previousTime, 64);
+        const loopWidth = viewport.scrollWidth / 2;
+
+        if (!dragStateRef.current.isDragging && loopWidth > 0) {
+          viewport.scrollLeft += deltaTime * 0.05;
+
+          if (viewport.scrollLeft >= loopWidth) {
+            viewport.scrollLeft -= loopWidth;
+          }
+        }
+
+        lastFrameTimeRef.current = time;
+      }
+    };
+
+    autoScrollIntervalRef.current = window.setInterval(autoScroll, 16);
+
+    return () => {
+      if (autoScrollIntervalRef.current) {
+        window.clearInterval(autoScrollIntervalRef.current);
+      }
+    };
+  }, []);
+
+  const startDrag = (event: React.PointerEvent<HTMLDivElement>) => {
+    const viewport = viewportRef.current;
+
+    if (!viewport) {
+      return;
+    }
+
+    dragStateRef.current = {
+      isDragging: true,
+      pointerId: event.pointerId,
+      scrollLeft: viewport.scrollLeft,
+      startX: event.clientX,
+    };
+    viewport.setPointerCapture(event.pointerId);
+  };
+
+  const moveDrag = (event: React.PointerEvent<HTMLDivElement>) => {
+    const viewport = viewportRef.current;
+    const dragState = dragStateRef.current;
+
+    if (!viewport || !dragState.isDragging || dragState.pointerId !== event.pointerId) {
+      return;
+    }
+
+    const distance = event.clientX - dragState.startX;
+
+    if (Math.abs(distance) > 5) {
+      blockCardClickRef.current = true;
+    }
+
+    const loopWidth = viewport.scrollWidth / 2;
+    let nextScrollLeft = dragState.scrollLeft - distance;
+
+    if (loopWidth > 0) {
+      if (nextScrollLeft < 0) {
+        nextScrollLeft += loopWidth;
+      } else if (nextScrollLeft >= loopWidth) {
+        nextScrollLeft -= loopWidth;
+      }
+    }
+
+    viewport.scrollLeft = nextScrollLeft;
+  };
+
+  const stopDrag = (event: React.PointerEvent<HTMLDivElement>) => {
+    const viewport = viewportRef.current;
+    const dragState = dragStateRef.current;
+
+    if (!viewport || dragState.pointerId !== event.pointerId) {
+      return;
+    }
+
+    dragStateRef.current.isDragging = false;
+
+    if (viewport.hasPointerCapture(event.pointerId)) {
+      viewport.releasePointerCapture(event.pointerId);
+    }
+
+    window.setTimeout(() => {
+      blockCardClickRef.current = false;
+    }, 80);
+  };
+
+  const handleWheel = (event: React.WheelEvent<HTMLDivElement>) => {
+    const viewport = viewportRef.current;
+
+    if (!viewport) {
+      return;
+    }
+
+    const delta = Math.abs(event.deltaX) > Math.abs(event.deltaY) ? event.deltaX : event.deltaY;
+
+    if (!delta) {
+      return;
+    }
+
+    event.preventDefault();
+    const loopWidth = viewport.scrollWidth / 2;
+    let nextScrollLeft = viewport.scrollLeft + delta;
+
+    if (loopWidth > 0) {
+      if (nextScrollLeft < 0) {
+        nextScrollLeft += loopWidth;
+      } else if (nextScrollLeft >= loopWidth) {
+        nextScrollLeft -= loopWidth;
+      }
+    }
+
+    viewport.scrollLeft = nextScrollLeft;
+  };
+
+  return (
+    <div
+      ref={viewportRef}
+      className="project-marquee mt-8"
+      aria-label="Daftar project sebelumnya yang bergerak dari kanan ke kiri"
+      onPointerDown={startDrag}
+      onPointerCancel={stopDrag}
+      onPointerLeave={stopDrag}
+      onPointerMove={moveDrag}
+      onPointerUp={stopDrag}
+      onLostPointerCapture={stopDrag}
+      onWheel={handleWheel}
+    >
+      <div className="project-marquee__track">
+        {[0, 1].map((groupIndex) => (
+          <div
+            key={groupIndex}
+            aria-hidden={groupIndex === 1 || undefined}
+            className="project-marquee__group"
+          >
+            {marqueeProjects.map((project, projectIndex) => (
+              <ProjectCard
+                key={`${project.name}-${groupIndex}-${projectIndex}`}
+                isDuplicate={groupIndex === 1 || projectIndex >= projects.length}
+                project={project}
+                onSelect={onSelect}
+                shouldBlockClick={() => blockCardClickRef.current}
+              />
+            ))}
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
 function ProjectCard({
   isDuplicate,
   onSelect,
   project,
+  shouldBlockClick,
 }: {
   isDuplicate: boolean;
   onSelect: (project: Project) => void;
   project: Project;
+  shouldBlockClick?: () => boolean;
 }) {
   const viewDetailLabel = useLocalizedText("project.view", "Lihat detail");
 
@@ -227,6 +380,11 @@ function ProjectCard({
         onClick={(event) => {
           event.preventDefault();
           event.stopPropagation();
+
+          if (shouldBlockClick?.()) {
+            return;
+          }
+
           onSelect(project);
         }}
         className="group flex h-full w-full flex-col rounded-lg border border-white/10 bg-brand-dark p-4 text-left shadow-[0_18px_45px_rgba(0,0,0,0.24)] transition hover:-translate-y-1 hover:border-brand-cyan/60 hover:bg-brand-surface focus:outline-none focus:ring-2 focus:ring-brand-cyan focus:ring-offset-2 focus:ring-offset-brand-night"
@@ -280,7 +438,7 @@ function ProjectOverlay({
   return createPortal(
     <div
       data-project-overlay-scroll
-      className="fixed inset-0 z-[80] flex min-h-[100dvh] items-start justify-center overflow-y-auto overscroll-contain bg-brand-dark/88 px-3 py-3 backdrop-blur-xl sm:grid sm:place-items-center sm:px-6"
+      className="fixed inset-0 z-[80] flex min-h-[100dvh] items-start justify-center overflow-y-auto overscroll-contain bg-brand-dark/88 px-3 py-3 backdrop-blur-xl sm:grid sm:place-items-center sm:overflow-hidden sm:px-6"
       role="presentation"
       onMouseDown={(event) => {
         if (event.target === event.currentTarget) {
@@ -292,9 +450,9 @@ function ProjectOverlay({
         role="dialog"
         aria-modal="true"
         aria-labelledby="project-detail-title"
-        className="relative my-auto w-full max-w-3xl overflow-y-auto overscroll-contain rounded-lg border border-white/10 bg-brand-night p-2.5 pb-8 shadow-2xl shadow-black/50 sm:max-h-[calc(100dvh-2rem)] sm:p-3 sm:pb-10"
+        className="relative my-auto w-full max-w-3xl rounded-lg border border-white/10 bg-brand-night p-2.5 pb-5 shadow-2xl shadow-black/50 sm:max-h-[calc(100dvh-1.5rem)] sm:max-w-[42rem] sm:overflow-hidden sm:p-3 sm:pb-3"
       >
-        <div className="mb-2 flex items-center justify-between gap-4">
+        <div className="mb-2 flex items-center justify-between gap-4 sm:mb-1.5">
           <span className="text-[0.68rem] font-black uppercase text-slate-500">
             <LocalizedText id="project.detail">Project detail</LocalizedText>
           </span>
@@ -308,37 +466,37 @@ function ProjectOverlay({
           </button>
         </div>
 
-        <div className="grid gap-3">
+        <div className="grid gap-3 sm:gap-2.5">
           <ProjectMedia key={project.name} project={project} />
 
           <div className="text-left">
-            <p className="inline-flex rounded-full border border-brand-cyan/30 bg-brand-cyan/10 px-2.5 py-0.5 text-[0.7rem] font-bold text-brand-cyan">
+            <p className="inline-flex rounded-full border border-brand-cyan/30 bg-brand-cyan/10 px-2.5 py-0.5 text-[0.7rem] font-bold text-brand-cyan sm:px-2 sm:text-[0.66rem]">
               <LocalizedText id={project.categoryId}>{project.category}</LocalizedText>
             </p>
-            <h3 id="project-detail-title" className="mt-2 text-2xl font-black leading-tight text-white">
+            <h3 id="project-detail-title" className="mt-2 text-2xl font-black leading-tight text-white sm:mt-1.5 sm:text-xl">
               {project.name}
             </h3>
-            <p className="mt-2 max-w-4xl text-sm leading-6 text-slate-300">
+            <p className="mt-2 max-w-4xl text-sm leading-6 text-slate-300 sm:mt-1.5 sm:text-[0.82rem] sm:leading-5">
               <LocalizedText id={project.descriptionId}>{project.description}</LocalizedText>
             </p>
 
-            <div className="mt-3 flex flex-wrap gap-1.5">
+            <div className="mt-3 flex flex-wrap gap-1.5 sm:mt-2 sm:gap-1">
               {project.tags.map((tag) => (
                 <span
                   key={tag}
-                  className="border border-white/10 bg-white/[0.03] px-2.5 py-1 text-[0.7rem] font-bold text-slate-300"
+                  className="border border-white/10 bg-white/[0.03] px-2.5 py-1 text-[0.7rem] font-bold text-slate-300 sm:px-2 sm:py-0.5 sm:text-[0.64rem]"
                 >
                   {tag}
                 </span>
               ))}
             </div>
 
-            <div className="mt-3 flex justify-end pb-4 sm:pb-6">
+            <div className="mt-5 flex justify-end pb-6 sm:mt-2 sm:-translate-y-3 sm:pb-0">
               <a
                 href={createProjectConsultHref(project.name)}
                 target="_blank"
                 rel="noreferrer"
-                className="inline-flex min-h-9 items-center justify-center rounded-full bg-brand-cyan px-4 py-2 text-xs font-bold text-brand-dark transition hover:bg-brand-lime focus:outline-none focus:ring-2 focus:ring-brand-lime focus:ring-offset-2 focus:ring-offset-brand-night"
+                className="inline-flex min-h-9 items-center justify-center rounded-full bg-brand-cyan px-4 py-2 text-xs font-bold text-brand-dark transition hover:bg-brand-lime focus:outline-none focus:ring-2 focus:ring-brand-lime focus:ring-offset-2 focus:ring-offset-brand-night sm:min-h-8 sm:px-3.5 sm:py-1.5 sm:text-[0.72rem]"
               >
                 <LocalizedText id="project.consult">Konsultasi project serupa</LocalizedText>
               </a>
@@ -360,6 +518,7 @@ function ProjectMedia({ project }: { project: Project }) {
     scrollLeft: 0,
     startX: 0,
   });
+  const wheelSnapTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const mediaItems = [
     {
       label: "Foto mockup",
@@ -396,19 +555,21 @@ function ProjectMedia({ project }: { project: Project }) {
     });
   }, [activeIndex]);
 
-  const syncActiveMedia = () => {
-    const viewport = mediaViewportRef.current;
+  useEffect(() => {
+    return () => {
+      if (wheelSnapTimeoutRef.current) {
+        clearTimeout(wheelSnapTimeoutRef.current);
+      }
+    };
+  }, []);
 
-    if (!viewport) {
-      return;
-    }
-
+  const getClosestMediaIndex = (viewport: HTMLDivElement) => {
     const slides = Array.from(
       viewport.querySelectorAll<HTMLElement>("[data-project-media-slide]"),
     );
 
     if (!slides.length) {
-      return;
+      return 0;
     }
 
     const viewportCenter = viewport.scrollLeft + viewport.clientWidth / 2;
@@ -425,6 +586,18 @@ function ProjectMedia({ project }: { project: Project }) {
       }
     });
 
+    return closestIndex;
+  };
+
+  const syncActiveMedia = () => {
+    const viewport = mediaViewportRef.current;
+
+    if (!viewport) {
+      return;
+    }
+
+    const closestIndex = getClosestMediaIndex(viewport);
+
     setActiveIndex((currentIndex) =>
       currentIndex === closestIndex ? currentIndex : closestIndex,
     );
@@ -440,6 +613,16 @@ function ProjectMedia({ project }: { project: Project }) {
 
     viewport.scrollTo({ behavior: "smooth", left: slide.offsetLeft });
     setActiveIndex(index);
+  };
+
+  const snapToClosestMedia = () => {
+    const viewport = mediaViewportRef.current;
+
+    if (!viewport) {
+      return;
+    }
+
+    scrollToMedia(getClosestMediaIndex(viewport));
   };
 
   const startDrag = (event: React.PointerEvent<HTMLDivElement>) => {
@@ -484,17 +667,42 @@ function ProjectMedia({ project }: { project: Project }) {
       viewport.releasePointerCapture(event.pointerId);
     }
 
+    snapToClosestMedia();
+  };
+
+  const scrollWithWheel = (event: React.WheelEvent<HTMLDivElement>) => {
+    const viewport = mediaViewportRef.current;
+
+    if (!viewport || !hasMultipleMedia) {
+      return;
+    }
+
+    const delta =
+      Math.abs(event.deltaX) > Math.abs(event.deltaY) ? event.deltaX : event.deltaY;
+
+    if (!delta) {
+      return;
+    }
+
+    event.preventDefault();
+    viewport.scrollLeft += delta;
     syncActiveMedia();
+
+    if (wheelSnapTimeoutRef.current) {
+      clearTimeout(wheelSnapTimeoutRef.current);
+    }
+
+    wheelSnapTimeoutRef.current = setTimeout(snapToClosestMedia, 140);
   };
 
   return (
-    <div className="mx-auto w-full max-w-[38rem] overflow-hidden rounded-lg bg-brand-dark">
-      <div className="flex items-center justify-between gap-3 border-b border-white/10 bg-brand-surface px-3 py-2">
-        <span className="text-xs font-black uppercase text-brand-cyan">
+    <div className="mx-auto w-full max-w-[38rem] overflow-hidden rounded-lg bg-brand-dark sm:max-w-[30rem]">
+      <div className="flex items-center justify-between gap-3 border-b border-white/10 bg-brand-surface px-3 py-2 sm:px-2.5 sm:py-1.5">
+        <span className="text-xs font-black uppercase text-brand-cyan sm:text-[0.68rem]">
           <LocalizedText id={mediaItems[activeIndex].labelId}>{mediaItems[activeIndex].label}</LocalizedText>
         </span>
         {hasMultipleMedia ? (
-          <span className="text-xs font-bold text-slate-500">
+          <span className="text-xs font-bold text-slate-500 sm:text-[0.68rem]">
             {activeIndex + 1} / {mediaItems.length}
           </span>
         ) : null}
@@ -505,10 +713,13 @@ function ProjectMedia({ project }: { project: Project }) {
           ref={mediaViewportRef}
           className="project-detail-media__viewport flex h-full snap-x snap-mandatory overflow-x-auto"
           onPointerDown={startDrag}
+          onPointerCancel={stopDrag}
           onPointerLeave={stopDrag}
           onPointerMove={moveDrag}
           onPointerUp={stopDrag}
+          onLostPointerCapture={stopDrag}
           onScroll={syncActiveMedia}
+          onWheel={scrollWithWheel}
         >
           {mediaItems.map((item, index) => (
             <div
@@ -547,7 +758,7 @@ function ProjectMedia({ project }: { project: Project }) {
         </div>
       </div>
       {hasMultipleMedia ? (
-        <div className="flex items-center justify-center gap-2 bg-brand-dark px-3 py-3">
+        <div className="flex items-center justify-center gap-2 bg-brand-dark px-3 py-3 sm:py-2">
           {mediaItems.map((item, index) => (
             <button
               key={`${item.type}-${item.src}-dot`}

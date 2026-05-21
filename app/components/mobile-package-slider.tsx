@@ -112,6 +112,8 @@ export default function MobilePackageSlider({ packages }: { packages: PackageIte
 
             <a
               href={item.selectionHref}
+              target="_blank"
+              rel="noreferrer"
               className={`mt-8 inline-flex min-h-11 items-center justify-center gap-2 rounded-full px-5 py-3 text-sm font-black transition focus:outline-none focus:ring-2 focus:ring-offset-2 ${
                 item.featured
                   ? "bg-brand-dark text-white hover:bg-brand-blue focus:ring-brand-dark focus:ring-offset-brand-lime"

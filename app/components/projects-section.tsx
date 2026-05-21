@@ -121,7 +121,7 @@ function createProjectConsultHref(projectName: string) {
     `Halo Nocoding,\n\nSaya tertarik konsultasi project serupa dengan ${projectName}. Mohon info langkah berikutnya.\n\nTerima kasih.`,
   );
 
-  return `mailto:${contactEmail}?subject=${subject}&body=${body}`;
+  return `https://mail.google.com/mail/?view=cm&fs=1&to=${contactEmail}&su=${subject}&body=${body}`;
 }
 
 export default function ProjectsSection() {
@@ -513,6 +513,8 @@ function ProjectOverlay({
             <div className="mt-5 flex justify-end pb-6 sm:mt-2 sm:-translate-y-3 sm:pb-0">
               <a
                 href={createProjectConsultHref(project.name)}
+                target="_blank"
+                rel="noreferrer"
                 className="inline-flex min-h-9 items-center justify-center rounded-full bg-brand-cyan px-4 py-2 text-xs font-bold text-brand-dark transition hover:bg-brand-lime focus:outline-none focus:ring-2 focus:ring-brand-lime focus:ring-offset-2 focus:ring-offset-brand-night sm:min-h-8 sm:px-3.5 sm:py-1.5 sm:text-[0.72rem]"
               >
                 <LocalizedText id="project.consult">Konsultasi project serupa</LocalizedText>

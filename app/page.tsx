@@ -91,7 +91,7 @@ function createEmailHref(subjectText: string, bodyText: string) {
   const subject = encodeURIComponent(subjectText);
   const body = encodeURIComponent(bodyText);
 
-  return `mailto:${contactEmail}?subject=${subject}&body=${body}`;
+  return `https://mail.google.com/mail/?view=cm&fs=1&to=${contactEmail}&su=${subject}&body=${body}`;
 }
 
 const contactEmailHref = createEmailHref(
@@ -435,6 +435,8 @@ function PackagesSection() {
 
             <a
               href={item.selectionHref}
+              target="_blank"
+              rel="noreferrer"
               className={`mt-8 inline-flex min-h-11 items-center justify-center gap-2 rounded-full px-5 py-3 text-sm font-black transition focus:outline-none focus:ring-2 focus:ring-offset-2 ${
                 item.featured
                   ? "bg-brand-dark text-white hover:bg-brand-blue focus:ring-brand-dark focus:ring-offset-brand-lime"
@@ -511,6 +513,8 @@ function ContactSection() {
             <div className="flex flex-col gap-3 sm:flex-row sm:justify-center lg:justify-start">
               <a
                 href={contactEmailHref}
+                target="_blank"
+                rel="noreferrer"
                 className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-brand-dark px-6 py-3 text-sm font-bold text-white transition hover:bg-brand-blue focus:outline-none focus:ring-2 focus:ring-brand-blue focus:ring-offset-2"
               >
                 <Icon name="mail" className="h-4 w-4" />
@@ -569,6 +573,8 @@ function Footer() {
             </p>
             <a
               href={contactEmailHref}
+              target="_blank"
+              rel="noreferrer"
               className="mt-3 inline-flex min-h-9 items-center gap-2.5 text-sm font-semibold text-white transition hover:text-brand-cyan focus:outline-none focus:ring-2 focus:ring-brand-cyan focus:ring-offset-2 focus:ring-offset-brand-dark"
             >
               <Icon name="mail" className="h-4 w-4 text-brand-cyan" />

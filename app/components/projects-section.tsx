@@ -688,7 +688,7 @@ function ProjectMedia({ project }: { project: Project }) {
       <div className="relative aspect-[1.774] overflow-hidden bg-brand-dark">
         <div
           ref={mediaViewportRef}
-          className="project-detail-media__viewport flex h-full snap-x snap-mandatory overflow-hidden"
+          className="project-detail-media__viewport flex h-full snap-x snap-mandatory overflow-x-auto overflow-y-hidden"
           onPointerDown={startDrag}
           onPointerCancel={stopDrag}
           onPointerLeave={stopDrag}

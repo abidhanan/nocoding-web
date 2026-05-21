@@ -322,11 +322,16 @@
 
 .project-detail-media__track {
   backface-visibility: hidden;
-  contain: layout paint;
   transition: none;
-  transform: translate3d(0, 0, 0);
-  transform-style: preserve-3d;
+  transform: translateX(0);
   will-change: transform;
+}
+
+.project-detail-media__video {
+  display: block;
+  min-height: 100%;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
 }
 
 .project-detail-media__viewport:active {

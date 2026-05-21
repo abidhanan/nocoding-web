@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import { createPortal } from "react-dom";
 import { LocalizedText, useLocalizedText } from "./i18n";
 
@@ -583,8 +583,42 @@ function ProjectMedia({ project }: { project: Project }) {
       return;
     }
 
-    track.style.transform = `translate3d(${position}px, 0, 0)`;
+    track.style.transform = `translateX(${position}px)`;
   };
+
+  const prepareVideoForMobile = useCallback((video: HTMLVideoElement, shouldRestart = true) => {
+    video.muted = true;
+    video.playsInline = true;
+    video.setAttribute("playsinline", "");
+    video.setAttribute("webkit-playsinline", "");
+    video.preload = "auto";
+
+    if (shouldRestart) {
+      try {
+        video.currentTime = 0;
+      } catch {
+        // Video metadata may not be ready yet; autoplay will still begin from the start.
+      }
+    }
+
+    if (video.readyState === HTMLMediaElement.HAVE_NOTHING) {
+      video.load();
+    }
+
+    void video.play().catch(() => undefined);
+  }, []);
+
+  const playMediaVideo = useCallback((index: number, shouldRestart = true) => {
+    const video = mediaViewportRef.current?.querySelector<HTMLVideoElement>(
+      `video[data-media-index="${index}"]`,
+    );
+
+    if (!video) {
+      return;
+    }
+
+    prepareVideoForMobile(video, shouldRestart);
+  }, [prepareVideoForMobile]);
 
   const stopTrackAnimation = () => {
     if (!animationFrameRef.current) {
@@ -636,6 +670,10 @@ function ProjectMedia({ project }: { project: Project }) {
     activeIndexRef.current = nextIndex;
     setActiveIndex(nextIndex);
     setTrackTarget(getSlidePosition(nextIndex), immediate);
+
+    if (mediaItems[nextIndex]?.type === "video") {
+      playMediaVideo(nextIndex);
+    }
   };
 
   useEffect(() => {
@@ -644,19 +682,27 @@ function ProjectMedia({ project }: { project: Project }) {
     videos.forEach((video) => {
       const isActive = Number(video.dataset.mediaIndex) === activeIndex;
 
-      try {
-        video.currentTime = 0;
-      } catch {
-        // Video metadata may not be ready yet; autoplay will still begin from the start.
-      }
+      video.muted = true;
+      video.playsInline = true;
+      video.setAttribute("playsinline", "");
+      video.setAttribute("webkit-playsinline", "");
+      video.preload = "auto";
 
       if (isActive) {
-        void video.play().catch(() => undefined);
+        window.setTimeout(() => {
+          prepareVideoForMobile(video);
+        }, 80);
       } else {
         video.pause();
+
+        try {
+          video.currentTime = 0;
+        } catch {
+          // Ignore videos that are not ready yet.
+        }
       }
     });
-  }, [activeIndex]);
+  }, [activeIndex, prepareVideoForMobile]);
 
   useEffect(() => {
     return () => {
@@ -690,7 +736,7 @@ function ProjectMedia({ project }: { project: Project }) {
       }
 
       if (track) {
-        track.style.transform = `translate3d(${position}px, 0, 0)`;
+        track.style.transform = `translateX(${position}px)`;
       }
     };
 
@@ -878,7 +924,7 @@ function ProjectMedia({ project }: { project: Project }) {
                   />
                 ) : (
                   <video
-                    className="pointer-events-none h-full w-full bg-brand-dark object-contain"
+                    className="project-detail-media__video pointer-events-none h-full w-full bg-brand-dark object-contain"
                     autoPlay={index === activeIndex}
                     data-media-index={index}
                     disablePictureInPicture
@@ -887,11 +933,19 @@ function ProjectMedia({ project }: { project: Project }) {
                     playsInline
                     poster={project.image}
                     preload="auto"
+                    src={item.src}
+                    onCanPlay={(event) => {
+                      if (index === activeIndexRef.current) {
+                        prepareVideoForMobile(event.currentTarget, false);
+                      }
+                    }}
+                    onLoadedData={(event) => {
+                      if (index === activeIndexRef.current) {
+                        prepareVideoForMobile(event.currentTarget, false);
+                      }
+                    }}
                     controlsList="nofullscreen nodownload noremoteplayback"
-                  >
-                    <source src={item.src} type="video/mp4" />
-                    Browser Anda tidak mendukung pemutar video.
-                  </video>
+                  />
                 )}
               </div>
             ))}

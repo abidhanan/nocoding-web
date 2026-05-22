@@ -601,7 +601,7 @@ function ProjectMedia({ project }: { project: Project }) {
       }
     }
 
-    if (video.readyState === HTMLMediaElement.HAVE_NOTHING) {
+    if (video.readyState === 0) {
       video.load();
     }
 
@@ -933,7 +933,6 @@ function ProjectMedia({ project }: { project: Project }) {
                     playsInline
                     poster={project.image}
                     preload="auto"
-                    src={item.src}
                     onCanPlay={(event) => {
                       if (index === activeIndexRef.current) {
                         prepareVideoForMobile(event.currentTarget, false);
@@ -945,7 +944,9 @@ function ProjectMedia({ project }: { project: Project }) {
                       }
                     }}
                     controlsList="nofullscreen nodownload noremoteplayback"
-                  />
+                  >
+                    <source src={item.src} type="video/mp4" />
+                  </video>
                 )}
               </div>
             ))}

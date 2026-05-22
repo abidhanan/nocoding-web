@@ -330,8 +330,6 @@
 .project-detail-media__video {
   display: block;
   min-height: 100%;
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
 }
 
 .project-detail-media__viewport:active {

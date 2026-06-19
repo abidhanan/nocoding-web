@@ -539,7 +539,7 @@ function ContactSection() {
 
 function Footer() {
   return (
-    <footer className="border-t border-white/10 bg-brand-dark px-6 py-7 text-xs text-slate-400">
+    <footer className="border-t border-white/10 bg-brand-dark px-6 pt-7 pb-0 text-xs text-slate-400">
       <div className="mx-auto w-full max-w-[21.5rem] sm:max-w-7xl">
         <div className="grid gap-6 text-center md:grid-cols-3 md:items-start md:text-left">
           <div className="flex flex-col items-center md:items-start">
@@ -592,7 +592,7 @@ function Footer() {
           </div>
         </div>
 
-        <div className="mt-7 flex min-h-12 items-center justify-center border-t border-white/10 text-center text-[0.72rem] text-slate-500">
+        <div className="mt-7 flex min-h-[4.75rem] items-center justify-center border-t border-white/10 text-center text-[0.72rem] text-slate-500">
           <p>
             &copy; 2026 Nocoding - Dibuat oleh{" "}
             <a
@@ -603,7 +603,6 @@ function Footer() {
             >
               Abid Hanan Wicaksono
             </a>
-            .
           </p>
         </div>
       </div>

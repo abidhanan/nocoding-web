@@ -592,7 +592,7 @@ function Footer() {
           </div>
         </div>
 
-        <div className="mt-7 border-t border-white/10 pt-4 text-center text-[0.72rem] text-slate-500">
+        <div className="mt-7 flex min-h-12 items-center justify-center border-t border-white/10 text-center text-[0.72rem] text-slate-500">
           <p>
             &copy; 2026 Nocoding - Dibuat oleh{" "}
             <a

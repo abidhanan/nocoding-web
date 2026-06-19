@@ -594,7 +594,16 @@ function Footer() {
 
         <div className="mt-7 border-t border-white/10 pt-4 text-center text-[0.72rem] text-slate-500">
           <p>
-            <LocalizedText id="footer.copyright">&copy; 2026 Nocoding - Semua hak cipta dilindungi.</LocalizedText>
+            &copy; 2026 Nocoding - Dibuat oleh{" "}
+            <a
+              href="https://www.abidhanan.my.id/"
+              target="_blank"
+              rel="noreferrer"
+              className="font-semibold text-slate-300 transition hover:text-brand-cyan"
+            >
+              Abid Hanan Wicaksono
+            </a>
+            .
           </p>
         </div>
       </div>

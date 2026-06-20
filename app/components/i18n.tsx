@@ -120,6 +120,7 @@ const englishText: Record<string, string> = {
   "footer.contact": "Contact",
   "footer.connect": "Let's Connect",
   "footer.copyright": "(c) 2026 Nocoding - All rights reserved.",
+  "footer.copyright.prefix": "© 2026 Nocoding - Created by",
   "project.category.ecoswap": "Used goods marketplace website",
   "project.description.ecoswap":
     "A pre-loved marketplace that helps users sell and buy used goods with a modern look, clear brand message, and responsive experience.",

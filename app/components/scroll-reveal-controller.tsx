@@ -4,7 +4,9 @@ import { useEffect } from "react";
 
 export default function ScrollRevealController() {
   useEffect(() => {
-    const sections = Array.from(document.querySelectorAll<HTMLElement>("main > section[id]"));
+    const sections = Array.from(
+      document.querySelectorAll<HTMLElement>("main > section[id]:not(#beranda)"),
+    );
 
     if (!sections.length) {
       return undefined;

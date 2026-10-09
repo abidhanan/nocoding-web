@@ -1,28 +1,27 @@
 "use client";
 
-import { useSyncExternalStore, type ReactNode } from "react";
+import { useSyncExternalStore } from "react";
 
 export type Language = "id" | "en";
 
 const storageKey = "nocoding-language";
 
-const englishText: Record<string, string> = {
+export const englishText: Record<string, string> = {
   "skip.content": "Skip to content",
   "nav.home": "Home",
   "nav.services": "Services",
   "nav.process": "Process",
   "nav.project": "Project",
-  "nav.package": "Packages",
+  "nav.package": "Pricing",
   "nav.faq": "FAQ",
   "nav.contact": "Contact",
-  "hero.eyebrow": "No-code website and custom system studio",
-  "hero.description":
-    "Business websites that are ready to launch, look serious, and are easy to grow. We help from page strategy, design, content, through launch.",
+  "hero.description.line1": "Website, app, and automation development",
+  "hero.description.line2": "that is fast, affordable, and satisfying.",
   "hero.cta.contact": "Free consultation",
   "hero.cta.services": "View services",
-  "hero.stat.days": "working days for the first landing page",
-  "hero.stat.layers": "work layers: strategy, design, launch",
-  "hero.stat.responsive": "responsive for mobile and desktop",
+  "hero.stat.turnaround.value": "1-3 days",
+  "hero.stat.turnaround": "project turnaround",
+  "hero.stat.freedom": "free requests as you wish",
   "hero.board.title": "Launch board",
   "hero.board.homepage": "Homepage",
   "hero.board.copywriting": "Copywriting",
@@ -34,88 +33,99 @@ const englishText: Record<string, string> = {
   "services.eyebrow": "Services",
   "services.description":
     "We combine content strategy, interface design, and technical implementation so your website is not only online, but actually works.",
-  "services.0.title": "Business website",
+  "services.0.title": "Personal portfolio / CV",
   "services.0.description":
-    "Landing pages, company profiles, catalogs, and campaign pages that launch quickly without sacrificing visual quality.",
-  "services.0.item.0": "Page copywriting",
-  "services.0.item.1": "Responsive design",
-  "services.0.item.2": "Basic SEO setup",
-  "services.1.title": "Operational system",
+    "A portfolio website or personal CV to present your profile, experience, and work professionally.",
+  "services.0.item.0": "Profile & experience",
+  "services.0.item.1": "Work gallery",
+  "services.0.item.2": "Downloadable CV",
+  "services.0.item.3": "And more",
+  "services.1.title": "Landing page or company profile",
   "services.1.description":
-    "Internal dashboards, order forms, client portals, and daily workflow automations tailored to how your team works.",
-  "services.1.item.0": "Clean workflow",
-  "services.1.item.1": "User roles",
-  "services.1.item.2": "Data export",
-  "services.2.title": "Digital commerce",
+    "A landing page or company profile that launches fast, looks convincing, and is ready to attract clients.",
+  "services.1.item.0": "Page copywriting",
+  "services.1.item.1": "Responsive and interactive design",
+  "services.1.item.2": "SEO setup",
+  "services.1.item.3": "And more",
+  "services.2.title": "Information & operational system",
   "services.2.description":
-    "Product catalogs, promo pages, lightweight checkout, and sales contact integration to speed up conversion.",
-  "services.2.item.0": "Catalog structure",
-  "services.2.item.1": "Sales CTA",
-  "services.2.item.2": "Analytics ready",
+    "Dashboards, portals, and internal systems to manage your data and day-to-day business operations.",
+  "services.2.item.0": "Clean workflow",
+  "services.2.item.1": "User roles",
+  "services.2.item.2": "Data export",
+  "services.2.item.3": "And more",
+  "services.3.title": "Automation",
+  "services.3.description":
+    "Automate repetitive processes like notifications, tool integrations, and workflows so your team saves time.",
+  "services.3.item.0": "Tool integration",
+  "services.3.item.1": "Automatic notifications",
+  "services.3.item.2": "Automated workflows",
+  "services.3.item.3": "And more",
   "process.eyebrow": "Process",
   "process.description":
     "Every phase has outputs you can see, test, and approve. You know exactly where the work is moving.",
   "process.0.title": "Needs audit",
   "process.0.description":
-    "We map business goals, visual references, core features, and launch priorities.",
-  "process.1.title": "Experience design",
+    "We map business goals, visual references, core features, and work priorities.",
+  "process.1.title": "Design review",
   "process.1.description":
-    "Page structure, copy, components, and conversion flows are cleaned up before production.",
-  "process.2.title": "Build and test",
+    "Structure, design, and flow are reviewed and approved together before production.",
+  "process.2.title": "Development",
   "process.2.description":
-    "The website is built responsively, tested for basic performance, and prepared for future content updates.",
-  "process.3.title": "Measured launch",
+    "The website, app, or automation is built responsively based on the approved design.",
+  "process.3.title": "Result review",
   "process.3.description":
-    "Publishing, metadata, sitemap, and post-launch optimization guidance are completed together.",
+    "The result is reviewed together, revised if needed, and tested until it is ready to go live.",
+  "process.4.title": "Launch & handover",
+  "process.4.description":
+    "The product is published, metadata & SEO are set, then access and guidance are handed over to you.",
   "projects.eyebrow": "Previous Projects",
   "projects.description":
-    "Each project is built to bring business messages into clearer pages, ready on every device, and easier for users to act on.",
-  "packages.eyebrow": "Packages",
+    "Each project is designed to communicate business messages clearly, stay responsive on every device, and make it easier for users to take action.",
+  "packages.eyebrow": "Pricing",
   "packages.description":
-    "Packages can be adjusted after the consultation session so budget, timeline, and results stay realistic.",
-  "packages.0.price": "From Rp2.5M",
-  "packages.0.description": "For businesses that need a professional page live quickly.",
-  "packages.0.feature.0": "1 responsive landing page",
-  "packages.0.feature.1": "Core copywriting structure",
-  "packages.0.feature.2": "Basic technical SEO",
-  "packages.0.feature.3": "Email contact form",
-  "packages.0.feature.4": "Free maintenance + hosting for 1 year",
-  "packages.1.price": "From Rp7.5M",
-  "packages.1.description": "For brands that need multiple pages and a mature conversion flow.",
-  "packages.1.badge": "Popular",
-  "packages.1.feature.0": "Up to 5 core pages",
-  "packages.1.feature.1": "Custom component design",
-  "packages.1.feature.2": "Analytics integration",
-  "packages.1.feature.3": "Content update documentation",
+    "Pricing can be adjusted after the consultation session so budget, timeline, and results stay realistic.",
+  "packages.price.from": "Start from",
+  "packages.price.period": "/ year",
+  "packages.0.name": "Small",
+  "packages.1.name": "Big",
+  "packages.0.price": "IDR 500K",
+  "packages.0.description": "A portfolio, personal CV, or simple landing page website that launches quickly.",
+  "packages.0.feature.0": "Portfolio / CV / landing page",
+  "packages.0.feature.1": "Responsive design",
+  "packages.0.feature.2": "Technical SEO",
+  "packages.0.feature.3": "Contact form",
+  "packages.0.feature.4": "Free maintenance + domain for 1 year",
+  "packages.1.price": "IDR 2M",
+  "packages.1.description": "Company profile, information & operational system, or automation tailored to your needs.",
+  "packages.1.feature.0": "Multi-page website / app",
+  "packages.1.feature.1": "Information & operational system",
+  "packages.1.feature.2": "Business process automation",
+  "packages.1.feature.3": "User roles & access",
   "packages.1.feature.4": "Free maintenance + hosting for 1 year",
-  "packages.2.description": "For internal workflows, portals, catalogs, or business dashboards.",
-  "packages.2.feature.0": "Business process mapping",
-  "packages.2.feature.1": "Dashboard or portal",
-  "packages.2.feature.2": "User roles and access",
-  "packages.2.feature.3": "Feature iteration roadmap",
-  "packages.2.feature.4": "Free maintenance + hosting for 1 year",
   "packages.select": "Select",
   "faq.eyebrow": "FAQ",
   "faq.title": "Questions that usually come up before starting.",
   "faq.description":
-    "If your need is not covered here, the first consultation session will help define the most efficient scope.",
-  "faq.0.question": "Is it really no-code from the client side?",
+    "If your question has not been answered here, a consultation session can help determine your needs.",
+  "faq.0.question": "What services can Nocoding create?",
   "faq.0.answer":
-    "Yes. The nocoding team handles the technical structure, design, and deployment. After launch, important content is made easy to update based on project needs.",
-  "faq.1.question": "How long does website development take?",
+    "We create personal portfolio or CV websites, landing pages or company profiles, information and operational systems, and business process automation.",
+  "faq.1.question": "How long does the development process take?",
   "faq.1.answer":
-    "A simple landing page usually takes 5-10 working days after materials are ready. Systems or multi-page websites depend on scope, integrations, and feedback rhythm.",
-  "faq.2.question": "Can maintenance continue after launch?",
+    "A personal portfolio, CV, or simple landing page usually takes 1-3 working days after the materials are ready. Larger projects depend on feature needs, integrations, and feedback rhythm.",
+  "faq.2.question": "Can the design and features be customized?",
   "faq.2.answer":
-    "Yes. After the website is live, you can choose support for content updates, performance improvements, new pages, or further feature development.",
-  "faq.3.question": "What needs to be prepared before starting?",
+    "Yes. The design, page structure, features, and workflow can be tailored to your needs. The design will be reviewed together before development begins.",
+  "faq.3.question": "What is included in the pricing?",
   "faq.3.answer":
-    "Just prepare a business overview, main services, visual references, and the contact details you want to display. If the materials are not complete yet, we help clean up the structure.",
+    "Pricing covers development based on the agreed package and scope. The Small package includes free maintenance and domain for 1 year, while the Big package includes free maintenance and hosting for 1 year.",
   "contact.eyebrow": "Start Project",
   "contact.title": "Tell us your website needs. We will help clean up the path.",
   "contact.description":
     "Send a short overview of your business, target pages, and desired timeline. The first reply will include scope recommendations and next steps.",
-  "contact.package": "Compare packages",
+  "contact.whatsapp": "Consult now",
+  "contact.package": "Compare pricing",
   "footer.tagline": "Business websites ready to launch, look serious, and are easy to grow.",
   "footer.contact": "Contact",
   "footer.connect": "Let's Connect",
@@ -229,20 +239,4 @@ export function useLocalizedText(id: string, fallback: string) {
   const language = useLanguage();
 
   return getLocalizedText(id, fallback, language);
-}
-
-export function LocalizedText({
-  children,
-  id,
-}: {
-  children: ReactNode;
-  id: string;
-}) {
-  const language = useLanguage();
-
-  if (language === "id") {
-    return <>{children}</>;
-  }
-
-  return <>{englishText[id] ?? children}</>;
 }

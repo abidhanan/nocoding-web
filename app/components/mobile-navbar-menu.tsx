@@ -1,8 +1,8 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import CenteredScrollLink from "./centered-scroll-link";
-import { LocalizedText } from "./i18n";
+import { LocalizedText } from "./localized-text";
 
 type NavLink = {
   href: string;
@@ -12,6 +12,7 @@ type NavLink = {
 
 export default function MobileNavbarMenu({ links }: { links: NavLink[] }) {
   const [isOpen, setIsOpen] = useState(false);
+  const containerRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     if (!isOpen) {
@@ -24,13 +25,23 @@ export default function MobileNavbarMenu({ links }: { links: NavLink[] }) {
       }
     };
 
-    window.addEventListener("keydown", closeOnEscape);
+    const closeOnOutsidePress = (event: PointerEvent) => {
+      if (!containerRef.current?.contains(event.target as Node)) {
+        setIsOpen(false);
+      }
+    };
 
-    return () => window.removeEventListener("keydown", closeOnEscape);
+    window.addEventListener("keydown", closeOnEscape);
+    document.addEventListener("pointerdown", closeOnOutsidePress);
+
+    return () => {
+      window.removeEventListener("keydown", closeOnEscape);
+      document.removeEventListener("pointerdown", closeOnOutsidePress);
+    };
   }, [isOpen]);
 
   return (
-    <div className="lg:hidden">
+    <div ref={containerRef} className="lg:hidden">
       <button
         type="button"
         aria-controls="mobile-navbar-menu"

@@ -1,8 +1,10 @@
 @import "tailwindcss";
 
-@theme {
+@theme inline {
   --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
 
+@theme {
   --color-brand-dark: #07111f;
   --color-brand-night: #0d1726;
   --color-brand-surface: #111f31;
@@ -502,6 +504,77 @@
   }
 }
 
+.whatsapp-float {
+  isolation: isolate;
+  animation: whatsapp-float-bob 3.2s ease-in-out infinite;
+  will-change: transform;
+}
+
+.whatsapp-float::before {
+  position: absolute;
+  z-index: -1;
+  inset: 0;
+  border: 2px solid rgb(37 211 102 / 0.7);
+  border-radius: inherit;
+  content: "";
+  animation: whatsapp-float-ring 3.2s ease-out infinite;
+}
+
+.whatsapp-float__icon {
+  animation: whatsapp-icon-wave 3.2s ease-in-out infinite;
+  transform-origin: 50% 70%;
+}
+
+@keyframes whatsapp-float-bob {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  45% {
+    transform: translateY(-0.35rem);
+  }
+}
+
+@keyframes whatsapp-float-ring {
+  0%,
+  48% {
+    opacity: 0;
+    transform: scale(1);
+  }
+
+  58% {
+    opacity: 0.7;
+  }
+
+  86%,
+  100% {
+    opacity: 0;
+    transform: scale(1.48);
+  }
+}
+
+@keyframes whatsapp-icon-wave {
+  0%,
+  48%,
+  70%,
+  100% {
+    transform: rotate(0deg) scale(1);
+  }
+
+  54% {
+    transform: rotate(-10deg) scale(1.08);
+  }
+
+  60% {
+    transform: rotate(10deg) scale(1.08);
+  }
+
+  66% {
+    transform: rotate(-6deg) scale(1.04);
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .project-marquee {
     overflow-x: auto;
@@ -517,7 +590,10 @@
   }
 
   .nocoding-logo-mark,
-  .nocoding-logo-mark__image {
+  .nocoding-logo-mark__image,
+  .whatsapp-float,
+  .whatsapp-float::before,
+  .whatsapp-float__icon {
     animation: none;
   }
 

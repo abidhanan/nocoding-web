@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const siteUrl = "https://nocoding.id";
+const siteUrl = "https://www.nocoding.web.id";
 
 export default function robots(): MetadataRoute.Robots {
   return {

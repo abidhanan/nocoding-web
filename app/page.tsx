@@ -1,8 +1,11 @@
 import ProjectsSection from "./components/projects-section";
 import CenteredScrollLink from "./components/centered-scroll-link";
-import { LocalizedText } from "./components/i18n";
+import { Illustration, type IllustrationName } from "./components/illustrations";
+import { LocalizedText } from "./components/localized-text";
 import MobilePackageSlider from "./components/mobile-package-slider";
+import { createWhatsAppHref, whatsappDisplay } from "./components/projects-data";
 import TypedBrand from "./components/typed-brand";
+import { WhatsAppIcon } from "./components/whatsapp";
 import Image from "next/image";
 import type { ReactNode } from "react";
 
@@ -27,155 +30,167 @@ type SocialIconName = "instagram" | "tiktok";
 
 const services = [
   {
-    title: "Website bisnis",
+    title: "Portofolio / CV Pribadi",
     description:
-      "Landing page, company profile, katalog, dan halaman kampanye yang cepat diluncurkan tanpa mengorbankan kualitas visual.",
+      "Website portofolio atau CV pribadi untuk menampilkan profil, pengalaman, dan karya Anda secara profesional.",
+    icon: "briefcase",
+    illustration: "portfolio",
+    items: ["Profil & pengalaman", "Galeri karya", "CV siap unduh", "dan lain-lain"],
+  },
+  {
+    title: "Landing Page / Profil Perusahaan",
+    description:
+      "Landing page atau company profile yang cepat tayang, meyakinkan, dan siap mendatangkan client.",
     icon: "monitor",
-    items: ["Copywriting halaman", "Desain responsif", "Setup SEO dasar"],
+    illustration: "landing",
+    items: ["Copywriting halaman", "Desain responsif dan interaktif", "Setup SEO", "dan lain-lain"],
   },
   {
-    title: "Sistem operasional",
+    title: "Sistem Informasi & Operasional",
     description:
-      "Dashboard internal, form order, portal klien, dan automasi proses harian yang disesuaikan dengan cara kerja tim Anda.",
+      "Dashboard, portal, dan sistem internal untuk mengelola data serta operasional bisnis sehari-hari.",
     icon: "workflow",
-    items: ["Alur kerja rapi", "Role pengguna", "Export data"],
+    illustration: "system",
+    items: ["Alur kerja rapi", "Role pengguna", "Export data", "dan lain-lain"],
   },
   {
-    title: "Digital commerce",
+    title: "Automasi",
     description:
-      "Katalog produk, halaman promo, checkout ringan, dan integrasi kontak penjualan untuk mempercepat konversi.",
-    icon: "storefront",
-    items: ["Struktur katalog", "CTA penjualan", "Analytics siap pakai"],
+      "Automasi proses berulang seperti notifikasi, integrasi tools, dan alur kerja agar tim lebih hemat waktu.",
+    icon: "bolt",
+    illustration: "automation",
+    items: ["Integrasi tools", "Notifikasi otomatis", "Alur kerja otomatis", "dan lain-lain"],
   },
 ] satisfies Array<{
   title: string;
   description: string;
   icon: IconName;
+  illustration: IllustrationName;
   items: string[];
 }>;
 
 const process = [
   {
-    title: "Audit kebutuhan",
+    title: "Audit Kebutuhan",
     description:
-      "Kami memetakan target bisnis, referensi visual, fitur utama, dan prioritas peluncuran.",
+      "Kami memetakan target bisnis, referensi visual, fitur utama, dan prioritas pengerjaan.",
     icon: "audit",
+    illustration: "audit",
   },
   {
-    title: "Rancang pengalaman",
+    title: "Cek Rancangan",
     description:
-      "Struktur halaman, copy, komponen, dan alur konversi dirapikan sebelum masuk produksi.",
+      "Struktur, desain, dan alur ditinjau serta disetujui bersama sebelum masuk produksi.",
     icon: "layers",
+    illustration: "design",
   },
   {
-    title: "Bangun dan uji",
+    title: "Proses Pengerjaan",
     description:
-      "Website dibuat responsif, diuji performa dasar, dan disiapkan untuk update konten berikutnya.",
+      "Website, aplikasi, atau automasi dibuat responsif sesuai rancangan yang sudah disetujui.",
     icon: "code",
+    illustration: "build",
   },
   {
-    title: "Launch terukur",
+    title: "Cek Hasil",
     description:
-      "Publikasi, metadata, sitemap, dan arahan optimasi pasca-launch diselesaikan bersama.",
+      "Hasil diperiksa bersama, direvisi bila perlu, dan diuji sampai siap tayang.",
+    icon: "search",
+    illustration: "review",
+  },
+  {
+    title: "Peluncuran & Penyerahan",
+    description:
+      "Produk dipublikasikan, metadata & SEO disiapkan, lalu akses dan panduan diserahkan ke Anda.",
     icon: "rocket",
+    illustration: "launch",
   },
 ] satisfies Array<{
   title: string;
   description: string;
   icon: IconName;
+  illustration: IllustrationName;
 }>;
 
-const contactEmail = "nocodingindonesia@gmail.com";
-
-function createEmailHref(subjectText: string, bodyText: string) {
-  const subject = encodeURIComponent(subjectText);
-  const body = encodeURIComponent(bodyText);
-
-  return `https://mail.google.com/mail/?view=cm&fs=1&to=${contactEmail}&su=${subject}&body=${body}`;
-}
-
-const contactEmailHref = createEmailHref(
-  "Konsultasi Website nocoding",
-  "Halo Nocoding,\n\nSaya ingin konsultasi kebutuhan website untuk bisnis saya. Mohon info langkah berikutnya.\n\nTerima kasih.",
+const contactWhatsAppHref = createWhatsAppHref(
+  "Halo Nocoding, saya ingin konsultasi kebutuhan website untuk bisnis saya. Mohon info langkah berikutnya.",
 );
 
-function createPackageEmailHref(packageName: string) {
-  return createEmailHref(
-    `Pilih Paket ${packageName} - Nocoding`,
-    `Halo Nocoding,\n\nSaya tertarik memilih paket ${packageName}. Mohon info langkah berikutnya.\n\nTerima kasih.`,
+const contactEmail = "nocodingindonesia@gmail.com";
+const contactEmailHref = `https://mail.google.com/mail/?view=cm&fs=1&to=${contactEmail}&su=${encodeURIComponent(
+  "Konsultasi Website Nocoding",
+)}&body=${encodeURIComponent(
+  "Halo Nocoding, saya ingin konsultasi kebutuhan website untuk bisnis saya. Mohon info langkah berikutnya.",
+)}`;
+
+function createPackageWhatsAppHref(packageName: string) {
+  return createWhatsAppHref(
+    `Halo Nocoding, saya tertarik memilih paket ${packageName}. Mohon info langkah berikutnya.`,
   );
 }
 
-const packages = [
-  {
-    name: "Starter",
-    price: "Mulai Rp2,5 jt",
-    description: "Untuk bisnis yang butuh halaman profesional cepat tayang.",
-    selectionHref: createPackageEmailHref("Starter"),
-    features: [
-      "1 landing page responsif",
-      "Copywriting struktur utama",
-      "SEO teknis dasar",
-      "Form kontak via email",
-      "Gratis biaya maintenance + hosting selama 1 tahun",
-    ],
-  },
-  {
-    name: "Growth",
-    price: "Mulai Rp7,5 jt",
-    description: "Untuk brand yang butuh beberapa halaman dan alur konversi matang.",
-    selectionHref: createPackageEmailHref("Growth"),
-    features: [
-      "Hingga 5 halaman inti",
-      "Desain komponen khusus",
-      "Integrasi analytics",
-      "Dokumentasi update konten",
-      "Gratis biaya maintenance + hosting selama 1 tahun",
-    ],
-    featured: true,
-  },
-  {
-    name: "System",
-    price: "By scope",
-    description: "Untuk workflow internal, portal, katalog, atau dashboard bisnis.",
-    selectionHref: createPackageEmailHref("System"),
-    features: [
-      "Mapping proses bisnis",
-      "Dashboard atau portal",
-      "Role dan akses pengguna",
-      "Roadmap iterasi fitur",
-      "Gratis biaya maintenance + hosting selama 1 tahun",
-    ],
-  },
-] satisfies Array<{
+const packages: Array<{
   name: string;
+  nameId: string;
   price: string;
   description: string;
   selectionHref: string;
   features: string[];
+  illustration: IllustrationName;
   featured?: boolean;
-}>;
+}> = [
+  {
+    name: "Kecil",
+    nameId: "packages.0.name",
+    price: "Rp 500 ribu",
+    illustration: "price-small",
+    description: "Website portofolio, CV pribadi, atau landing page sederhana yang cepat tayang.",
+    selectionHref: createPackageWhatsAppHref("Kecil"),
+    features: [
+      "Portofolio / CV / landing page",
+      "Desain responsif",
+      "SEO teknis",
+      "Form kontak",
+      "Gratis maintenance + domain 1 tahun",
+    ],
+  },
+  {
+    name: "Besar",
+    nameId: "packages.1.name",
+    price: "Rp 2 juta",
+    illustration: "price-big",
+    description: "Profil perusahaan, sistem informasi & operasional, atau automasi sesuai kebutuhan.",
+    selectionHref: createPackageWhatsAppHref("Besar"),
+    features: [
+      "Website / aplikasi multi-halaman",
+      "Sistem informasi & operasional",
+      "Automasi proses bisnis",
+      "Role & akses pengguna",
+      "Gratis maintenance + hosting 1 tahun",
+    ],
+  },
+];
 
 const faqs = [
   {
-    question: "Apakah benar tanpa coding dari sisi klien?",
+    question: "Layanan apa saja yang bisa dibuat oleh Nocoding?",
     answer:
-      "Ya. Tim nocoding menangani struktur teknis, desain, dan deployment. Setelah launch, konten penting dibuat mudah diperbarui sesuai kebutuhan proyek.",
+      "Kami melayani pembuatan website portofolio atau CV pribadi, landing page atau company profile, sistem informasi dan operasional, serta automasi proses bisnis.",
   },
   {
-    question: "Berapa lama proses pembuatan website?",
+    question: "Berapa lama proses pengerjaannya?",
     answer:
-      "Landing page sederhana umumnya 5-10 hari kerja setelah materi siap. Sistem atau website multi-halaman mengikuti scope, jumlah integrasi, dan ritme feedback.",
+      "Website portofolio, CV pribadi, atau landing page sederhana umumnya selesai dalam 1-3 hari kerja setelah materi siap. Project yang lebih besar mengikuti kebutuhan fitur, integrasi, dan ritme feedback.",
   },
   {
-    question: "Apakah bisa lanjut maintenance?",
+    question: "Apakah desain dan fitur bisa di-request?",
     answer:
-      "Bisa. Setelah website tayang, Anda dapat memilih dukungan update konten, peningkatan performa, halaman baru, atau pengembangan fitur lanjutan.",
+      "Bisa. Desain, struktur halaman, fitur, dan alur kerja dapat disesuaikan dengan kebutuhan. Rancangan akan ditinjau bersama sebelum masuk ke tahap pengerjaan.",
   },
   {
-    question: "Apa yang perlu disiapkan sebelum mulai?",
+    question: "Apa saja yang termasuk dalam biaya?",
     answer:
-      "Cukup siapkan gambaran bisnis, layanan utama, referensi visual, dan kontak yang ingin ditampilkan. Jika belum ada materi lengkap, kami bantu rapikan strukturnya.",
+      "Biaya mencakup pengerjaan sesuai paket dan scope yang disepakati. Paket Kecil mendapat gratis maintenance dan domain selama 1 tahun, sedangkan Paket Besar mendapat gratis maintenance dan hosting selama 1 tahun.",
   },
 ] satisfies Array<{
   question: string;
@@ -199,44 +214,71 @@ const socialLinks = [
   icon: SocialIconName;
 }>;
 
+const faqJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faqs.map((faq) => ({
+    "@type": "Question",
+    name: faq.question,
+    acceptedAnswer: {
+      "@type": "Answer",
+      text: faq.answer,
+    },
+  })),
+};
+
 export default function Home() {
   return (
-    <main id="konten" className="min-h-screen overflow-hidden">
-      <Hero />
-      <ServicesSection />
-      <ProcessSection />
-      <ProjectsSection />
-      <PackagesSection />
-      <FaqSection />
-      <ContactSection />
-    </main>
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+      />
+      <main id="konten" className="min-h-screen overflow-hidden">
+        <Hero />
+        <ServicesSection />
+        <ProcessSection />
+        <ProjectsSection />
+        <PackagesSection />
+        <FaqSection />
+        <ContactSection />
+      </main>
+    </>
   );
 }
 
 function Hero() {
   return (
-    <section id="beranda" className="relative isolate overflow-hidden border-b border-white/10 bg-brand-dark px-6 pb-16 pt-28 sm:pt-32 lg:min-h-[82svh] lg:pb-20">
+    <section id="beranda" aria-labelledby="hero-title" className="relative isolate flex min-h-[100svh] flex-col justify-center overflow-hidden border-b border-white/10 bg-brand-dark px-6 pb-16 pt-24">
       <div aria-hidden="true" className="absolute inset-0 bg-page-grid opacity-35" />
       <div aria-hidden="true" className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-brand-cyan to-transparent opacity-80" />
-      <HeroScene />
 
-      <div className="relative mx-auto flex w-full max-w-7xl flex-col items-center text-center lg:items-start lg:text-left">
+      <div className="relative mx-auto flex w-full max-w-3xl flex-col items-center text-center">
         <div className="w-full max-w-[21.5rem] sm:max-w-3xl">
-          <p className="mb-5 inline-flex items-center gap-2 border border-white/15 bg-white/5 px-3 py-1.5 text-sm font-medium text-slate-200 backdrop-blur">
-            <span className="h-2 w-2 bg-brand-lime" aria-hidden="true" />
-            <LocalizedText id="hero.eyebrow">Studio website no-code dan custom system</LocalizedText>
-          </p>
-          <h1 aria-label="nocoding_" className="text-6xl font-black leading-[0.95] text-white lg:text-7xl">
+          <span className="nocoding-logo-mark mx-auto mb-4 grid h-16 w-16 place-items-center sm:h-20 sm:w-20">
+            <Image
+              src="/nocoding-logo.webp"
+              alt=""
+              width={80}
+              height={80}
+              className="nocoding-logo-mark__image h-full w-full object-contain"
+              loading="eager"
+              fetchPriority="high"
+            />
+          </span>
+          <h1 id="hero-title" aria-label="nocoding_" className="text-6xl font-black leading-[0.95] text-white lg:text-7xl">
             <TypedBrand />
           </h1>
-          <p className="mt-7 max-w-2xl text-lg leading-8 text-slate-300 sm:text-xl">
-            <LocalizedText id="hero.description">
-              Website bisnis siap jalan, tampak serius, dan mudah dikembangkan.
-              Kami bantu dari strategi halaman, desain, konten, sampai launch.
-            </LocalizedText>
+          <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-slate-300 sm:text-xl">
+            <span className="block">
+              <LocalizedText id="hero.description.line1">Jasa pembuatan website, aplikasi, dan automasi</LocalizedText>
+            </span>
+            <span className="block">
+              <LocalizedText id="hero.description.line2">yang cepat, terjangkau, dan memuaskan.</LocalizedText>
+            </span>
           </p>
 
-          <div className="mt-9 flex w-full max-w-[21.5rem] flex-col gap-3 sm:max-w-none sm:flex-row sm:justify-center lg:justify-start">
+          <div className="mt-8 flex w-full max-w-[21.5rem] flex-col gap-3 sm:max-w-none sm:flex-row sm:justify-center">
             <CenteredScrollLink
               href="#kontak"
               scrollBlock="start"
@@ -256,78 +298,31 @@ function Hero() {
           </div>
         </div>
 
-        <div className="mt-12 grid w-full max-w-[21.5rem] grid-cols-1 border border-white/10 bg-white/[0.03] sm:max-w-2xl sm:grid-cols-3">
-          <Stat value="5-10" label="hari kerja untuk landing page awal" textId="hero.stat.days" />
-          <Stat value="3" label="lapis pekerjaan: strategi, desain, launch" textId="hero.stat.layers" />
-          <Stat value="100%" label="responsif untuk mobile dan desktop" textId="hero.stat.responsive" />
+        <div className="mx-auto mt-8 grid w-full max-w-[21.5rem] grid-cols-1 border border-white/10 bg-white/[0.03] sm:max-w-xl sm:grid-cols-2">
+          <Stat value="1-3 hari" valueId="hero.stat.turnaround.value" label="proses pengerjaan" textId="hero.stat.turnaround" />
+          <Stat value="100%" label="bebas request sesuai keinginan" textId="hero.stat.freedom" />
         </div>
       </div>
     </section>
   );
 }
 
-function HeroScene() {
-  return (
-    <div className="pointer-events-none absolute inset-0 hidden lg:block" aria-hidden="true">
-      <div className="absolute right-[7%] top-1/2 w-[430px] -translate-y-1/2 border border-white/10 bg-brand-surface/80 p-4 shadow-2xl shadow-black/30 backdrop-blur">
-        <div className="mb-4 flex items-center justify-between border-b border-white/10 pb-3">
-          <div className="flex gap-1.5">
-            <span className="h-2.5 w-2.5 rounded-full bg-brand-coral" />
-            <span className="h-2.5 w-2.5 rounded-full bg-brand-amber" />
-            <span className="h-2.5 w-2.5 rounded-full bg-brand-lime" />
-          </div>
-          <span className="text-xs font-semibold uppercase text-slate-400">
-            <LocalizedText id="hero.board.title">Launch board</LocalizedText>
-          </span>
-        </div>
-
-        <div className="grid gap-3">
-          <MockRow label="Homepage" labelId="hero.board.homepage" value="96%" tone="cyan" />
-          <MockRow label="Copywriting" labelId="hero.board.copywriting" value="Ready" valueId="hero.board.ready" tone="lime" />
-          <MockRow label="SEO setup" labelId="hero.board.seo" value="Mapped" valueId="hero.board.mapped" tone="amber" />
-        </div>
-
-        <div className="mt-5 grid grid-cols-[1fr_120px] gap-3">
-          <div className="border border-white/10 bg-brand-dark/70 p-4">
-            <span className="block text-xs text-slate-400">
-              <LocalizedText id="hero.board.path">Conversion path</LocalizedText>
-            </span>
-            <div className="mt-3 flex items-center gap-2">
-              <span className="h-8 w-8 bg-brand-blue/25" />
-              <span className="h-px flex-1 bg-white/20" />
-              <span className="h-8 w-8 bg-brand-mint/25" />
-              <span className="h-px flex-1 bg-white/20" />
-              <span className="h-8 w-8 bg-brand-lime/25" />
-            </div>
-          </div>
-          <div className="border border-brand-cyan/30 bg-brand-cyan/10 p-4 text-right">
-            <span className="block text-2xl font-black text-white">A+</span>
-            <span className="text-xs text-slate-300">
-              <LocalizedText id="hero.board.readiness">readiness</LocalizedText>
-            </span>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  );
-}
-
 function ServicesSection() {
   return (
-    <section id="layanan" className="bg-brand-dark px-6 py-20 sm:py-24">
+    <section id="layanan" aria-labelledby="services-title" className="bg-brand-dark px-6 py-8 sm:py-10">
       <SectionHeader
+        headingId="services-title"
         eyebrow="Layanan"
         eyebrowId="services.eyebrow"
         description="Kami menggabungkan strategi konten, desain antarmuka, dan implementasi teknis agar website bukan sekadar online, tapi benar-benar bekerja."
         descriptionId="services.description"
       />
 
-      <div className="mx-auto mt-12 grid w-full max-w-[21.5rem] gap-4 sm:max-w-7xl md:grid-cols-3">
+      <div className="mx-auto mt-12 grid w-full max-w-[21.5rem] gap-4 sm:max-w-7xl md:grid-cols-2 lg:grid-cols-4">
         {services.map((service, serviceIndex) => (
           <article key={service.title} className="rounded-lg border border-white/10 bg-white/[0.03] p-6 transition hover:border-brand-cyan/60 hover:bg-white/[0.05]">
-            <div className="mb-6 grid h-11 w-11 place-items-center bg-brand-cyan/10 text-brand-cyan">
-              <Icon name={service.icon} className="h-5 w-5" />
+            <div className="mb-5 aspect-[16/10] overflow-hidden rounded-lg border border-white/10 bg-gradient-to-br from-brand-surface to-brand-dark">
+              <Illustration name={service.illustration} className="h-full w-full" />
             </div>
             <h3 className="text-xl font-bold text-white">
               <LocalizedText id={`services.${serviceIndex}.title`}>{service.title}</LocalizedText>
@@ -352,24 +347,25 @@ function ServicesSection() {
 
 function ProcessSection() {
   return (
-    <section id="proses" className="border-y border-white/10 bg-brand-night px-6 py-20 sm:py-24">
+    <section id="proses" aria-labelledby="process-title" className="border-y border-white/10 bg-brand-night px-6 py-8 sm:py-10">
       <SectionHeader
+        headingId="process-title"
         eyebrow="Proses"
         eyebrowId="process.eyebrow"
         description="Setiap fase punya output yang bisa dilihat, diuji, dan disetujui. Anda tahu pekerjaan bergerak ke mana."
         descriptionId="process.description"
       />
 
-      <div className="process-mobile-timeline mx-auto mt-12 grid w-full max-w-[21.5rem] gap-4 sm:max-w-7xl lg:grid-cols-4">
+      <div className="process-mobile-timeline mx-auto mt-12 grid w-full max-w-[21.5rem] gap-4 sm:max-w-7xl lg:grid-cols-5">
         {process.map((step, index) => (
           <article key={step.title} className="process-timeline-card rounded-lg border border-white/10 bg-brand-dark p-6">
-            <div className="flex items-center justify-between">
-              <div className="grid h-11 w-11 place-items-center bg-white/5 text-brand-mint">
-                <Icon name={step.icon} className="h-5 w-5" />
-              </div>
-              <span className="text-sm font-black text-slate-600">0{index + 1}</span>
+            <div className="relative mb-5 aspect-[16/10] overflow-hidden rounded-lg border border-white/10 bg-gradient-to-br from-brand-surface to-brand-dark">
+              <Illustration name={step.illustration} className="h-full w-full" />
+              <span className="absolute right-2 top-2 rounded-md bg-brand-dark/80 px-2 py-0.5 text-xs font-black text-brand-mint backdrop-blur">
+                0{index + 1}
+              </span>
             </div>
-            <h3 className="mt-8 text-lg font-bold text-white">
+            <h3 className="mt-5 text-lg font-bold text-white">
               <LocalizedText id={`process.${index}.title`}>{step.title}</LocalizedText>
             </h3>
             <p className="mt-3 leading-7 text-slate-400">
@@ -384,17 +380,18 @@ function ProcessSection() {
 
 function PackagesSection() {
   return (
-    <section id="paket" className="border-y border-white/10 bg-brand-night px-6 py-20 sm:py-24">
+    <section id="paket" aria-labelledby="packages-title" className="border-y border-white/10 bg-brand-night px-6 py-8 sm:py-10">
       <SectionHeader
-        eyebrow="Paket"
+        headingId="packages-title"
+        eyebrow="Biaya"
         eyebrowId="packages.eyebrow"
-        description="Paket dapat disesuaikan setelah sesi konsultasi agar budget, timeline, dan hasilnya tetap masuk akal."
+        description="Biaya dapat disesuaikan setelah sesi konsultasi agar budget, timeline, dan hasilnya tetap masuk akal."
         descriptionId="packages.description"
       />
 
       <MobilePackageSlider packages={packages} />
 
-      <div className="mx-auto mt-12 hidden w-full max-w-[21.5rem] gap-4 sm:max-w-7xl lg:grid lg:grid-cols-3">
+      <div className="mx-auto mt-12 hidden w-full max-w-[21.5rem] gap-4 sm:max-w-3xl lg:grid lg:grid-cols-2">
         {packages.map((item, packageIndex) => (
           <article
             key={item.name}
@@ -404,23 +401,31 @@ function PackagesSection() {
                 : "border-white/10 bg-brand-dark text-slate-200"
             }`}
           >
+            <div className="mb-5 aspect-[16/10] overflow-hidden rounded-lg border border-white/10 bg-gradient-to-br from-brand-surface to-brand-dark">
+              <Illustration name={item.illustration} className="h-full w-full" />
+            </div>
             <div className="flex items-start justify-between gap-4">
               <div>
-                <h3 className={`text-xl font-black ${item.featured ? "text-brand-dark" : "text-white"}`}>{item.name}</h3>
-                <p className={`mt-2 text-sm ${item.featured ? "text-brand-dark/75" : "text-slate-400"}`}>
+                <h3 className="text-xl font-black text-white">
+                  <LocalizedText id={item.nameId}>{item.name}</LocalizedText>
+                </h3>
+                <p className="mt-2 text-sm text-slate-400">
                   <LocalizedText id={`packages.${packageIndex}.description`}>{item.description}</LocalizedText>
                 </p>
               </div>
-              {item.featured ? (
-                <span className="bg-brand-dark px-2 py-1 text-xs font-black text-white">
-                  <LocalizedText id="packages.1.badge">Populer</LocalizedText>
-                </span>
-              ) : null}
             </div>
 
-            <p className={`mt-8 text-3xl font-black ${item.featured ? "text-brand-dark" : "text-white"}`}>
-              <LocalizedText id={`packages.${packageIndex}.price`}>{item.price}</LocalizedText>
-            </p>
+            <div className="mt-8">
+              <span className="block text-xs font-bold uppercase tracking-wide text-slate-400">
+                <LocalizedText id="packages.price.from">Mulai dari</LocalizedText>
+              </span>
+              <p className="mt-1 text-3xl font-black text-white">
+                <LocalizedText id={`packages.${packageIndex}.price`}>{item.price}</LocalizedText>
+                <span className="ml-1 text-sm font-semibold text-slate-400">
+                  <LocalizedText id="packages.price.period">/ tahun</LocalizedText>
+                </span>
+              </p>
+            </div>
 
             <ul className="mt-8 grow space-y-3">
               {item.features.map((feature, featureIndex) => (
@@ -455,18 +460,18 @@ function PackagesSection() {
 
 function FaqSection() {
   return (
-    <section id="faq" className="flex min-h-[calc(100svh-4rem)] items-center bg-brand-dark px-6 py-16">
+    <section id="faq" aria-labelledby="faq-title" className="flex min-h-[calc(100svh-4rem)] items-center bg-brand-dark px-6 py-16">
       <div className="mx-auto grid w-full max-w-[21.5rem] gap-10 sm:max-w-7xl lg:grid-cols-[0.8fr_1.2fr] lg:items-center">
         <div className="text-center lg:text-left">
           <p className="text-sm font-bold uppercase text-brand-cyan">
             <LocalizedText id="faq.eyebrow">FAQ</LocalizedText>
           </p>
-          <h2 className="mt-4 text-4xl font-black leading-tight text-white">
+          <h2 id="faq-title" className="mt-4 text-4xl font-black leading-tight text-white">
             <LocalizedText id="faq.title">Pertanyaan yang biasanya muncul sebelum mulai.</LocalizedText>
           </h2>
           <p className="mt-5 leading-8 text-slate-400">
             <LocalizedText id="faq.description">
-              Jika kebutuhan Anda belum tercakup di sini, sesi konsultasi awal akan membantu menentukan scope paling efisien.
+              Jika pertanyaan Anda belum terjawab di sini, sesi konsultasi dapat membantu menentukan kebutuhan Anda.
             </LocalizedText>
           </p>
         </div>
@@ -493,14 +498,14 @@ function FaqSection() {
 
 function ContactSection() {
   return (
-    <section id="kontak" className="flex min-h-[calc(100svh-4rem)] flex-col border-y border-white/10 bg-brand-dark text-brand-dark">
+    <section id="kontak" aria-labelledby="contact-title" className="flex min-h-[calc(100svh-4rem)] flex-col border-y border-white/10 bg-brand-dark text-brand-dark">
       <div className="flex flex-1 items-center bg-white px-6 py-12">
         <div className="mx-auto grid w-full max-w-[21.5rem] gap-6 text-center sm:max-w-7xl lg:grid-cols-[1fr_0.9fr] lg:items-center lg:text-left">
           <div>
             <p className="text-sm font-black uppercase text-brand-blue">
               <LocalizedText id="contact.eyebrow">Mulai proyek</LocalizedText>
             </p>
-            <h2 className="mt-4 text-4xl font-black leading-tight">
+            <h2 id="contact-title" className="mt-4 text-4xl font-black leading-tight">
               <LocalizedText id="contact.title">Ceritakan kebutuhan website Anda. Kami bantu rapikan jalannya.</LocalizedText>
             </h2>
           </div>
@@ -512,20 +517,20 @@ function ContactSection() {
             </p>
             <div className="flex flex-col gap-3 sm:flex-row sm:justify-center lg:justify-start">
               <a
-                href={contactEmailHref}
+                href={contactWhatsAppHref}
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-brand-dark px-6 py-3 text-sm font-bold text-white transition hover:bg-brand-blue focus:outline-none focus:ring-2 focus:ring-brand-blue focus:ring-offset-2"
               >
-                <Icon name="mail" className="h-4 w-4" />
-                {contactEmail}
+                <WhatsAppIcon className="h-4 w-4" />
+                <LocalizedText id="contact.whatsapp">Konsultasi sekarang</LocalizedText>
               </a>
               <CenteredScrollLink
                 href="#paket"
-                scrollBlock="center"
+                scrollBlock="start"
                 className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full border border-brand-dark/20 px-6 py-3 text-sm font-bold text-brand-dark transition hover:border-brand-blue hover:text-brand-blue focus:outline-none focus:ring-2 focus:ring-brand-blue focus:ring-offset-2"
               >
-                <LocalizedText id="contact.package">Bandingkan paket</LocalizedText>
+                <LocalizedText id="contact.package">Bandingkan biaya</LocalizedText>
                 <Icon name="arrow" className="h-4 w-4" />
               </CenteredScrollLink>
             </div>
@@ -551,10 +556,10 @@ function Footer() {
             >
               <span className="nocoding-logo-mark grid h-9 w-9 place-items-center">
                 <Image
-                  src="/nocoding-logo.png"
+                  src="/nocoding-logo.webp"
                   alt=""
                   width={36}
-                  height={34}
+                  height={36}
                   className="nocoding-logo-mark__image h-9 w-9 object-contain"
                 />
               </span>
@@ -562,37 +567,53 @@ function Footer() {
                 <TypedBrand />
               </span>
             </CenteredScrollLink>
-            <p className="mt-3 max-w-[17rem] leading-6 text-slate-500">
-              <LocalizedText id="footer.tagline">Website bisnis siap jalan, tampak serius, dan mudah dikembangkan.</LocalizedText>
+            <p className="mt-3 w-full max-w-[21.5rem] leading-6 text-slate-400">
+              <span className="block">
+                <LocalizedText id="hero.description.line1">Jasa pembuatan website, aplikasi, dan automasi</LocalizedText>
+              </span>
+              <span className="block">
+                <LocalizedText id="hero.description.line2">yang cepat, terjangkau, dan memuaskan.</LocalizedText>
+              </span>
             </p>
           </div>
 
           <div className="flex flex-col items-center md:text-center">
-            <p className="flex h-9 items-center text-xs font-black uppercase tracking-[0.32em] text-brand-cyan">
-              <LocalizedText id="footer.contact">Kontak</LocalizedText>
-            </p>
-            <a
-              href={contactEmailHref}
-              target="_blank"
-              rel="noreferrer"
-              className="mt-3 inline-flex min-h-9 items-center gap-2.5 text-sm font-semibold text-white transition hover:text-brand-cyan focus:outline-none focus:ring-2 focus:ring-brand-cyan focus:ring-offset-2 focus:ring-offset-brand-dark"
-            >
-              <Icon name="mail" className="h-4 w-4 text-brand-cyan" />
-              {contactEmail}
-            </a>
-          </div>
-
-          <div className="flex flex-col items-center md:items-end md:text-right">
             <p className="flex h-9 items-center text-xs font-black uppercase tracking-[0.22em] text-brand-cyan sm:tracking-[0.32em]">
               <LocalizedText id="footer.connect">Mari Terhubung</LocalizedText>
             </p>
-            <div className="mt-3 flex justify-center md:justify-end">
+            <div className="mt-3 flex justify-center">
               <SocialLinks tone="light" />
+            </div>
+          </div>
+
+          <div className="flex flex-col items-center md:items-end">
+            <div className="flex flex-col items-center md:items-start md:text-left">
+              <p className="flex h-9 items-center text-xs font-black uppercase tracking-[0.32em] text-brand-cyan">
+                <LocalizedText id="footer.contact">Kontak</LocalizedText>
+              </p>
+              <a
+                href={contactWhatsAppHref}
+                target="_blank"
+                rel="noreferrer"
+                className="mt-3 inline-flex items-center gap-2.5 text-sm font-normal leading-6 text-white transition hover:text-brand-cyan focus:outline-none focus:ring-2 focus:ring-brand-cyan focus:ring-offset-2 focus:ring-offset-brand-dark"
+              >
+                <WhatsAppIcon className="h-4 w-4 text-brand-cyan" />
+                {whatsappDisplay}
+              </a>
+              <a
+                href={contactEmailHref}
+                target="_blank"
+                rel="noreferrer"
+                className="mt-1 inline-flex items-center gap-2.5 text-sm font-normal leading-6 text-white transition hover:text-brand-cyan focus:outline-none focus:ring-2 focus:ring-brand-cyan focus:ring-offset-2 focus:ring-offset-brand-dark"
+              >
+                <MailIcon className="h-4 w-4 text-brand-cyan" />
+                {contactEmail}
+              </a>
             </div>
           </div>
         </div>
 
-        <div className="mt-7 flex min-h-[4.75rem] items-center justify-center border-t border-white/10 text-center text-[0.72rem] text-slate-500">
+        <div className="mt-7 flex min-h-[4.75rem] items-center justify-center border-t border-white/10 text-center text-[0.72rem] text-slate-400">
           <p>
             <LocalizedText id="footer.copyright.prefix">&copy; 2026 Nocoding - Dibuat oleh</LocalizedText>{" "}
             <a
@@ -639,69 +660,55 @@ function SectionHeader({
   descriptionId,
   eyebrow,
   eyebrowId,
+  headingId,
   description,
 }: {
   eyebrow: string;
   eyebrowId: string;
+  headingId: string;
   description: string;
   descriptionId: string;
 }) {
   return (
-    <div className="mx-auto w-full max-w-[21.5rem] text-center sm:max-w-3xl">
-      <p className="text-sm font-bold uppercase text-brand-cyan">
+    <header className="mx-auto w-full max-w-[21.5rem] text-center sm:max-w-3xl">
+      <h2 id={headingId} className="text-sm font-bold uppercase text-brand-cyan">
         <LocalizedText id={eyebrowId}>{eyebrow}</LocalizedText>
-      </p>
+      </h2>
       <p className="mt-4 leading-8 text-slate-400">
         <LocalizedText id={descriptionId}>{description}</LocalizedText>
       </p>
-    </div>
+    </header>
   );
 }
 
-function Stat({ label, textId, value }: { label: string; textId: string; value: string }) {
+function Stat({
+  label,
+  textId,
+  value,
+  valueId,
+}: {
+  label: string;
+  textId: string;
+  value: string;
+  valueId?: string;
+}) {
   return (
-    <div className="border-white/10 p-5 sm:border-r sm:last:border-r-0">
-      <p className="text-3xl font-black text-white">{value}</p>
-      <p className="mt-2 text-sm leading-6 text-slate-400">
+    <div className="border-white/10 px-3 py-5 sm:border-r sm:last:border-r-0">
+      <p className="text-3xl font-black text-white">
+        {valueId ? <LocalizedText id={valueId}>{value}</LocalizedText> : value}
+      </p>
+      <p className="mt-2 whitespace-nowrap text-xs leading-6 text-slate-400">
         <LocalizedText id={textId}>{label}</LocalizedText>
       </p>
     </div>
   );
 }
 
-function MockRow({
-  label,
-  labelId,
-  tone,
-  value,
-  valueId,
-}: {
-  label: string;
-  labelId: string;
-  tone: "cyan" | "lime" | "amber";
-  value: string;
-  valueId?: string;
-}) {
-  const toneClass = {
-    cyan: "bg-brand-cyan",
-    lime: "bg-brand-lime",
-    amber: "bg-brand-amber",
-  }[tone];
-
+function MailIcon({ className = "h-5 w-5" }: { className?: string }) {
   return (
-    <div className="grid grid-cols-[1fr_auto] items-center gap-4 border border-white/10 bg-white/[0.03] p-3">
-      <div>
-        <span className="text-sm font-semibold text-white">
-          <LocalizedText id={labelId}>{label}</LocalizedText>
-        </span>
-        <span className="mt-2 block h-1.5 overflow-hidden bg-white/10">
-          <span className={`block h-full w-4/5 ${toneClass}`} />
-        </span>
-      </div>
-      <span className="text-xs font-bold text-slate-300">
-        {valueId ? <LocalizedText id={valueId}>{value}</LocalizedText> : value}
-      </span>
-    </div>
+    <svg aria-hidden="true" className={className} fill="currentColor" viewBox="0 0 24 24">
+      <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" />
+    </svg>
   );
 }
 

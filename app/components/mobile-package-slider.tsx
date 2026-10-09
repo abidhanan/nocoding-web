@@ -1,14 +1,17 @@
 "use client";
 
 import { useRef, useState } from "react";
-import { LocalizedText } from "./i18n";
+import { Illustration, type IllustrationName } from "./illustrations";
+import { LocalizedText } from "./localized-text";
 
 type PackageItem = {
   name: string;
+  nameId: string;
   price: string;
   description: string;
   selectionHref: string;
   features: string[];
+  illustration: IllustrationName;
   featured?: boolean;
 };
 
@@ -70,23 +73,31 @@ export default function MobilePackageSlider({ packages }: { packages: PackageIte
                 : "border-white/10 bg-brand-dark text-slate-200"
             }`}
           >
+            <div className="mb-5 aspect-[16/10] overflow-hidden rounded-lg border border-white/10 bg-gradient-to-br from-brand-surface to-brand-dark">
+              <Illustration name={item.illustration} className="h-full w-full" />
+            </div>
             <div className="flex items-start justify-between gap-4">
               <div>
-                <h3 className={`text-xl font-black ${item.featured ? "text-brand-dark" : "text-white"}`}>{item.name}</h3>
-                <p className={`mt-2 text-sm ${item.featured ? "text-brand-dark/75" : "text-slate-400"}`}>
+                <h3 className="text-xl font-black text-white">
+                  <LocalizedText id={item.nameId}>{item.name}</LocalizedText>
+                </h3>
+                <p className="mt-2 text-sm text-slate-400">
                   <LocalizedText id={`packages.${packageIndex}.description`}>{item.description}</LocalizedText>
                 </p>
               </div>
-              {item.featured ? (
-                <span className="bg-brand-dark px-2 py-1 text-xs font-black text-white">
-                  <LocalizedText id="packages.1.badge">Populer</LocalizedText>
-                </span>
-              ) : null}
             </div>
 
-            <p className={`mt-8 text-3xl font-black ${item.featured ? "text-brand-dark" : "text-white"}`}>
-              <LocalizedText id={`packages.${packageIndex}.price`}>{item.price}</LocalizedText>
-            </p>
+            <div className="mt-8">
+              <span className="block text-xs font-bold uppercase tracking-wide text-slate-400">
+                <LocalizedText id="packages.price.from">Mulai dari</LocalizedText>
+              </span>
+              <p className="mt-1 text-3xl font-black text-white">
+                <LocalizedText id={`packages.${packageIndex}.price`}>{item.price}</LocalizedText>
+                <span className="ml-1 text-sm font-semibold text-slate-400">
+                  <LocalizedText id="packages.price.period">/ tahun</LocalizedText>
+                </span>
+              </p>
+            </div>
 
             <ul className="mt-8 grow space-y-3">
               {item.features.map((feature, featureIndex) => (

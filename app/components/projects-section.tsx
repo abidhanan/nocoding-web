@@ -56,7 +56,29 @@ function ProjectCard({ project }: { project: Project }) {
           />
         </div>
         <div className="flex grow flex-col pt-4">
-          <h3 className="text-lg font-black leading-tight text-white">{project.name}</h3>
+          <div className="flex items-center gap-3">
+            <span
+              className={`grid h-10 w-10 shrink-0 place-items-center overflow-hidden rounded-lg ${
+                project.logo
+                  ? `${project.logoOnDark ? "bg-brand-night" : "bg-white"} p-1.5`
+                  : "border border-brand-cyan/30 bg-brand-cyan/10 text-base font-black text-brand-cyan"
+              }`}
+            >
+              {project.logo ? (
+                <Image
+                  src={project.logo}
+                  alt=""
+                  width={40}
+                  height={40}
+                  unoptimized
+                  className="h-full w-full object-contain"
+                />
+              ) : (
+                project.name.charAt(0)
+              )}
+            </span>
+            <h3 className="text-lg font-black leading-tight text-white">{project.name}</h3>
+          </div>
           <p className="mt-2 mb-4 text-sm leading-6 text-slate-400">
             <LocalizedText id={project.descriptionId}>{project.description}</LocalizedText>
           </p>

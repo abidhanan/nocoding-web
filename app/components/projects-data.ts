@@ -6,6 +6,8 @@ export type Project = {
   descriptionId: string;
   image: string;
   imageAlt: string;
+  logo?: string;
+  logoOnDark?: boolean;
 };
 
 export const projects = [
@@ -14,9 +16,10 @@ export const projects = [
     category: "Website jual beli barang bekas",
     categoryId: "project.category.ecoswap",
     description:
-      "Marketplace pre-loved berbasis PHP dan MySQL yang membantu pengguna menjual dan membeli barang bekas dengan tampilan modern dan responsif.",
+      "Marketplace online untuk jual beli barang bekas. Pengguna bisa memasang barang, mencari, dan membeli dengan mudah dari HP maupun komputer.",
     descriptionId: "project.description.ecoswap",
     image: "/projects/ecoswap-website-jual-beli-barang-bekas.webp",
+    logo: "/projects/logos/ecoswap.png",
     imageAlt: "Tampilan website Ecoswap di laptop dan ponsel",
   },
   {
@@ -24,9 +27,10 @@ export const projects = [
     category: "Website layanan digital",
     categoryId: "project.category.wiboost",
     description:
-      "Toko layanan digital berbasis Laravel dengan produk dan stok, deposit saldo, refund, komisi reseller, email campaign, dan panel admin.",
+      "Toko online layanan digital seperti top up game, paket data, dan aplikasi premium, lengkap dengan saldo pelanggan dan program reseller.",
     descriptionId: "project.description.wiboost",
     image: "/projects/wiboost-store-website-layanan-digital.webp",
+    logo: "/projects/logos/wiboost-store.png",
     imageAlt: "Tampilan website Wiboost Store di laptop dan ponsel",
   },
   {
@@ -34,19 +38,21 @@ export const projects = [
     category: "Website portofolio",
     categoryId: "project.category.ahawi",
     description:
-      "Website portofolio dwibahasa bertema cat air, dibangun dengan Next.js dan React untuk menampilkan profil, pengalaman, dan kontak secara responsif.",
+      "Website portofolio pribadi bergaya lukisan cat air dengan dua pilihan bahasa, untuk memperkenalkan profil, pengalaman, dan kontak.",
     descriptionId: "project.description.ahawi",
     image: "/projects/ahawi-portfolio-website-portofolio.webp",
+    logo: "/projects/logos/ahawi-portfolio.png",
     imageAlt: "Tampilan website AHAWI Portfolio di laptop dan ponsel",
   },
   {
     name: "Abdi Dalem Keraton Kasunanan Surakarta Hadiningrat",
-    category: "Website manajemen database",
+    category: "Sistem pendataan online",
     categoryId: "project.category.abdi",
     description:
-      "Portal berbasis Laravel untuk pendaftaran, biodata, kegiatan, presensi, verifikasi, dan pencetakan ID Card abdi dalem.",
+      "Sistem pendataan abdi dalem Keraton Surakarta: pendaftaran, data diri, jadwal kegiatan, daftar hadir, dan cetak kartu identitas.",
     descriptionId: "project.description.abdi",
     image: "/projects/abdi-dalem-keraton-kasunanan-surakarta-hadiningrat.webp",
+    logo: "/projects/logos/abdi-dalem-keraton.png",
     imageAlt: "Tampilan website Abdi Dalem Keraton Kasunanan Surakarta Hadiningrat di laptop dan ponsel",
   },
   {
@@ -54,19 +60,21 @@ export const projects = [
     category: "Aplikasi manajemen peternakan",
     categoryId: "project.category.sfarm",
     description:
-      "Aplikasi web peternakan ayam petelur dan kambing BUMDesa untuk monitoring harian, penjualan, pengeluaran, dan laporan keuangan.",
+      "Aplikasi untuk mengelola peternakan ayam petelur dan kambing milik desa: catatan harian, penjualan, pengeluaran, dan laporan keuangan.",
     descriptionId: "project.description.sfarm",
     image: "/projects/s-farm.webp",
+    logo: "/projects/logos/s-farm.svg",
     imageAlt: "Tampilan website S-Farm Singopuran di laptop dan ponsel",
   },
   {
     name: "PayU",
-    category: "Platform bounty freelance",
+    category: "Platform freelancer",
     categoryId: "project.category.payu",
     description:
-      "Platform bounty freelance dengan peran admin, sponsor, dan freelancer, pembayaran QRIS, serta mode gelap dan terang.",
+      "Platform yang mempertemukan pemberi tugas dan freelancer. Pemberi tugas memasang hadiah, freelancer mengerjakan, pembayaran lewat QRIS.",
     descriptionId: "project.description.payu",
     image: "/projects/payu.webp",
+    logo: "/projects/logos/payu.svg",
     imageAlt: "Tampilan website PayU di laptop dan ponsel",
   },
   {
@@ -74,19 +82,21 @@ export const projects = [
     category: "Website katalog produk",
     categoryId: "project.category.darcasual",
     description:
-      "Katalog satu halaman dengan lebih dari seribu produk, filter, detail produk, dan pemesanan langsung lewat WhatsApp.",
+      "Katalog online dengan lebih dari seribu produk. Pembeli bisa mencari, menyaring, lalu memesan langsung lewat WhatsApp.",
     descriptionId: "project.description.darcasual",
     image: "/projects/dar-casual.webp",
+    logo: "/projects/logos/darcasual.png",
     imageAlt: "Tampilan website Dar Casual di laptop dan ponsel",
   },
   {
     name: "Ian Prem Store",
-    category: "Website toko aplikasi premium",
+    category: "Toko online aplikasi premium",
     categoryId: "project.category.ianprem",
     description:
-      "Toko akun aplikasi premium dengan peran admin dan pengguna, kelola produk dan stok, serta dashboard penjualan berbasis Next.js dan Supabase.",
+      "Toko online akun aplikasi premium seperti Netflix dan Spotify. Pembeli memilih dan membayar sendiri, admin mengelola stok dan penjualan.",
     descriptionId: "project.description.ianprem",
     image: "/projects/ian-prem-store.webp",
+    logo: "/projects/logos/ian-prem-store.svg",
     imageAlt: "Tampilan website Ian Prem Store di laptop dan ponsel",
   },
   {
@@ -94,9 +104,10 @@ export const projects = [
     category: "Website katalog furnitur",
     categoryId: "project.category.alengka",
     description:
-      "Katalog furnitur indoor dan outdoor custom untuk cafe, restoran, dan hunian, responsif di semua perangkat dan terhubung ke WhatsApp.",
+      "Katalog online furnitur indoor dan outdoor untuk cafe, restoran, dan rumah. Pengunjung bisa melihat koleksi lalu konsultasi lewat WhatsApp.",
     descriptionId: "project.description.alengka",
     image: "/projects/alengka-home-living.webp",
+    logo: "/projects/logos/alengka.png",
     imageAlt: "Tampilan website Alengka Home Living di laptop dan ponsel",
   },
   {
@@ -104,9 +115,10 @@ export const projects = [
     category: "Website profil sekolah",
     categoryId: "project.category.sdn",
     description:
-      "Website resmi SD Negeri Pucangsawit Surakarta dengan profil sekolah, informasi PPDB, direktori guru, ekstrakurikuler, dan prestasi siswa.",
+      "Website resmi sekolah dasar berisi profil sekolah, info pendaftaran siswa baru, daftar guru, ekstrakurikuler, dan prestasi siswa.",
     descriptionId: "project.description.sdn",
     image: "/projects/sdn-pucangsawit.webp",
+    logo: "/projects/logos/sdn-pucangsawit.png",
     imageAlt: "Tampilan website SD Negeri Pucangsawit di laptop dan ponsel",
   },
   {
@@ -114,149 +126,162 @@ export const projects = [
     category: "Website katalog furnitur",
     categoryId: "project.category.furnix",
     description:
-      "Katalog furnitur besi untuk cafe, restoran, dan hunian dari Jepara, lengkap dengan filter produk dan pemesanan custom.",
+      "Katalog online furnitur besi untuk cafe, restoran, dan rumah dari Jepara. Pengunjung bisa memilih produk dan memesan sesuai keinginan.",
     descriptionId: "project.description.furnix",
     image: "/projects/od-furnix-galery.webp",
+    logo: "/projects/logos/od-furnix-galery.png",
+    logoOnDark: true,
     imageAlt: "Tampilan website OD Furnix Galery di laptop dan ponsel",
   },
   {
     name: "Clothique",
-    category: "Website e-commerce fashion",
+    category: "Toko online pakaian",
     categoryId: "project.category.clothique",
     description:
-      "E-commerce berbasis Laravel dengan katalog, keranjang, checkout, pembayaran Duitku, blog, laporan keuangan, dan panel admin berbasis role.",
+      "Toko online pakaian yang lengkap: katalog, keranjang belanja, pembayaran online, blog, dan halaman admin untuk mengelola pesanan dan laporan.",
     descriptionId: "project.description.clothique",
     image: "/projects/clothique-ecommerce.webp",
+    logo: "/projects/logos/clothique-ecommerce.png",
     imageAlt: "Tampilan website Clothique di laptop dan ponsel",
   },
   {
     name: "AGLI",
-    category: "Platform content intelligence",
+    category: "Aplikasi bantu konten",
     categoryId: "project.category.agli",
     description:
-      "Prototipe riset konten untuk Amsterdam Game Lab yang meranking konten berperforma tinggi dan menyusun draf konten berbasis data.",
+      "Alat bantu tim konten untuk mengumpulkan contoh konten yang paling banyak dilihat, mencari polanya, lalu menyusun draf tulisan baru.",
     descriptionId: "project.description.agli",
     image: "/projects/agli.webp",
+    logo: "/projects/logos/agli.png",
     imageAlt: "Tampilan website AGLI di laptop dan ponsel",
   },
   {
     name: "Nebulist AI Sales Engine",
-    category: "Aplikasi AI sales",
+    category: "Aplikasi bantu penjualan",
     categoryId: "project.category.nebulist",
     description:
-      "MVP riset penjualan berbasis AI yang menghasilkan strategi, CRM, dan draf outreach dari input produk, dibangun dengan Next.js.",
+      "Aplikasi bantu penjualan berbasis AI yang menyusun strategi, catatan calon pelanggan, dan draf pesan penawaran dari informasi produk.",
     descriptionId: "project.description.nebulist",
     image: "/projects/nebulist-ai-sales-engine.webp",
+    logo: "/projects/logos/nebulist-ai-sales-engine.png",
     imageAlt: "Tampilan website Nebulist AI Sales Engine di laptop dan ponsel",
   },
   {
     name: "CarbonFi",
-    category: "Aplikasi web3 finansial",
+    category: "Aplikasi keuangan digital",
     categoryId: "project.category.carbonfi",
     description:
-      "Platform keuangan karbon berbasis blockchain untuk jual beli kredit karbon, NFT mining, dan staking DeFi.",
+      "Aplikasi keuangan digital untuk jual beli kredit karbon (penghargaan atas pengurangan emisi) dan program imbalan ramah lingkungan.",
     descriptionId: "project.description.carbonfi",
     image: "/projects/carbonfi.webp",
+    logo: "/projects/logos/carbonfi.png",
     imageAlt: "Tampilan website CarbonFi di laptop dan ponsel",
   },
   {
     name: "ProtectedPay",
-    category: "Aplikasi web3 pembayaran",
+    category: "Aplikasi pembayaran digital",
     categoryId: "project.category.protectedpay",
     description:
-      "Aplikasi transfer kripto aman di jaringan Lisk dengan perlindungan escrow, pembayaran grup, dan tabungan pintar.",
+      "Aplikasi kirim uang digital yang aman: dana baru cair setelah diterima, bisa patungan bersama, dan menabung.",
     descriptionId: "project.description.protectedpay",
     image: "/projects/protectedpay.webp",
+    logo: "/projects/logos/protectedpay.png",
     imageAlt: "Tampilan website ProtectedPay di laptop dan ponsel",
   },
   {
     name: "PeduliChain",
-    category: "Aplikasi web3 donasi",
+    category: "Aplikasi donasi online",
     categoryId: "project.category.pedulichain",
     description:
-      "Platform donasi transparan di blockchain dengan pencatatan dana, tata kelola komunitas, dan bukti dampak yang tidak bisa diubah.",
+      "Platform donasi yang transparan: setiap sumbangan dan penggunaan dananya tercatat permanen dan bisa dilihat siapa saja.",
     descriptionId: "project.description.pedulichain",
     image: "/projects/pedulichain.webp",
     imageAlt: "Tampilan website PeduliChain di laptop dan ponsel",
   },
   {
     name: "Astra",
-    category: "Aplikasi web3 berbasis AI",
+    category: "Aplikasi asisten AI",
     categoryId: "project.category.astra",
     description:
-      "Agen AI untuk jaringan Lisk yang menjalankan deploy kontrak, kirim token, dan membuat NFT lewat perintah chat.",
+      "Asisten AI yang bisa diajak mengobrol untuk mengelola aset digital, misalnya mengirim token atau membuat koleksi digital, tanpa perlu paham kode.",
     descriptionId: "project.description.astra",
     image: "/projects/astra.webp",
+    logo: "/projects/logos/astra.png",
     imageAlt: "Tampilan website Astra di laptop dan ponsel",
   },
   {
     name: "AuditFi",
-    category: "Aplikasi keamanan smart contract",
+    category: "Aplikasi keamanan digital",
     categoryId: "project.category.auditfi",
     description:
-      "Audit keamanan smart contract berbasis AI yang mendeteksi celah, membuat laporan audit, dan menyimpan hasilnya di blockchain.",
+      "Alat pemeriksa keamanan program keuangan digital berbasis AI yang mencari celah dan menyusun laporan hanya dalam hitungan detik.",
     descriptionId: "project.description.auditfi",
     image: "/projects/auditfi.webp",
+    logo: "/projects/logos/auditfi.svg",
     imageAlt: "Tampilan website AuditFi di laptop dan ponsel",
   },
   {
     name: "P2P DEX",
-    category: "Aplikasi web3 pertukaran",
+    category: "Aplikasi tukar aset digital",
     categoryId: "project.category.p2p",
     description:
-      "Frontend pertukaran terdesentralisasi peer-to-peer dengan escrow, dashboard admin, dan dukungan multi-chain.",
+      "Platform tukar-menukar aset digital langsung antar pengguna, dengan perlindungan transaksi dan halaman admin untuk mengelola platform.",
     descriptionId: "project.description.p2p",
     image: "/projects/p2p-dex.webp",
+    logo: "/projects/logos/p2p-dex.png",
     imageAlt: "Tampilan website P2P DEX di laptop dan ponsel",
   },
   {
     name: "PayGuppy",
-    category: "Aplikasi web3 pembayaran",
+    category: "Aplikasi pembayaran digital",
     categoryId: "project.category.payguppy",
     description:
-      "Aplikasi web3 yang membantu bisnis konvensional menerima pembayaran kripto lewat QR code yang sudah ada.",
+      "Aplikasi yang membantu toko biasa menerima pembayaran uang digital hanya dengan memakai kode QR yang sudah mereka punya.",
     descriptionId: "project.description.payguppy",
     image: "/projects/payguppy.webp",
     imageAlt: "Tampilan website PayGuppy di laptop dan ponsel",
   },
   {
     name: "Tip-Tap",
-    category: "Aplikasi web3 untuk kreator",
+    category: "Aplikasi untuk kreator konten",
     categoryId: "project.category.tiptap",
     description:
-      "Platform tip terdesentralisasi untuk kreator konten dengan dukungan kripto dan NFT serta notifikasi untuk live stream.",
+      "Platform bagi kreator konten untuk menerima tip dari penonton berupa uang digital atau koleksi digital, lengkap dengan notifikasi saat live.",
     descriptionId: "project.description.tiptap",
     image: "/projects/tip-tap.webp",
+    logo: "/projects/logos/tip-tap.png",
     imageAlt: "Tampilan website Tip-Tap di laptop dan ponsel",
   },
   {
     name: "Senkus Elixir",
-    category: "Game web3",
+    category: "Game online",
     categoryId: "project.category.senkus",
     description:
-      "Game web3 bertema sains di jaringan Lisk dengan koleksi NFT, token, dan arena permainan.",
+      "Game online bertema sains dan alkimia: pemain menggabungkan ramuan, mengumpulkan koleksi digital, dan berkompetisi di arena.",
     descriptionId: "project.description.senkus",
     image: "/projects/senkus-elixir.webp",
+    logo: "/projects/logos/senkus-elixir.png",
     imageAlt: "Tampilan website Senkus Elixir di laptop dan ponsel",
   },
   {
     name: "QuickStock",
-    category: "Aplikasi desktop inventaris",
+    category: "Aplikasi stok barang",
     categoryId: "project.category.quickstock",
     description:
-      "Aplikasi desktop Java untuk mengelola stok toko pakaian dengan akses berbasis peran, penjualan, supplier, dan laporan stok.",
+      "Aplikasi komputer untuk mengelola stok toko pakaian: catat penjualan, pasokan dari supplier, dan laporan stok, dengan akses sesuai peran karyawan.",
     descriptionId: "project.description.quickstock",
     image: "/projects/quickstock.webp",
     imageAlt: "Tampilan website QuickStock di laptop dan ponsel",
   },
   {
     name: "Caér Finance",
-    category: "Aplikasi web3 lending",
+    category: "Aplikasi pinjaman digital",
     categoryId: "project.category.caer",
     description:
-      "Protokol lending dan borrowing lintas chain dengan dukungan stablecoin rupiah IDRX di ekosistem Lisk.",
+      "Platform pinjam-meminjam aset digital lintas jaringan yang mendukung rupiah digital IDRX, agar pengguna mudah menabung dan meminjam.",
     descriptionId: "project.description.caer",
     image: "/projects/caer-finance.webp",
+    logo: "/projects/logos/caer-finance.png",
     imageAlt: "Tampilan website Caér Finance di laptop dan ponsel",
   },
 ] satisfies Project[];

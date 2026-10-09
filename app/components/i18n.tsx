@@ -133,16 +133,79 @@ export const englishText: Record<string, string> = {
   "footer.copyright.prefix": "© 2026 Nocoding - Created by",
   "project.category.ecoswap": "Used goods marketplace website",
   "project.description.ecoswap":
-    "A pre-loved marketplace that helps users sell and buy used goods with a modern look, clear brand message, and responsive experience.",
+    "A pre-loved marketplace built with PHP and MySQL that helps users sell and buy used goods with a modern, responsive look.",
   "project.category.wiboost": "Digital services website",
   "project.description.wiboost":
-    "A website for social media boosting, game top-up, data packages, and premium apps with a lightweight look, mobile-friendly flow, and clear buying path.",
+    "A Laravel-based digital services store with products and stock, wallet deposits, refunds, reseller commissions, email campaigns, and an admin panel.",
   "project.category.ahawi": "Portfolio website",
   "project.description.ahawi":
-    "A personal portfolio website for presenting professional profile, experience, activities, certificates, and contact in a responsive visual layout.",
+    "A bilingual watercolor-themed portfolio built with Next.js and React to present profile, experience, and contact in a responsive layout.",
   "project.category.abdi": "Database management website",
   "project.description.abdi":
-    "An abdi dalem database management portal for registration, biodata management, verification, and ID card printing with an official and easy-to-use interface.",
+    "A Laravel-based portal for abdi dalem registration, biodata, activities, attendance, verification, and ID card printing.",
+  "project.category.sfarm": "Farm management app",
+  "project.description.sfarm":
+    "A web app for a village-owned layer hen and goat farm to handle daily monitoring, sales, expenses, and financial reports.",
+  "project.category.payu": "Freelance bounty platform",
+  "project.description.payu":
+    "A freelance bounty platform with admin, sponsor, and freelancer roles, QRIS payments, and light and dark modes.",
+  "project.category.darcasual": "Product catalog website",
+  "project.description.darcasual":
+    "A single-page catalog with over a thousand products, filters, product details, and direct ordering via WhatsApp.",
+  "project.category.ianprem": "Premium apps store website",
+  "project.description.ianprem":
+    "A premium app accounts store with admin and user roles, product and stock management, and a sales dashboard built on Next.js and Supabase.",
+  "project.category.alengka": "Furniture catalog website",
+  "project.description.alengka":
+    "A custom indoor and outdoor furniture catalog for cafes, restaurants, and homes, responsive on every device and linked to WhatsApp.",
+  "project.category.sdn": "School profile website",
+  "project.description.sdn":
+    "The official website of SD Negeri Pucangsawit in Surakarta with school profile, admission info, teacher directory, extracurriculars, and student achievements.",
+  "project.category.furnix": "Furniture catalog website",
+  "project.description.furnix":
+    "An iron furniture catalog from Jepara for cafes, restaurants, and homes, with product filters and custom ordering.",
+  "project.category.clothique": "Fashion e-commerce website",
+  "project.description.clothique":
+    "A Laravel e-commerce store with catalog, cart, checkout, Duitku payments, blog, financial reports, and a role-based admin panel.",
+  "project.category.agli": "Content intelligence platform",
+  "project.description.agli":
+    "A content research prototype for Amsterdam Game Lab that ranks high-performing content and drafts grounded, data-based copy.",
+  "project.category.nebulist": "AI sales app",
+  "project.description.nebulist":
+    "An AI sales research MVP that generates strategy, CRM entries, and outreach drafts from product input, built with Next.js.",
+  "project.category.carbonfi": "Web3 finance app",
+  "project.description.carbonfi":
+    "A blockchain carbon finance platform for carbon credit trading, NFT mining, and DeFi staking.",
+  "project.category.protectedpay": "Web3 payments app",
+  "project.description.protectedpay":
+    "A secure crypto transfer app on the Lisk network with escrow protection, group payments, and smart savings.",
+  "project.category.pedulichain": "Web3 charity app",
+  "project.description.pedulichain":
+    "A transparent charity platform on blockchain with fund tracking, community governance, and immutable proof of impact.",
+  "project.category.astra": "AI-powered web3 app",
+  "project.description.astra":
+    "An AI agent for the Lisk network that deploys contracts, sends tokens, and creates NFTs through chat commands.",
+  "project.category.auditfi": "Smart contract security app",
+  "project.description.auditfi":
+    "AI-powered smart contract security auditing that catches vulnerabilities, generates audit reports, and stores results onchain.",
+  "project.category.p2p": "Web3 exchange app",
+  "project.description.p2p":
+    "A peer-to-peer decentralized exchange frontend with escrow, an admin dashboard, and multi-chain support.",
+  "project.category.payguppy": "Web3 payments app",
+  "project.description.payguppy":
+    "A web3 app that lets traditional businesses accept crypto payments through their existing QR codes.",
+  "project.category.tiptap": "Web3 creator app",
+  "project.description.tiptap":
+    "A decentralized tipping platform for content creators with crypto and NFT support and stream alerts.",
+  "project.category.senkus": "Web3 game",
+  "project.description.senkus":
+    "A science-themed web3 game on the Lisk network with NFT collectibles, tokens, and a game arena.",
+  "project.category.quickstock": "Desktop inventory app",
+  "project.description.quickstock":
+    "A Java desktop app for managing clothing store inventory with role-based access, sales tracking, suppliers, and stock reports.",
+  "project.category.caer": "Web3 lending app",
+  "project.description.caer":
+    "A cross-chain lending and borrowing protocol with native support for the IDRX rupiah stablecoin in the Lisk ecosystem.",
 };
 
 let currentLanguage: Language = "id";

@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { LocalizedText } from "./localized-text";
 import ProjectMarquee from "./project-marquee";
-import { marqueeProjects, type Project } from "./projects-data";
+import { projects, type Project } from "./projects-data";
 
 /**
  * Server component. The section shell and every project card are rendered on the
@@ -30,7 +30,7 @@ export default function ProjectsSection() {
               aria-hidden={groupIndex === 1 || undefined}
               className="project-marquee__group"
             >
-              {marqueeProjects.map((project, projectIndex) => (
+              {projects.map((project, projectIndex) => (
                 <ProjectCard key={`${project.name}-${groupIndex}-${projectIndex}`} project={project} />
               ))}
             </div>

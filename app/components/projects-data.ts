@@ -6,13 +6,6 @@ export type Project = {
   descriptionId: string;
   image: string;
   imageAlt: string;
-  videos?: Array<{
-    label: string;
-    labelId: string;
-    src: string;
-    fallbackSrc: string;
-  }>;
-  tags: string[];
 };
 
 export const projects = [
@@ -25,21 +18,6 @@ export const projects = [
     descriptionId: "project.description.ecoswap",
     image: "/projects/ecoswap-website-jual-beli-barang-bekas.webp",
     imageAlt: "Mockup website Ecoswap di laptop dan ponsel",
-    videos: [
-      {
-        label: "Landing page Ecoswap",
-        labelId: "project.media.ecoswap.landing",
-        src: "/projects/ecoswap-landing-page.webm",
-        fallbackSrc: "/projects/ecoswap-landing-page.mp4",
-      },
-      {
-        label: "Isi website Ecoswap",
-        labelId: "project.media.ecoswap.content",
-        src: "/projects/ecoswap-isi.webm",
-        fallbackSrc: "/projects/ecoswap-isi.mp4",
-      },
-    ],
-    tags: ["Marketplace", "Pre-loved", "Video walkthrough", "Responsive website"],
   },
   {
     name: "Wiboost Store",
@@ -50,21 +28,6 @@ export const projects = [
     descriptionId: "project.description.wiboost",
     image: "/projects/wiboost-store-website-layanan-digital.webp",
     imageAlt: "Mockup website Wiboost Store di laptop dan ponsel",
-    videos: [
-      {
-        label: "Landing page Wiboost Store",
-        labelId: "project.media.wiboost.landing",
-        src: "/projects/wiboost-store-landing-page.webm",
-        fallbackSrc: "/projects/wiboost-store-landing-page.mp4",
-      },
-      {
-        label: "Isi website Wiboost Store",
-        labelId: "project.media.wiboost.content",
-        src: "/projects/wiboost-store-isi-website.webm",
-        fallbackSrc: "/projects/wiboost-store-isi-website.mp4",
-      },
-    ],
-    tags: ["Suntik sosmed", "Top up game", "Paket data", "Aplikasi premium"],
   },
   {
     name: "AHAWI Portfolio",
@@ -75,15 +38,6 @@ export const projects = [
     descriptionId: "project.description.ahawi",
     image: "/projects/ahawi-portfolio-website-portofolio.webp",
     imageAlt: "Mockup website portofolio AHAWI di laptop dan ponsel",
-    videos: [
-      {
-        label: "Video AHAWI Portfolio",
-        labelId: "project.media.ahawi.video",
-        src: "/projects/ahawi-portfolio-video.webm",
-        fallbackSrc: "/projects/ahawi-portfolio-video.mp4",
-      },
-    ],
-    tags: ["Personal branding", "Portfolio", "Responsive website"],
   },
   {
     name: "Abdi Dalem Keraton Kasunanan Surakarta Hadiningrat",
@@ -95,21 +49,6 @@ export const projects = [
     image: "/projects/abdi-dalem-keraton-kasunanan-surakarta-hadiningrat.webp",
     imageAlt:
       "Mockup website manajemen database Abdi Dalem Keraton Kasunanan Surakarta Hadiningrat di laptop dan ponsel",
-    videos: [
-      {
-        label: "Landing page Abdi Dalem",
-        labelId: "project.media.abdi.landing",
-        src: "/projects/abdi-dalem-landing-page.webm",
-        fallbackSrc: "/projects/abdi-dalem-landing-page.mp4",
-      },
-      {
-        label: "Isi website Abdi Dalem",
-        labelId: "project.media.abdi.content",
-        src: "/projects/abdi-dalem-isi-website.webm",
-        fallbackSrc: "/projects/abdi-dalem-isi-website.mp4",
-      },
-    ],
-    tags: ["Database", "Pendaftaran", "Verifikasi", "ID Card"],
   },
 ] satisfies Project[];
 
@@ -123,10 +62,4 @@ export const whatsappNumber = "6285326513324";
 
 export function createWhatsAppHref(message: string) {
   return `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
-}
-
-export function createProjectConsultHref(projectName: string) {
-  return createWhatsAppHref(
-    `Halo Nocoding, saya tertarik konsultasi project serupa dengan ${projectName}. Mohon info langkah berikutnya.`,
-  );
 }

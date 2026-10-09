@@ -143,18 +143,6 @@ export const englishText: Record<string, string> = {
   "project.category.abdi": "Database management website",
   "project.description.abdi":
     "An abdi dalem database management portal for registration, biodata management, verification, and ID card printing with an official and easy-to-use interface.",
-  "project.detail": "Project detail",
-  "project.close": "Close project detail",
-  "project.view": "View detail",
-  "project.consult": "Consult similar project",
-  "project.media.mockup": "Mockup photo",
-  "project.media.ecoswap.landing": "Ecoswap landing page",
-  "project.media.ecoswap.content": "Ecoswap website content",
-  "project.media.wiboost.landing": "Wiboost Store landing page",
-  "project.media.wiboost.content": "Wiboost Store website content",
-  "project.media.ahawi.video": "AHAWI Portfolio video",
-  "project.media.abdi.landing": "Abdi Dalem landing page",
-  "project.media.abdi.content": "Abdi Dalem website content",
 };
 
 let currentLanguage: Language = "id";

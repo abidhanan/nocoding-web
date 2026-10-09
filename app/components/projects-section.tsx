@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { LocalizedText } from "./localized-text";
 import ProjectMarquee from "./project-marquee";
-import { marqueeProjects, projects, type Project } from "./projects-data";
+import { marqueeProjects, type Project } from "./projects-data";
 
 /**
  * Server component. The section shell and every project card are rendered on the
@@ -31,12 +31,7 @@ export default function ProjectsSection() {
               className="project-marquee__group"
             >
               {marqueeProjects.map((project, projectIndex) => (
-                <ProjectCard
-                  key={`${project.name}-${groupIndex}-${projectIndex}`}
-                  isDuplicate={groupIndex === 1 || projectIndex >= projects.length}
-                  project={project}
-                  projectIndex={projectIndex % projects.length}
-                />
+                <ProjectCard key={`${project.name}-${groupIndex}-${projectIndex}`} project={project} />
               ))}
             </div>
           ))}
@@ -46,53 +41,30 @@ export default function ProjectsSection() {
   );
 }
 
-function ProjectCard({
-  isDuplicate,
-  project,
-  projectIndex,
-}: {
-  isDuplicate: boolean;
-  project: Project;
-  projectIndex: number;
-}) {
+function ProjectCard({ project }: { project: Project }) {
   return (
     <article className="project-marquee__item">
-      <button
-        type="button"
-        aria-label={`Buka detail project ${project.name}`}
-        tabIndex={isDuplicate ? -1 : 0}
-        data-project-index={projectIndex}
-        className="group flex h-full w-full flex-col rounded-lg border border-white/10 bg-brand-dark p-4 text-left shadow-[0_18px_45px_rgba(0,0,0,0.24)] transition hover:-translate-y-1 hover:border-brand-cyan/60 hover:bg-brand-surface focus:outline-none focus:ring-2 focus:ring-brand-cyan focus:ring-offset-2 focus:ring-offset-brand-night"
-      >
-        <span className="relative aspect-[4/3] overflow-hidden rounded-lg border border-white/10 bg-white/5">
+      <div className="flex h-full w-full flex-col rounded-lg border border-white/10 bg-brand-dark p-4 text-left shadow-[0_18px_45px_rgba(0,0,0,0.24)]">
+        <div className="relative aspect-[4/3] overflow-hidden rounded-lg border border-white/10 bg-white/5">
           <Image
             src={project.image}
             alt={project.imageAlt}
             width={1200}
             height={896}
             sizes="(min-width: 1024px) 21rem, (min-width: 640px) 18rem, 16rem"
-            className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]"
+            className="h-full w-full object-cover"
           />
-        </span>
-        <span className="flex grow flex-col pt-4">
-          <span className="inline-flex w-fit rounded-full border border-brand-cyan/30 bg-brand-cyan/10 px-3 py-1 text-xs font-bold text-brand-cyan">
+        </div>
+        <div className="flex grow flex-col pt-4">
+          <h3 className="text-lg font-black leading-tight text-white">{project.name}</h3>
+          <p className="mt-2 mb-4 text-sm leading-6 text-slate-400">
+            <LocalizedText id={project.descriptionId}>{project.description}</LocalizedText>
+          </p>
+          <span className="mt-auto inline-flex w-fit rounded-full border border-brand-cyan/30 bg-brand-cyan/10 px-3 py-1 text-xs font-bold text-brand-cyan">
             <LocalizedText id={project.categoryId}>{project.category}</LocalizedText>
           </span>
-          <span className="mt-3 block text-lg font-black leading-tight text-white">
-            {project.name}
-          </span>
-          <span className="mt-2 block text-sm leading-6 text-slate-400">
-            <LocalizedText id={project.descriptionId}>{project.description}</LocalizedText>
-          </span>
-          <span className="mt-4 inline-flex items-center gap-2 text-sm font-bold text-brand-lime">
-            <LocalizedText id="project.view">Lihat detail</LocalizedText>
-            <svg aria-hidden="true" className="h-4 w-4" fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" viewBox="0 0 24 24">
-              <path d="M5 12h14" />
-              <path d="m13 6 6 6-6 6" />
-            </svg>
-          </span>
-        </span>
-      </button>
+        </div>
+      </div>
     </article>
   );
 }

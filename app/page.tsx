@@ -2,7 +2,7 @@ import ProjectsSection from "./components/projects-section";
 import CenteredScrollLink from "./components/centered-scroll-link";
 import { Illustration, type IllustrationName } from "./components/illustrations";
 import { LocalizedText } from "./components/localized-text";
-import MobilePackageSlider from "./components/mobile-package-slider";
+import LazyPackageSlider from "./components/lazy-package-slider";
 import { createWhatsAppHref, whatsappDisplay } from "./components/projects-data";
 import TypedBrand from "./components/typed-brand";
 import { WhatsAppIcon } from "./components/whatsapp";
@@ -389,7 +389,7 @@ function PackagesSection() {
         descriptionId="packages.description"
       />
 
-      <MobilePackageSlider packages={packages} />
+      <LazyPackageSlider packages={packages} />
 
       <div className="mx-auto mt-12 hidden w-full max-w-[21.5rem] gap-4 sm:max-w-3xl lg:grid lg:grid-cols-2">
         {packages.map((item, packageIndex) => (

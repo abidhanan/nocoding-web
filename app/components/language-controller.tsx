@@ -11,6 +11,12 @@ function translateElement(element: HTMLElement, language: Language) {
   }
 
   if (element.dataset.i18nOriginal === undefined) {
+    // Still showing the server-rendered Indonesian copy: leave the DOM untouched
+    // so the initial paint (and LCP element) is not replaced after hydration.
+    if (language === "id") {
+      return;
+    }
+
     element.dataset.i18nOriginal = element.textContent ?? "";
   }
 

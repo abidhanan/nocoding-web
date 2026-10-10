@@ -19,7 +19,7 @@ export const projects = [
       "Marketplace online untuk jual beli barang bekas. Pengguna bisa memasang barang, mencari, dan membeli dengan mudah dari HP maupun komputer.",
     descriptionId: "project.description.ecoswap",
     image: "/projects/ecoswap-website-jual-beli-barang-bekas.webp",
-    logo: "/projects/logos/ecoswap.png",
+    logo: "/projects/logos/ecoswap.webp",
     imageAlt: "Tampilan website Ecoswap di laptop dan ponsel",
   },
   {
@@ -30,7 +30,7 @@ export const projects = [
       "Toko online layanan digital seperti top up game, paket data, dan aplikasi premium, lengkap dengan saldo pelanggan dan program reseller.",
     descriptionId: "project.description.wiboost",
     image: "/projects/wiboost-store-website-layanan-digital.webp",
-    logo: "/projects/logos/wiboost-store.png",
+    logo: "/projects/logos/wiboost-store.webp",
     imageAlt: "Tampilan website Wiboost Store di laptop dan ponsel",
   },
   {
@@ -41,7 +41,7 @@ export const projects = [
       "Website portofolio pribadi bergaya lukisan cat air dengan dua pilihan bahasa, untuk memperkenalkan profil, pengalaman, dan kontak.",
     descriptionId: "project.description.ahawi",
     image: "/projects/ahawi-portfolio-website-portofolio.webp",
-    logo: "/projects/logos/ahawi-portfolio.png",
+    logo: "/projects/logos/ahawi-portfolio.webp",
     imageAlt: "Tampilan website AHAWI Portfolio di laptop dan ponsel",
   },
   {
@@ -52,7 +52,7 @@ export const projects = [
       "Sistem pendataan abdi dalem Keraton Surakarta: pendaftaran, data diri, jadwal kegiatan, daftar hadir, dan cetak kartu identitas.",
     descriptionId: "project.description.abdi",
     image: "/projects/abdi-dalem-keraton-kasunanan-surakarta-hadiningrat.webp",
-    logo: "/projects/logos/abdi-dalem-keraton.png",
+    logo: "/projects/logos/abdi-dalem-keraton.webp",
     imageAlt: "Tampilan website Abdi Dalem Keraton Kasunanan Surakarta Hadiningrat di laptop dan ponsel",
   },
   {
@@ -85,7 +85,7 @@ export const projects = [
       "Katalog online dengan lebih dari seribu produk. Pembeli bisa mencari, menyaring, lalu memesan langsung lewat WhatsApp.",
     descriptionId: "project.description.darcasual",
     image: "/projects/dar-casual.webp",
-    logo: "/projects/logos/darcasual.png",
+    logo: "/projects/logos/darcasual.webp",
     imageAlt: "Tampilan website Dar Casual di laptop dan ponsel",
   },
   {
@@ -107,7 +107,7 @@ export const projects = [
       "Katalog online furnitur indoor dan outdoor untuk cafe, restoran, dan rumah. Pengunjung bisa melihat koleksi lalu konsultasi lewat WhatsApp.",
     descriptionId: "project.description.alengka",
     image: "/projects/alengka-home-living.webp",
-    logo: "/projects/logos/alengka.png",
+    logo: "/projects/logos/alengka.webp",
     imageAlt: "Tampilan website Alengka Home Living di laptop dan ponsel",
   },
   {
@@ -118,7 +118,7 @@ export const projects = [
       "Website resmi sekolah dasar berisi profil sekolah, info pendaftaran siswa baru, daftar guru, ekstrakurikuler, dan prestasi siswa.",
     descriptionId: "project.description.sdn",
     image: "/projects/sdn-pucangsawit.webp",
-    logo: "/projects/logos/sdn-pucangsawit.png",
+    logo: "/projects/logos/sdn-pucangsawit.webp",
     imageAlt: "Tampilan website SD Negeri Pucangsawit di laptop dan ponsel",
   },
   {
@@ -129,7 +129,7 @@ export const projects = [
       "Katalog online furnitur besi untuk cafe, restoran, dan rumah dari Jepara. Pengunjung bisa memilih produk dan memesan sesuai keinginan.",
     descriptionId: "project.description.furnix",
     image: "/projects/od-furnix-galery.webp",
-    logo: "/projects/logos/od-furnix-galery.png",
+    logo: "/projects/logos/od-furnix-galery.webp",
     logoOnDark: true,
     imageAlt: "Tampilan website OD Furnix Galery di laptop dan ponsel",
   },
@@ -141,7 +141,7 @@ export const projects = [
       "Toko online pakaian yang lengkap: katalog, keranjang belanja, pembayaran online, blog, dan halaman admin untuk mengelola pesanan dan laporan.",
     descriptionId: "project.description.clothique",
     image: "/projects/clothique-ecommerce.webp",
-    logo: "/projects/logos/clothique-ecommerce.png",
+    logo: "/projects/logos/clothique-ecommerce.webp",
     imageAlt: "Tampilan website Clothique di laptop dan ponsel",
   },
   {
@@ -152,7 +152,7 @@ export const projects = [
       "Alat bantu tim konten untuk mengumpulkan contoh konten yang paling banyak dilihat, mencari polanya, lalu menyusun draf tulisan baru.",
     descriptionId: "project.description.agli",
     image: "/projects/agli.webp",
-    logo: "/projects/logos/agli.png",
+    logo: "/projects/logos/agli.webp",
     imageAlt: "Tampilan website AGLI di laptop dan ponsel",
   },
   {
@@ -163,7 +163,7 @@ export const projects = [
       "Aplikasi bantu penjualan berbasis AI yang menyusun strategi, catatan calon pelanggan, dan draf pesan penawaran dari informasi produk.",
     descriptionId: "project.description.nebulist",
     image: "/projects/nebulist-ai-sales-engine.webp",
-    logo: "/projects/logos/nebulist-ai-sales-engine.png",
+    logo: "/projects/logos/nebulist-ai-sales-engine.webp",
     imageAlt: "Tampilan website Nebulist AI Sales Engine di laptop dan ponsel",
   },
   {
@@ -174,7 +174,7 @@ export const projects = [
       "Aplikasi keuangan digital untuk jual beli kredit karbon (penghargaan atas pengurangan emisi) dan program imbalan ramah lingkungan.",
     descriptionId: "project.description.carbonfi",
     image: "/projects/carbonfi.webp",
-    logo: "/projects/logos/carbonfi.png",
+    logo: "/projects/logos/carbonfi.webp",
     imageAlt: "Tampilan website CarbonFi di laptop dan ponsel",
   },
   {
@@ -185,7 +185,7 @@ export const projects = [
       "Aplikasi kirim uang digital yang aman: dana baru cair setelah diterima, bisa patungan bersama, dan menabung.",
     descriptionId: "project.description.protectedpay",
     image: "/projects/protectedpay.webp",
-    logo: "/projects/logos/protectedpay.png",
+    logo: "/projects/logos/protectedpay.webp",
     imageAlt: "Tampilan website ProtectedPay di laptop dan ponsel",
   },
   {
@@ -206,7 +206,7 @@ export const projects = [
       "Asisten AI yang bisa diajak mengobrol untuk mengelola aset digital, misalnya mengirim token atau membuat koleksi digital, tanpa perlu paham kode.",
     descriptionId: "project.description.astra",
     image: "/projects/astra.webp",
-    logo: "/projects/logos/astra.png",
+    logo: "/projects/logos/astra.webp",
     imageAlt: "Tampilan website Astra di laptop dan ponsel",
   },
   {
@@ -228,7 +228,7 @@ export const projects = [
       "Platform tukar-menukar aset digital langsung antar pengguna, dengan perlindungan transaksi dan halaman admin untuk mengelola platform.",
     descriptionId: "project.description.p2p",
     image: "/projects/p2p-dex.webp",
-    logo: "/projects/logos/p2p-dex.png",
+    logo: "/projects/logos/p2p-dex.webp",
     imageAlt: "Tampilan website P2P DEX di laptop dan ponsel",
   },
   {
@@ -249,7 +249,7 @@ export const projects = [
       "Platform bagi kreator konten untuk menerima tip dari penonton berupa uang digital atau koleksi digital, lengkap dengan notifikasi saat live.",
     descriptionId: "project.description.tiptap",
     image: "/projects/tip-tap.webp",
-    logo: "/projects/logos/tip-tap.png",
+    logo: "/projects/logos/tip-tap.webp",
     imageAlt: "Tampilan website Tip-Tap di laptop dan ponsel",
   },
   {
@@ -260,7 +260,7 @@ export const projects = [
       "Game online bertema sains dan alkimia: pemain menggabungkan ramuan, mengumpulkan koleksi digital, dan berkompetisi di arena.",
     descriptionId: "project.description.senkus",
     image: "/projects/senkus-elixir.webp",
-    logo: "/projects/logos/senkus-elixir.png",
+    logo: "/projects/logos/senkus-elixir.webp",
     imageAlt: "Tampilan website Senkus Elixir di laptop dan ponsel",
   },
   {
@@ -281,7 +281,7 @@ export const projects = [
       "Platform pinjam-meminjam aset digital lintas jaringan yang mendukung rupiah digital IDRX, agar pengguna mudah menabung dan meminjam.",
     descriptionId: "project.description.caer",
     image: "/projects/caer-finance.webp",
-    logo: "/projects/logos/caer-finance.png",
+    logo: "/projects/logos/caer-finance.webp",
     imageAlt: "Tampilan website Caér Finance di laptop dan ponsel",
   },
 ] satisfies Project[];

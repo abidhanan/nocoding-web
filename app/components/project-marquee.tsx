@@ -1,13 +1,19 @@
 "use client";
 
-import { useEffect, useRef, type ReactNode } from "react";
+import dynamic from "next/dynamic";
+import { useEffect, useRef, useState } from "react";
+
+// Loaded on demand so the card markup and project data stay out of the initial
+// page weight; they are fetched shortly before the section scrolls into view.
+const ProjectCards = dynamic(() => import("./project-cards"), { ssr: false });
 
 /**
- * Interactive shell for the projects marquee. The cards themselves are rendered
- * on the server and handed in as `children`, so they never hydrate as client
- * components — only this shell (auto-scroll, drag, wheel) runs on the client.
+ * Interactive shell for the projects marquee (auto-scroll, drag, wheel). Cards are
+ * mounted lazily once the marquee gets near the viewport, and the loop only runs
+ * while it is on screen.
  */
-export default function ProjectMarquee({ children }: { children: ReactNode }) {
+export default function ProjectMarquee() {
+  const [shouldLoad, setShouldLoad] = useState(false);
   const viewportRef = useRef<HTMLDivElement>(null);
   const loopWidthRef = useRef(0);
   const isPointerOverRef = useRef(false);
@@ -26,15 +32,14 @@ export default function ProjectMarquee({ children }: { children: ReactNode }) {
       return undefined;
     }
 
-    // Cache the loop width instead of reading `scrollWidth` every frame, which
-    // forces a synchronous layout (reflow) on each tick. This is the reflow fix;
-    // the loop itself always runs (the browser already pauses rAF for hidden
-    // tabs) so the marquee reliably scrolls from right to left.
+    // The loop width is cached instead of read every frame, which would force a
+    // synchronous layout (reflow) on each tick.
     const measureLoopWidth = () => {
-      loopWidthRef.current = viewport.scrollWidth / 2;
-    };
+      const group = viewport.querySelector<HTMLElement>(".project-marquee__group");
+      const copy = group?.nextElementSibling as HTMLElement | null | undefined;
 
-    measureLoopWidth();
+      loopWidthRef.current = group && copy ? copy.offsetLeft - group.offsetLeft : 0;
+    };
 
     let lastTime = 0;
 
@@ -42,9 +47,14 @@ export default function ProjectMarquee({ children }: { children: ReactNode }) {
       const time = window.performance.now();
       const previousTime = lastTime || time;
       const deltaTime = Math.min(time - previousTime, 64);
-      const loopWidth = loopWidthRef.current;
 
       lastTime = time;
+
+      if (loopWidthRef.current === 0) {
+        measureLoopWidth();
+      }
+
+      const loopWidth = loopWidthRef.current;
 
       if (!dragStateRef.current.isDragging && !isPointerOverRef.current && loopWidth > 0) {
         let nextScrollLeft = viewport.scrollLeft + deltaTime * 0.05;
@@ -57,12 +67,47 @@ export default function ProjectMarquee({ children }: { children: ReactNode }) {
       }
     };
 
-    const intervalId = window.setInterval(tick, 16);
+    // Only run the loop while the marquee is on screen; scrolling an off-screen
+    // container every 16ms just invalidates layout for no visible benefit.
+    let intervalId: number | undefined;
+
+    const start = () => {
+      if (intervalId === undefined) {
+        lastTime = 0;
+        intervalId = window.setInterval(tick, 16);
+      }
+    };
+
+    const stop = () => {
+      if (intervalId !== undefined) {
+        window.clearInterval(intervalId);
+        intervalId = undefined;
+      }
+    };
+
+    const loadObserver = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setShouldLoad(true);
+          loadObserver.disconnect();
+        }
+      },
+      { rootMargin: "600px" },
+    );
+    const visibilityObserver = new IntersectionObserver(
+      ([entry]) => (entry.isIntersecting ? start() : stop()),
+      { rootMargin: "120px" },
+    );
     const resizeObserver = new ResizeObserver(measureLoopWidth);
+
+    loadObserver.observe(viewport);
+    visibilityObserver.observe(viewport);
     resizeObserver.observe(viewport);
 
     return () => {
-      window.clearInterval(intervalId);
+      stop();
+      loadObserver.disconnect();
+      visibilityObserver.disconnect();
       resizeObserver.disconnect();
     };
   }, []);
@@ -167,7 +212,8 @@ export default function ProjectMarquee({ children }: { children: ReactNode }) {
   return (
     <div
       ref={viewportRef}
-      className="project-marquee mt-8"
+      role="region"
+      className="project-marquee mt-8 min-h-[24rem]"
       aria-label="Daftar project sebelumnya yang bergerak dari kanan ke kiri"
       onPointerDown={startDrag}
       onPointerEnter={() => {
@@ -180,7 +226,7 @@ export default function ProjectMarquee({ children }: { children: ReactNode }) {
       onLostPointerCapture={stopDrag}
       onWheel={handleWheel}
     >
-      {children}
+      {shouldLoad ? <ProjectCards /> : null}
     </div>
   );
 }

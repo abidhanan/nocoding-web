@@ -24,6 +24,17 @@ const nextConfig: NextConfig = {
         headers: immutableAssetHeaders,
       },
       {
+        // Page HTML: `no-transform` stops Cloudflare from re-encoding Vercel's
+        // Brotli response as zstd, which Lighthouse mis-measures as uncompressed.
+        source: "/",
+        headers: [
+          {
+            key: "Cache-Control",
+            value: "public, max-age=0, must-revalidate, no-transform",
+          },
+        ],
+      },
+      {
         source: "/:path*",
         headers: [
           { key: "Referrer-Policy", value: "strict-origin-when-cross-origin" },
@@ -39,12 +50,9 @@ const nextConfig: NextConfig = {
   },
   images: {
     formats: ["image/avif", "image/webp"],
+    deviceSizes: [640, 1080, 1920],
+    imageSizes: [96, 256, 384, 640],
     qualities: [75],
-  },
-  experimental: {
-    // Inline the (small, atomic Tailwind) CSS into the HTML <head> to remove the
-    // render-blocking stylesheet request and improve first paint. Production only.
-    inlineCss: true,
   },
 };
 

@@ -13,7 +13,12 @@ export type IllustrationName =
   | "price-small"
   | "price-big";
 
-const scenes: Record<IllustrationName, ReactNode> = {
+/**
+ * Source of truth for the card illustrations. They are exported to static SVG files
+ * in `public/illustrations/` by `scripts/generate-illustrations.tsx` and loaded as
+ * lazy images, so the inline SVG markup does not inflate the page HTML.
+ */
+export const scenes: Record<IllustrationName, ReactNode> = {
   // --- Services ---
   portfolio: (
     <>
@@ -184,15 +189,15 @@ export function Illustration({
   className?: string;
 }) {
   return (
-    <svg
-      viewBox="0 0 320 180"
+    // eslint-disable-next-line @next/next/no-img-element -- tiny static SVGs, no optimization needed
+    <img
+      src={`/illustrations/${name}.svg`}
+      alt=""
+      width={320}
+      height={180}
+      loading="lazy"
+      decoding="async"
       className={className}
-      role="img"
-      aria-hidden="true"
-      preserveAspectRatio="xMidYMid meet"
-      xmlns="http://www.w3.org/2000/svg"
-    >
-      {scenes[name]}
-    </svg>
+    />
   );
 }

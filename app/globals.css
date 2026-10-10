@@ -48,6 +48,10 @@
     display: none;
   }
 
+  [data-i18n] {
+    display: contents;
+  }
+
   section[id] {
     scroll-margin-top: 4rem;
   }

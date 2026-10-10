@@ -286,9 +286,9 @@ export const projects = [
   },
 ] satisfies Project[];
 
-// WhatsApp contact. Display is the local format; the href uses the international
-// format (leading 0 replaced with 62).
-export const whatsappDisplay = "085326513324";
+// WhatsApp contact. Display uses the international format with a leading +; the href
+// uses digits only, as wa.me requires.
+export const whatsappDisplay = "+6285326513324";
 export const whatsappNumber = "6285326513324";
 
 export function createWhatsAppHref(message: string) {

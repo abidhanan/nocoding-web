@@ -7,6 +7,7 @@ import { LocalizedText } from "./components/localized-text";
 import LanguageToggle from "./components/language-toggle";
 import MobileNavbarMenu from "./components/mobile-navbar-menu";
 import ScrollRevealController from "./components/scroll-reveal-controller";
+import { testimonials } from "./components/testimonials-data";
 import TypedBrand from "./components/typed-brand";
 import { WhatsAppFloat } from "./components/whatsapp";
 import "./globals.css";
@@ -189,6 +190,7 @@ function Navbar() {
     { href: "#layanan", label: "Layanan", textId: "nav.services" },
     { href: "#proses", label: "Proses", textId: "nav.process" },
     { href: "#project", label: "Project", textId: "nav.project" },
+    ...(testimonials.length > 0 ? [{ href: "#testimoni", label: "Testimoni", textId: "nav.testimonials" }] : []),
     { href: "#paket", label: "Biaya", textId: "nav.package" },
     { href: "#faq", label: "FAQ", textId: "nav.faq" },
     { href: "#kontak", label: "Kontak", textId: "nav.contact" },

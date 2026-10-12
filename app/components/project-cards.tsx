@@ -2,23 +2,23 @@
 
 import Image from "next/image";
 import { LocalizedText } from "./localized-text";
-import { projects, type Project } from "./projects-data";
+import type { Project } from "./projects-data";
 
 /**
- * The marquee track. It is loaded lazily (see <ProjectMarquee>) so the project
+ * One marquee track. It is loaded lazily (see <ProjectMarquee>) so the project
  * cards are not part of the initial HTML / RSC payload. Two groups are rendered
  * so the loop can wrap seamlessly; the second one is hidden from assistive tech.
  */
-export default function ProjectCards() {
+export default function ProjectCards({ items }: { items: Project[] }) {
   return (
     <div className="project-marquee__track">
       <div className="project-marquee__group">
-        {projects.map((project) => (
+        {items.map((project) => (
           <ProjectCard key={project.name} project={project} />
         ))}
       </div>
       <div aria-hidden="true" inert className="project-marquee__group">
-        {projects.map((project) => (
+        {items.map((project) => (
           <ProjectCard key={project.name} project={project} />
         ))}
       </div>

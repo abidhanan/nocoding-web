@@ -268,14 +268,13 @@
   --project-marquee-gap: clamp(1.25rem, 2vw, 1.75rem);
   position: relative;
   width: 100%;
-  overflow-x: auto;
+  overflow-x: hidden;
   overflow-y: hidden;
   padding-block: 0.75rem 0.5rem;
   contain: layout paint;
-  cursor: grab;
   scrollbar-width: none;
   scroll-behavior: auto;
-  touch-action: pan-x pan-y;
+  touch-action: pan-y;
   user-select: none;
   -webkit-overflow-scrolling: touch;
 }
@@ -283,10 +282,6 @@
 .project-marquee::before,
 .project-marquee::after {
   display: none;
-}
-
-.project-marquee:active {
-  cursor: grabbing;
 }
 
 .project-marquee::-webkit-scrollbar {
@@ -323,7 +318,7 @@
     width: 100vw;
     max-width: 100vw;
     margin-inline: calc(50% - 50vw);
-    overflow-x: auto;
+    overflow-x: hidden;
     overflow-y: hidden;
     clip-path: inset(0 round 0.5rem);
   }
@@ -523,9 +518,51 @@
   }
 }
 
+/* Per-block scroll animation for the service and process blocks. */
+.block-reveal {
+  opacity: 0;
+  transform: translateY(3rem);
+  transition:
+    opacity 0.8s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.block-reveal .block-reveal__item {
+  opacity: 0;
+  transform: translateY(1.25rem);
+  transition:
+    opacity 0.6s ease 0.15s,
+    transform 0.6s ease 0.15s;
+}
+
+.block-reveal .block-reveal__tile {
+  opacity: 0;
+  transform: scale(0.94) translateY(1.5rem);
+  transition:
+    opacity 0.7s ease,
+    transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.block-reveal--visible,
+.block-reveal--visible .block-reveal__item,
+.block-reveal--visible .block-reveal__tile {
+  opacity: 1;
+  transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .block-reveal,
+  .block-reveal .block-reveal__item,
+  .block-reveal .block-reveal__tile {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .project-marquee {
-    overflow-x: auto;
+    overflow-x: hidden;
   }
 
   .project-marquee__track {

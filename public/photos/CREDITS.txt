@@ -1,0 +1,30 @@
+Placeholder photos from Unsplash (https://unsplash.com/license), cropped and converted to WebP.
+Replace them with Nocoding's own photos whenever they are available.
+
+layanan-1-1.webp  <-  https://unsplash.com/photos/1705544363568-425eabe4de51
+layanan-1-2.webp  <-  https://unsplash.com/photos/1499951360447-b19be8fe80f5
+layanan-1-3.webp  <-  https://unsplash.com/photos/1505330622279-bf7d7fc918f4
+layanan-2-1.webp  <-  https://unsplash.com/photos/1547658719-da2b51169166
+layanan-2-2.webp  <-  https://unsplash.com/photos/1467232004584-a241de8bcf5d
+layanan-2-3.webp  <-  https://unsplash.com/photos/1587440871875-191322ee64b0
+layanan-3-1.webp  <-  https://unsplash.com/photos/1460925895917-afdab827c52f
+layanan-3-2.webp  <-  https://unsplash.com/photos/1551288049-bebda4e38f71
+layanan-3-3.webp  <-  https://unsplash.com/photos/1526628953301-3e589a6a8b74
+layanan-4-1.webp  <-  https://unsplash.com/photos/1716191299980-a6e8827ba10b
+layanan-4-2.webp  <-  https://unsplash.com/photos/1581091226825-a6a2a5aee158
+layanan-4-3.webp  <-  https://unsplash.com/photos/1655393001768-d946c97d6fd1
+proses-1-1.webp  <-  https://unsplash.com/photos/1542744173-8e7e53415bb0
+proses-1-2.webp  <-  https://unsplash.com/photos/1517048676732-d65bc937f952
+proses-1-3.webp  <-  https://unsplash.com/photos/1630487656049-6db93a53a7e9
+proses-2-1.webp  <-  https://unsplash.com/photos/1581291518570-03a26006fb21
+proses-2-2.webp  <-  https://unsplash.com/photos/1541462608143-67571c6738dd
+proses-2-3.webp  <-  https://unsplash.com/photos/1623652554515-91c833e3080e
+proses-3-1.webp  <-  https://unsplash.com/photos/1587620962725-abab7fe55159
+proses-3-2.webp  <-  https://unsplash.com/photos/1515879218367-8466d910aaa4
+proses-3-3.webp  <-  https://unsplash.com/photos/1623479322729-28b25c16b011
+proses-4-1.webp  <-  https://unsplash.com/photos/1585692614093-62dab82e9d08
+proses-4-2.webp  <-  https://unsplash.com/photos/1584438784894-089d6a62b8fa
+proses-4-3.webp  <-  https://unsplash.com/photos/1554672408-730436b60dde
+proses-5-1.webp  <-  https://unsplash.com/photos/1576267423048-15c0040fec78
+proses-5-2.webp  <-  https://unsplash.com/photos/1758691737584-a8f17fb34475
+proses-5-3.webp  <-  https://unsplash.com/photos/1695891583421-3cbbf1c2e3bd

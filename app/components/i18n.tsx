@@ -1,6 +1,7 @@
 "use client";
 
 import { useSyncExternalStore } from "react";
+import { testimonials } from "./testimonials-data";
 
 export type Language = "id" | "en";
 
@@ -12,6 +13,7 @@ export const englishText: Record<string, string> = {
   "nav.services": "Services",
   "nav.process": "Process",
   "nav.project": "Project",
+  "nav.testimonials": "Testimonials",
   "nav.package": "Pricing",
   "nav.faq": "FAQ",
   "nav.contact": "Contact",
@@ -79,7 +81,88 @@ export const englishText: Record<string, string> = {
   "process.4.title": "Launch & handover",
   "process.4.description":
     "The product is published, metadata & SEO are set, then access and guidance are handed over to you.",
+  "services.kicker": "Service",
+  "services.getTitle": "What you get",
+  "services.forTitle": "Best for",
+  "process.kicker": "Step",
+  "process.doTitle": "What we do",
+  "process.youTitle": "Your part",
+  "process.resultTitle": "Result",
+  "services.0.long":
+    "A portfolio or personal CV website is your official home on the internet. Your profile, experience, and work are gathered neatly on one page that is easy to share with employers, clients, or universities.",
+  "services.0.detail.0": "Short profile and experience timeline",
+  "services.0.detail.1": "Gallery of selected work and projects",
+  "services.0.detail.2": "Downloadable CV in PDF format",
+  "services.0.detail.3": "Contact button and social media links",
+  "services.0.detail.4": "Comfortable on phones and computers",
+  "services.0.for": "Fresh graduates, freelancers, creators, and professionals who want to look convincing.",
+  "services.1.long":
+    "A landing page or company profile helps a business make a good first impression. We shape the page flow, copy, and look so visitors quickly understand what you offer and feel encouraged to contact you.",
+  "services.1.detail.0": "Clear and convincing page copywriting",
+  "services.1.detail.1": "Responsive and interactive design",
+  "services.1.detail.2": "Contact form and WhatsApp button",
+  "services.1.detail.3": "SEO setup so you are easy to find on Google",
+  "services.1.detail.4": "Quick to launch once your materials are ready",
+  "services.1.for": "Businesses, schools, cafes, communities, and companies that want a professional look.",
+  "services.2.long":
+    "An information system tidies up work that is currently scattered across spreadsheets, notes, and chats. Data lives in one place, can be accessed by role, and reports can be viewed anytime.",
+  "services.2.detail.0": "A clean workflow that follows how you work",
+  "services.2.detail.1": "User roles and access rights",
+  "services.2.detail.2": "Summary dashboard and reports",
+  "services.2.detail.3": "Data export to files",
+  "services.2.detail.4": "An admin area to manage content yourself",
+  "services.2.for": "Schools, institutions, shops, farms, and companies that want to manage data in a more organized way.",
+  "services.3.long":
+    "Repetitive tasks such as sending notifications, moving data between apps, or producing routine reports can run automatically. Your team saves time and avoids typing mistakes.",
+  "services.3.detail.0": "Integration between the apps you already use",
+  "services.3.detail.1": "Automatic notifications via WhatsApp or email",
+  "services.3.detail.2": "Automated approval and reporting flows",
+  "services.3.detail.3": "Far less manual data entry",
+  "services.3.detail.4": "Designed around the process you already run",
+  "services.3.for": "Businesses and teams with a lot of repetitive manual work.",
+  "process.0.long":
+    "Before building anything, we want to understand your business: what the goal is, who the visitors are, and which features matter most. From there we set priorities so the work stays focused and avoids wasted cost.",
+  "process.0.do.0": "Listening to your business goals and targets",
+  "process.0.do.1": "Collecting the looks you like as references",
+  "process.0.do.2": "Choosing the main features and the order of work",
+  "process.0.do.3": "Explaining the estimated time and cost",
+  "process.0.you": "Tell us your needs and share examples of websites you like.",
+  "process.0.result": "A list of needs and priorities agreed together.",
+  "process.1.long":
+    "We lay out the page structure and a picture of the look first. You can review it and give feedback before building begins, so the final result stays close to what you imagined.",
+  "process.1.do.0": "Planning the page structure and flow",
+  "process.1.do.1": "Designing the look: colors, layout, and style",
+  "process.1.do.2": "Explaining the design in plain language",
+  "process.1.do.3": "Adjusting the design to your feedback",
+  "process.1.you": "Review the design, then give feedback or approval.",
+  "process.1.result": "A design agreed together before production starts.",
+  "process.2.long":
+    "Once the design is approved, the website, app, or automation gets built. It is responsive on phones and computers, and you can share feedback while the work is in progress.",
+  "process.2.do.0": "Building pages and features from the design",
+  "process.2.do.1": "Making sure it looks right on phones, tablets, and computers",
+  "process.2.do.2": "Setting up the basics to be easy to find on Google",
+  "process.2.do.3": "Sharing progress updates regularly",
+  "process.2.you": "Prepare texts, photos, and logos, and share feedback when you have any.",
+  "process.2.result": "A first version you can try out. A simple website is usually done within 1–3 working days once materials are ready.",
+  "process.3.long":
+    "We try the result together. Anything that is not quite right gets revised, then everything is tested again until it works well on different devices and is ready to go live.",
+  "process.3.do.0": "Checking the look on different screen sizes",
+  "process.3.do.1": "Testing features and forms",
+  "process.3.do.2": "Revising based on your feedback",
+  "process.3.do.3": "Making sure everything is ready to launch",
+  "process.3.you": "Try the result and tell us what you would like adjusted.",
+  "process.3.result": "A tested product that you have approved.",
+  "process.4.long":
+    "The product is published and open to everyone. We set it up to be easy to find on Google, then hand over access together with a usage guide so you can manage it comfortably.",
+  "process.4.do.0": "Publishing the website or app",
+  "process.4.do.1": "Preparing metadata and basic SEO",
+  "process.4.do.2": "Handing over access and a usage guide",
+  "process.4.do.3": "Supporting you with 1 year of free maintenance, plus a domain (Small package) or hosting (Large package)",
+  "process.4.you": "Keep your access safe and start sharing it with your customers.",
+  "process.4.result": "The website or app is live and ready to use.",
   "projects.eyebrow": "Previous Projects",
+  "testimonials.eyebrow": "Testimonials",
+  "testimonials.description": "Straight from clients whose websites we have built.",
   "projects.description":
     "Each project is designed to communicate business messages clearly, stay responsive on every device, and make it easier for users to take action.",
   "packages.eyebrow": "Pricing",
@@ -206,6 +289,8 @@ export const englishText: Record<string, string> = {
   "project.category.caer": "Digital lending app",
   "project.description.caer":
     "A platform for lending and borrowing digital assets across networks with support for the IDRX digital rupiah, making it easy to save and borrow.",
+  // English text of each client review (see testimonials-data.ts).
+  ...Object.fromEntries(testimonials.map((item, index) => [`testimonial.${index}.review`, item.reviewEn])),
 };
 
 let currentLanguage: Language = "id";

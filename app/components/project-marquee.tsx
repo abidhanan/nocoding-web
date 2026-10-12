@@ -2,28 +2,50 @@
 
 import dynamic from "next/dynamic";
 import { useEffect, useRef, useState } from "react";
+import { projects, type Project } from "./projects-data";
 
-// Loaded on demand so the card markup and project data stay out of the initial
-// page weight; they are fetched shortly before the section scrolls into view.
+// Loaded on demand so the card markup stays out of the initial page weight; the
+// chunk is fetched shortly before the section scrolls into view.
 const ProjectCards = dynamic(() => import("./project-cards"), { ssr: false });
 
-/**
- * Interactive shell for the projects marquee (auto-scroll, drag, wheel). Cards are
- * mounted lazily once the marquee gets near the viewport, and the loop only runs
- * while it is on screen.
- */
+type RowConfig = {
+  items: Project[];
+  /** 1 scrolls the cards from right to left, -1 from left to right. */
+  direction: 1 | -1;
+  /** Pixels per millisecond. */
+  speed: number;
+  label: string;
+};
+
+const third = Math.ceil(projects.length / 3);
+
+// Top row: right to left. Middle row: left to right. Bottom row: right to left.
+const rows: RowConfig[] = [
+  { items: projects.slice(0, third), direction: 1, speed: 0.05, label: "Baris atas, bergerak dari kanan ke kiri" },
+  { items: projects.slice(third, third * 2), direction: -1, speed: 0.045, label: "Baris tengah, bergerak dari kiri ke kanan" },
+  { items: projects.slice(third * 2), direction: 1, speed: 0.04, label: "Baris bawah, bergerak dari kanan ke kiri" },
+];
+
+/** Three looping rows of project cards. They move on their own and cannot be dragged. */
 export default function ProjectMarquee() {
+  return (
+    <div className="mt-8 grid gap-2">
+      {rows.map((row) => (
+        <MarqueeRow key={row.label} {...row} />
+      ))}
+    </div>
+  );
+}
+
+/**
+ * One auto-scrolling row. Cards are mounted lazily once the row gets near the
+ * viewport, and the loop only runs while it is on screen.
+ */
+function MarqueeRow({ items, direction, speed, label }: RowConfig) {
   const [shouldLoad, setShouldLoad] = useState(false);
   const viewportRef = useRef<HTMLDivElement>(null);
   const loopWidthRef = useRef(0);
   const isPointerOverRef = useRef(false);
-  const dragStateRef = useRef({
-    hasCaptured: false,
-    isDragging: false,
-    pointerId: 0,
-    scrollLeft: 0,
-    startX: 0,
-  });
 
   useEffect(() => {
     const viewport = viewportRef.current;
@@ -37,8 +59,14 @@ export default function ProjectMarquee() {
     const measureLoopWidth = () => {
       const group = viewport.querySelector<HTMLElement>(".project-marquee__group");
       const copy = group?.nextElementSibling as HTMLElement | null | undefined;
+      const previous = loopWidthRef.current;
 
       loopWidthRef.current = group && copy ? copy.offsetLeft - group.offsetLeft : 0;
+
+      // Rows that move left to right start one loop in, so they have room to travel back.
+      if (direction === -1 && previous === 0 && loopWidthRef.current > 0 && viewport.scrollLeft === 0) {
+        viewport.scrollLeft = loopWidthRef.current;
+      }
     };
 
     let lastTime = 0;
@@ -56,18 +84,20 @@ export default function ProjectMarquee() {
 
       const loopWidth = loopWidthRef.current;
 
-      if (!dragStateRef.current.isDragging && !isPointerOverRef.current && loopWidth > 0) {
-        let nextScrollLeft = viewport.scrollLeft + deltaTime * 0.05;
+      if (!isPointerOverRef.current && loopWidth > 0) {
+        let nextScrollLeft = viewport.scrollLeft + deltaTime * speed * direction;
 
         if (nextScrollLeft >= loopWidth) {
           nextScrollLeft -= loopWidth;
+        } else if (nextScrollLeft <= 0) {
+          nextScrollLeft += loopWidth;
         }
 
         viewport.scrollLeft = nextScrollLeft;
       }
     };
 
-    // Only run the loop while the marquee is on screen; scrolling an off-screen
+    // Only run the loop while the row is on screen; scrolling an off-screen
     // container every 16ms just invalidates layout for no visible benefit.
     let intervalId: number | undefined;
 
@@ -110,123 +140,23 @@ export default function ProjectMarquee() {
       visibilityObserver.disconnect();
       resizeObserver.disconnect();
     };
-  }, []);
-
-  const startDrag = (event: React.PointerEvent<HTMLDivElement>) => {
-    const viewport = viewportRef.current;
-
-    if (!viewport) {
-      return;
-    }
-
-    dragStateRef.current = {
-      hasCaptured: false,
-      isDragging: true,
-      pointerId: event.pointerId,
-      scrollLeft: viewport.scrollLeft,
-      startX: event.clientX,
-    };
-  };
-
-  const moveDrag = (event: React.PointerEvent<HTMLDivElement>) => {
-    const viewport = viewportRef.current;
-    const dragState = dragStateRef.current;
-
-    if (!viewport || !dragState.isDragging || dragState.pointerId !== event.pointerId) {
-      return;
-    }
-
-    const distance = event.clientX - dragState.startX;
-
-    if (Math.abs(distance) > 5 && !dragState.hasCaptured) {
-      viewport.setPointerCapture(event.pointerId);
-      dragState.hasCaptured = true;
-    }
-
-    const loopWidth = loopWidthRef.current;
-    let nextScrollLeft = dragState.scrollLeft - distance;
-
-    if (loopWidth > 0) {
-      if (nextScrollLeft < 0) {
-        nextScrollLeft += loopWidth;
-      } else if (nextScrollLeft >= loopWidth) {
-        nextScrollLeft -= loopWidth;
-      }
-    }
-
-    viewport.scrollLeft = nextScrollLeft;
-  };
-
-  const stopDrag = (event: React.PointerEvent<HTMLDivElement>) => {
-    const viewport = viewportRef.current;
-    const dragState = dragStateRef.current;
-
-    if (event.type === "pointerleave") {
-      isPointerOverRef.current = false;
-    }
-
-    if (!viewport || dragState.pointerId !== event.pointerId) {
-      return;
-    }
-
-    dragStateRef.current.isDragging = false;
-
-    if (dragState.hasCaptured && viewport.hasPointerCapture(event.pointerId)) {
-      viewport.releasePointerCapture(event.pointerId);
-    }
-  };
-
-  const handleWheel = (event: React.WheelEvent<HTMLDivElement>) => {
-    const viewport = viewportRef.current;
-
-    if (!viewport) {
-      return;
-    }
-
-    const isHorizontalIntent = Math.abs(event.deltaX) > Math.abs(event.deltaY) * 1.25;
-    const delta = event.shiftKey ? event.deltaY : event.deltaX;
-
-    if (!event.shiftKey && !isHorizontalIntent) {
-      return;
-    }
-
-    if (Math.abs(delta) < 1) {
-      return;
-    }
-
-    event.preventDefault();
-    const loopWidth = loopWidthRef.current;
-    let nextScrollLeft = viewport.scrollLeft + delta;
-
-    if (loopWidth > 0) {
-      if (nextScrollLeft < 0) {
-        nextScrollLeft += loopWidth;
-      } else if (nextScrollLeft >= loopWidth) {
-        nextScrollLeft -= loopWidth;
-      }
-    }
-
-    viewport.scrollLeft = nextScrollLeft;
-  };
+  }, [direction, speed]);
 
   return (
     <div
       ref={viewportRef}
       role="region"
-      className="project-marquee mt-8 min-h-[24rem]"
-      aria-label="Daftar project sebelumnya yang bergerak dari kanan ke kiri"
-      onPointerDown={startDrag}
-      onPointerEnter={() => {
-        isPointerOverRef.current = true;
+      className="project-marquee min-h-[24rem]"
+      aria-label={`Daftar project sebelumnya. ${label}`}
+      onPointerEnter={(event) => {
+        // Pause on mouse hover only; touch devices never pause or scroll manually.
+        isPointerOverRef.current = event.pointerType === "mouse";
       }}
-      onPointerCancel={stopDrag}
-      onPointerLeave={stopDrag}
-      onPointerMove={moveDrag}
-      onPointerUp={stopDrag}
-      onLostPointerCapture={stopDrag}
-      onWheel={handleWheel}
+      onPointerLeave={() => {
+        isPointerOverRef.current = false;
+      }}
     >
-      {shouldLoad ? <ProjectCards /> : null}
+      {shouldLoad ? <ProjectCards items={items} /> : null}
     </div>
   );
 }

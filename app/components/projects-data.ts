@@ -52,7 +52,7 @@ export const projects = [
       "Sistem pendataan abdi dalem Keraton Surakarta: pendaftaran, data diri, jadwal kegiatan, daftar hadir, dan cetak kartu identitas.",
     descriptionId: "project.description.abdi",
     image: "/projects/abdi-dalem-keraton-kasunanan-surakarta-hadiningrat.webp",
-    logo: "/projects/logos/abdi-dalem-keraton.webp",
+    logo: "/projects/logos/abdi-dalem-keraton-v2.webp",
     imageAlt: "Tampilan website Abdi Dalem Keraton Kasunanan Surakarta Hadiningrat di laptop dan ponsel",
   },
   {
@@ -107,7 +107,7 @@ export const projects = [
       "Katalog online furnitur indoor dan outdoor untuk cafe, restoran, dan rumah. Pengunjung bisa melihat koleksi lalu konsultasi lewat WhatsApp.",
     descriptionId: "project.description.alengka",
     image: "/projects/alengka-home-living.webp",
-    logo: "/projects/logos/alengka.webp",
+    logo: "/projects/logos/alengka-v2.webp",
     imageAlt: "Tampilan website Alengka Home Living di laptop dan ponsel",
   },
   {

@@ -1,5 +1,8 @@
 import ProjectsSection from "./components/projects-section";
+import TestimonialsSection from "./components/testimonials-section";
 import CenteredScrollLink from "./components/centered-scroll-link";
+import DetailBlocks, { type DetailBlock } from "./components/detail-blocks";
+import { detailLabels, processDetails, serviceDetails } from "./components/detail-data";
 import { Illustration, type IllustrationName } from "./components/illustrations";
 import { LocalizedText } from "./components/localized-text";
 import LazyPackageSlider from "./components/lazy-package-slider";
@@ -111,6 +114,71 @@ const process = [
   icon: IconName;
   illustration: IllustrationName;
 }>;
+
+const photoSet = (name: string): DetailBlock["collage"] => [
+  `/photos/${name}-1.webp`,
+  `/photos/${name}-2.webp`,
+  `/photos/${name}-3.webp`,
+];
+
+const serviceCollages = ["layanan-1", "layanan-2", "layanan-3", "layanan-4"].map(photoSet);
+
+const processCollages = ["proses-1", "proses-2", "proses-3", "proses-4", "proses-5"].map(photoSet);
+
+const serviceBlocks: DetailBlock[] = services.map((service, index) => ({
+  kicker: detailLabels["services.kicker"],
+  kickerId: "services.kicker",
+  title: service.title,
+  titleId: `services.${index}.title`,
+  summary: service.description,
+  summaryId: `services.${index}.description`,
+  body: serviceDetails[index].long,
+  bodyId: `services.${index}.long`,
+  listHeading: detailLabels["services.getTitle"],
+  listHeadingId: "services.getTitle",
+  list: serviceDetails[index].details.map((text, detailIndex) => ({ text, id: `services.${index}.detail.${detailIndex}` })),
+  notes: [
+    {
+      heading: detailLabels["services.forTitle"],
+      headingId: "services.forTitle",
+      text: serviceDetails[index].forWho,
+      textId: `services.${index}.for`,
+    },
+  ],
+  pills: service.items
+    .map((text, itemIndex) => ({ text, id: `services.${index}.item.${itemIndex}` }))
+    .filter((pill) => pill.text !== "dan lain-lain"),
+  collage: serviceCollages[index],
+}));
+
+const processBlocks: DetailBlock[] = process.map((step, index) => ({
+  kicker: detailLabels["process.kicker"],
+  kickerId: "process.kicker",
+  title: step.title,
+  titleId: `process.${index}.title`,
+  summary: step.description,
+  summaryId: `process.${index}.description`,
+  body: processDetails[index].long,
+  bodyId: `process.${index}.long`,
+  listHeading: detailLabels["process.doTitle"],
+  listHeadingId: "process.doTitle",
+  list: processDetails[index].does.map((text, doIndex) => ({ text, id: `process.${index}.do.${doIndex}` })),
+  notes: [
+    {
+      heading: detailLabels["process.youTitle"],
+      headingId: "process.youTitle",
+      text: processDetails[index].you,
+      textId: `process.${index}.you`,
+    },
+    {
+      heading: detailLabels["process.resultTitle"],
+      headingId: "process.resultTitle",
+      text: processDetails[index].result,
+      textId: `process.${index}.result`,
+    },
+  ],
+  collage: processCollages[index],
+}));
 
 const contactWhatsAppHref = createWhatsAppHref(
   "Halo Nocoding, saya ingin konsultasi kebutuhan website untuk bisnis saya. Mohon info langkah berikutnya.",
@@ -239,6 +307,7 @@ export default function Home() {
         <ServicesSection />
         <ProcessSection />
         <ProjectsSection />
+        <TestimonialsSection />
         <PackagesSection />
         <FaqSection />
         <ContactSection />
@@ -318,29 +387,7 @@ function ServicesSection() {
         descriptionId="services.description"
       />
 
-      <div className="mx-auto mt-12 grid w-full max-w-[21.5rem] gap-4 sm:max-w-7xl md:grid-cols-2 lg:grid-cols-4">
-        {services.map((service, serviceIndex) => (
-          <article key={service.title} className="rounded-lg border border-white/10 bg-white/[0.03] p-6 transition hover:border-brand-cyan/60 hover:bg-white/[0.05]">
-            <div className="mb-5 aspect-[16/10] overflow-hidden rounded-lg border border-white/10 bg-gradient-to-br from-brand-surface to-brand-dark">
-              <Illustration name={service.illustration} className="h-full w-full" />
-            </div>
-            <h3 className="text-xl font-bold text-white">
-              <LocalizedText id={`services.${serviceIndex}.title`}>{service.title}</LocalizedText>
-            </h3>
-            <p className="mt-3 leading-7 text-slate-400">
-              <LocalizedText id={`services.${serviceIndex}.description`}>{service.description}</LocalizedText>
-            </p>
-            <ul className="mt-6 space-y-3">
-              {service.items.map((item, itemIndex) => (
-                <li key={item} className="flex items-center gap-3 text-sm text-slate-300">
-                  <Icon name="check" className="h-4 w-4 text-brand-lime" />
-                  <LocalizedText id={`services.${serviceIndex}.item.${itemIndex}`}>{item}</LocalizedText>
-                </li>
-              ))}
-            </ul>
-          </article>
-        ))}
-      </div>
+      <DetailBlocks blocks={serviceBlocks} />
     </section>
   );
 }
@@ -356,24 +403,7 @@ function ProcessSection() {
         descriptionId="process.description"
       />
 
-      <div className="process-mobile-timeline mx-auto mt-12 grid w-full max-w-[21.5rem] gap-4 sm:max-w-7xl lg:grid-cols-5">
-        {process.map((step, index) => (
-          <article key={step.title} className="process-timeline-card rounded-lg border border-white/10 bg-brand-dark p-6">
-            <div className="relative mb-5 aspect-[16/10] overflow-hidden rounded-lg border border-white/10 bg-gradient-to-br from-brand-surface to-brand-dark">
-              <Illustration name={step.illustration} className="h-full w-full" />
-              <span className="absolute right-2 top-2 rounded-md bg-brand-dark/80 px-2 py-0.5 text-xs font-black text-brand-mint backdrop-blur">
-                0{index + 1}
-              </span>
-            </div>
-            <h3 className="mt-5 text-lg font-bold text-white">
-              <LocalizedText id={`process.${index}.title`}>{step.title}</LocalizedText>
-            </h3>
-            <p className="mt-3 leading-7 text-slate-400">
-              <LocalizedText id={`process.${index}.description`}>{step.description}</LocalizedText>
-            </p>
-          </article>
-        ))}
-      </div>
+      <DetailBlocks blocks={processBlocks} />
     </section>
   );
 }

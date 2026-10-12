@@ -62,7 +62,9 @@ export default function ScrollRevealController() {
       },
       {
         rootMargin: "-18% 0px -18% 0px",
-        threshold: 0.12,
+        // A tiny threshold: sections taller than the viewport (e.g. the detailed
+        // service and process blocks) can never reach a large visible ratio.
+        threshold: 0.01,
       },
     );
 

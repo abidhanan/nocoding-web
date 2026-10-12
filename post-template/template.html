@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<title>Template Postingan Nocoding</title>
+<style>
+  /* Edit the texts marked TEKS 1 / TEKS 2 / CTA, then export this page as a 1080x1350 image. */
+  *{box-sizing:border-box}
+  html,body{margin:0;width:1080px;height:1350px;overflow:hidden;background:#07111f;font-family:'Segoe UI',Inter,Arial,sans-serif;color:#fff}
+  /* hero section background: brand-dark + a faint grid */
+  .grid{position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.08) 2px,transparent 2px),linear-gradient(90deg,rgba(255,255,255,.08) 2px,transparent 2px);background-size:56px 56px;opacity:.55}
+  .deco{position:absolute;inset:0}
+  /* proportions follow the reference design (brand ~8% from the top, TEKS 1 at ~20%, button ~93%) */
+  .page{position:absolute;inset:0}
+  .brand{position:absolute;left:0;right:0;top:62px;display:flex;align-items:center;justify-content:center;gap:20px}
+  .brand img{height:104px;width:auto}
+  .brand span{font:800 56px 'Segoe UI',Arial;letter-spacing:1px}
+  .brand i{color:#22d3ee;font-style:normal}
+  h1{position:absolute;left:0;right:0;top:186px;margin:0;font:900 152px/1 'Segoe UI',Arial;letter-spacing:-4px;text-align:center;color:#22d3ee}
+  h2{position:absolute;left:0;right:0;top:352px;margin:0;font:800 62px/1.1 'Segoe UI',Arial;text-align:center;color:#fff}
+  .cta{position:absolute;left:50%;top:1218px;transform:translateX(-50%);white-space:nowrap;padding:17px 46px;border-radius:999px;background:#fff;color:#07111f;font:800 31px/1.2 'Segoe UI',Arial;box-shadow:0 14px 40px rgba(34,211,238,.25)}
+  .site{position:absolute;left:0;right:0;top:1296px;display:flex;align-items:center;justify-content:center;gap:12px;font:600 29px/1.2 'Segoe UI',Arial;color:#cbd5e1}
+  .site svg{width:30px;height:30px}
+</style>
+</head>
+<body>
+<div class="grid"></div>
+
+<!-- soft sparkles + faint constellation lines, like the reference (kept subtle) -->
+<svg class="deco" viewBox="0 0 1080 1350" fill="none">
+  <g fill="#22d3ee" opacity=".9">
+    <path d="M148 480c3 18 12 27 30 30-18 3-27 12-30 30-3-18-12-27-30-30 18-3 27-12 30-30z" opacity=".95"/>
+    <path d="M920 452c2 11 8 17 19 19-11 2-17 8-19 19-2-11-8-17-19-19 11-2 17-8 19-19z"/>
+    <path d="M198 752c2 12 9 18 20 20-11 2-18 8-20 20-2-12-9-18-20-20 11-2 18-8 20-20z" opacity=".8"/>
+    <path d="M880 70c2 14 10 22 24 24-14 2-22 10-24 24-2-14-10-22-24-24 14-2 22-10 24-24z" opacity=".9"/>
+  </g>
+  <g fill="#fff" opacity=".7">
+    <circle cx="60" cy="722" r="6"/><circle cx="154" cy="780" r="7"/><circle cx="34" cy="842" r="5"/><circle cx="1040" cy="118" r="5"/>
+    <circle cx="238" cy="560" r="4"/><circle cx="960" cy="540" r="4"/><circle cx="1020" cy="860" r="5"/>
+  </g>
+  <g stroke="#22d3ee" stroke-width="2" opacity=".28" stroke-linecap="round">
+    <path d="M60 722L154 780L34 842M154 780L270 746M154 780L190 880"/>
+    <path d="M1040 118L990 190L1060 250M990 190L930 150"/>
+  </g>
+</svg>
+
+<div class="page">
+  <div class="brand"><img src="nocoding-logo.webp" alt=""><span>nocoding<i>_</i></span></div>
+  <h1>TEKS 1</h1>
+  <h2>TEKS 2</h2>
+  <div class="cta">Buat Websitemu Sekarang!</div>
+  <div class="site">
+    <svg viewBox="0 0 24 24" fill="none" stroke="#22d3ee" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9.5"/><path d="M2.5 12h19M12 2.5c3 3 4.5 6 4.5 9.5s-1.5 6.5-4.5 9.5c-3-3-4.5-6-4.5-9.5S9 5.5 12 2.5z"/></svg>
+    www.nocoding.web.id
+  </div>
+</div>
+</body>
+</html>

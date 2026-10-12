@@ -8,6 +8,8 @@ export type Project = {
   imageAlt: string;
   logo?: string;
   logoOnDark?: boolean;
+  /** Solid full-bleed logo (circle or square): shown edge to edge, with no white tile around it. */
+  logoFull?: boolean;
 };
 
 export const projects = [
@@ -30,7 +32,7 @@ export const projects = [
       "Toko online layanan digital seperti top up game, paket data, dan aplikasi premium, lengkap dengan saldo pelanggan dan program reseller.",
     descriptionId: "project.description.wiboost",
     image: "/projects/wiboost-store-website-layanan-digital.webp",
-    logo: "/projects/logos/wiboost-store.webp",
+    logo: "/projects/logos/wiboost-store-round.webp",
     imageAlt: "Tampilan website Wiboost Store di laptop dan ponsel",
   },
   {
@@ -41,7 +43,7 @@ export const projects = [
       "Website portofolio pribadi bergaya lukisan cat air dengan dua pilihan bahasa, untuk memperkenalkan profil, pengalaman, dan kontak.",
     descriptionId: "project.description.ahawi",
     image: "/projects/ahawi-portfolio-website-portofolio.webp",
-    logo: "/projects/logos/ahawi-portfolio.webp",
+    logo: "/projects/logos/ahawi-portfolio-round.webp",
     imageAlt: "Tampilan website AHAWI Portfolio di laptop dan ponsel",
   },
   {
@@ -74,7 +76,8 @@ export const projects = [
       "Platform yang mempertemukan pemberi tugas dan freelancer. Pemberi tugas memasang hadiah, freelancer mengerjakan, pembayaran lewat QRIS.",
     descriptionId: "project.description.payu",
     image: "/projects/payu.webp",
-    logo: "/projects/logos/payu.svg",
+    logo: "/projects/logos/payu-sq.webp",
+    logoFull: true,
     imageAlt: "Tampilan website PayU di laptop dan ponsel",
   },
   {
@@ -96,7 +99,8 @@ export const projects = [
       "Toko online akun aplikasi premium seperti Netflix dan Spotify. Pembeli memilih dan membayar sendiri, admin mengelola stok dan penjualan.",
     descriptionId: "project.description.ianprem",
     image: "/projects/ian-prem-store.webp",
-    logo: "/projects/logos/ian-prem-store.svg",
+    logo: "/projects/logos/ian-prem-store-sq.webp",
+    logoFull: true,
     imageAlt: "Tampilan website Ian Prem Store di laptop dan ponsel",
   },
   {
@@ -141,7 +145,7 @@ export const projects = [
       "Toko online pakaian yang lengkap: katalog, keranjang belanja, pembayaran online, blog, dan halaman admin untuk mengelola pesanan dan laporan.",
     descriptionId: "project.description.clothique",
     image: "/projects/clothique-ecommerce.webp",
-    logo: "/projects/logos/clothique-ecommerce.webp",
+    logo: "/projects/logos/clothique-ecommerce-v3.webp",
     imageAlt: "Tampilan website Clothique di laptop dan ponsel",
   },
   {
@@ -152,7 +156,8 @@ export const projects = [
       "Alat bantu tim konten untuk mengumpulkan contoh konten yang paling banyak dilihat, mencari polanya, lalu menyusun draf tulisan baru.",
     descriptionId: "project.description.agli",
     image: "/projects/agli.webp",
-    logo: "/projects/logos/agli.webp",
+    logo: "/projects/logos/agli-sq.webp",
+    logoFull: true,
     imageAlt: "Tampilan website AGLI di laptop dan ponsel",
   },
   {
@@ -163,7 +168,8 @@ export const projects = [
       "Aplikasi bantu penjualan berbasis AI yang menyusun strategi, catatan calon pelanggan, dan draf pesan penawaran dari informasi produk.",
     descriptionId: "project.description.nebulist",
     image: "/projects/nebulist-ai-sales-engine.webp",
-    logo: "/projects/logos/nebulist-ai-sales-engine.webp",
+    logo: "/projects/logos/nebulist-ai-sales-engine-sq.webp",
+    logoFull: true,
     imageAlt: "Tampilan website Nebulist AI Sales Engine di laptop dan ponsel",
   },
   {
@@ -260,7 +266,8 @@ export const projects = [
       "Game online bertema sains dan alkimia: pemain menggabungkan ramuan, mengumpulkan koleksi digital, dan berkompetisi di arena.",
     descriptionId: "project.description.senkus",
     image: "/projects/senkus-elixir.webp",
-    logo: "/projects/logos/senkus-elixir.webp",
+    logo: "/projects/logos/senkus-elixir-sq.webp",
+    logoFull: true,
     imageAlt: "Tampilan website Senkus Elixir di laptop dan ponsel",
   },
   {

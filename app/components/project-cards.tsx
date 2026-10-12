@@ -45,7 +45,9 @@ function ProjectCard({ project }: { project: Project }) {
             <span
               className={`grid h-10 w-10 shrink-0 place-items-center overflow-hidden rounded-lg ${
                 project.logo
-                  ? `${project.logoOnDark ? "bg-brand-night" : "bg-white"} p-1.5`
+                  ? project.logoFull
+                    ? ""
+                    : `${project.logoOnDark ? "bg-brand-night" : "bg-white"} p-1.5`
                   : "border border-brand-cyan/30 bg-brand-cyan/10 text-base font-black text-brand-cyan"
               }`}
             >
@@ -56,7 +58,8 @@ function ProjectCard({ project }: { project: Project }) {
                   width={40}
                   height={40}
                   unoptimized
-                  className="h-full w-full object-contain"
+                  loading="eager"
+                  className={`h-full w-full ${project.logoFull ? "object-cover" : "object-contain"}`}
                 />
               ) : (
                 project.name.charAt(0)

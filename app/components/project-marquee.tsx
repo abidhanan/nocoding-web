@@ -26,7 +26,7 @@ const rows: RowConfig[] = [
   { items: projects.slice(third * 2), direction: 1, speed: 0.04, label: "Baris bawah, bergerak dari kanan ke kiri" },
 ];
 
-/** Three looping rows of project cards. They move on their own and cannot be dragged. */
+/** Three looping rows of project cards. They never stop: no hover pause, drag, or scroll. */
 export default function ProjectMarquee() {
   return (
     <div className="mt-8 grid gap-2">
@@ -45,7 +45,6 @@ function MarqueeRow({ items, direction, speed, label }: RowConfig) {
   const [shouldLoad, setShouldLoad] = useState(false);
   const viewportRef = useRef<HTMLDivElement>(null);
   const loopWidthRef = useRef(0);
-  const isPointerOverRef = useRef(false);
 
   useEffect(() => {
     const viewport = viewportRef.current;
@@ -84,7 +83,7 @@ function MarqueeRow({ items, direction, speed, label }: RowConfig) {
 
       const loopWidth = loopWidthRef.current;
 
-      if (!isPointerOverRef.current && loopWidth > 0) {
+      if (loopWidth > 0) {
         let nextScrollLeft = viewport.scrollLeft + deltaTime * speed * direction;
 
         if (nextScrollLeft >= loopWidth) {
@@ -148,13 +147,6 @@ function MarqueeRow({ items, direction, speed, label }: RowConfig) {
       role="region"
       className="project-marquee min-h-[24rem]"
       aria-label={`Daftar project sebelumnya. ${label}`}
-      onPointerEnter={(event) => {
-        // Pause on mouse hover only; touch devices never pause or scroll manually.
-        isPointerOverRef.current = event.pointerType === "mouse";
-      }}
-      onPointerLeave={() => {
-        isPointerOverRef.current = false;
-      }}
     >
       {shouldLoad ? <ProjectCards items={items} /> : null}
     </div>

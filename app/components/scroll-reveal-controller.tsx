@@ -2,6 +2,11 @@
 
 import { useEffect } from "react";
 
+/**
+ * Fades each section in once, the first time it scrolls into view. The reveal is
+ * one-shot on purpose: re-hiding a section while part of it is still on screen made
+ * the previous section flicker and slide as the next one came in.
+ */
 export default function ScrollRevealController() {
   useEffect(() => {
     const sections = Array.from(
@@ -12,63 +17,48 @@ export default function ScrollRevealController() {
       return undefined;
     }
 
-    let lastScrollY = window.scrollY;
+    const pending: HTMLElement[] = [];
 
     sections.forEach((section) => {
       const rect = section.getBoundingClientRect();
 
       section.classList.add("section-reveal");
 
-      if (rect.bottom < 64) {
-        section.classList.add("section-reveal--from-top");
+      // Already on screen, or scrolled past (e.g. after a hash link): show right away.
+      if (rect.top < window.innerHeight * 0.88) {
+        section.classList.add("section-reveal--visible");
         return;
       }
 
-      if (rect.top > window.innerHeight) {
-        section.classList.add("section-reveal--from-bottom");
-        return;
-      }
-
-      section.classList.add("section-reveal--visible");
+      pending.push(section);
     });
+
+    if (!pending.length) {
+      return undefined;
+    }
 
     const observer = new IntersectionObserver(
       (entries) => {
-        const currentScrollY = window.scrollY;
-        const directionClass =
-          currentScrollY >= lastScrollY ? "section-reveal--from-bottom" : "section-reveal--from-top";
-
         entries.forEach((entry) => {
-          const section = entry.target as HTMLElement;
-
-          if (entry.isIntersecting) {
-            if (
-              !section.classList.contains("section-reveal--from-bottom") &&
-              !section.classList.contains("section-reveal--from-top")
-            ) {
-              section.classList.add(directionClass);
-            }
-
-            section.classList.add("section-reveal--visible");
+          if (!entry.isIntersecting) {
             return;
           }
 
-          section.classList.remove("section-reveal--visible");
-          section.classList.remove("section-reveal--from-bottom", "section-reveal--from-top");
-          section.classList.add(entry.boundingClientRect.top < 0 ? "section-reveal--from-top" : "section-reveal--from-bottom");
-        });
+          const section = entry.target as HTMLElement;
 
-        lastScrollY = currentScrollY;
+          section.classList.add("section-reveal--visible");
+          observer.unobserve(section);
+        });
       },
       {
-        rootMargin: "-18% 0px -18% 0px",
-        // A tiny threshold: sections taller than the viewport (e.g. the detailed
-        // service and process blocks) can never reach a large visible ratio.
+        // Reveal once the section's top has entered the lower part of the screen.
+        // A tiny threshold keeps sections taller than the viewport from getting stuck.
+        rootMargin: "0px 0px -12% 0px",
         threshold: 0.01,
       },
     );
 
-    sections.forEach((section) => observer.observe(section));
+    pending.forEach((section) => observer.observe(section));
 
     return () => observer.disconnect();
   }, []);

@@ -3,8 +3,7 @@
 import { useEffect, useRef, type ReactNode } from "react";
 
 /**
- * Wraps one numbered block so it animates in (and out) as it scrolls through the
- * viewport. Content stays fully visible without JavaScript: the hidden state is
+ * Wraps one numbered block so it animates in the first time it scrolls into view. Content stays fully visible without JavaScript: the hidden state is
  * only applied here, after mount.
  */
 export default function RevealBlock({
@@ -25,11 +24,16 @@ export default function RevealBlock({
 
     element.classList.add("block-reveal");
 
+    // One-shot: once a block has animated in it stays put, so blocks never flicker
+    // while the next one scrolls into view.
     const observer = new IntersectionObserver(
       ([entry]) => {
-        element.classList.toggle("block-reveal--visible", entry.isIntersecting);
+        if (entry.isIntersecting) {
+          element.classList.add("block-reveal--visible");
+          observer.disconnect();
+        }
       },
-      { rootMargin: "-8% 0px -8% 0px", threshold: 0.06 },
+      { rootMargin: "0px 0px -10% 0px", threshold: 0.06 },
     );
 
     observer.observe(element);

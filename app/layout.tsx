@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import Image from "next/image";
 import { Inter } from "next/font/google";
+import Analytics from "./components/analytics";
 import CenteredScrollLink from "./components/centered-scroll-link";
 import LanguageController from "./components/language-controller";
 import { LocalizedText } from "./components/localized-text";
@@ -179,6 +180,7 @@ export default function RootLayout({
         <ScrollRevealController />
         {children}
         <WhatsAppFloat />
+        <Analytics />
       </body>
     </html>
   );

@@ -2,6 +2,10 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   devIndicators: false,
+  experimental: {
+    // Article images are compressed in the browser first, but allow some headroom.
+    serverActions: { bodySizeLimit: "5mb" },
+  },
   async headers() {
     const immutableAssetHeaders = [
       {

@@ -10,7 +10,7 @@ import { projects } from "./projects-data";
  */
 export default function ProjectsSection() {
   return (
-    <section id="project" aria-labelledby="project-title" className="flex min-h-[calc(100svh-4rem)] flex-col justify-center overflow-hidden border-y border-white/10 bg-brand-night py-8 sm:py-10">
+    <section id="project" aria-labelledby="project-title" className="flex min-h-[calc(100svh-4rem)] flex-col justify-center overflow-hidden border-b border-white/10 py-8 sm:py-10">
       <div className="mx-auto w-full max-w-[21.5rem] px-6 text-center sm:max-w-3xl">
         <h2 id="project-title" className="text-sm font-bold uppercase text-brand-cyan">
           <LocalizedText id="projects.eyebrow">Project sebelumnya</LocalizedText>

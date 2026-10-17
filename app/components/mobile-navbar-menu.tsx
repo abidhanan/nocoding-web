@@ -8,6 +8,7 @@ type NavLink = {
   href: string;
   label: string;
   textId: string;
+  activePath?: string;
 };
 
 export default function MobileNavbarMenu({ links }: { links: NavLink[] }) {
@@ -79,6 +80,7 @@ export default function MobileNavbarMenu({ links }: { links: NavLink[] }) {
               <CenteredScrollLink
                 key={link.href}
                 href={link.href}
+                activePath={link.activePath}
                 activeClassName="mobile-nav-link--active"
                 scrollBlock="start"
                 onNavigate={() => setIsOpen(false)}

@@ -49,13 +49,12 @@ export default function DetailBlocks({ blocks }: { blocks: DetailBlock[] }) {
           >
             <Collage
               collage={block.collage}
-              number={index + 1}
               className={`order-2 ${isOdd ? "lg:order-2" : "lg:order-1"}`}
             />
 
             <div className={`order-1 text-left ${isOdd ? "lg:order-1" : "lg:order-2"}`}>
               <p className="block-reveal__item text-xs font-black uppercase tracking-[0.2em] text-brand-cyan">
-                <LocalizedText id={block.kickerId}>{block.kicker}</LocalizedText> {String(index + 1).padStart(2, "0")}
+                <LocalizedText id={block.kickerId}>{block.kicker}</LocalizedText> {index + 1}
               </p>
               <h3 className="block-reveal__item mt-3 text-2xl font-black leading-tight text-white sm:text-4xl">
                 <LocalizedText id={block.titleId}>{block.title}</LocalizedText>
@@ -120,11 +119,9 @@ export default function DetailBlocks({ blocks }: { blocks: DetailBlock[] }) {
 
 function Collage({
   collage,
-  number,
   className = "",
 }: {
   collage: DetailBlock["collage"];
-  number: number;
   className?: string;
 }) {
   const tile = "block-reveal__tile relative overflow-hidden rounded-xl border border-white/10 bg-brand-surface";
@@ -132,9 +129,6 @@ function Collage({
   return (
     <div className={`grid aspect-[5/4] grid-cols-5 grid-rows-2 gap-3 ${className}`}>
       <div className={`${tile} col-span-3 row-span-2`} style={{ transitionDelay: "0.05s" }}>
-        <span className="absolute left-3 top-3 z-10 rounded-md bg-brand-dark/80 px-2.5 py-1 text-xs font-black text-brand-mint backdrop-blur">
-          {String(number).padStart(2, "0")}
-        </span>
         <Image src={collage[0]} alt="" fill sizes="(min-width: 1024px) 22rem, 62vw" className="object-cover" />
       </div>
       <div className={`${tile} col-span-2`} style={{ transitionDelay: "0.18s" }}>

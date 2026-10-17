@@ -1,20 +1,23 @@
 "use client";
 
+import Link from "next/link";
+import { usePathname, useRouter } from "next/navigation";
 import type { AnchorHTMLAttributes, MouseEvent, ReactNode } from "react";
 import { useEffect, useState } from "react";
+import { navbarHeight, pendingSectionKey, scrollToSection } from "./section-scroll";
 
 type CenteredScrollLinkProps = Omit<
   AnchorHTMLAttributes<HTMLAnchorElement>,
   "children" | "href" | "onClick"
 > & {
   activeClassName?: string;
+  /** Also mark the link as current while this path (or a page below it) is open. */
+  activePath?: string;
   children: ReactNode;
   href: string;
   onNavigate?: () => void;
   scrollBlock?: "start" | "center";
 };
-
-const navbarHeight = 64;
 
 function cleanCurrentUrl() {
   return `${window.location.pathname}${window.location.search}`;
@@ -22,6 +25,7 @@ function cleanCurrentUrl() {
 
 export default function CenteredScrollLink({
   activeClassName = "",
+  activePath,
   children,
   className = "",
   href,
@@ -30,13 +34,19 @@ export default function CenteredScrollLink({
   ...anchorProps
 }: CenteredScrollLinkProps) {
   const [isActive, setIsActive] = useState(false);
+  const pathname = usePathname();
+  const router = useRouter();
+  // "#id" and "/#id" both point at a section of the home page.
+  const anchorId = href.startsWith("#") ? href.slice(1) : href.startsWith("/#") ? href.slice(2) : null;
+  const onHome = pathname === "/";
+  const isLocalAnchor = anchorId !== null && onHome;
 
   useEffect(() => {
-    if (!href.startsWith("#")) {
+    if (!isLocalAnchor) {
       return undefined;
     }
 
-    const id = href.slice(1);
+    const id = anchorId as string;
 
     const updateActiveState = () => {
       const target = document.getElementById(id);
@@ -69,14 +79,29 @@ export default function CenteredScrollLink({
       window.removeEventListener("resize", updateActiveState);
       window.removeEventListener("hashchange", updateActiveState);
     };
-  }, [href]);
+  }, [anchorId, isLocalAnchor]);
 
   const handleClick = (event: MouseEvent<HTMLAnchorElement>) => {
-    if (!href.startsWith("#")) {
+    if (anchorId !== null && !isLocalAnchor) {
+      // A home-page section clicked from another page: open the home page, then jump to it.
+      if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || event.button !== 0) {
+        return;
+      }
+
+      event.preventDefault();
+      window.sessionStorage.setItem(pendingSectionKey, JSON.stringify({ id: anchorId, block: scrollBlock }));
+      router.push("/");
+      onNavigate?.();
       return;
     }
 
-    const target = document.getElementById(href.slice(1));
+    if (!isLocalAnchor || anchorId === null) {
+      // A plain page link: let Next.js navigate normally.
+      onNavigate?.();
+      return;
+    }
+
+    const target = document.getElementById(anchorId);
 
     if (!target) {
       return;
@@ -85,31 +110,25 @@ export default function CenteredScrollLink({
     event.preventDefault();
     setIsActive(true);
 
-    const rect = target.getBoundingClientRect();
-    const currentScroll = window.scrollY;
-    const targetTop = rect.top + currentScroll;
-    const nextScroll =
-      scrollBlock === "center"
-        ? targetTop + rect.height / 2 - (window.innerHeight + navbarHeight) / 2
-        : targetTop - navbarHeight;
-
     window.history.replaceState(null, "", cleanCurrentUrl());
-    window.scrollTo({
-      top: Math.max(0, nextScroll),
-      behavior: "smooth",
-    });
+    scrollToSection(anchorId, scrollBlock);
     onNavigate?.();
   };
 
+  const isPageLink = anchorId === null;
+  const isCurrentPage = isPageLink && (pathname === href || pathname.startsWith(`${href}/`));
+  const onActivePath = activePath !== undefined && (pathname === activePath || pathname.startsWith(`${activePath}/`));
+  const active = isLocalAnchor ? isActive : isCurrentPage || onActivePath;
+
   return (
-    <a
+    <Link
       {...anchorProps}
       href={href}
-      aria-current={isActive ? "page" : undefined}
-      className={`${className}${isActive && activeClassName ? ` ${activeClassName}` : ""}`}
+      aria-current={active ? (isPageLink || onActivePath ? "page" : "location") : undefined}
+      className={`${className}${active && activeClassName ? ` ${activeClassName}` : ""}`}
       onClick={handleClick}
     >
       {children}
-    </a>
+    </Link>
   );
 }

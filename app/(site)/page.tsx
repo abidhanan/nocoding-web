@@ -1,14 +1,16 @@
-import ProjectsSection from "./components/projects-section";
-import TestimonialsSection from "./components/testimonials-section";
-import CenteredScrollLink from "./components/centered-scroll-link";
-import DetailBlocks, { type DetailBlock } from "./components/detail-blocks";
-import { detailLabels, processDetails, serviceDetails } from "./components/detail-data";
-import { Illustration, type IllustrationName } from "./components/illustrations";
-import { LocalizedText } from "./components/localized-text";
-import LazyPackageSlider from "./components/lazy-package-slider";
-import { createWhatsAppHref, whatsappDisplay } from "./components/projects-data";
-import TypedBrand from "./components/typed-brand";
-import { WhatsAppIcon } from "./components/whatsapp";
+import ArticlesSection from "../components/articles-section";
+import ProjectsSection from "../components/projects-section";
+import TestimonialsSection from "../components/testimonials-section";
+import CenteredScrollLink from "../components/centered-scroll-link";
+import DetailBlocks, { type DetailBlock } from "../components/detail-blocks";
+import { detailLabels, processDetails, serviceDetails } from "../components/detail-data";
+import { Illustration, type IllustrationName } from "../components/illustrations";
+import { LocalizedText } from "../components/localized-text";
+import LazyPackageSlider from "../components/lazy-package-slider";
+import { createWhatsAppHref } from "../components/projects-data";
+import { Footer, contactWhatsAppHref } from "../components/site-footer";
+import TypedBrand from "../components/typed-brand";
+import { WhatsAppIcon } from "../components/whatsapp";
 import Image from "next/image";
 import type { ReactNode } from "react";
 
@@ -28,8 +30,6 @@ type IconName =
   | "spark"
   | "storefront"
   | "workflow";
-
-type SocialIconName = "instagram" | "tiktok";
 
 const services = [
   {
@@ -180,17 +180,6 @@ const processBlocks: DetailBlock[] = process.map((step, index) => ({
   collage: processCollages[index],
 }));
 
-const contactWhatsAppHref = createWhatsAppHref(
-  "Halo Nocoding, saya ingin konsultasi kebutuhan website untuk bisnis saya. Mohon info langkah berikutnya.",
-);
-
-const contactEmail = "nocodingindonesia@gmail.com";
-const contactEmailHref = `https://mail.google.com/mail/?view=cm&fs=1&to=${contactEmail}&su=${encodeURIComponent(
-  "Konsultasi Website Nocoding",
-)}&body=${encodeURIComponent(
-  "Halo Nocoding, saya ingin konsultasi kebutuhan website untuk bisnis saya. Mohon info langkah berikutnya.",
-)}`;
-
 function createPackageWhatsAppHref(packageName: string) {
   return createWhatsAppHref(
     `Halo Nocoding, saya tertarik memilih paket ${packageName}. Mohon info langkah berikutnya.`,
@@ -265,23 +254,6 @@ const faqs = [
   answer: string;
 }>;
 
-const socialLinks = [
-  {
-    name: "Instagram",
-    href: "https://www.instagram.com/nocoding_id?igsh=MTBtdWZsN2doODVtYw==",
-    icon: "instagram",
-  },
-  {
-    name: "TikTok",
-    href: "https://www.tiktok.com/@nocoding._?_r=1&_t=ZS-96EiIaXYvbu",
-    icon: "tiktok",
-  },
-] satisfies Array<{
-  name: string;
-  href: string;
-  icon: SocialIconName;
-}>;
-
 const faqJsonLd = {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -294,6 +266,8 @@ const faqJsonLd = {
     },
   })),
 };
+
+export const revalidate = 300;
 
 export default function Home() {
   return (
@@ -310,6 +284,7 @@ export default function Home() {
         <TestimonialsSection />
         <PackagesSection />
         <FaqSection />
+        <ArticlesSection />
         <ContactSection />
       </main>
     </>
@@ -318,8 +293,7 @@ export default function Home() {
 
 function Hero() {
   return (
-    <section id="beranda" aria-labelledby="hero-title" className="relative isolate flex min-h-[100svh] flex-col justify-center overflow-hidden border-b border-white/10 bg-brand-dark px-6 pb-16 pt-24">
-      <div aria-hidden="true" className="absolute inset-0 bg-page-grid opacity-35" />
+    <section id="beranda" aria-labelledby="hero-title" className="relative isolate flex min-h-[100svh] flex-col justify-center overflow-hidden border-b border-white/10 px-6 pb-16 pt-24">
       <div aria-hidden="true" className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-brand-cyan to-transparent opacity-80" />
 
       <div className="relative mx-auto flex w-full max-w-3xl flex-col items-center text-center">
@@ -353,7 +327,7 @@ function Hero() {
               scrollBlock="start"
               className="inline-flex min-h-12 w-full items-center justify-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-bold text-brand-dark transition hover:bg-brand-lime focus:outline-none focus:ring-2 focus:ring-brand-lime focus:ring-offset-2 focus:ring-offset-brand-dark sm:w-auto"
             >
-              <LocalizedText id="hero.cta.contact">Konsultasi gratis</LocalizedText>
+              <LocalizedText id="hero.cta.contact">Konsultasi Gratis</LocalizedText>
               <Icon name="arrow" className="h-4 w-4" />
             </CenteredScrollLink>
             <CenteredScrollLink
@@ -361,7 +335,7 @@ function Hero() {
               scrollBlock="start"
               className="inline-flex min-h-12 w-full items-center justify-center gap-2 rounded-full border border-white/20 px-6 py-3 text-sm font-bold text-white transition hover:border-brand-cyan hover:text-brand-cyan focus:outline-none focus:ring-2 focus:ring-brand-cyan focus:ring-offset-2 focus:ring-offset-brand-dark sm:w-auto"
             >
-              <LocalizedText id="hero.cta.services">Lihat layanan</LocalizedText>
+              <LocalizedText id="hero.cta.services">Lihat Layanan</LocalizedText>
               <Icon name="search" className="h-4 w-4" />
             </CenteredScrollLink>
           </div>
@@ -378,7 +352,7 @@ function Hero() {
 
 function ServicesSection() {
   return (
-    <section id="layanan" aria-labelledby="services-title" className="bg-brand-dark px-6 py-8 sm:py-10">
+    <section id="layanan" aria-labelledby="services-title" className="border-b border-white/10 px-6 py-8 sm:py-10">
       <SectionHeader
         headingId="services-title"
         eyebrow="Layanan"
@@ -394,7 +368,7 @@ function ServicesSection() {
 
 function ProcessSection() {
   return (
-    <section id="proses" aria-labelledby="process-title" className="border-y border-white/10 bg-brand-night px-6 py-8 sm:py-10">
+    <section id="proses" aria-labelledby="process-title" className="border-b border-white/10 px-6 py-8 sm:py-10">
       <SectionHeader
         headingId="process-title"
         eyebrow="Proses"
@@ -410,7 +384,7 @@ function ProcessSection() {
 
 function PackagesSection() {
   return (
-    <section id="paket" aria-labelledby="packages-title" className="border-y border-white/10 bg-brand-night px-6 py-8 sm:py-10">
+    <section id="paket" aria-labelledby="packages-title" className="border-b border-white/10 px-6 py-8 sm:py-10">
       <SectionHeader
         headingId="packages-title"
         eyebrow="Biaya"
@@ -490,7 +464,7 @@ function PackagesSection() {
 
 function FaqSection() {
   return (
-    <section id="faq" aria-labelledby="faq-title" className="flex min-h-[calc(100svh-4rem)] items-center bg-brand-dark px-6 py-16">
+    <section id="faq" aria-labelledby="faq-title" className="flex min-h-[calc(100svh-4rem)] items-center border-b border-white/10 px-6 py-16">
       <div className="mx-auto grid w-full max-w-[21.5rem] gap-10 sm:max-w-7xl lg:grid-cols-[0.8fr_1.2fr] lg:items-center">
         <div className="text-center lg:text-left">
           <p className="text-sm font-bold uppercase text-brand-cyan">
@@ -528,19 +502,19 @@ function FaqSection() {
 
 function ContactSection() {
   return (
-    <section id="kontak" aria-labelledby="contact-title" className="flex min-h-[calc(100svh-4rem)] flex-col border-y border-white/10 bg-brand-dark text-brand-dark">
-      <div className="flex flex-1 items-center bg-white px-6 py-12">
+    <section id="kontak" aria-labelledby="contact-title" className="flex min-h-[calc(100svh-4rem)] flex-col border-b border-white/10">
+      <div className="flex flex-1 items-center px-6 py-12">
         <div className="mx-auto grid w-full max-w-[21.5rem] gap-6 text-center sm:max-w-7xl lg:grid-cols-[1fr_0.9fr] lg:items-center lg:text-left">
           <div>
-            <p className="text-sm font-black uppercase text-brand-blue">
+            <p className="text-sm font-black uppercase text-brand-cyan">
               <LocalizedText id="contact.eyebrow">Mulai proyek</LocalizedText>
             </p>
-            <h2 id="contact-title" className="mt-4 text-4xl font-black leading-tight">
+            <h2 id="contact-title" className="mt-4 text-4xl font-black leading-tight text-white">
               <LocalizedText id="contact.title">Ceritakan kebutuhan website Anda. Kami bantu rapikan jalannya.</LocalizedText>
             </h2>
           </div>
           <div className="space-y-5">
-            <p className="text-base leading-8 text-slate-700">
+            <p className="text-base leading-8 text-slate-400">
               <LocalizedText id="contact.description">
                 Kirim gambaran singkat tentang bisnis, target halaman, dan timeline yang diinginkan. Balasan awal akan berisi rekomendasi scope dan langkah berikutnya.
               </LocalizedText>
@@ -550,17 +524,17 @@ function ContactSection() {
                 href={contactWhatsAppHref}
                 target="_blank"
                 rel="noreferrer"
-                className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-brand-dark px-6 py-3 text-sm font-bold text-white transition hover:bg-brand-blue focus:outline-none focus:ring-2 focus:ring-brand-blue focus:ring-offset-2"
+                className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-bold text-brand-dark transition hover:bg-brand-lime focus:outline-none focus:ring-2 focus:ring-brand-lime focus:ring-offset-2 focus:ring-offset-brand-dark"
               >
                 <WhatsAppIcon className="h-4 w-4" />
-                <LocalizedText id="contact.whatsapp">Konsultasi sekarang</LocalizedText>
+                <LocalizedText id="contact.whatsapp">Konsultasi Sekarang</LocalizedText>
               </a>
               <CenteredScrollLink
                 href="#paket"
                 scrollBlock="start"
-                className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full border border-brand-dark/20 px-6 py-3 text-sm font-bold text-brand-dark transition hover:border-brand-blue hover:text-brand-blue focus:outline-none focus:ring-2 focus:ring-brand-blue focus:ring-offset-2"
+                className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full border border-white/25 px-6 py-3 text-sm font-bold text-white transition hover:border-brand-cyan hover:text-brand-cyan focus:outline-none focus:ring-2 focus:ring-brand-cyan focus:ring-offset-2 focus:ring-offset-brand-dark"
               >
-                <LocalizedText id="contact.package">Bandingkan biaya</LocalizedText>
+                <LocalizedText id="contact.package">Bandingkan Biaya</LocalizedText>
                 <Icon name="arrow" className="h-4 w-4" />
               </CenteredScrollLink>
             </div>
@@ -569,120 +543,6 @@ function ContactSection() {
       </div>
       <Footer />
     </section>
-  );
-}
-
-function Footer() {
-  return (
-    <footer className="border-t border-white/10 bg-brand-dark px-6 pt-7 pb-0 text-xs text-slate-400">
-      <div className="mx-auto w-full max-w-[21.5rem] sm:max-w-7xl">
-        <div className="grid gap-6 text-center md:grid-cols-3 md:items-start md:text-left">
-          <div className="flex flex-col items-center md:items-start">
-            <CenteredScrollLink
-              href="#beranda"
-              scrollBlock="start"
-              className="inline-flex h-9 items-center gap-2.5 text-white"
-              aria-label="nocoding_ beranda"
-            >
-              <span className="nocoding-logo-mark grid h-9 w-9 place-items-center">
-                <Image
-                  src="/nocoding-logo.webp"
-                  alt=""
-                  width={36}
-                  height={36}
-                  className="nocoding-logo-mark__image h-9 w-9 object-contain"
-                />
-              </span>
-              <span className="flex h-9 -translate-y-0.5 items-center text-lg font-black leading-none">
-                <TypedBrand />
-              </span>
-            </CenteredScrollLink>
-            <p className="mt-3 w-full max-w-[21.5rem] leading-6 text-slate-400">
-              <span className="block">
-                <LocalizedText id="hero.description.line1">Jasa pembuatan website, aplikasi, dan automasi</LocalizedText>
-              </span>
-              <span className="block">
-                <LocalizedText id="hero.description.line2">yang cepat, terjangkau, dan memuaskan.</LocalizedText>
-              </span>
-            </p>
-          </div>
-
-          <div className="flex flex-col items-center md:text-center">
-            <p className="flex h-9 items-center text-xs font-black uppercase tracking-[0.22em] text-brand-cyan sm:tracking-[0.32em]">
-              <LocalizedText id="footer.connect">Mari Terhubung</LocalizedText>
-            </p>
-            <div className="mt-3 flex justify-center">
-              <SocialLinks tone="light" />
-            </div>
-          </div>
-
-          <div className="flex flex-col items-center md:items-end">
-            <div className="flex flex-col items-center md:items-start md:text-left">
-              <p className="flex h-9 items-center text-xs font-black uppercase tracking-[0.32em] text-brand-cyan">
-                <LocalizedText id="footer.contact">Kontak</LocalizedText>
-              </p>
-              <a
-                href={contactWhatsAppHref}
-                target="_blank"
-                rel="noreferrer"
-                className="mt-3 inline-flex items-center gap-2.5 text-sm font-normal leading-6 text-white transition hover:text-brand-cyan focus:outline-none focus:ring-2 focus:ring-brand-cyan focus:ring-offset-2 focus:ring-offset-brand-dark"
-              >
-                <WhatsAppIcon className="h-4 w-4 text-brand-cyan" />
-                {whatsappDisplay}
-              </a>
-              <a
-                href={contactEmailHref}
-                target="_blank"
-                rel="noreferrer"
-                className="mt-1 inline-flex items-center gap-2.5 text-sm font-normal leading-6 text-white transition hover:text-brand-cyan focus:outline-none focus:ring-2 focus:ring-brand-cyan focus:ring-offset-2 focus:ring-offset-brand-dark"
-              >
-                <MailIcon className="h-4 w-4 text-brand-cyan" />
-                {contactEmail}
-              </a>
-            </div>
-          </div>
-        </div>
-
-        <div className="mt-7 flex min-h-[4.75rem] items-center justify-center border-t border-white/10 text-center text-[0.72rem] text-slate-400">
-          <p>
-            <LocalizedText id="footer.copyright.prefix">&copy; 2026 Nocoding - Dibuat oleh</LocalizedText>{" "}
-            <a
-              href="https://www.abidhanan.my.id/"
-              target="_blank"
-              rel="noreferrer"
-              className="font-semibold text-slate-300 transition hover:text-brand-cyan"
-            >
-              Abid Hanan Wicaksono
-            </a>
-            .
-          </p>
-        </div>
-      </div>
-    </footer>
-  );
-}
-
-function SocialLinks({ className = "", tone }: { className?: string; tone: "dark" | "light" }) {
-  const toneClass =
-    tone === "dark"
-      ? "border-brand-dark/15 text-brand-dark hover:border-brand-blue hover:bg-brand-blue hover:text-white focus:ring-brand-blue"
-      : "border-white/10 text-slate-300 hover:border-brand-cyan hover:bg-brand-cyan hover:text-brand-dark focus:ring-brand-cyan focus:ring-offset-brand-dark";
-
-  return (
-    <div className={`flex items-center gap-2 ${className}`}>
-      {socialLinks.map((social) => (
-        <a
-          key={social.name}
-          href={social.href}
-          target="_blank"
-          rel="noreferrer"
-          aria-label={`Buka ${social.name} nocoding`}
-          className={`grid h-9 w-9 place-items-center rounded-full border transition focus:outline-none focus:ring-2 focus:ring-offset-2 ${toneClass}`}
-        >
-          <SocialIcon name={social.icon} className="h-4 w-4" />
-        </a>
-      ))}
-    </div>
   );
 }
 
@@ -731,41 +591,6 @@ function Stat({
         <LocalizedText id={textId}>{label}</LocalizedText>
       </p>
     </div>
-  );
-}
-
-function MailIcon({ className = "h-5 w-5" }: { className?: string }) {
-  return (
-    <svg aria-hidden="true" className={className} fill="currentColor" viewBox="0 0 24 24">
-      <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" />
-    </svg>
-  );
-}
-
-function SocialIcon({ name, className = "h-5 w-5" }: { name: SocialIconName; className?: string }) {
-  if (name === "instagram") {
-    return (
-      <svg
-        aria-hidden="true"
-        className={className}
-        fill="none"
-        stroke="currentColor"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="2"
-        viewBox="0 0 24 24"
-      >
-        <rect width="16" height="16" x="4" y="4" rx="4" />
-        <circle cx="12" cy="12" r="3.2" />
-        <path d="M16.8 7.2h.01" />
-      </svg>
-    );
-  }
-
-  return (
-    <svg aria-hidden="true" className={className} fill="currentColor" viewBox="0 0 24 24">
-      <path d="M16.9 3.2c.4 2.3 1.8 3.8 4 4v3.5c-1.6.1-3.1-.4-4.1-1.2v5.9c0 3.4-2.3 5.6-5.7 5.6-3.1 0-5.5-2.1-5.5-5.1 0-3.2 2.7-5.3 6.2-5v3.6c-1.5-.2-2.6.5-2.6 1.7 0 1 .8 1.6 1.9 1.6 1.2 0 2-.7 2-2.2V3.2h3.8Z" />
-    </svg>
   );
 }
 

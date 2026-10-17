@@ -1,0 +1,20 @@
+Sample article photos from Unsplash (https://unsplash.com/license), cropped and converted to WebP.
+
+alasan-umkm-website.webp  <-  https://unsplash.com/photos/1499951360447-b19be8fe80f5
+alasan-umkm-website-2.webp  <-  https://unsplash.com/photos/1705544363568-425eabe4de51
+memilih-jasa-website.webp  <-  https://unsplash.com/photos/1542744173-8e7e53415bb0
+memilih-jasa-website-2.webp  <-  https://unsplash.com/photos/1581291518570-03a26006fb21
+biaya-membuat-website.webp  <-  https://unsplash.com/photos/1460925895917-afdab827c52f
+biaya-membuat-website-2.webp  <-  https://unsplash.com/photos/1551288049-bebda4e38f71
+apa-itu-automasi.webp  <-  https://unsplash.com/photos/1716191299980-a6e8827ba10b
+apa-itu-automasi-2.webp  <-  https://unsplash.com/photos/1581091226825-a6a2a5aee158
+checklist-materi-website.webp  <-  https://unsplash.com/photos/1517048676732-d65bc937f952
+checklist-materi-website-2.webp  <-  https://unsplash.com/photos/1623652554515-91c833e3080e
+kecepatan-website.webp  <-  https://unsplash.com/photos/1526628953301-3e589a6a8b74
+kecepatan-website-2.webp  <-  https://unsplash.com/photos/1531297484001-80022131f5a1
+seo-usaha-lokal.webp  <-  https://unsplash.com/photos/1563986768609-322da13575f3
+seo-usaha-lokal-2.webp  <-  https://unsplash.com/photos/1512941937669-90a1b58e7e9c
+website-atau-aplikasi.webp  <-  https://unsplash.com/photos/1517694712202-14dd9538aa97
+website-atau-aplikasi-2.webp  <-  https://unsplash.com/photos/1542744094-3a31f272c490
+keamanan-website.webp  <-  https://unsplash.com/photos/1550751827-4bd374c3f58b
+keamanan-website-2.webp  <-  https://unsplash.com/photos/1555066931-4365d14bab8c

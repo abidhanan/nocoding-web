@@ -12,7 +12,7 @@ export default function TestimonialsSection() {
   }
 
   return (
-    <section id="testimoni" aria-labelledby="testimonials-title" className="border-y border-white/10 bg-brand-dark px-6 py-8 sm:py-10">
+    <section id="testimoni" aria-labelledby="testimonials-title" className="border-b border-white/10 px-6 py-8 sm:py-10">
       <header className="mx-auto w-full max-w-[21.5rem] text-center sm:max-w-3xl">
         <h2 id="testimonials-title" className="text-sm font-bold uppercase text-brand-cyan">
           <LocalizedText id="testimonials.eyebrow">Testimoni</LocalizedText>

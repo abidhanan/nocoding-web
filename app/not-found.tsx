@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Halaman tidak ditemukan",
   description: "Halaman yang Anda cari tidak tersedia di nocoding_",
 };
 

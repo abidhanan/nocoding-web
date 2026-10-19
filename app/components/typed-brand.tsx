@@ -126,7 +126,7 @@ export default function TypedBrand({ className = "" }: { className?: string }) {
   );
 
   return (
-    <span className={`nocoding-type-word ${className}`} aria-hidden="true">
+    <span className={`nocoding-type-word ${className}`} dir="ltr" aria-hidden="true" translate="no">
       <span className="nocoding-type-word__ghost">
         <span>{mainText}</span>
         <span className="nocoding-type-word__underscore-spacer" />

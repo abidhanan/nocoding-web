@@ -1,4 +1,5 @@
 import Analytics from "../components/analytics";
+import AutoLanguage from "../components/auto-language";
 import LanguageController from "../components/language-controller";
 import { LocalizedText } from "../components/localized-text";
 import Navbar from "../components/navbar";
@@ -19,6 +20,7 @@ export default function SiteLayout({ children }: Readonly<{ children: React.Reac
       </a>
       <Navbar />
       <LanguageController />
+      <AutoLanguage />
       <ScrollRevealController />
       <PendingSectionScroll />
       <PageTransition>{children}</PageTransition>

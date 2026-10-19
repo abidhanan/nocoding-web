@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import CenteredScrollLink from "./centered-scroll-link";
+import { useLocalizedText } from "./i18n";
 import { LocalizedText } from "./localized-text";
 
 type NavLink = {
@@ -13,6 +14,8 @@ type NavLink = {
 
 export default function MobileNavbarMenu({ links }: { links: NavLink[] }) {
   const [isOpen, setIsOpen] = useState(false);
+  const openLabel = useLocalizedText("menu.open", "Buka menu navigasi");
+  const closeLabel = useLocalizedText("menu.close", "Tutup menu navigasi");
   const containerRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -42,12 +45,12 @@ export default function MobileNavbarMenu({ links }: { links: NavLink[] }) {
   }, [isOpen]);
 
   return (
-    <div ref={containerRef} className="lg:hidden">
+    <div ref={containerRef} className="nav-mobile-toggle lg:hidden">
       <button
         type="button"
         aria-controls="mobile-navbar-menu"
         aria-expanded={isOpen}
-        aria-label={isOpen ? "Tutup menu navigasi" : "Buka menu navigasi"}
+        aria-label={isOpen ? closeLabel : openLabel}
         onClick={() => setIsOpen((current) => !current)}
         className="grid h-10 w-10 place-items-center rounded-full border border-white/10 bg-white/[0.03] text-white transition hover:border-brand-cyan hover:text-brand-cyan focus:outline-none focus:ring-2 focus:ring-brand-cyan focus:ring-offset-2 focus:ring-offset-brand-dark"
       >

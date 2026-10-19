@@ -27,7 +27,7 @@ export default function ProjectsSection() {
       <ul className="sr-only">
         {projects.map((project) => (
           <li key={project.name}>
-            {project.name}: {project.description}
+            {project.name}: <LocalizedText id={project.descriptionId}>{project.description}</LocalizedText>
           </li>
         ))}
       </ul>

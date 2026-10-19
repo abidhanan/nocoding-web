@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
-import { formatDate } from "../../lib/articles/format";
-import type { Article } from "../../lib/articles/types";
+import type { ArticlePreview } from "../../lib/articles/types";
+import { ArticleDate, ArticleText, CategoryName } from "./article-i18n";
 import CalendarIcon from "./calendar-icon";
 import ImageWatermark from "./image-watermark";
 import { LocalizedText } from "./localized-text";
@@ -11,14 +11,19 @@ export default function ArticleCard({
   article,
   priority = false,
   eager = false,
+  headingLevel = "h3",
 }: {
-  article: Article;
+  article: ArticlePreview;
+  /** The first card of a page: fetched at high priority (it is usually the largest element on screen). */
   priority?: boolean;
   eager?: boolean;
+  headingLevel?: "h2" | "h3";
 }) {
+  const Heading = headingLevel;
+
   return (
     <article className="group flex h-full flex-col overflow-hidden rounded-xl border border-white/10 bg-white/[0.03] transition hover:-translate-y-1 hover:border-brand-cyan/50 hover:bg-white/[0.05]">
-      <Link href={`/artikel/${article.slug}`} className="flex h-full flex-col focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-cyan">
+      <Link prefetch={false} href={`/artikel/${article.slug}`} className="flex h-full flex-col focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-cyan">
         <div className="relative aspect-[16/9] overflow-hidden bg-brand-surface">
           {article.cover ? (
             <Image
@@ -26,8 +31,8 @@ export default function ArticleCard({
               alt={article.cover.alt}
               fill
               sizes="(min-width: 1024px) 24rem, (min-width: 640px) 50vw, 92vw"
-              priority={priority}
-              loading={eager && !priority ? "eager" : undefined}
+              loading={eager || priority ? "eager" : undefined}
+              fetchPriority={priority ? "high" : undefined}
               className="object-cover transition duration-500 group-hover:scale-[1.04]"
             />
           ) : (
@@ -42,16 +47,18 @@ export default function ArticleCard({
             <div className="flex flex-wrap gap-2">
               {article.categories.map((name) => (
                 <span key={name} className="rounded-full border border-brand-cyan/30 bg-brand-cyan/10 px-3 py-1 text-xs font-bold text-brand-cyan">
-                  {name}
+                  <CategoryName name={name} />
                 </span>
               ))}
             </div>
           ) : null}
-          <h3 className="mt-3 text-xl font-black leading-snug text-white">{article.title}</h3>
-          <p className="mt-2 grow text-sm leading-6 text-slate-400">{article.excerpt}</p>
+          <Heading className="mt-3 text-xl font-black leading-snug text-white"><ArticleText id={article.id} field="title">{article.title}</ArticleText></Heading>
+          <p className="mt-2 grow text-sm leading-6 text-slate-400">
+            <ArticleText id={article.id} field="excerpt">{article.excerpt}</ArticleText>
+          </p>
           <span className="mt-5 inline-flex items-center gap-1.5 text-xs text-slate-400">
             <CalendarIcon className="h-3.5 w-3.5" />
-            <time dateTime={article.publishedAt}>{formatDate(article.publishedAt)}</time>
+            <ArticleDate iso={article.publishedAt} />
           </span>
           <span className="mt-2 inline-flex items-center gap-2 text-sm font-bold text-brand-lime">
             <LocalizedText id="articles.readMore">Baca Selengkapnya</LocalizedText>

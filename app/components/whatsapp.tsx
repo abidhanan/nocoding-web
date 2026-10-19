@@ -16,7 +16,7 @@ export function WhatsAppFloat() {
       )}
       target="_blank"
       rel="noreferrer"
-      aria-label="Chat WhatsApp"
+      aria-label="Chat WhatsApp" data-i18n-aria="aria.whatsapp" data-i18n-wa="wa.contact"
       className="whatsapp-float fixed bottom-5 right-5 z-[70] grid h-14 w-14 place-items-center rounded-full bg-[#25d366] text-white shadow-lg shadow-black/40 transition hover:scale-105 focus:outline-none focus:ring-2 focus:ring-white/70 focus:ring-offset-2 focus:ring-offset-brand-dark"
     >
       <WhatsAppIcon className="whatsapp-float__icon h-7 w-7" />

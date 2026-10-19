@@ -1,11 +1,12 @@
 "use client";
 
 import { useEffect, useRef, useState, useSyncExternalStore } from "react";
-import type { Article } from "../../lib/articles/types";
+import type { ArticlePreview } from "../../lib/articles/types";
 import ArticleCard from "./article-card";
 
 const STEP_DELAY = 4500;
 const SLIDE_MS = 700;
+const INITIAL_SLIDES = 6;
 
 function subscribe(callback: () => void) {
   const queries = ["(min-width: 1024px)", "(min-width: 768px)", "(prefers-reduced-motion: reduce)"].map((query) =>
@@ -32,7 +33,7 @@ const reducedMotionSnapshot = () => window.matchMedia("(prefers-reduced-motion: 
  * Slides through every article one card at a time, looping forever. The first cards are
  * repeated after the last one so the loop wraps without a visible jump.
  */
-export default function ArticlesCarousel({ articles }: { articles: Article[] }) {
+export default function ArticlesCarousel({ articles }: { articles: ArticlePreview[] }) {
   const count = articles.length;
   const perView = useSyncExternalStore(subscribe, perViewSnapshot, () => 3);
   const reduced = useSyncExternalStore(subscribe, reducedMotionSnapshot, () => false);
@@ -79,14 +80,14 @@ export default function ArticlesCarousel({ articles }: { articles: Article[] }) 
 
   // Move to the next card on a timer.
   useEffect(() => {
-    if (!loop || reduced || focused || !animate || index >= count) {
+    if (!near || !loop || reduced || focused || !animate || index >= count) {
       return undefined;
     }
 
     const timer = setTimeout(() => setIndex((current) => current + 1), STEP_DELAY);
 
     return () => clearTimeout(timer);
-  }, [loop, reduced, focused, animate, index, count]);
+  }, [near, loop, reduced, focused, animate, index, count]);
 
   // After the repeated cards have slid in, jump back to the real first card without animation.
   useEffect(() => {
@@ -122,7 +123,7 @@ export default function ArticlesCarousel({ articles }: { articles: Article[] }) 
   }, [animate]);
 
   return (
-    <div ref={root} role="region" aria-roledescription="carousel" aria-label="Artikel" onFocus={() => setFocused(true)} onBlur={() => setFocused(false)}>
+    <div ref={root} role="region" aria-roledescription="carousel" aria-label="Artikel" data-i18n-aria="aria.articles" onFocus={() => setFocused(true)} onBlur={() => setFocused(false)}>
       <div className="mx-auto mt-10 w-full max-w-[21.5rem] overflow-hidden pt-2 md:max-w-3xl lg:max-w-7xl">
         <div
           className="-mx-2.5 flex ease-in-out [--step:100%] md:[--step:50%] lg:[--step:33.3333%]"
@@ -131,7 +132,8 @@ export default function ArticlesCarousel({ articles }: { articles: Article[] }) 
             transition: animate && !reduced ? `transform ${SLIDE_MS}ms ease-in-out` : "none",
           }}
         >
-          {slides.map((article, slideIndex) => (
+          {/* Only the first few cards are in the page at first; the rest are added once the carousel is close. */}
+          {(near ? slides : slides.slice(0, INITIAL_SLIDES)).map((article, slideIndex) => (
             <div
               key={`${article.id}-${slideIndex}`}
               className="w-full shrink-0 px-2.5 md:w-1/2 lg:w-1/3"

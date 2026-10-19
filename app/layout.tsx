@@ -5,28 +5,38 @@ import "./globals.css";
 const inter = Inter({
   subsets: ["latin"],
   variable: "--font-inter",
-  display: "swap",
+  display: "optional",
 });
 
 const siteUrl = "https://www.nocoding.web.id";
 const siteDescription =
-  "Jasa pembuatan website, aplikasi, dan automasi yang cepat, terjangkau, dan memuaskan.";
+  "Jasa pembuatan website, aplikasi, dan automasi yang cepat, terjangkau, dan memuaskan. Paket mulai Rp 500 ribu, konsultasi gratis, plus maintenance dan domain atau hosting 1 tahun.";
+const siteTitle = "Nocoding - Jasa Pembuatan Website, Aplikasi & Automasi";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   applicationName: "Nocoding",
-  // The browser tab always reads "Nocoding", whichever page is open.
-  title: "Nocoding",
+  // The home page title carries the keywords; other pages read "Page name - Nocoding".
+  title: {
+    default: siteTitle,
+    template: "%s - Nocoding",
+  },
   description: siteDescription,
   keywords: [
     "nocoding",
     "jasa pembuatan website",
     "jasa pembuatan website profesional",
+    "jasa pembuatan website murah",
     "jasa buat website bisnis",
     "jasa website",
+    "jasa pembuatan aplikasi",
+    "jasa automasi bisnis",
+    "pembuatan sistem informasi",
     "pembuatan landing page",
-    "website bisnis",
-    "company profile",
+    "website company profile",
+    "website UMKM",
+    "website portofolio",
+    "CV online",
     "katalog online",
     "no-code",
     "digitalisasi bisnis",
@@ -42,15 +52,14 @@ export const metadata: Metadata = {
     telephone: false,
   },
   manifest: "/manifest.webmanifest",
+  // One URL serves every language (the visitor picks one in the page), so there are no per-language
+  // alternates to declare. llms.txt is a plain-text summary written for AI assistants.
   alternates: {
     canonical: "/",
-    languages: {
-      "id-ID": "/",
-      "en-US": "/",
-    },
+    types: { "text/plain": [{ url: "/llms.txt", title: "Nocoding for AI assistants (llms.txt)" }] },
   },
   openGraph: {
-    title: "Nocoding",
+    title: siteTitle,
     description: siteDescription,
     url: siteUrl,
     siteName: "Nocoding",
@@ -68,7 +77,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Nocoding",
+    title: siteTitle,
     description: siteDescription,
     images: ["/opengraph-image.png"],
   },
@@ -93,6 +102,7 @@ export const viewport: Viewport = {
 };
 
 const contactEmail = "nocodingindonesia@gmail.com";
+const contactPhone = "+6285326513324";
 
 const organizationJsonLd = {
   "@context": "https://schema.org",
@@ -103,12 +113,22 @@ const organizationJsonLd = {
       name: "Nocoding",
       alternateName: ["nocoding_", "Nocoding Indonesia"],
       url: siteUrl,
-      logo: `${siteUrl}/nocoding-logo.webp`,
-      image: `${siteUrl}/nocoding-logo.webp`,
-      description: siteDescription,
+      logo: { "@type": "ImageObject", url: `${siteUrl}/nocoding-logo.webp`, width: 640, height: 586 },
+      image: `${siteUrl}/opengraph-image.png`,
+      description: [
+        { "@language": "id", "@value": siteDescription },
+        {
+          "@language": "en",
+          "@value":
+            "Nocoding builds websites, apps and business automation that are fast, affordable and tailored to each client. Packages start at IDR 500,000 with free consultation, maintenance and a domain or hosting for the first year.",
+        },
+      ],
+      slogan: "Jasa pembuatan website, aplikasi, dan automasi",
       email: contactEmail,
-      areaServed: { "@type": "Country", name: "Indonesia" },
-      priceRange: "Rp 2.500.000+",
+      telephone: contactPhone,
+      areaServed: [{ "@type": "Country", name: "Indonesia" }, { "@type": "Place", name: "Worldwide (remote)" }],
+      priceRange: "Rp 500.000 - Rp 2.000.000+",
+      currenciesAccepted: "IDR",
       knowsAbout: [
         "Jasa pembuatan website",
         "Jasa pembuatan website profesional",
@@ -118,8 +138,9 @@ const organizationJsonLd = {
         "Company profile",
         "Sistem informasi",
         "Sistem operasional",
-        "Automasi",
+        "Automasi bisnis",
         "No-code",
+        "SEO teknis",
       ],
       sameAs: [
         "https://www.instagram.com/nocoding_id",
@@ -129,7 +150,9 @@ const organizationJsonLd = {
         "@type": "ContactPoint",
         contactType: "sales",
         email: contactEmail,
-        availableLanguage: ["id", "en"],
+        telephone: contactPhone,
+        availableLanguage: ["Indonesian", "English"],
+        areaServed: "ID",
       },
     },
     {

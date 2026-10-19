@@ -2,16 +2,17 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import ArticleBody, { CtaBox } from "../../../components/article-body";
+import ArticleBody, { CtaBox, PhotoCredit } from "../../../components/article-body";
+import { ArticleDate, ArticleToc, ArticleTranslationProvider, CategoryName, ReadTime, Tr, TranslatedBody } from "../../../components/article-i18n";
 import ArticleCard from "../../../components/article-card";
 import ArticleEngagement from "../../../components/article-engagement";
+import { skeletonOf } from "../../../../lib/articles/skeleton";
 import ImageWatermark from "../../../components/image-watermark";
 import CalendarIcon from "../../../components/calendar-icon";
 import { LiveStatsProvider } from "../../../components/live-stats";
 import PopularArticles from "../../../components/popular-articles";
 import { LocalizedText } from "../../../components/localized-text";
 import { Footer } from "../../../components/site-footer";
-import { formatDate } from "../../../../lib/articles/format";
 import { getPublishedArticle, getPublishedArticles } from "../../../../lib/articles/store";
 import { getAllCounts } from "../../../../lib/articles/stats";
 
@@ -38,7 +39,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const url = `/artikel/${article.slug}`;
 
   return {
+    title: article.title,
     description: article.excerpt,
+    keywords: [...article.categories, "nocoding", "jasa pembuatan website"],
     alternates: { canonical: url },
     openGraph: {
       type: "article",
@@ -47,6 +50,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       url,
       publishedTime: article.publishedAt,
       modifiedTime: article.updatedAt,
+      section: article.categories[0],
+      tags: article.categories,
       images: article.cover ? [{ url: article.cover.src, alt: article.cover.alt }] : undefined,
     },
     twitter: {
@@ -73,22 +78,38 @@ export default async function ArticlePage({ params }: Props) {
   const popularItems = others.map((item) => ({ id: item.id, slug: item.slug, title: item.title, cover: item.cover?.src ?? null }));
   const cta = article.blocks.find((block) => block.type === "cta");
   const url = `${siteUrl}/artikel/${article.slug}`;
+  const sections = article.blocks.flatMap((block) => (block.type === "h2" ? [{ id: block.id, text: block.text }] : []));
+  const words = article.blocks.reduce((total, block) => {
+    const text = "items" in block ? block.items.join(" ") : "text" in block ? (block.text ?? "") : "";
+
+    return total + text.split(/\s+/).filter(Boolean).length;
+  }, article.title.split(/\s+/).length);
+  const minutes = Math.max(1, Math.round(words / 200));
 
   const jsonLd = {
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Article",
+        "@type": "BlogPosting",
+        "@id": `${url}#article`,
+        url,
         headline: article.title,
         description: article.excerpt,
         datePublished: article.publishedAt,
         dateModified: article.updatedAt,
         inLanguage: "id-ID",
         articleSection: article.categories,
-        mainEntityOfPage: url,
-        author: { "@type": "Organization", name: "Nocoding", url: siteUrl },
-        publisher: { "@type": "Organization", name: "Nocoding", url: siteUrl },
-        image: article.cover ? `${siteUrl}${article.cover.src}` : undefined,
+        keywords: article.categories.join(", "),
+        wordCount: words,
+        timeRequired: `PT${minutes}M`,
+        isAccessibleForFree: true,
+        mainEntityOfPage: { "@type": "WebPage", "@id": url },
+        author: { "@id": `${siteUrl}/#organization` },
+        publisher: { "@id": `${siteUrl}/#organization` },
+        isPartOf: { "@id": `${siteUrl}/#website` },
+        about: article.categories.map((name) => ({ "@type": "Thing", name })),
+        speakable: { "@type": "SpeakableSpecification", cssSelector: ["h1", "[data-speakable]"] },
+        image: article.cover ? [`${siteUrl}${article.cover.src}`] : undefined,
       },
       {
         "@type": "BreadcrumbList",
@@ -105,26 +126,27 @@ export default async function ArticlePage({ params }: Props) {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <main id="konten" className="min-h-screen">
+        <ArticleTranslationProvider id={article.id} skeleton={skeletonOf(article.blocks)}>
         <div className="px-6 pb-16 pt-28 sm:pt-32">
           <LiveStatsProvider initial={counts}>
-            <div className="mx-auto grid w-full max-w-[21.5rem] gap-12 sm:max-w-6xl lg:grid-cols-[minmax(0,1fr)_20rem]">
+            <div className="mx-auto grid w-full max-w-[21.5rem] gap-12 sm:max-w-7xl lg:grid-cols-[minmax(0,1fr)_20rem]">
             <article className="min-w-0">
-              <nav aria-label="Breadcrumb" className="text-sm text-slate-400">
+              <nav aria-label="Breadcrumb" data-i18n-aria="aria.breadcrumb" className="text-sm text-slate-400">
                 <ol className="flex flex-wrap items-center gap-x-2 gap-y-1">
                   <li>
-                    <Link href="/" className="transition hover:text-brand-cyan">
+                    <Link prefetch={false} href="/" className="transition hover:text-brand-cyan">
                       <LocalizedText id="nav.home">Beranda</LocalizedText>
                     </Link>
                   </li>
                   <li aria-hidden="true">/</li>
                   <li>
-                    <Link href="/artikel" className="transition hover:text-brand-cyan">
+                    <Link prefetch={false} href="/artikel" className="transition hover:text-brand-cyan">
                       <LocalizedText id="articles.eyebrow">Artikel</LocalizedText>
                     </Link>
                   </li>
                   <li aria-hidden="true">/</li>
                   <li aria-current="page" className="min-w-0 font-semibold text-brand-cyan">
-                    {article.title}
+                    <Tr field="title">{article.title}</Tr>
                   </li>
                 </ol>
               </nav>
@@ -134,16 +156,25 @@ export default async function ArticlePage({ params }: Props) {
                   <div className="flex flex-wrap gap-2">
                     {article.categories.map((name) => (
                       <span key={name} className="inline-flex rounded-full border border-brand-cyan/30 bg-brand-cyan/10 px-3 py-1 text-xs font-bold text-brand-cyan">
-                        {name}
+                        <CategoryName name={name} />
                       </span>
                     ))}
                   </div>
                 ) : null}
-                <h1 className="mt-4 text-3xl font-black leading-tight text-white sm:text-5xl">{article.title}</h1>
-                <p className="mt-4 text-lg leading-8 text-slate-300">{article.excerpt}</p>
-                <p className="mt-5 inline-flex items-center gap-2 text-sm text-slate-400">
-                  <CalendarIcon className="h-4 w-4" />
-                  <time dateTime={article.publishedAt}>{formatDate(article.publishedAt)}</time>
+                <h1 className="mt-4 text-3xl font-black leading-tight text-white sm:text-5xl">
+                  <Tr field="title">{article.title}</Tr>
+                </h1>
+                <p data-speakable className="mt-4 text-justify text-lg leading-8 text-slate-300">
+                  <Tr field="excerpt">{article.excerpt}</Tr>
+                </p>
+                <p className="mt-5 flex flex-wrap items-center gap-x-5 gap-y-1 text-sm text-slate-400">
+                  <span className="inline-flex items-center gap-2">
+                    <CalendarIcon className="h-4 w-4" />
+                    <ArticleDate iso={article.publishedAt} />
+                  </span>
+                  <span>
+                    <ReadTime minutes={minutes} />
+                  </span>
                 </p>
               </header>
 
@@ -153,7 +184,8 @@ export default async function ArticlePage({ params }: Props) {
                     src={article.cover.src}
                     alt={article.cover.alt}
                     fill
-                    priority
+                    loading="eager"
+                    fetchPriority="high"
                     sizes="(min-width: 1152px) 44rem, (min-width: 640px) 90vw, 100vw"
                     className="object-cover"
                   />
@@ -161,11 +193,18 @@ export default async function ArticlePage({ params }: Props) {
                 </div>
               ) : null}
               {article.cover && (article.cover.caption || article.cover.alt) ? (
-                <p className="mt-3 text-center text-sm text-slate-400">{article.cover.caption || article.cover.alt}</p>
+                <p className="mt-3 text-center text-sm text-slate-400">
+                  <Tr field="caption">{article.cover.caption || article.cover.alt}</Tr>
+                </p>
               ) : null}
+              {article.cover ? <PhotoCredit src={article.cover.src} /> : null}
+
+              {sections.length >= 3 ? <ArticleToc items={sections} /> : null}
 
               <div className="mt-10">
-                <ArticleBody blocks={article.blocks} />
+                <TranslatedBody>
+                  <ArticleBody blocks={article.blocks} />
+                </TranslatedBody>
               </div>
 
               <ArticleEngagement id={article.id} title={article.title} url={url} />
@@ -178,8 +217,10 @@ export default async function ArticlePage({ params }: Props) {
 
         {cta ? (
           <div className="px-6 pb-16">
-            <div className="mx-auto w-full max-w-[21.5rem] sm:max-w-4xl">
-              <CtaBox text={cta.text} />
+            <div className="mx-auto w-full max-w-[21.5rem] sm:max-w-7xl">
+              <CtaBox>
+                <Tr field="cta">{cta.text || <LocalizedText id="article.ctaDefault">Konsultasi gratis lewat WhatsApp, kapan pun Anda butuh.</LocalizedText>}</Tr>
+              </CtaBox>
             </div>
           </div>
         ) : null}
@@ -190,7 +231,11 @@ export default async function ArticlePage({ params }: Props) {
               <h2 id="related-title" className="text-2xl font-black text-white">
                 <LocalizedText id="articles.related">Artikel Lainnya</LocalizedText>
               </h2>
-              <Link href="/artikel" className="shrink-0 text-sm font-bold text-brand-lime transition hover:text-brand-cyan">
+              <Link
+                prefetch={false}
+                href="/artikel"
+                className="inline-flex min-h-10 shrink-0 items-center justify-center rounded-full border border-white/20 px-5 py-2 text-sm font-bold text-white transition hover:border-brand-cyan hover:text-brand-cyan focus:outline-none focus:ring-2 focus:ring-brand-cyan"
+              >
                 <LocalizedText id="articles.seeAll">Lihat Semua</LocalizedText>
               </Link>
             </div>
@@ -201,6 +246,7 @@ export default async function ArticlePage({ params }: Props) {
             </div>
           </section>
         ) : null}
+        </ArticleTranslationProvider>
       </main>
       <Footer />
     </>

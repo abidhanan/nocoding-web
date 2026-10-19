@@ -122,6 +122,7 @@ export default function CenteredScrollLink({
 
   return (
     <Link
+      prefetch={false}
       {...anchorProps}
       href={href}
       aria-current={active ? (isPageLink || onActivePath ? "page" : "location") : undefined}

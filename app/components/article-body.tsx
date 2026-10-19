@@ -1,6 +1,8 @@
 import Image from "next/image";
 import type { ReactNode } from "react";
 import ImageWatermark from "./image-watermark";
+import { photoCredits } from "../../lib/articles/photo-credits";
+import { LocalizedText } from "./localized-text";
 import { createWhatsAppHref } from "./projects-data";
 import type { Block } from "../../lib/articles/types";
 
@@ -83,7 +85,7 @@ export default function ArticleBody({ blocks }: { blocks: Block[] }) {
         switch (block.type) {
           case "h2":
             return (
-              <h2 key={block.id} className="mb-4 mt-12 text-2xl font-black leading-tight text-white sm:text-3xl">
+              <h2 key={block.id} id={`s-${block.id}`} className="mb-4 mt-12 scroll-mt-24 text-2xl font-black leading-tight text-white sm:text-3xl">
                 {renderInline(block.text)}
               </h2>
             );
@@ -95,7 +97,7 @@ export default function ArticleBody({ blocks }: { blocks: Block[] }) {
             );
           case "p":
             return (
-              <p key={block.id} className="mb-6 leading-8">
+              <p key={block.id} className="mb-6 text-justify leading-8">
                 {renderInline(block.text)}
               </p>
             );
@@ -120,7 +122,7 @@ export default function ArticleBody({ blocks }: { blocks: Block[] }) {
                 }`}
               >
                 {block.items.map((item, index) => (
-                  <li key={`${block.id}-${index}`} className="pl-1">
+                  <li key={`${block.id}-${index}`} className="pl-1 text-justify">
                     {renderInline(item)}
                   </li>
                 ))}
@@ -144,6 +146,7 @@ export default function ArticleBody({ blocks }: { blocks: Block[] }) {
                 {block.caption || block.alt ? (
                   <figcaption className="mt-3 text-center text-sm text-slate-400">{block.caption || block.alt}</figcaption>
                 ) : null}
+                <PhotoCredit src={block.src} />
               </figure>
             );
           // The WhatsApp call-to-action is shown below the article, see CtaBox.
@@ -158,18 +161,45 @@ export default function ArticleBody({ blocks }: { blocks: Block[] }) {
 }
 
 /** "Consult for free" box shown under an article, above the list of other articles. */
-export function CtaBox({ text }: { text?: string }) {
+export function CtaBox({ children }: { children: ReactNode }) {
   return (
     <aside className="rounded-2xl border border-brand-cyan/30 bg-gradient-to-br from-brand-surface to-brand-night p-6 text-center sm:p-8">
-      <p className="text-xl font-black leading-snug text-white sm:text-2xl">{text || "Konsultasi gratis lewat WhatsApp."}</p>
+      <p className="text-xl font-black leading-snug text-white sm:text-2xl">{children}</p>
       <a
         href={consultHref}
+        data-i18n-wa="wa.article"
         target="_blank"
         rel="noreferrer"
         className="mt-5 inline-flex min-h-12 items-center justify-center rounded-full bg-white px-7 py-3 text-sm font-bold text-brand-dark transition hover:bg-brand-lime focus:outline-none focus:ring-2 focus:ring-brand-lime focus:ring-offset-2 focus:ring-offset-brand-night"
       >
-        Konsultasi Gratis
+        <LocalizedText id="articles.ctaButton">Konsultasi Gratis</LocalizedText>
       </a>
     </aside>
+  );
+}
+
+/** "Sumber foto: Nama / Unsplash", linking to the photo's own page on Unsplash. */
+export function PhotoCredit({ src }: { src: string }) {
+  const credit = photoCredits[src.split("/").pop() ?? ""];
+
+  if (!credit) {
+    return null;
+  }
+
+  const link =
+    "underline decoration-slate-600 underline-offset-2 transition hover:text-brand-cyan focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-cyan";
+
+  return (
+    <p className="mt-1 text-center text-xs text-slate-500">
+      <LocalizedText id="articles.photoSource">Sumber foto:</LocalizedText>{" "}
+      <a
+        href={`https://unsplash.com/photos/${credit.page}?utm_source=nocoding&utm_medium=referral`}
+        target="_blank"
+        rel="noopener noreferrer"
+        className={link}
+      >
+        {credit.by}
+      </a>
+    </p>
   );
 }

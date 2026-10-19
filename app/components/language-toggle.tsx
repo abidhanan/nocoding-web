@@ -1,41 +1,46 @@
 "use client";
 
-import { setLanguage, useLanguage, type Language } from "./i18n";
+import dynamic from "next/dynamic";
+import { useState } from "react";
+import { useLanguage, useLocalizedText } from "./i18n";
+import LanguageFlag from "./language-flag";
 
-const languages = [
-  { code: "id", label: "ID", title: "Bahasa Indonesia" },
-  { code: "en", label: "EN", title: "English" },
-] satisfies Array<{
-  code: Language;
-  label: string;
-  title: string;
-}>;
+// The list of languages is only downloaded when the menu is first opened.
+const LanguageMenu = dynamic(() => import("./language-menu"), { ssr: false });
 
+/** One button showing the flag of the current language; it opens the list of languages. */
 export default function LanguageToggle() {
   const language = useLanguage();
+  const label = useLocalizedText("aria.language", "Pilih bahasa");
+  const [open, setOpen] = useState(false);
 
   return (
-    <div
-      aria-label="Pilih bahasa"
-      className="flex h-10 items-center rounded-full border border-white/10 bg-white/[0.03] p-1 text-[0.68rem] font-black text-slate-400"
-      role="group"
-    >
-      {languages.map((item) => (
-        <button
-          key={item.code}
-          type="button"
-          aria-pressed={language === item.code}
-          title={item.title}
-          onClick={() => setLanguage(item.code)}
-          className={`h-8 rounded-full px-3 transition focus:outline-none focus:ring-2 focus:ring-brand-cyan ${
-            language === item.code
-              ? "bg-brand-cyan text-brand-dark"
-              : "text-slate-400 hover:text-white"
-          }`}
+    <div className="sm:relative">
+      <button
+        type="button"
+        aria-label={label}
+        aria-haspopup="dialog"
+        aria-expanded={open}
+        aria-controls="language-menu"
+        onClick={() => setOpen((value) => !value)}
+        className="flex h-10 items-center gap-2 rounded-full border border-white/10 bg-white/[0.03] px-3 text-slate-300 transition hover:border-brand-cyan hover:text-white focus:outline-none focus:ring-2 focus:ring-brand-cyan"
+      >
+        <LanguageFlag code={language} />
+        <svg
+          aria-hidden="true"
+          className={`h-3 w-3 transition-transform duration-300 ${open ? "rotate-180" : ""}`}
+          fill="none"
+          stroke="currentColor"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="2.5"
+          viewBox="0 0 24 24"
         >
-          {item.label}
-        </button>
-      ))}
+          <path d="m6 9 6 6 6-6" />
+        </svg>
+      </button>
+
+      {open ? <LanguageMenu onClose={() => setOpen(false)} /> : null}
     </div>
   );
 }

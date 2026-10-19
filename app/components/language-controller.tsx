@@ -1,9 +1,9 @@
 "use client";
 
 import { useEffect } from "react";
-import { englishText, useLanguage, type Language } from "./i18n";
+import { lookupText, useI18nVersion } from "./i18n";
 
-function translateElement(element: HTMLElement, language: Language) {
+function translateElement(element: HTMLElement, language: string) {
   const id = element.dataset.i18n;
 
   if (!id) {
@@ -20,29 +20,63 @@ function translateElement(element: HTMLElement, language: Language) {
     element.dataset.i18nOriginal = element.textContent ?? "";
   }
 
-  element.textContent =
-    language === "en"
-      ? englishText[id] ?? element.dataset.i18nOriginal
-      : element.dataset.i18nOriginal;
+  element.textContent = lookupText(id, language) ?? element.dataset.i18nOriginal;
+}
+
+const ATTRIBUTES: Array<[string, string]> = [
+  ["i18nAria", "aria-label"],
+  ["i18nTitle", "title"],
+  ["i18nPlaceholder", "placeholder"],
+];
+
+function translateAttributes(element: HTMLElement, language: string) {
+  for (const [dataKey, attribute] of ATTRIBUTES) {
+    const id = element.dataset[dataKey];
+
+    if (!id) {
+      continue;
+    }
+
+    const originalKey = `${dataKey}Original`;
+
+    element.dataset[originalKey] ??= element.getAttribute(attribute) ?? "";
+    element.setAttribute(attribute, lookupText(id, language) ?? (element.dataset[originalKey] as string));
+  }
+
+  // WhatsApp links carry a ready-made message; it is written in the visitor's language too.
+  const message = element.dataset.i18nWa;
+
+  if (message) {
+    element.dataset.i18nWaOriginal ??= element.getAttribute("href") ?? "";
+
+    const original = element.dataset.i18nWaOriginal;
+    const translated = lookupText(message, language);
+
+    element.setAttribute("href", translated ? original.replace(/([?&]text=)[^&]*/, `$1${encodeURIComponent(translated)}`) : original);
+  }
+}
+
+const SELECTOR = "[data-i18n], [data-i18n-aria], [data-i18n-title], [data-i18n-placeholder], [data-i18n-wa]";
+
+function translateTree(root: ParentNode, language: string) {
+  root.querySelectorAll<HTMLElement>(SELECTOR).forEach((element) => {
+    translateElement(element, language);
+    translateAttributes(element, language);
+  });
 }
 
 /**
- * Applies the selected language by swapping the text of every `[data-i18n]`
- * element that the server rendered in Indonesian. A single controller replaces
- * ~120 per-string client components, keeping hydration cost minimal.
+ * Applies the selected language by swapping the text of every element the server rendered in
+ * Indonesian (marked with data-i18n). A single controller does it for the whole page, which keeps
+ * hydration cheap; text inserted later (project cards, article lists) is picked up as it appears.
  */
 export default function LanguageController() {
-  const language = useLanguage();
+  const { language, version } = useI18nVersion();
 
   useEffect(() => {
-    document
-      .querySelectorAll<HTMLElement>("[data-i18n]")
-      .forEach((element) => translateElement(element, language));
+    translateTree(document, language);
 
-    document.documentElement.setAttribute("lang", language);
-
-    // In Indonesian, freshly mounted nodes (e.g. the project overlay) already
-    // render the correct copy, so no observer is needed.
+    // In Indonesian, freshly mounted nodes already render the right copy, so no observer is needed.
     if (language === "id") {
       return undefined;
     }
@@ -54,13 +88,12 @@ export default function LanguageController() {
             continue;
           }
 
-          if (node.matches("[data-i18n]")) {
+          if (node.matches(SELECTOR)) {
             translateElement(node, language);
+            translateAttributes(node, language);
           }
 
-          node
-            .querySelectorAll<HTMLElement>("[data-i18n]")
-            .forEach((element) => translateElement(element, language));
+          translateTree(node, language);
         }
       }
     });
@@ -68,7 +101,7 @@ export default function LanguageController() {
     observer.observe(document.body, { childList: true, subtree: true });
 
     return () => observer.disconnect();
-  }, [language]);
+  }, [language, version]);
 
   return null;
 }

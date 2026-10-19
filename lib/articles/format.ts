@@ -1,13 +1,19 @@
-import type { Block } from "./types";
+import type { Article, ArticlePreview, Block } from "./types";
 
 const months = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember"];
 
-/** "14 Oktober 2026" (always in Indonesian, independent of the server locale). */
-export function formatDate(iso: string) {
+const monthsEnglish = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+/** "14 Oktober 2026" or, in English, "October 14, 2026" (independent of the server locale). */
+export function formatDate(iso: string, language: "id" | "en" = "id") {
   const date = new Date(iso);
 
   if (Number.isNaN(date.getTime())) {
     return "";
+  }
+
+  if (language === "en") {
+    return `${monthsEnglish[date.getUTCMonth()]} ${date.getUTCDate()}, ${date.getUTCFullYear()}`;
   }
 
   return `${date.getUTCDate()} ${months[date.getUTCMonth()]} ${date.getUTCFullYear()}`;
@@ -31,6 +37,18 @@ export function readingMinutes(blocks: Block[]) {
   const words = blocks.map(blockText).join(" ").split(/\s+/).filter(Boolean).length;
 
   return Math.max(1, Math.round(words / 200));
+}
+
+export function toPreview(article: Article): ArticlePreview {
+  return {
+    id: article.id,
+    slug: article.slug,
+    title: article.title,
+    excerpt: article.excerpt,
+    categories: article.categories,
+    publishedAt: article.publishedAt,
+    cover: article.cover ? { src: article.cover.src, alt: article.cover.alt } : null,
+  };
 }
 
 export function slugify(value: string) {

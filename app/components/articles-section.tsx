@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { toPreview } from "../../lib/articles/format";
 import { getPublishedArticles } from "../../lib/articles/store";
 import ArticlesCarousel from "./articles-carousel";
 import { LocalizedText } from "./localized-text";
@@ -24,10 +25,11 @@ export default async function ArticlesSection() {
         </p>
       </header>
 
-      <ArticlesCarousel articles={articles} />
+      <ArticlesCarousel articles={articles.map(toPreview)} />
 
       <div className="mt-10 flex justify-center">
         <Link
+          prefetch={false}
           href="/artikel"
           className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full border border-white/20 px-7 py-3 text-sm font-bold text-white transition hover:border-brand-cyan hover:text-brand-cyan focus:outline-none focus:ring-2 focus:ring-brand-cyan focus:ring-offset-2 focus:ring-offset-brand-dark"
         >

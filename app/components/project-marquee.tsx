@@ -2,6 +2,7 @@
 
 import dynamic from "next/dynamic";
 import { useEffect, useRef, useState } from "react";
+import { useLocalizedText } from "./i18n";
 import { projects, type Project } from "./projects-data";
 
 // Loaded on demand so the card markup stays out of the initial page weight; the
@@ -15,15 +16,16 @@ type RowConfig = {
   /** Pixels per millisecond. */
   speed: number;
   label: string;
+  labelId: string;
 };
 
 const third = Math.ceil(projects.length / 3);
 
 // Top row: right to left. Middle row: left to right. Bottom row: right to left.
 const rows: RowConfig[] = [
-  { items: projects.slice(0, third), direction: 1, speed: 0.05, label: "Baris atas, bergerak dari kanan ke kiri" },
-  { items: projects.slice(third, third * 2), direction: -1, speed: 0.045, label: "Baris tengah, bergerak dari kiri ke kanan" },
-  { items: projects.slice(third * 2), direction: 1, speed: 0.04, label: "Baris bawah, bergerak dari kanan ke kiri" },
+  { items: projects.slice(0, third), direction: 1, speed: 0.05, label: "Baris atas, bergerak dari kanan ke kiri", labelId: "projects.row.top" },
+  { items: projects.slice(third, third * 2), direction: -1, speed: 0.045, label: "Baris tengah, bergerak dari kiri ke kanan", labelId: "projects.row.middle" },
+  { items: projects.slice(third * 2), direction: 1, speed: 0.04, label: "Baris bawah, bergerak dari kanan ke kiri", labelId: "projects.row.bottom" },
 ];
 
 /** Three looping rows of project cards. They never stop: no hover pause, drag, or scroll. */
@@ -41,7 +43,9 @@ export default function ProjectMarquee() {
  * One auto-scrolling row. Cards are mounted lazily once the row gets near the
  * viewport, and the loop only runs while it is on screen.
  */
-function MarqueeRow({ items, direction, speed, label }: RowConfig) {
+function MarqueeRow({ items, direction, speed, label, labelId }: RowConfig) {
+  const listLabel = useLocalizedText("projects.list", "Daftar project sebelumnya. {row}");
+  const rowLabel = useLocalizedText(labelId, label);
   const [shouldLoad, setShouldLoad] = useState(false);
   const viewportRef = useRef<HTMLDivElement>(null);
   const loopWidthRef = useRef(0);
@@ -146,7 +150,7 @@ function MarqueeRow({ items, direction, speed, label }: RowConfig) {
       ref={viewportRef}
       role="region"
       className="project-marquee min-h-[24rem]"
-      aria-label={`Daftar project sebelumnya. ${label}`}
+      aria-label={listLabel.replace("{row}", rowLabel)}
     >
       {shouldLoad ? <ProjectCards items={items} /> : null}
     </div>

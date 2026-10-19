@@ -2,12 +2,15 @@
 
 import { useRef, useState } from "react";
 import { Illustration, type IllustrationName } from "./illustrations";
+import { getLocalizedText, useLanguage, useLocalizedText } from "./i18n";
 import { LocalizedText } from "./localized-text";
+import { PackagePrice } from "./package-price";
 
 type PackageItem = {
   name: string;
   nameId: string;
   price: string;
+  amount: number;
   description: string;
   selectionHref: string;
   features: string[];
@@ -18,6 +21,10 @@ type PackageItem = {
 export default function MobilePackageSlider({ packages }: { packages: PackageItem[] }) {
   const viewportRef = useRef<HTMLDivElement>(null);
   const [activeIndex, setActiveIndex] = useState(0);
+  const language = useLanguage();
+  const indicatorLabel = useLocalizedText("packages.indicator", "Indikator paket");
+  const viewLabel = useLocalizedText("packages.view", "Lihat paket {name}");
+  const nameLabel = (id: string, fallback: string) => getLocalizedText(id, fallback, language);
 
   const syncActiveSlide = () => {
     const viewport = viewportRef.current;
@@ -60,7 +67,7 @@ export default function MobilePackageSlider({ packages }: { packages: PackageIte
     <div className="mx-auto mt-12 w-full max-w-[21.5rem] lg:hidden">
       <div
         ref={viewportRef}
-        className="package-slider__viewport -mx-6 flex snap-x snap-mandatory gap-4 overflow-x-auto px-6 pb-2 scroll-px-6"
+        className="package-slider__viewport flex snap-x snap-mandatory gap-4 overflow-x-auto pb-2"
         onScroll={syncActiveSlide}
       >
         {packages.map((item, packageIndex) => (
@@ -91,12 +98,7 @@ export default function MobilePackageSlider({ packages }: { packages: PackageIte
               <span className="block text-xs font-bold uppercase tracking-wide text-slate-400">
                 <LocalizedText id="packages.price.from">Mulai dari</LocalizedText>
               </span>
-              <p className="mt-1 text-3xl font-black text-white">
-                <LocalizedText id={`packages.${packageIndex}.price`}>{item.price}</LocalizedText>
-                <span className="ml-1 text-sm font-semibold text-slate-400">
-                  <LocalizedText id="packages.price.period">/ tahun</LocalizedText>
-                </span>
-              </p>
+              <PackagePrice amount={item.amount} priceId={`packages.${packageIndex}.price`} fallback={item.price} />
             </div>
 
             <ul className="mt-8 grow space-y-3">
@@ -123,6 +125,7 @@ export default function MobilePackageSlider({ packages }: { packages: PackageIte
 
             <a
               href={item.selectionHref}
+              data-i18n-wa={`wa.package.${packageIndex}`}
               target="_blank"
               rel="noreferrer"
               className={`mt-8 inline-flex min-h-11 items-center justify-center gap-2 rounded-full px-5 py-3 text-sm font-black transition focus:outline-none focus:ring-2 focus:ring-offset-2 ${
@@ -150,12 +153,12 @@ export default function MobilePackageSlider({ packages }: { packages: PackageIte
         ))}
       </div>
 
-      <div className="mt-5 flex justify-center gap-2" aria-label="Indikator paket">
+      <div className="mt-5 flex justify-center gap-2" aria-label={indicatorLabel}>
         {packages.map((item, index) => (
           <button
             key={item.name}
             type="button"
-            aria-label={`Lihat paket ${item.name}`}
+            aria-label={viewLabel.replace("{name}", nameLabel(item.nameId, item.name))}
             aria-current={activeIndex === index ? "true" : undefined}
             onClick={() => goToSlide(index)}
             className={`h-2.5 rounded-full transition ${

@@ -22,6 +22,11 @@ export type Article = {
   blocks: Block[];
 };
 
+/** The few fields a preview card needs. Client components only ever receive this, never the full body. */
+export type ArticlePreview = Pick<Article, "id" | "slug" | "title" | "excerpt" | "categories" | "publishedAt"> & {
+  cover: { src: string; alt: string } | null;
+};
+
 /** What the editor sends to the server when saving. */
 export type ArticleInput = {
   id?: string;

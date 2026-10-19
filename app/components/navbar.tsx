@@ -21,8 +21,8 @@ export default function Navbar() {
 
   return (
     <header className="fixed inset-x-0 top-0 z-50 border-b border-white/10 bg-brand-dark/88 backdrop-blur-xl">
-      <nav aria-label="Navigasi utama" className="relative mx-auto flex h-16 w-full max-w-7xl items-center justify-between px-6">
-        <CenteredScrollLink href="/#beranda" scrollBlock="start" className="flex items-center gap-3 text-white" aria-label="nocoding_ beranda">
+      <nav aria-label="Navigasi utama" data-i18n-aria="aria.mainNav" className="relative mx-auto flex h-16 w-full max-w-7xl items-center justify-between px-6">
+        <CenteredScrollLink href="/#beranda" scrollBlock="start" className="flex items-center gap-3 text-white" aria-label="nocoding_ beranda" data-i18n-aria="aria.home">
           <span className="nocoding-logo-mark grid h-10 w-10 place-items-center">
             <Image
               src="/nocoding-logo.webp"
@@ -39,7 +39,7 @@ export default function Navbar() {
           </span>
         </CenteredScrollLink>
 
-        <div className="absolute left-1/2 hidden -translate-x-1/2 items-center gap-4 lg:flex xl:gap-6">
+        <div className="nav-desktop absolute left-1/2 hidden -translate-x-1/2 items-center gap-4 lg:flex xl:gap-6">
           {links.map((link) => (
             <CenteredScrollLink
               key={link.href}

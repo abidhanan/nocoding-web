@@ -1,4 +1,4 @@
-import Image from "next/image";
+import DeferredImage from "./deferred-image";
 import { LocalizedText } from "./localized-text";
 import RevealBlock from "./reveal-block";
 
@@ -129,13 +129,13 @@ function Collage({
   return (
     <div className={`grid aspect-[5/4] grid-cols-5 grid-rows-2 gap-3 ${className}`}>
       <div className={`${tile} col-span-3 row-span-2`} style={{ transitionDelay: "0.05s" }}>
-        <Image src={collage[0]} alt="" fill sizes="(min-width: 1024px) 22rem, 62vw" className="object-cover" />
+        <DeferredImage src={collage[0]} alt="" sizes="(min-width: 1024px) 22rem, 62vw" className="object-cover" />
       </div>
       <div className={`${tile} col-span-2`} style={{ transitionDelay: "0.18s" }}>
-        <Image src={collage[1]} alt="" fill sizes="(min-width: 1024px) 14rem, 40vw" className="object-cover" />
+        <DeferredImage src={collage[1]} alt="" sizes="(min-width: 1024px) 14rem, 40vw" className="object-cover" />
       </div>
       <div className={`${tile} col-span-2`} style={{ transitionDelay: "0.3s" }}>
-        <Image src={collage[2]} alt="" fill sizes="(min-width: 1024px) 14rem, 40vw" className="object-cover" />
+        <DeferredImage src={collage[2]} alt="" sizes="(min-width: 1024px) 14rem, 40vw" className="object-cover" />
       </div>
     </div>
   );

@@ -48,6 +48,7 @@ export function Footer() {
               scrollBlock="start"
               className="inline-flex h-9 items-center gap-2.5 text-white"
               aria-label="nocoding_ beranda"
+              data-i18n-aria="aria.home"
             >
               <span className="nocoding-logo-mark grid h-9 w-9 place-items-center">
                 <Image
@@ -88,6 +89,7 @@ export function Footer() {
               </p>
               <a
                 href={contactWhatsAppHref}
+                data-i18n-wa="wa.contact"
                 target="_blank"
                 rel="noreferrer"
                 className="mt-3 inline-flex items-center gap-2.5 text-sm font-normal leading-6 text-white transition hover:text-brand-cyan focus:outline-none focus:ring-2 focus:ring-brand-cyan focus:ring-offset-2 focus:ring-offset-brand-dark"

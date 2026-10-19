@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { useLanguage, useLocalizedText } from "./i18n";
 import { countsOf, useLiveStats, type Counts } from "./live-stats";
 
 const viewedKey = (id: string) => `nc-viewed:${id}`;
@@ -49,6 +50,16 @@ const shareButton =
 
 /** View count, like button and social share links shown under an article. */
 export default function ArticleEngagement({ id, title, url }: { id: string; title: string; url: string }) {
+  const language = useLanguage();
+  const numberLocale = language === "id" ? "id-ID" : language;
+  const viewsLabel = useLocalizedText("engage.views", "Dibaca");
+  const likeLabel = useLocalizedText("engage.like", "Suka");
+  const sharesLabel = useLocalizedText("engage.shares", "Dibagikan");
+  const copyLabel = useLocalizedText("engage.copyLink", "Salin tautan");
+  const copiedLabel = useLocalizedText("engage.copied", "Tersalin");
+  const copiedStatus = useLocalizedText("engage.copiedStatus", "Tautan disalin");
+  const copyPrompt = useLocalizedText("engage.copyPrompt", "Salin tautan artikel:");
+  const shareVia = useLocalizedText("engage.shareVia", "Bagikan lewat {name}");
   const { counts: allCounts, setCountsFor } = useLiveStats();
   const counts = countsOf(allCounts, id);
   const setCounts = (next: Counts | ((current: Counts) => Counts)) => setCountsFor(id, next);
@@ -123,7 +134,7 @@ export default function ArticleEngagement({ id, title, url }: { id: string; titl
       setCopied(true);
       window.setTimeout(() => setCopied(false), 2000);
     } catch {
-      window.prompt("Salin tautan artikel:", url);
+      window.prompt(copyPrompt, url);
     }
   }
 
@@ -136,23 +147,22 @@ export default function ArticleEngagement({ id, title, url }: { id: string; titl
     { name: "LinkedIn", icon: "linkedin", href: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}` },
     { name: "Telegram", icon: "telegram", href: `https://t.me/share/url?url=${encodedUrl}&text=${encodedTitle}` },
   ];
-  const format = (value: number | undefined) => (value ?? 0).toLocaleString("id-ID");
+  const format = (value: number | undefined) => (value ?? 0).toLocaleString(numberLocale);
 
   return (
-    <div className="mt-12 flex flex-wrap items-center justify-between gap-x-6 gap-y-4 border-t border-white/10 pt-6">
+    <div translate="no" className="mt-12 flex flex-wrap items-center justify-between gap-x-6 gap-y-4 border-t border-white/10 pt-6">
       <div className="flex items-center gap-3">
-        <span className="inline-flex h-10 items-center gap-2 rounded-full border border-white/15 px-4 text-sm font-bold text-slate-300" title="Dibaca">
+        <span className="inline-flex h-10 items-center gap-2 rounded-full border border-white/15 px-4 text-sm font-bold text-slate-300" title={viewsLabel}>
           <svg {...iconProps} className="h-5 w-5">
             <path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12Z" />
             <circle cx="12" cy="12" r="3" />
           </svg>
-          <span className="sr-only">Dibaca</span>
+          <span className="sr-only">{viewsLabel}</span>
           {format(counts.views)}
         </span>
         <button
           type="button"
           aria-pressed={liked}
-          aria-label={liked ? "Batalkan suka" : "Sukai artikel ini"}
           onClick={() => void toggleLike()}
           className={`inline-flex h-10 items-center gap-2 rounded-full border px-4 text-sm font-bold transition focus:outline-none focus:ring-2 focus:ring-brand-cyan ${
             liked
@@ -163,16 +173,17 @@ export default function ArticleEngagement({ id, title, url }: { id: string; titl
           <svg {...iconProps} className="h-5 w-5" fill={liked ? "currentColor" : "none"}>
             <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z" />
           </svg>
+          <span className="sr-only">{likeLabel}</span>
           {format(counts.likes)}
         </button>
-        <span className="inline-flex h-10 items-center gap-2 rounded-full border border-white/15 px-4 text-sm font-bold text-slate-300" title="Dibagikan">
+        <span className="inline-flex h-10 items-center gap-2 rounded-full border border-white/15 px-4 text-sm font-bold text-slate-300" title={sharesLabel}>
           <svg {...iconProps} className="h-5 w-5">
             <circle cx="18" cy="5" r="3" />
             <circle cx="6" cy="12" r="3" />
             <circle cx="18" cy="19" r="3" />
             <path d="m8.6 13.5 6.8 4M15.4 6.5l-6.8 4" />
           </svg>
-          <span className="sr-only">Dibagikan</span>
+          <span className="sr-only">{sharesLabel}</span>
           {format(counts.shares)}
         </span>
       </div>
@@ -184,7 +195,7 @@ export default function ArticleEngagement({ id, title, url }: { id: string; titl
             href={share.href}
             target="_blank"
             rel="noopener noreferrer"
-            aria-label={`Bagikan lewat ${share.name}`}
+            aria-label={shareVia.replace("{name}", share.name)}
             title={share.name}
             onClick={() => void countShare(share.icon)}
             className={shareButton}
@@ -194,7 +205,7 @@ export default function ArticleEngagement({ id, title, url }: { id: string; titl
             </svg>
           </a>
         ))}
-        <button type="button" aria-label="Salin tautan" title={copied ? "Tersalin" : "Salin tautan"} onClick={() => void copyLink()} className={shareButton}>
+        <button type="button" aria-label={copyLabel} title={copied ? copiedLabel : copyLabel} onClick={() => void copyLink()} className={shareButton}>
           {copied ? (
             <svg {...iconProps} className="h-4 w-4">
               <path d="m5 12 5 5L20 7" />
@@ -207,7 +218,7 @@ export default function ArticleEngagement({ id, title, url }: { id: string; titl
           )}
         </button>
         <span role="status" className="sr-only">
-          {copied ? "Tautan disalin" : ""}
+          {copied ? copiedStatus : ""}
         </span>
       </div>
     </div>

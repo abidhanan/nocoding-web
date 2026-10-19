@@ -1,20 +1,62 @@
-Sample article photos from Unsplash (https://unsplash.com/license), cropped and converted to WebP.
+Article photos from Unsplash (https://unsplash.com/license), cropped and converted to WebP.
 
-alasan-umkm-website.webp  <-  https://unsplash.com/photos/1499951360447-b19be8fe80f5
-alasan-umkm-website-2.webp  <-  https://unsplash.com/photos/1705544363568-425eabe4de51
-memilih-jasa-website.webp  <-  https://unsplash.com/photos/1542744173-8e7e53415bb0
-memilih-jasa-website-2.webp  <-  https://unsplash.com/photos/1581291518570-03a26006fb21
-biaya-membuat-website.webp  <-  https://unsplash.com/photos/1460925895917-afdab827c52f
-biaya-membuat-website-2.webp  <-  https://unsplash.com/photos/1551288049-bebda4e38f71
-apa-itu-automasi.webp  <-  https://unsplash.com/photos/1716191299980-a6e8827ba10b
-apa-itu-automasi-2.webp  <-  https://unsplash.com/photos/1581091226825-a6a2a5aee158
-checklist-materi-website.webp  <-  https://unsplash.com/photos/1517048676732-d65bc937f952
-checklist-materi-website-2.webp  <-  https://unsplash.com/photos/1623652554515-91c833e3080e
-kecepatan-website.webp  <-  https://unsplash.com/photos/1526628953301-3e589a6a8b74
-kecepatan-website-2.webp  <-  https://unsplash.com/photos/1531297484001-80022131f5a1
-seo-usaha-lokal.webp  <-  https://unsplash.com/photos/1563986768609-322da13575f3
-seo-usaha-lokal-2.webp  <-  https://unsplash.com/photos/1512941937669-90a1b58e7e9c
-website-atau-aplikasi.webp  <-  https://unsplash.com/photos/1517694712202-14dd9538aa97
-website-atau-aplikasi-2.webp  <-  https://unsplash.com/photos/1542744094-3a31f272c490
-keamanan-website.webp  <-  https://unsplash.com/photos/1550751827-4bd374c3f58b
-keamanan-website-2.webp  <-  https://unsplash.com/photos/1555066931-4365d14bab8c
+alasan-umkm-website.webp  <-  https://unsplash.com/photos/macbook-pro-on-table-beside-white-imac-and-magic-mouse-hGV2TfOh0ns  (photo by Domenico Loia)
+alasan-umkm-website-2-b.webp  <-  https://unsplash.com/photos/macbook-pro-beside-ipad-and-iphone-turned-on-2mc2B5iX6as  (photo by Firmbee.com)
+apa-itu-automasi.webp  <-  https://unsplash.com/photos/blue-industrial-robot-arm-in-factory-sz1CHL7Pky0  (photo by Homa Appliances)
+apa-itu-automasi-2.webp  <-  https://unsplash.com/photos/woman-in-white-long-sleeve-shirt-using-black-laptop-computer-ZPeXrWxOjRQ  (photo by ThisisEngineering)
+aplikasi-pendataan-online.webp  <-  https://unsplash.com/photos/a-group-of-people-sitting-around-a-wooden-table-ZKHksse8tUU  (photo by CoWomen)
+aplikasi-pendataan-online-2.webp  <-  https://unsplash.com/photos/group-of-people-using-laptop-computer-QckxruozjRg  (photo by Annie Spratt)
+automasi-laporan-penjualan-2.webp  <-  https://unsplash.com/photos/line-graph-with-ruler-and-pens-6EnTPvPPL6I  (photo by Isaac Smith)
+automasi-laporan-penjualan-b.webp  <-  https://unsplash.com/photos/stock-market-chart-displayed-on-laptop-screen-IrRbSND5EUc  (photo by Markus Winkler)
+automasi-pesanan-whatsapp.webp  <-  https://unsplash.com/photos/white-robot-near-brown-wall-2EJCSULRwC8  (photo by Alex Knight)
+automasi-pesanan-whatsapp-2-b.webp  <-  https://unsplash.com/photos/person-using-smartphone-for-contactless-payment-XH2JFgT4Abc  (photo by CardMapr.nl)
+berapa-lama-membuat-website-2.webp  <-  https://unsplash.com/photos/sticky-notes-on-corkboard-5aiRb5f464A  (photo by Jo Szczepanska)
+berapa-lama-membuat-website-b.webp  <-  https://unsplash.com/photos/open-monthly-planner-on-wooden-desk-FoKO4DpXamQ  (photo by Eric Rothermel)
+biaya-membuat-website.webp  <-  https://unsplash.com/photos/laptop-computer-on-glass-top-table-hpjSkU2UYSU  (photo by Carlos Muza)
+biaya-membuat-website-2.webp  <-  https://unsplash.com/photos/graphs-of-performance-analytics-on-a-laptop-screen-JKUTrJ4vK00  (photo by Luke Chesser)
+cara-membuat-website-umkm-2.webp  <-  https://unsplash.com/photos/watercolor-wireframe-sketches-of-website-layouts-tZc3vjPCk-Q  (photo by Hal Gatewood)
+cara-membuat-website-umkm-b.webp  <-  https://unsplash.com/photos/man-sitting-while-having-coffee-and-using-laptop-PFC2fY9LE_g  (photo by Kyle Loftus)
+checklist-materi-website.webp  <-  https://unsplash.com/photos/people-sitting-on-chair-in-front-of-table-while-holding-pens-during-daytime-KdeqA3aTnBY  (photo by Dylan Gillis)
+checklist-materi-website-2.webp  <-  https://unsplash.com/photos/person-holding-yellow-sticky-notes-MDu-53qRVr4  (photo by FORTYTWO)
+foto-produk-untuk-website.webp  <-  https://unsplash.com/photos/person-holding-ballpoint-pen-writing-on-notebook-505eectW54k  (photo by Thought Catalog)
+foto-produk-untuk-website-2.webp  <-  https://unsplash.com/photos/macbook-pro-white-ceramic-mugand-black-smartphone-on-table-cckf4TsHAuw  (photo by Andrew Neel)
+google-bisnis-untuk-usaha-lokal.webp  <-  https://unsplash.com/photos/barista-using-tablet-in-coffee-shop-X_bbCAYzlTs  (photo by Nathan Dumlao)
+google-bisnis-untuk-usaha-lokal-2.webp  <-  https://unsplash.com/photos/four-women-chatting-at-cafe-table-IjkIOe-2fF4  (photo by LinkedIn Sales Solutions)
+katalog-online-untuk-usaha.webp  <-  https://unsplash.com/photos/woman-paying-at-salon-checkout-counter-tE6th1h6Bfk  (photo by Blake Wisz)
+katalog-online-untuk-usaha-2.webp  <-  https://unsplash.com/photos/two-women-near-tables-GFrBMipOd_E  (photo by Blake Wisz)
+keamanan-website.webp  <-  https://unsplash.com/photos/teal-led-panel-EUsVwEOsblE  (photo by Adi Goldstein)
+keamanan-website-2.webp  <-  https://unsplash.com/photos/turned-on-macbook-pro-wit-programming-codes-display-f77Bh3inUpE  (photo by Arnold Francisca)
+kecepatan-website.webp  <-  https://unsplash.com/photos/turned-on-monitoring-screen-qwtCeJ5cLYs  (photo by Stephen Dawson)
+kecepatan-website-2.webp  <-  https://unsplash.com/photos/gray-and-black-laptop-computer-on-surface-Im7lZjxeLhg  (photo by Ales Nesetril)
+landing-page-atau-company-profile-2.webp  <-  https://unsplash.com/photos/turned-on-acer-laptop-on-table-near-cup-zwsHjakE_iI  (photo by Anete Lūsiņa)
+landing-page-atau-company-profile-b.webp  <-  https://unsplash.com/photos/a-computer-screen-with-a-web-page-on-it-QJ8FlAzQgE8  (photo by Team Nocoloco)
+media-sosial-dan-website-2.webp  <-  https://unsplash.com/photos/instagram-logo-icon-with-gradient-_tF3vug2FhQ  (photo by Alexander Shatov)
+media-sosial-dan-website-b.webp  <-  https://unsplash.com/photos/social-media-app-icons-on-smartphone-Tk9m_HP4rgQ  (photo by Adem AY)
+membaca-data-pengunjung-website.webp  <-  https://unsplash.com/photos/person-using-macbook-pro-744oGeqpxPQ  (photo by Austin Distel)
+membaca-data-pengunjung-website-2.webp  <-  https://unsplash.com/photos/black-laptop-computer-turned-on-on-table-vpOeXr5wmR4  (photo by James Harrison)
+membangun-kepercayaan-pelanggan-online.webp  <-  https://unsplash.com/photos/two-people-shaking-hands-n95VMLxqM2I  (photo by Cytonn Photography)
+membangun-kepercayaan-pelanggan-online-2.webp  <-  https://unsplash.com/photos/man-in-white-dress-shirt-sitting-beside-woman-in-black-long-sleeve-shirt-376KN_ISplE  (photo by krakenimages)
+memilih-jasa-website.webp  <-  https://unsplash.com/photos/man-standing-in-front-of-people-sitting-beside-table-with-laptop-computers-gMsnXqILjp4  (photo by Campaign Creators)
+memilih-jasa-website-2.webp  <-  https://unsplash.com/photos/person-writing-on-white-paper-hLit2zL-Dhk  (photo by Kelly Sikkema)
+menulis-teks-website-yang-menjual.webp  <-  https://unsplash.com/photos/person-writing-on-brown-wooden-table-near-white-ceramic-mug-s9CC2SKySJM  (photo by Unseen Studio)
+menulis-teks-website-yang-menjual-2.webp  <-  https://unsplash.com/photos/fountain-pen-on-black-lined-paper-y02jEX_B0O0  (photo by Aaron Burden)
+pentingnya-domain-sendiri.webp  <-  https://unsplash.com/photos/silver-imac-near-iphone-on-brown-wooden-table-EhTcC9sYXsw  (photo by Domenico Loia)
+pentingnya-domain-sendiri-2.webp  <-  https://unsplash.com/photos/person-typing-on-silver-macbook-kUqqaRjJuw0  (photo by Burst)
+perawatan-website-rutin.webp  <-  https://unsplash.com/photos/a-computer-screen-with-a-logo-on-it-xkBaqlcqeb4  (photo by Lautaro Andreani)
+perawatan-website-rutin-2.webp  <-  https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-code-on-it-ieic5Tq8YMk  (photo by Chris Ried)
+seo-usaha-lokal.webp  <-  https://unsplash.com/photos/person-using-phone-and-laptop-gUIJ0YszPig  (photo by Austin Distel)
+seo-usaha-lokal-2.webp  <-  https://unsplash.com/photos/space-gray-iphone-x-9e9PD9blAto  (photo by William Hook)
+sistem-pencatatan-stok.webp  <-  https://unsplash.com/photos/person-holding-black-android-smartphone-close-up-photography-XvS-uKUoUao  (photo by Clay Banks)
+sistem-pencatatan-stok-2.webp  <-  https://unsplash.com/photos/person-holding-paper-near-pen-and-calculator-xoU52jUVUXA  (photo by Kelly Sikkema)
+toko-online-sendiri-atau-marketplace.webp  <-  https://unsplash.com/photos/person-using-laptop-computer-holding-card-Q59HmzK38eQ  (photo by rupixen)
+toko-online-sendiri-atau-marketplace-2.webp  <-  https://unsplash.com/photos/computer-monitor-31l-8hY1mt4  (photo by Clay Banks)
+tombol-whatsapp-di-website.webp  <-  https://unsplash.com/photos/an-open-empty-notebook-on-a-white-desk-next-to-an-iphone-and-a-macbook-pUAM5hPaCRI  (photo by JESHOOTS.COM)
+tombol-whatsapp-di-website-2.webp  <-  https://unsplash.com/photos/person-paying-with-credit-card-tgquMvhNLc4  (photo by Clay Banks)
+ux-sederhana-website-usaha.webp  <-  https://unsplash.com/photos/person-gesturing-during-meeting-with-laptop-5QgIuuBxKwM  (photo by Headway)
+ux-sederhana-website-usaha-2.webp  <-  https://unsplash.com/photos/four-people-watching-on-white-macbook-on-top-of-glass-top-table-vdXMSiX-n6M  (photo by Mimi Thian)
+warna-dan-font-website.webp  <-  https://unsplash.com/photos/figma-logo-with-social-media-icons-mr4JG4SYOF8  (photo by Alexander Shatov)
+warna-dan-font-website-2.webp  <-  https://unsplash.com/photos/person-holding-pencil-near-laptop-computer-5fNmWej4tAA  (photo by Scott Graham)
+website-atau-aplikasi-2-b.webp  <-  https://unsplash.com/photos/computer-monitor-displaying-design-system-_x335IZXxfc  (photo by Balázs Kétyi)
+website-atau-aplikasi-b.webp  <-  https://unsplash.com/photos/macbook-pro-showing-programming-language-xrVDYZRGdw4  (photo by Emile Perron)
+website-ramah-ponsel.webp  <-  https://unsplash.com/photos/iphone-x-beside-macbook-OwvRB-M3GwE  (photo by Timothy Hales Bennett)
+website-ramah-ponsel-2.webp  <-  https://unsplash.com/photos/person-using-black-tablet-computer-W1B2LpQOBxA  (photo by Brooke Lark)

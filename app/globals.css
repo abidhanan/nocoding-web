@@ -316,6 +316,20 @@
   scrollbar-width: none;
 }
 
+.language-menu__list {
+  scrollbar-width: thin;
+  scrollbar-color: rgb(34 211 238 / 0.4) transparent;
+}
+
+.language-menu__list::-webkit-scrollbar {
+  width: 6px;
+}
+
+.language-menu__list::-webkit-scrollbar-thumb {
+  border-radius: 999px;
+  background: rgb(34 211 238 / 0.35);
+}
+
 .package-slider__viewport::-webkit-scrollbar {
   display: none;
 }
@@ -607,4 +621,54 @@
     filter: none;
     transition: none;
   }
+}
+
+/* Translated languages: longer words, other scripts, right-to-left text. */
+html:not([lang="id"]):not([lang="en"]) body {
+  overflow-wrap: break-word;
+}
+
+/* Long labels need the roomier mobile menu until the screen is really wide. */
+@media (max-width: 1279px) {
+  html[data-nav="compact"] .nav-desktop {
+    display: none !important;
+  }
+
+  html[data-nav="compact"] .nav-mobile-toggle {
+    display: block !important;
+  }
+}
+
+html[lang="ja"] body {
+  font-family: var(--font-inter), "Hiragino Sans", "Yu Gothic", "Meiryo", "Noto Sans JP", system-ui, sans-serif;
+}
+
+html[lang="zh-CN"] body {
+  font-family: var(--font-inter), "PingFang SC", "Microsoft YaHei", "Noto Sans SC", system-ui, sans-serif;
+}
+
+html[lang="zh-TW"] body {
+  font-family: var(--font-inter), "PingFang TC", "Microsoft JhengHei", "Noto Sans TC", system-ui, sans-serif;
+}
+
+html[lang="ko"] body {
+  font-family: var(--font-inter), "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", system-ui, sans-serif;
+}
+
+html[lang="ar"] body {
+  font-family: var(--font-inter), "Segoe UI", "Noto Sans Arabic", Tahoma, system-ui, sans-serif;
+}
+
+html[lang="hi"] body {
+  font-family: var(--font-inter), "Nirmala UI", "Noto Sans Devanagari", Mangal, system-ui, sans-serif;
+}
+
+html[lang="th"] body {
+  font-family: var(--font-inter), "Leelawadee UI", "Noto Sans Thai", Tahoma, system-ui, sans-serif;
+}
+
+/* Right-to-left (Arabic): flip the few left/right-anchored elements. */
+html[dir="rtl"] .whatsapp-float {
+  right: auto;
+  left: 1.25rem;
 }

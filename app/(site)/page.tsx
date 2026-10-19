@@ -6,6 +6,7 @@ import DetailBlocks, { type DetailBlock } from "../components/detail-blocks";
 import { detailLabels, processDetails, serviceDetails } from "../components/detail-data";
 import { Illustration, type IllustrationName } from "../components/illustrations";
 import { LocalizedText } from "../components/localized-text";
+import { PackagePrice, PricingNote } from "../components/package-price";
 import LazyPackageSlider from "../components/lazy-package-slider";
 import { createWhatsAppHref } from "../components/projects-data";
 import { Footer, contactWhatsAppHref } from "../components/site-footer";
@@ -190,6 +191,8 @@ const packages: Array<{
   name: string;
   nameId: string;
   price: string;
+  /** Yearly price in rupiah, used to work out other currencies. */
+  amount: number;
   description: string;
   selectionHref: string;
   features: string[];
@@ -200,6 +203,7 @@ const packages: Array<{
     name: "Kecil",
     nameId: "packages.0.name",
     price: "Rp 500 ribu",
+    amount: 500000,
     illustration: "price-small",
     description: "Website portofolio, CV pribadi, atau landing page sederhana yang cepat tayang.",
     selectionHref: createPackageWhatsAppHref("Kecil"),
@@ -215,6 +219,7 @@ const packages: Array<{
     name: "Besar",
     nameId: "packages.1.name",
     price: "Rp 2 juta",
+    amount: 2000000,
     illustration: "price-big",
     description: "Profil perusahaan, sistem informasi & operasional, atau automasi sesuai kebutuhan.",
     selectionHref: createPackageWhatsAppHref("Besar"),
@@ -247,24 +252,75 @@ const faqs = [
   {
     question: "Apa saja yang termasuk dalam biaya?",
     answer:
-      "Biaya mencakup pengerjaan sesuai paket dan scope yang disepakati. Paket Kecil mendapat gratis maintenance dan domain selama 1 tahun, sedangkan Paket Besar mendapat gratis maintenance dan hosting selama 1 tahun.",
+      "Paket Kecil mulai Rp 500 ribu dan Paket Besar mulai Rp 2 juta per tahun; nilai akhir disepakati setelah konsultasi gratis lewat WhatsApp. Biaya mencakup pengerjaan sesuai paket dan scope yang disepakati. Paket Kecil mendapat gratis maintenance dan domain selama 1 tahun, sedangkan Paket Besar mendapat gratis maintenance dan hosting selama 1 tahun.",
   },
 ] satisfies Array<{
   question: string;
   answer: string;
 }>;
 
-const faqJsonLd = {
+const siteUrl = "https://www.nocoding.web.id";
+const organizationId = `${siteUrl}/#organization`;
+
+/** Everything search engines and AI assistants need to describe the page: what it is, what is offered, for how much. */
+const homeJsonLd = {
   "@context": "https://schema.org",
-  "@type": "FAQPage",
-  mainEntity: faqs.map((faq) => ({
-    "@type": "Question",
-    name: faq.question,
-    acceptedAnswer: {
-      "@type": "Answer",
-      text: faq.answer,
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": `${siteUrl}/#webpage`,
+      url: siteUrl,
+      name: "Nocoding - Jasa Pembuatan Website, Aplikasi & Automasi",
+      isPartOf: { "@id": `${siteUrl}/#website` },
+      about: { "@id": organizationId },
+      primaryImageOfPage: { "@type": "ImageObject", url: `${siteUrl}/opengraph-image.png`, width: 1200, height: 630 },
+      inLanguage: "id-ID",
+      speakable: { "@type": "SpeakableSpecification", cssSelector: ["#hero-title", "#hero-description"] },
     },
-  })),
+    ...services.map((service) => ({
+      "@type": "Service",
+      name: service.title,
+      description: service.description,
+      serviceType: service.title,
+      provider: { "@id": organizationId },
+      areaServed: [{ "@type": "Country", name: "Indonesia" }, { "@type": "Place", name: "Worldwide (remote)" }],
+    })),
+    {
+      "@type": "OfferCatalog",
+      "@id": `${siteUrl}/#packages`,
+      name: "Paket Nocoding",
+      itemListElement: packages.map((item) => ({
+        "@type": "Offer",
+        name: `Paket ${item.name}`,
+        description: item.description,
+        price: item.amount,
+        priceCurrency: "IDR",
+        priceSpecification: {
+          "@type": "UnitPriceSpecification",
+          price: item.amount,
+          priceCurrency: "IDR",
+          billingDuration: "P1Y",
+          unitCode: "ANN",
+        },
+        availability: "https://schema.org/InStock",
+        url: `${siteUrl}/#paket`,
+        seller: { "@id": organizationId },
+        itemOffered: { "@type": "Service", name: `Paket ${item.name}`, description: item.features.join("; ") },
+      })),
+    },
+    {
+      "@type": "FAQPage",
+      "@id": `${siteUrl}/#faq`,
+      mainEntity: faqs.map((faq) => ({
+        "@type": "Question",
+        name: faq.question,
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: faq.answer,
+        },
+      })),
+    },
+  ],
 };
 
 export const revalidate = 300;
@@ -274,7 +330,7 @@ export default function Home() {
     <>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(homeJsonLd) }}
       />
       <main id="konten" className="min-h-screen overflow-hidden">
         <Hero />
@@ -312,11 +368,11 @@ function Hero() {
           <h1 id="hero-title" aria-label="nocoding_" className="text-6xl font-black leading-[0.95] text-white lg:text-7xl">
             <TypedBrand />
           </h1>
-          <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-slate-300 sm:text-xl">
-            <span className="block">
+          <p id="hero-description" className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-slate-300 sm:text-xl">
+            <span className="sm:block">
               <LocalizedText id="hero.description.line1">Jasa pembuatan website, aplikasi, dan automasi</LocalizedText>
-            </span>
-            <span className="block">
+            </span>{" "}
+            <span className="sm:block">
               <LocalizedText id="hero.description.line2">yang cepat, terjangkau, dan memuaskan.</LocalizedText>
             </span>
           </p>
@@ -423,12 +479,7 @@ function PackagesSection() {
               <span className="block text-xs font-bold uppercase tracking-wide text-slate-400">
                 <LocalizedText id="packages.price.from">Mulai dari</LocalizedText>
               </span>
-              <p className="mt-1 text-3xl font-black text-white">
-                <LocalizedText id={`packages.${packageIndex}.price`}>{item.price}</LocalizedText>
-                <span className="ml-1 text-sm font-semibold text-slate-400">
-                  <LocalizedText id="packages.price.period">/ tahun</LocalizedText>
-                </span>
-              </p>
+              <PackagePrice amount={item.amount} priceId={`packages.${packageIndex}.price`} fallback={item.price} />
             </div>
 
             <ul className="mt-8 grow space-y-3">
@@ -444,6 +495,7 @@ function PackagesSection() {
 
             <a
               href={item.selectionHref}
+              data-i18n-wa={`wa.package.${packageIndex}`}
               target="_blank"
               rel="noreferrer"
               className={`mt-8 inline-flex min-h-11 items-center justify-center gap-2 rounded-full px-5 py-3 text-sm font-black transition focus:outline-none focus:ring-2 focus:ring-offset-2 ${
@@ -458,6 +510,8 @@ function PackagesSection() {
           </article>
         ))}
       </div>
+
+      <PricingNote />
     </section>
   );
 }
@@ -516,12 +570,13 @@ function ContactSection() {
           <div className="space-y-5">
             <p className="text-base leading-8 text-slate-400">
               <LocalizedText id="contact.description">
-                Kirim gambaran singkat tentang bisnis, target halaman, dan timeline yang diinginkan. Balasan awal akan berisi rekomendasi scope dan langkah berikutnya.
+                Kirim gambaran singkat tentang bisnis, target halaman, dan timeline yang diinginkan. Balasan awal akan berisi rekomendasi scope dan langkah berikutnya. Konsultasi selalu gratis, kapan pun Anda butuh.
               </LocalizedText>
             </p>
             <div className="flex flex-col gap-3 sm:flex-row sm:justify-center lg:justify-start">
               <a
                 href={contactWhatsAppHref}
+                data-i18n-wa="wa.contact"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-bold text-brand-dark transition hover:bg-brand-lime focus:outline-none focus:ring-2 focus:ring-brand-lime focus:ring-offset-2 focus:ring-offset-brand-dark"
@@ -529,14 +584,6 @@ function ContactSection() {
                 <WhatsAppIcon className="h-4 w-4" />
                 <LocalizedText id="contact.whatsapp">Konsultasi Sekarang</LocalizedText>
               </a>
-              <CenteredScrollLink
-                href="#paket"
-                scrollBlock="start"
-                className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full border border-white/25 px-6 py-3 text-sm font-bold text-white transition hover:border-brand-cyan hover:text-brand-cyan focus:outline-none focus:ring-2 focus:ring-brand-cyan focus:ring-offset-2 focus:ring-offset-brand-dark"
-              >
-                <LocalizedText id="contact.package">Bandingkan Biaya</LocalizedText>
-                <Icon name="arrow" className="h-4 w-4" />
-              </CenteredScrollLink>
             </div>
           </div>
         </div>

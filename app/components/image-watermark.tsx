@@ -17,6 +17,7 @@ export default function ImageWatermark({ size = "sm" }: { size?: keyof typeof si
   return (
     <span
       aria-hidden="true"
+      translate="no"
       className={`pointer-events-none absolute z-10 inline-flex items-center drop-shadow-[0_1px_3px_rgba(0,0,0,0.75)] ${style.box}`}
     >
       <Image src="/nocoding-logo.webp" alt="" width={style.logo} height={style.logo} sizes="96px" className="object-contain" />

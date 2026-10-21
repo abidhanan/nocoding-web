@@ -112,7 +112,7 @@ export function Footer() {
         </div>
 
         <div className="mt-7 flex min-h-[4.75rem] flex-col items-center justify-center gap-4 border-t border-white/10 py-5 text-center text-[0.72rem] text-slate-400">
-          <nav aria-label="Informasi legal" data-i18n-aria="aria.legal" className="flex flex-wrap items-center justify-center gap-2">
+          <nav aria-label="Informasi legal" data-i18n-aria="aria.legal" className="flex flex-wrap items-center justify-center gap-1 sm:gap-2">
             {[
               { href: "/kebijakan-privasi", id: "legal.privacy", label: "Kebijakan Privasi" },
               { href: "/syarat-ketentuan", id: "legal.terms", label: "Syarat dan Ketentuan" },
@@ -122,7 +122,7 @@ export function Footer() {
                 key={item.href}
                 prefetch={false}
                 href={item.href}
-                className="inline-flex min-h-8 shrink-0 items-center justify-center rounded-full border border-white/20 px-3.5 py-1 text-xs font-semibold text-white transition hover:border-brand-cyan hover:text-brand-cyan focus:outline-none focus:ring-2 focus:ring-brand-cyan"
+                className="inline-flex min-h-7 shrink-0 items-center justify-center whitespace-nowrap rounded-full border border-white/20 px-[clamp(0.35rem,2.1vw,0.5rem)] py-1 text-[clamp(0.48rem,2.55vw,0.6rem)] font-semibold text-white transition hover:border-brand-cyan hover:text-brand-cyan focus:outline-none focus:ring-2 focus:ring-brand-cyan sm:min-h-8 sm:px-3.5 sm:text-xs"
               >
                 <LocalizedText id={item.id}>{item.label}</LocalizedText>
               </Link>

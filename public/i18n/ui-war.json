@@ -289,5 +289,9 @@
  "wa.package.1": "Hi Nocoding, interesado ako ha Big nga package. Pakipadara hin sunod nga mga lakang.",
  "wa.article": "Hi Nocoding, may nabasa ako nga artikulo ha inyo website ngan gusto ko hin konsultasyon. Pakipadara hin sunod nga mga lakang.",
  "articles.toc": "Sulod",
- "articles.readTime": "{n} minuto nga basahon"
+ "articles.readTime": "{n} minuto nga basahon",
+ "project.category.ineedsave": "Website para ha pag-download tikang ha social media",
+ "project.description.ineedsave": "Libre nga website para ha pag-download hin mga video, litrato, ngan audio tikang ha TikTok, Instagram, Facebook, X, ngan iba pa nga platform. I-paste an link, pilia an kalidad, ngan i-save.",
+ "project.category.ineedbarcode": "Website nga naghihimo hin barcode ngan QR code",
+ "project.description.ineedbarcode": "Libre nga barcode ngan QR code generator nga may 100+ nga klase hin barcode. An mga user nagbubutang hin data, nag-aayos han disenyo, ngan nagda-download hin PNG nga andam na i-print."
 }

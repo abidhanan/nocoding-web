@@ -289,5 +289,9 @@
  "wa.package.1": "Mbote Nocoding, nalingi paquete Monene. Yebisa ngai etape oyo ekolanda.",
  "wa.article": "Mbote Nocoding, natangi lisolo na site na bino mpe nalingi kozwa toli. Yebisa ngai etape oyo ekolanda.",
  "articles.toc": "Etanda ya makambo",
- "articles.readTime": "Monúti {n} ya kotánga"
+ "articles.readTime": "Monúti {n} ya kotánga",
+ "project.category.ineedsave": "Site ya kozwa biloko na ba réseau sociaux",
+ "project.description.ineedsave": "Site ya ofele mpo na kozwa (download) bavidɛo, bafɔtɔ mpe mingongo uta na TikTok, Instagram, Facebook, X mpe bisika mosusu. Tula lien, poná kalite mpe bomba.",
+ "project.category.ineedbarcode": "Site ya kosala barcode mpe QR code",
+ "project.description.ineedbarcode": "Esaleli ya ofele ya kosala barcode mpe QR code na ndenge 100+ ya barcode. Basaleli batyaka bansɔngɛ, bakómisaka design mpe bazwaka PNG oyo ewuti kobongisama mpo na kobimisa na papye."
 }

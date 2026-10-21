@@ -289,5 +289,9 @@
  "wa.package.1": "Hei Nocoding, jeg er interessert i Stor pakke. Send meg gjerne neste steg.",
  "wa.article": "Hei Nocoding, jeg leste en artikkel på nettsiden deres og vil gjerne ha en konsultasjon. Send meg gjerne neste steg.",
  "articles.toc": "Innholdsfortegnelse",
- "articles.readTime": "{n} min lesetid"
+ "articles.readTime": "{n} min lesetid",
+ "project.category.ineedsave": "Nettsted for nedlasting fra sosiale medier",
+ "project.description.ineedsave": "Gratis nettsted for å laste ned videoer, bilder og lyd fra TikTok, Instagram, Facebook, X og andre plattformer. Lim inn en lenke, velg kvalitet og lagre.",
+ "project.category.ineedbarcode": "Nettsted for strekkode- og QR-kodegenerator",
+ "project.description.ineedbarcode": "Gratis strekkode- og QR-kodegenerator med 100+ strekkodetyper. Brukere skriver inn data, justerer designet og laster ned en utskriftsklar PNG."
 }

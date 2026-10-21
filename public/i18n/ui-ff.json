@@ -289,5 +289,9 @@
  "wa.package.1": "Sannu Nocoding, mi yiɗi Pakeet Mawɗum. Wi'u mi ko ɓaawo.",
  "wa.article": "Sannu Nocoding, mi janngi winndannde e sayt mon e mi yiɗi yeewtere. Wi'u mi ko ɓaawo.",
  "articles.toc": "Tuggorde",
- "articles.readTime": "{n} minti tindugol"
+ "articles.readTime": "{n} minti tindugol",
+ "project.category.ineedsave": "Lowre jippinirde soosiyal medya",
+ "project.description.ineedsave": "Lowre bilaa njobdi ngam jippinde bidewoo, foto e sawtu diga TikTok, Instagram, Facebook, X e goɗɗe feere. Nam link, suɓtu kaalite, ngam hisnu.",
+ "project.category.ineedbarcode": "Lowre waɗirde barcode e QR code",
+ "project.description.ineedbarcode": "Waɗirde barcode e QR code bilaa njobdi, e laawol barcode 100+. Huutinooɓe ndoondan data, kuutinan ɗoŋgol, e jippinan PNG tawtoraaɗo ngam winndude."
 }

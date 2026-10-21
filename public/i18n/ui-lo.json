@@ -289,5 +289,9 @@
  "wa.package.1": "ສະບາຍດີ Nocoding, ຂ້ອຍສົນໃຈແພັກເກດໃຫຍ່. ກະລຸນາບອກຂັ້ນຕອນຕໍ່ໄປ.",
  "wa.article": "ສະບາຍດີ Nocoding, ຂ້ອຍອ່ານບົດຄວາມໃນເວັບໄຊຂອງທ່ານ ແລະ ຢາກປຶກສາ. ກະລຸນາບອກຂັ້ນຕອນຕໍ່ໄປ.",
  "articles.toc": "ສາລະບານ",
- "articles.readTime": "ອ່ານ {n} ນາທີ"
+ "articles.readTime": "ອ່ານ {n} ນາທີ",
+ "project.category.ineedsave": "ເວັບໄຊດາວໂຫລດຈາກໂຊຊຽນມີເດຍ",
+ "project.description.ineedsave": "ເວັບໄຊຟຣີສຳລັບດາວໂຫລດວິດີໂອ, ຮູບພາບ ແລະ ສຽງຈາກ TikTok, Instagram, Facebook, X ແລະ ແພລດຟອມອື່ນໆ. ວາງລິ້ງ, ເລືອກຄຸນນະພາບ ແລ້ວບັນທຶກ.",
+ "project.category.ineedbarcode": "ເວັບໄຊສ້າງບາໂຄດ ແລະ QR code",
+ "project.description.ineedbarcode": "ເຄື່ອງມືສ້າງບາໂຄດ ແລະ QR code ຟຣີ ທີ່ມີບາໂຄດ 100+ ປະເພດ. ຜູ້ໃຊ້ໃສ່ຂໍ້ມູນ, ປັບແຕ່ງດີໄຊນ໌ ແລະ ດາວໂຫລດ PNG ທີ່ພ້ອມພິມ."
 }

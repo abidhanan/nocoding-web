@@ -289,5 +289,9 @@
  "wa.package.1": "Nnọọ Nocoding, enwere m mmasị na ngwugwu Nnukwu. Biko kpọtụrụ m nzọụkwụ ndị na-esote.",
  "wa.article": "Nnọọ Nocoding, agụrụ m edemede na weebụsaịtị unu, achọkwara m ịnweta ndụmọdụ. Biko kpọtụrụ m nzọụkwụ ndị na-esote.",
  "articles.toc": "Ndepụta isiokwu",
- "articles.readTime": "Nkeji {n} agụmagụ"
+ "articles.readTime": "Nkeji {n} agụmagụ",
+ "project.category.ineedsave": "Webụsaịtị nbudata site na mgbasa ozi mmekọrịta",
+ "project.description.ineedsave": "Webụsaịtị n'efu maka ibudata vidiyo, foto, na ọdịyo site na TikTok, Instagram, Facebook, X, na ikpo okwu ndị ọzọ. Tinye njikọ, họrọ àgwà, ma chekwaa.",
+ "project.category.ineedbarcode": "Webụsaịtị mmepụta barcode na QR code",
+ "project.description.ineedbarcode": "Ngwa n'efu maka imepụta barcode na QR code nwere ụdị barcode 100+. Ndị ọrụ na-tinye data, na-agbanwe nhazi, ma na-ebudata PNG dị njikere maka ibipụta."
 }

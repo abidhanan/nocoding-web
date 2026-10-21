@@ -289,5 +289,9 @@
  "wa.package.1": "Bongu Nocoding, jinteressani l-pakkett Kbir. Jekk jogħġbok qasmu l-passi li jmiss.",
  "wa.article": "Bongu Nocoding, qrajt artiklu fuq il-websajt tagħkom u nixtieq konsultazzjoni. Jekk jogħġbok qasmu l-passi li jmiss.",
  "articles.toc": "Werrej",
- "articles.readTime": "{n} min ta' qari"
+ "articles.readTime": "{n} min ta' qari",
+ "project.category.ineedsave": "Websajt għat-tniżżil mis-social media",
+ "project.description.ineedsave": "Websajt b'xejn biex tniżżel vidjows, ritratti u awdjo minn TikTok, Instagram, Facebook, X u pjattaformi oħra. Waħħal link, agħżel il-kwalità u ssejvja.",
+ "project.category.ineedbarcode": "Websajt ta' ġeneratur ta' barcode u QR code",
+ "project.description.ineedbarcode": "Ġeneratur ta' barcode u QR code b'xejn b'100+ tip ta' barcode. L-utenti jdaħħlu d-data, jaġġustaw id-disinn u jniżżlu PNG lest għall-istampar."
 }

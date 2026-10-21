@@ -289,5 +289,9 @@
  "wa.package.1": "Sveiki, Nocoding, mane domina „Didysis“ paketas. Prašau atsiųsti tolesnius žingsnius.",
  "wa.article": "Sveiki, Nocoding, perskaičiau straipsnį jūsų svetainėje ir norėčiau konsultacijos. Prašau atsiųsti tolesnius žingsnius.",
  "articles.toc": "Turinys",
- "articles.readTime": "{n} min. skaitymo"
+ "articles.readTime": "{n} min. skaitymo",
+ "project.category.ineedsave": "Svetainė turiniui iš socialinių tinklų atsisiųsti",
+ "project.description.ineedsave": "Nemokama svetainė vaizdo įrašams, nuotraukoms ir garso įrašams atsisiųsti iš TikTok, Instagram, Facebook, X ir kitų platformų. Įklijuokite nuorodą, pasirinkite kokybę ir išsaugokite.",
+ "project.category.ineedbarcode": "Brūkšninių kodų ir QR kodų generatoriaus svetainė",
+ "project.description.ineedbarcode": "Nemokamas brūkšninių kodų ir QR kodų generatorius su 100+ brūkšninių kodų tipų. Naudotojai įveda duomenis, pritaiko dizainą ir atsisiunčia spaudai paruoštą PNG."
 }

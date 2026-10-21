@@ -289,5 +289,9 @@
  "wa.package.1": "Salve Nocoding, fasciculus Magnus mihi placet. Quaeso, proximos gradus communicate.",
  "wa.article": "Salve Nocoding, commentarium in pagina vestra legi et consultationem velim. Quaeso, proximos gradus communicate.",
  "articles.toc": "Index",
- "articles.readTime": "{n} min lectionis"
+ "articles.readTime": "{n} min lectionis",
+ "project.category.ineedsave": "Situs ad res e sociali media deponendas",
+ "project.description.ineedsave": "Situs interretialis gratuitus ad videos, imagines et sonos ex TikTok, Instagram, Facebook, X aliisque suggestibus deponendos. Nexum insere, qualitatem elige et serva.",
+ "project.category.ineedbarcode": "Situs ad codices virgulatos et QR creandos",
+ "project.description.ineedbarcode": "Generator gratuitus codicum virgulatorum et codicum QR cum 100+ generibus codicum virgulatorum. Usores data inserunt, formam aptant et PNG ad imprimendum paratum deponunt."
 }

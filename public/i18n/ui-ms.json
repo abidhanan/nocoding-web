@@ -289,5 +289,9 @@
  "wa.package.1": "Helo Nocoding, saya berminat dengan Pakej Besar. Sila kongsikan langkah seterusnya.",
  "wa.article": "Helo Nocoding, saya membaca satu artikel di laman web anda dan ingin berunding. Sila kongsikan langkah seterusnya.",
  "articles.toc": "Kandungan",
- "articles.readTime": "{n} min bacaan"
+ "articles.readTime": "{n} min bacaan",
+ "project.category.ineedsave": "Laman web pemuat turun media sosial",
+ "project.description.ineedsave": "Laman web percuma untuk memuat turun video, foto dan audio daripada TikTok, Instagram, Facebook, X dan platform lain. Tampal pautan, pilih kualiti dan simpan.",
+ "project.category.ineedbarcode": "Laman web penjana kod bar & kod QR",
+ "project.description.ineedbarcode": "Penjana kod bar dan kod QR percuma dengan 100+ jenis kod bar. Pengguna memasukkan data, melaraskan reka bentuk dan memuat turun PNG sedia cetak."
 }

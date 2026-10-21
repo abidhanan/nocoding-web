@@ -289,5 +289,9 @@
  "wa.package.1": "Halo Nocoding, mi laik save long Bikpela pekij. Plis tokim mi long ol next step.",
  "wa.article": "Halo Nocoding, mi ridim wanpela atikel long websait bilong yupela na mi laik toktok. Plis tokim mi long ol next step.",
  "articles.toc": "Ol samting insait",
- "articles.readTime": "{n} minit bilong ritim"
+ "articles.readTime": "{n} minit bilong ritim",
+ "project.category.ineedsave": "Websait bilong daunim samting long sosol midia",
+ "project.description.ineedsave": "Fri websait bilong daunim ol vidio, piksa, na sawnd long TikTok, Instagram, Facebook, X, na ol narapela platfom. Pasim wanpela lingk, makim kwaliti, na sevim.",
+ "project.category.ineedbarcode": "Websait bilong wokim barkod na QR kod",
+ "project.description.ineedbarcode": "Fri barkod na QR kod jeneresa i gat 100+ kain barkod. Ol man i usim, ol i putim data, senisim dizain, na daunim PNG i redi long prinim."
 }

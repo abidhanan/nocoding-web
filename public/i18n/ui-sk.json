@@ -289,5 +289,9 @@
  "wa.package.1": "Dobrý deň, Nocoding, zaujíma ma balík Veľký. Prosím, pošlite mi ďalšie kroky.",
  "wa.article": "Dobrý deň, Nocoding, prečítal som si článok na vašom webe a chcel by som konzultáciu. Prosím, pošlite mi ďalšie kroky.",
  "articles.toc": "Obsah",
- "articles.readTime": "{n} min čítania"
+ "articles.readTime": "{n} min čítania",
+ "project.category.ineedsave": "Web na sťahovanie zo sociálnych sietí",
+ "project.description.ineedsave": "Bezplatný web na sťahovanie videí, fotiek a zvuku z TikTok, Instagram, Facebook, X a ďalších platforiem. Vložte odkaz, vyberte kvalitu a uložte.",
+ "project.category.ineedbarcode": "Web na tvorbu čiarových a QR kódov",
+ "project.description.ineedbarcode": "Bezplatný generátor čiarových kódov a QR kódov so 100+ typmi čiarových kódov. Používatelia zadajú údaje, upravia dizajn a stiahnu PNG pripravené na tlač."
 }

@@ -289,5 +289,9 @@
  "wa.package.1": "Maong ya agew Nocoding, interesado ak ed Baleg ya pakete. Pakibaga ed sakin so kasunod ya hakbang.",
  "wa.article": "Maong ya agew Nocoding, binasa ko so sakey ya artikulo ed website yo tan labay ko ya makipagkonsulta. Pakibaga ed sakin so kasunod ya hakbang.",
  "articles.toc": "Listaan na Laman",
- "articles.readTime": "{n} minuto a basaen"
+ "articles.readTime": "{n} minuto a basaen",
+ "project.category.ineedsave": "Website ya panag-download manlapud social media",
+ "project.description.ineedsave": "Libre a website ya pandownload na video, larawan, tan audio manlapud TikTok, Instagram, Facebook, X, tan arum ni platform. I-paste so link, pilien so kalidad, tan i-save.",
+ "project.category.ineedbarcode": "Website ya gumawa na barcode tan QR code",
+ "project.description.ineedbarcode": "Libre a barcode tan QR code generator ya walay 100+ klase na barcode. Mangikabil iray user na data, ayusen da so disenyo, tan idownload da so PNG ya andam ya i-print."
 }

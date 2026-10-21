@@ -289,5 +289,9 @@
  "wa.package.1": "Salaam Nocoding, paaket Mag la bëgg. Wax ma li toppee.",
  "wa.article": "Salaam Nocoding, jàng naa bind ci seen site te bëgg naa a waxtaan. Wax ma li toppee.",
  "articles.toc": "Li ñu defar",
- "articles.readTime": "{n} simili yu njàng"
+ "articles.readTime": "{n} simili yu njàng",
+ "project.category.ineedsave": "Sit bu telesarse ci rezo sosiyal yi",
+ "project.description.ineedsave": "Sit bu amul njëg buñu jëfandikoo ngir telesarse widyo, nataal ak baat ci TikTok, Instagram, Facebook, X ak yeneen platform. Teg lien bi, tànn kalite bi te denc ko.",
+ "project.category.ineedbarcode": "Sit bu defar barcode ak QR code",
+ "project.description.ineedbarcode": "Jëfandikoo bu amul njëg buñuy defar barcode ak QR code, ak 100+ ay xeeti barcode. Jëfandikukat yi di duggal donne yi, jubal desiñ bi te telesarse PNG bu waaj ngir print."
 }

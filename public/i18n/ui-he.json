@@ -289,5 +289,9 @@
  "wa.package.1": "שלום Nocoding, אני מתעניין בחבילה הגדולה. אשמח לשמוע מה הצעדים הבאים.",
  "wa.article": "שלום Nocoding, קראתי מאמר באתר שלכם ואשמח להתייעץ. אשמח לשמוע מה הצעדים הבאים.",
  "articles.toc": "תוכן עניינים",
- "articles.readTime": "{n} דקות קריאה"
+ "articles.readTime": "{n} דקות קריאה",
+ "project.category.ineedsave": "אתר להורדה מרשתות חברתיות",
+ "project.description.ineedsave": "אתר חינמי להורדת סרטונים, תמונות ואודיו מ-TikTok, Instagram, Facebook, X ופלטפורמות נוספות. מדביקים קישור, בוחרים איכות ושומרים.",
+ "project.category.ineedbarcode": "אתר ליצירת ברקוד וקוד QR",
+ "project.description.ineedbarcode": "מחולל ברקודים וקודי QR חינמי עם 100+ סוגי ברקוד. המשתמשים מזינים נתונים, מתאימים את העיצוב ומורידים קובץ PNG מוכן להדפסה."
 }

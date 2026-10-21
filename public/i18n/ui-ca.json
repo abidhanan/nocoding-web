@@ -289,5 +289,9 @@
  "wa.package.1": "Hola Nocoding, m'interessa el paquet Gran. Si us plau, indiqueu-me els propers passos.",
  "wa.article": "Hola Nocoding, he llegit un article al vostre lloc web i m'agradaria fer una consulta. Si us plau, indiqueu-me els propers passos.",
  "articles.toc": "Índex",
- "articles.readTime": "{n} min de lectura"
+ "articles.readTime": "{n} min de lectura",
+ "project.category.ineedsave": "Web per baixar de xarxes socials",
+ "project.description.ineedsave": "Web gratuït per baixar vídeos, fotos i àudio de TikTok, Instagram, Facebook, X i altres plataformes. Enganxa un enllaç, tria la qualitat i desa.",
+ "project.category.ineedbarcode": "Web generador de codis de barres i QR",
+ "project.description.ineedbarcode": "Generador gratuït de codis de barres i codis QR amb 100+ tipus de codis de barres. Els usuaris introdueixen les dades, ajusten el disseny i baixen un PNG a punt per imprimir."
 }

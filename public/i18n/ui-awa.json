@@ -289,5 +289,9 @@
  "wa.package.1": "नमस्ते Nocoding, हमका बड़ पैकेज मा दिलचस्पी अहै। कृपया आगे के कदम बतावा।",
  "wa.article": "नमस्ते Nocoding, हम तोहरी वेबसाइट पै एक लेख पढ़ा अउर सलाह लेवै चाहित है। कृपया आगे के कदम बतावा।",
  "articles.toc": "विषय सूची",
- "articles.readTime": "{n} मिनट मा पढ़ा जाय"
+ "articles.readTime": "{n} मिनट मा पढ़ा जाय",
+ "project.category.ineedsave": "सोशल मीडिया डाउनलोडर वेबसाइट",
+ "project.description.ineedsave": "TikTok, Instagram, Facebook, X अउर दूसर प्लेटफॉर्म से वीडियो, फोटो अउर ऑडियो डाउनलोड करै बरे मुफ्त वेबसाइट। लिंक पेस्ट करा, क्वालिटी चुना अउर सेव करा।",
+ "project.category.ineedbarcode": "बारकोड अउर QR कोड जनरेटर वेबसाइट",
+ "project.description.ineedbarcode": "100+ किसिम के बारकोड वाला मुफ्त बारकोड अउर QR कोड जनरेटर। यूजर डेटा भरत हैं, डिजाइन बदलत हैं अउर प्रिंट बरे तैयार PNG डाउनलोड करत हैं।"
 }

@@ -289,5 +289,9 @@
  "wa.package.1": "Woezɔ Nocoding, Package Gã dzea ŋunye. Miɖe afɔɖeɖe siwo gbɔna ɖe go na ɖe.",
  "wa.article": "Woezɔ Nocoding, mexlẽ nyaŋlɔ aɖe le miaƒe webgbalẽ dzi eye medi be maɖo aɖaŋu. Miɖe afɔɖeɖe siwo gbɔna ɖe go na ɖe.",
  "articles.toc": "Nuwo Ŋkɔdzidzi",
- "articles.readTime": "Miniti {n} xexlẽ"
+ "articles.readTime": "Miniti {n} xexlẽ",
+ "project.category.ineedsave": "Social media download ƒe website",
+ "project.description.ineedsave": "Website si ƒe fe mele o si me nàte ŋu download video, foto kple audio tso TikTok, Instagram, Facebook, X kple platform bubuwo dzi. Tsɔ link la ɖo, tia kwalitii, eye nàse.",
+ "project.category.ineedbarcode": "Barcode kple QR code wɔwɔ ƒe website",
+ "project.description.ineedbarcode": "Barcode kple QR code wɔla si ƒe fe mele o si me barcode ƒomevi 100+ le. Zãlawo nɔa data ɖem, trɔa design la, eye wodownload PNG si dzi woate ŋu aprint."
 }

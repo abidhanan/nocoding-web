@@ -289,5 +289,9 @@
  "wa.package.1": "Bonzour Nocoding, mo enterese par pake Gran. Souple dir mwa bann prosen etap.",
  "wa.article": "Bonzour Nocoding, mo finn lir enn lartik lor zot sit web ek mo ti anvi enn konsiltasyon. Souple dir mwa bann prosen etap.",
  "articles.toc": "Tab bann matyer",
- "articles.readTime": "{n} minit lektir"
+ "articles.readTime": "{n} minit lektir",
+ "project.category.ineedsave": "Sit pou telesarz depi rezo sosial",
+ "project.description.ineedsave": "Sit gratis pou telesarz video, foto ek lodio depi TikTok, Instagram, Facebook, X ek lezot platform. Kole enn lien, swazir kalite ek sovgard.",
+ "project.category.ineedbarcode": "Sit pou fer barcode ek kod QR",
+ "project.description.ineedbarcode": "Zeneratër barcode ek kod QR gratis ek 100+ tip barcode. Itilizater antre done, aziste design ek telesarz enn PNG pare pou imprime."
 }

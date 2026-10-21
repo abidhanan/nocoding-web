@@ -289,5 +289,9 @@
  "wa.package.1": "Halo Nocoding, abdi kataji kana pakét Gedé. Mangga béjakeun léngkah satuluyna.",
  "wa.article": "Halo Nocoding, abdi maca artikel di situs wéb anjeun tur hoyong konsultasi. Mangga béjakeun léngkah satuluyna.",
  "articles.toc": "Daptar Eusi",
- "articles.readTime": "{n} menit maca"
+ "articles.readTime": "{n} menit maca",
+ "project.category.ineedsave": "Situs pangundeur média sosial",
+ "project.description.ineedsave": "Situs gratis pikeun ngundeur pidéo, poto, jeung audio ti TikTok, Instagram, Facebook, X, jeung platform séjénna. Témpél tautan, pilih kualitas, tuluy simpen.",
+ "project.category.ineedbarcode": "Situs pembuat barcode jeung kode QR",
+ "project.description.ineedbarcode": "Pembuat barcode jeung kode QR gratis ku 100+ jinis barcode. Pamaké ngasupkeun data, nyaluyukeun desain, tuluy ngundeur PNG anu siap dicitak."
 }

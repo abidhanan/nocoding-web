@@ -289,5 +289,9 @@
  "wa.package.1": "Bon dia Nocoding, mi tin interes den e pakete Grandi. Por fabor, kompartí e siguiente pasonan.",
  "wa.article": "Bon dia Nocoding, mi a lesa un artikulo riba boso website i mi ke un konsulta. Por fabor, kompartí e siguiente pasonan.",
  "articles.toc": "Indise",
- "articles.readTime": "{n} minüt di lesa"
+ "articles.readTime": "{n} minüt di lesa",
+ "project.category.ineedsave": "Website pa download di rednan sosial",
+ "project.description.ineedsave": "Website gratis pa download video, potret i audio for di TikTok, Instagram, Facebook, X i otro plataforma. Plak un link, skohe e kalidat i warda.",
+ "project.category.ineedbarcode": "Website pa krea barcode i QR code",
+ "project.description.ineedbarcode": "Generador gratis di barcode i QR code ku 100+ tipo di barcode. Usadónan ta yena data, ahustá e diseño i download un PNG kla pa imprimí."
 }

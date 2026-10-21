@@ -289,5 +289,9 @@
  "wa.package.1": "Goojedaag Nocoding, ich höb belangsjtèlling veur 't Groete pakket. Wilt geer mich de volgende sjtappe laote weite?",
  "wa.article": "Goojedaag Nocoding, ich höb ein artikel op uur website gelaeze en wil graag advies. Wilt geer mich de volgende sjtappe laote weite?",
  "articles.toc": "Inhoudsopgaaf",
- "articles.readTime": "{n} min leestied"
+ "articles.readTime": "{n} min leestied",
+ "project.category.ineedsave": "Website veur te downloade van sociale media",
+ "project.description.ineedsave": "Gratis website um video's, foto's en geluud van TikTok, Instagram, Facebook, X en angere platforms te downloade. Plak 'n link, kies de kwaliteit en slaag op.",
+ "project.category.ineedbarcode": "Website veur streepjescode en QR-code",
+ "project.description.ineedbarcode": "Gratis generator veur streepjescodes en QR-codes mit 100+ soorte streepjescodes. Gebroekers veure gegaeves in, pas 't ontwerp aan en download 'n printklaar PNG."
 }

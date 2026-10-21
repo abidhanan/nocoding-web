@@ -289,5 +289,9 @@
  "wa.package.1": "Bondì Nocoding, me interèssa el pacchett Big. Disem per piasè i pass sucessiv.",
  "wa.article": "Bondì Nocoding, g'ho lecc un articol sul vost sit e voreria una cunsulenza. Disem per piasè i pass sucessiv.",
  "articles.toc": "Indes",
- "articles.readTime": "{n} minut de lettura"
+ "articles.readTime": "{n} minut de lettura",
+ "project.category.ineedsave": "Sit per descargà di social media",
+ "project.description.ineedsave": "Sit web gratüit per descargà video, foto e audio de TikTok, Instagram, Facebook, X e olter piataforme. Incola on ligam, selessiùna la qualità e salva.",
+ "project.category.ineedbarcode": "Sit generador de codes a barre e QR",
+ "project.description.ineedbarcode": "Generador gratüit de codes a barre e codes QR con 100+ tipi de codes a barre. Chi che ghe dopera el met denter i dati, el regola el disegn e el descarga on PNG prunt per la stampa."
 }

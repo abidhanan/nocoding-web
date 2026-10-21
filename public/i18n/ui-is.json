@@ -289,5 +289,9 @@
  "wa.package.1": "Halló Nocoding, ég hef áhuga á Stóra pakkanum. Vinsamlegast sendið mér næstu skref.",
  "wa.article": "Halló Nocoding, ég las grein á vefsíðunni ykkar og vil gjarnan fá ráðgjöf. Vinsamlegast sendið mér næstu skref.",
  "articles.toc": "Efnisyfirlit",
- "articles.readTime": "{n} mín. lestur"
+ "articles.readTime": "{n} mín. lestur",
+ "project.category.ineedsave": "Vefsíða til að sækja efni af samfélagsmiðlum",
+ "project.description.ineedsave": "Ókeypis vefsíða til að sækja myndbönd, myndir og hljóð af TikTok, Instagram, Facebook, X og öðrum miðlum. Límdu inn hlekk, veldu gæðin og vistaðu.",
+ "project.category.ineedbarcode": "Vefsíða fyrir strikamerki og QR-kóða",
+ "project.description.ineedbarcode": "Ókeypis strikamerkja- og QR-kóðasmiður með 100+ gerðum strikamerkja. Notendur slá inn gögn, stilla hönnunina og sækja PNG sem er tilbúið til prentunar."
 }

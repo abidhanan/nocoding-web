@@ -289,5 +289,9 @@
  "wa.package.1": "Halo Nocoding, nakke tertarik ri paket Lompo. Tolong bagi langkah ambali.",
  "wa.article": "Halo Nocoding, nakke la ammaca se're artikel ri website-ta' siagang ero' konsultasi. Tolong bagi langkah ambali.",
  "articles.toc": "Isi",
- "articles.readTime": "{n} menit bacaan"
+ "articles.readTime": "{n} menit bacaan",
+ "project.category.ineedsave": "Situs pangunduh media sosial",
+ "project.description.ineedsave": "Situs gratis untu' angunduh video, foto, siagang audio battu ri TikTok, Instagram, Facebook, X, siagang platform sikamma. Tempel tautan, pilih kualitas, nampa simpan.",
+ "project.category.ineedbarcode": "Situs pambua' barcode siagang kode QR",
+ "project.description.ineedbarcode": "Pambua' barcode siagang kode QR gratis siagang 100+ jenis barcode. Pakkulle angisi data, appauba desain, nampa angunduh PNG ata siap dicetak."
 }

@@ -289,5 +289,9 @@
  "wa.package.1": "Sannu Nocoding, ina sha'awar kunshin Babba. Da fatan za ku gaya mini matakai na gaba.",
  "wa.article": "Sannu Nocoding, na karanta wani labari a gidan yanar gizonku kuma ina so in nemi shawara. Da fatan za ku gaya mini matakai na gaba.",
  "articles.toc": "Abubuwan da ke ciki",
- "articles.readTime": "Karatun minti {n}"
+ "articles.readTime": "Karatun minti {n}",
+ "project.category.ineedsave": "Shafin sauke abubuwa daga kafafen sada zumunta",
+ "project.description.ineedsave": "Shafin yanar gizo kyauta don sauke bidiyo, hotuna, da sauti daga TikTok, Instagram, Facebook, X, da sauran dandamali. Liƙa hanyar haɗi, zaɓi inganci, sannan ka adana.",
+ "project.category.ineedbarcode": "Shafin ƙirƙirar barcode da QR code",
+ "project.description.ineedbarcode": "Na'urar ƙirƙirar barcode da QR code kyauta mai nau'ikan barcode 100+. Masu amfani suna shigar da bayanai, su daidaita ƙira, sannan su sauke PNG da ke shirye don bugawa."
 }

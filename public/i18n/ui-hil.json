@@ -289,5 +289,9 @@
  "wa.package.1": "Kumusta Nocoding, interesado ako sa Daku nga pakete. Palihog ipaambit ang masunod nga mga hakbang.",
  "wa.article": "Kumusta Nocoding, nakabasa ako sang artikulo sa inyo website kag luyag ko sang konsultasyon. Palihog ipaambit ang masunod nga mga hakbang.",
  "articles.toc": "Sulod",
- "articles.readTime": "{n} minuto nga basahon"
+ "articles.readTime": "{n} minuto nga basahon",
+ "project.category.ineedsave": "Website sa pag-download sa social media",
+ "project.description.ineedsave": "Libre nga website sa pag-download sang mga video, retrato, kag audio halin sa TikTok, Instagram, Facebook, X, kag iban pa nga platform. I-paste ang link, pilia ang kalidad, kag i-save.",
+ "project.category.ineedbarcode": "Website nga nagahimo sang barcode kag QR code",
+ "project.description.ineedbarcode": "Libre nga barcode kag QR code generator nga may 100+ ka tipo sang barcode. Ang mga user nagabutang sang data, nagaadjust sang disenyo, kag nagadownload sang PNG nga handa na i-print."
 }

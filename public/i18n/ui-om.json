@@ -289,5 +289,9 @@
  "wa.package.1": "Akkam Nocoding, paakeejii Guddaa fedheera. Tarkaanfii itti aanu naaf himaa.",
  "wa.article": "Akkam Nocoding, barruu marsariitii keessan irratti dubbiseera, gorfachuus barbaada. Tarkaanfii itti aanu naaf himaa.",
  "articles.toc": "Qabiyyee",
- "articles.readTime": "Daqiiqaa {n} dubbisuuf"
+ "articles.readTime": "Daqiiqaa {n} dubbisuuf",
+ "project.category.ineedsave": "Marsariitii miidiyaa hawaasaa buusuu",
+ "project.description.ineedsave": "Marsariitii bilisaa viidiyoo, suuraa fi sagalee TikTok, Instagram, Facebook, X fi waltajjiiwwan biroo irraa buusuuf. Linkii maxxansi, qulqullina filadhu, achiis olkaa'i.",
+ "project.category.ineedbarcode": "Marsariitii barcode fi QR code hojjetu",
+ "project.description.ineedbarcode": "Meeshaa barcode fi QR code bilisaan hojjetu gosa barcode 100+ qabu. Fayyadamtoonni daataa galchu, dizaayinii sirreessu, PNG maxxansuuf qophaa'e buusu."
 }

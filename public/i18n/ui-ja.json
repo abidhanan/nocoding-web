@@ -289,5 +289,9 @@
  "wa.package.1": "Nocodingさん、こんにちは。ビッグパッケージに興味があります。次の手順を教えてください。",
  "wa.article": "Nocodingさん、こんにちは。ウェブサイトの記事を読み、相談したいと思いました。次の手順を教えてください。",
  "articles.toc": "目次",
- "articles.readTime": "読了目安 {n} 分"
+ "articles.readTime": "読了目安 {n} 分",
+ "project.category.ineedsave": "SNSダウンロードサイト",
+ "project.description.ineedsave": "TikTok、Instagram、Facebook、Xなどのプラットフォームから動画・写真・音声をダウンロードできる無料サイト。リンクを貼り付け、画質を選んで保存するだけ。",
+ "project.category.ineedbarcode": "バーコード・QRコード作成サイト",
+ "project.description.ineedbarcode": "100+種類のバーコードに対応した無料のバーコード・QRコードジェネレーター。データを入力してデザインを調整し、印刷に適したPNGをダウンロードできます。"
 }

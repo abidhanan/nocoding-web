@@ -289,5 +289,9 @@
  "wa.package.1": "Ndi masiari Nocoding, ndi funa phakeji ya Khulwane. Ndi khou ni humbela ni ṋee nḓila dzi tevhelaho.",
  "wa.article": "Ndi masiari Nocoding, ndo vhala ṅwalwa kha webusaithi yaṋu nahone ndi ṱoḓa ṱhahelelo. Ndi khou ni humbela ni ṋee nḓila dzi tevhelaho.",
  "articles.toc": "Zwi re ngomu",
- "articles.readTime": "Minete dza {n} dza u vhala"
+ "articles.readTime": "Minete dza {n} dza u vhala",
+ "project.category.ineedsave": "Webusaithi ya u dawuniloda u bva kha social media",
+ "project.description.ineedsave": "Webusaithi ya mahala ya u dawuniloda vhidio, zwifanyiso na mubvumo u bva kha TikTok, Instagram, Facebook, X na dziplatifomo dzi bvaho. Namatshelani linki, nanga khwaliti, ni vhulunge.",
+ "project.category.ineedbarcode": "Webusaithi ya u ita barcode na QR code",
+ "project.description.ineedbarcode": "Muiti wa barcode na QR code wa mahala u re na mimaleli ya barcode ya 100+. Vhashumisi vha dzhenisa data, vha shandukisa vhuvhumbi, na u dawuniloda PNG yo lugelaho u gandiswa."
 }

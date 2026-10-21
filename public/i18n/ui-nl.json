@@ -289,5 +289,9 @@
  "wa.package.1": "Hallo Nocoding, ik ben geïnteresseerd in het pakket Groot. Kunnen jullie me de volgende stappen laten weten?",
  "wa.article": "Hallo Nocoding, ik heb een artikel op jullie website gelezen en wil graag advies. Kunnen jullie me de volgende stappen laten weten?",
  "articles.toc": "Inhoudsopgave",
- "articles.readTime": "{n} min leestijd"
+ "articles.readTime": "{n} min leestijd",
+ "project.category.ineedsave": "Website voor het downloaden van social media",
+ "project.description.ineedsave": "Gratis website om video's, foto's en audio te downloaden van TikTok, Instagram, Facebook, X en andere platforms. Plak een link, kies de kwaliteit en sla op.",
+ "project.category.ineedbarcode": "Website voor barcode- en QR-codegenerator",
+ "project.description.ineedbarcode": "Gratis barcode- en QR-codegenerator met 100+ barcodetypes. Gebruikers voeren gegevens in, passen het ontwerp aan en downloaden een printklare PNG."
 }

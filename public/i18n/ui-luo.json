@@ -289,5 +289,9 @@
  "wa.package.1": "Misawa Nocoding, adwaro package mar Maduongʼ. Nyisa yo ma sudo.",
  "wa.article": "Misawa Nocoding, asesomo ndiko e websayt mau kendo adwaro wach kodu. Nyisa yo ma sudo.",
  "articles.toc": "Weche manie iye",
- "articles.readTime": "Dakika {n} mar somo"
+ "articles.readTime": "Dakika {n} mar somo",
+ "project.category.ineedsave": "Dhi-web mar yudo gik moa e social media",
+ "project.description.ineedsave": "Dhi-web ma ok nego chulo mar yudo video, picha, kod dwol moa e TikTok, Instagram, Facebook, X, kod platform mamoko. Ket link, yier kwalite, kendo ikan.",
+ "project.category.ineedbarcode": "Dhi-web mar chweyo barcode kod QR code",
+ "project.description.ineedbarcode": "Gir chweyo barcode kod QR code ma ok nego chulo, ma nigi kit barcode 100+. Jotiyo ketho data, loko design, kendo yudo PNG ma oikore mar ndiko."
 }

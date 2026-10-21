@@ -289,5 +289,9 @@
  "wa.package.1": "Kia ora Nocoding, e hiahia ana au ki te Kete Nui. Tēnā koa tukuna mai ngā mahi e whai ake nei.",
  "wa.article": "Kia ora Nocoding, i pānui au i tētahi tuhinga i tō pae tukutuku, ā, e hiahia ana au ki te whakawhiti kōrero. Tēnā koa tukuna mai ngā mahi e whai ake nei.",
  "articles.toc": "Rārangi Upoko",
- "articles.readTime": "{n} meneti pānui"
+ "articles.readTime": "{n} meneti pānui",
+ "project.category.ineedsave": "Paetukutuku tango ō pāpāho pāpori",
+ "project.description.ineedsave": "He paetukutuku koreutu hei tango i ngā ataata, ngā whakaahua me ngā oro mai i a TikTok, Instagram, Facebook, X me ētahi atu pūhara. Whakapiri i te hono, kōwhiri i te kounga, ā, tiaki.",
+ "project.category.ineedbarcode": "Paetukutuku waihanga waehere pae me te waehere QR",
+ "project.description.ineedbarcode": "He kaihanga waehere pae me te waehere QR koreutu me ngā momo waehere pae 100+. Ka whakauru ngā kaiwhakamahi i ngā raraunga, ka whakatika i te hoahoa, ā, ka tango i tētahi PNG kua rite mō te perehi."
 }

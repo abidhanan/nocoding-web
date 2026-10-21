@@ -289,5 +289,9 @@
  "wa.package.1": "Hei Nocoding, olen kiinnostunut Isosta paketista. Kertoisitteko seuraavat vaiheet.",
  "wa.article": "Hei Nocoding, luin artikkelin sivustoltanne ja haluaisin konsultaation. Kertoisitteko seuraavat vaiheet.",
  "articles.toc": "Sisällysluettelo",
- "articles.readTime": "{n} min lukuaika"
+ "articles.readTime": "{n} min lukuaika",
+ "project.category.ineedsave": "Sosiaalisen median lataussivusto",
+ "project.description.ineedsave": "Ilmainen verkkosivusto videoiden, kuvien ja äänen lataamiseen TikTok-, Instagram-, Facebook- ja X-palveluista sekä muilta alustoilta. Liitä linkki, valitse laatu ja tallenna.",
+ "project.category.ineedbarcode": "Viivakoodi- ja QR-koodigeneraattori",
+ "project.description.ineedbarcode": "Ilmainen viivakoodi- ja QR-koodigeneraattori, jossa on 100+ viivakoodityyppiä. Käyttäjät syöttävät tiedot, säätävät ulkoasua ja lataavat tulostusvalmiin PNG-tiedoston."
 }

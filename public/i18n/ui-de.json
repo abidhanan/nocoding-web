@@ -289,5 +289,9 @@
  "wa.package.1": "Hallo Nocoding, ich interessiere mich für das Paket Groß. Bitte teilt mir die nächsten Schritte mit.",
  "wa.article": "Hallo Nocoding, ich habe einen Artikel auf eurer Website gelesen und möchte mich beraten lassen. Bitte teilt mir die nächsten Schritte mit.",
  "articles.toc": "Inhaltsverzeichnis",
- "articles.readTime": "{n} Min. Lesezeit"
+ "articles.readTime": "{n} Min. Lesezeit",
+ "project.category.ineedsave": "Website zum Herunterladen von Social-Media-Inhalten",
+ "project.description.ineedsave": "Kostenlose Website zum Herunterladen von Videos, Fotos und Audio von TikTok, Instagram, Facebook, X und weiteren Plattformen. Link einfügen, Qualität wählen und speichern.",
+ "project.category.ineedbarcode": "Barcode- und QR-Code-Generator-Website",
+ "project.description.ineedbarcode": "Kostenloser Barcode- und QR-Code-Generator mit 100+ Barcode-Typen. Nutzer geben Daten ein, passen das Design an und laden ein druckfertiges PNG herunter."
 }

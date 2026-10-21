@@ -289,5 +289,9 @@
  "wa.package.1": "Nyob zoo Nocoding, kuv nyiam pob Loj. Thov qhia kuv cov kauj ruam tom ntej.",
  "wa.article": "Nyob zoo Nocoding, kuv nyeem ib tsab xov xwm ntawm koj lub vev xaib thiab xav sab laj. Thov qhia kuv cov kauj ruam tom ntej.",
  "articles.toc": "Cov ntsiab lus",
- "articles.readTime": "Nyeem {n} feeb"
+ "articles.readTime": "Nyeem {n} feeb",
+ "project.category.ineedsave": "Lub vev xaib rub tawm ntawm social media",
+ "project.description.ineedsave": "Lub vev xaib pub dawb rau rub video, duab, thiab suab los ntawm TikTok, Instagram, Facebook, X, thiab lwm lub platform. Muab txoj kab txuas tso rau, xaiv qhov zoo, ces khaws cia.",
+ "project.category.ineedbarcode": "Lub vev xaib tsim barcode thiab QR code",
+ "project.description.ineedbarcode": "Lub cuab yeej tsim barcode thiab QR code pub dawb uas muaj 100+ hom barcode. Cov neeg siv sau cov ntaub ntawv, kho qhov tsim, thiab rub PNG npaj luam tawm."
 }

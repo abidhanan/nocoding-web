@@ -289,5 +289,9 @@
  "wa.package.1": "Hej Nocoding, jag är intresserad av det stora paketet. Berätta gärna om nästa steg.",
  "wa.article": "Hej Nocoding, jag läste en artikel på er webbplats och skulle vilja ha rådgivning. Berätta gärna om nästa steg.",
  "articles.toc": "Innehållsförteckning",
- "articles.readTime": "{n} min läsning"
+ "articles.readTime": "{n} min läsning",
+ "project.category.ineedsave": "Webbplats för nedladdning från sociala medier",
+ "project.description.ineedsave": "Gratis webbplats för att ladda ner videor, bilder och ljud från TikTok, Instagram, Facebook, X och andra plattformar. Klistra in en länk, välj kvalitet och spara.",
+ "project.category.ineedbarcode": "Webbplats för streckkods- och QR-kodsgenerator",
+ "project.description.ineedbarcode": "Gratis streckkods- och QR-kodsgenerator med 100+ streckkodstyper. Användare anger data, justerar designen och laddar ner en utskriftsklar PNG."
 }

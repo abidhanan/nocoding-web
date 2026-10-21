@@ -289,5 +289,9 @@
  "wa.package.1": "Halo Nocoding, aku tertarik ras paket Mbelin. Tolong bagiken langkah selanjutna.",
  "wa.article": "Halo Nocoding, aku enggo mbaca artikel i website kam janah ngena konsultasi. Tolong bagiken langkah selanjutna.",
  "articles.toc": "Isi",
- "articles.readTime": "{n} menit bacaen"
+ "articles.readTime": "{n} menit bacaen",
+ "project.category.ineedsave": "Situs ngunduh media sosial",
+ "project.description.ineedsave": "Situs gratis ngunduh video, foto, ras audio i TikTok, Instagram, Facebook, X, ras platform si deban. Tempel tautan, pilih kualitas, jenari simpan.",
+ "project.category.ineedbarcode": "Situs pembuat barcode ras kode QR",
+ "project.description.ineedbarcode": "Pembuat barcode ras kode QR gratis ras 100+ jenis barcode. Si memakai ngisi data, ngubah desain, jenari ngunduh PNG si siap cetak."
 }

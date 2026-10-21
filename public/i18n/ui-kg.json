@@ -289,5 +289,9 @@
  "wa.package.1": "Mbote Nocoding, mono zola package ya Nene. Pesa mono bisalu ya landa.",
  "wa.article": "Mbote Nocoding, mono me tanga nkanda na site ya nge mpe zola lusadisu. Pesa mono bisalu ya landa.",
  "articles.toc": "Mambu ya Kibuku",
- "articles.readTime": "Miniti {n} ya kutanga"
+ "articles.readTime": "Miniti {n} ya kutanga",
+ "project.category.ineedsave": "Site ya kubaka bima na réseaux sociaux",
+ "project.description.ineedsave": "Site ya ntalu ve sambu na kubaka bavidéo, bafoto mpe audio na TikTok, Instagram, Facebook, X mpe bamwingi ya nkaka. Tula lien, pona kalité, mpe batika.",
+ "project.category.ineedbarcode": "Site ya kusala barcode mpe QR code",
+ "project.description.ineedbarcode": "Mbongisi ya barcode mpe QR code ya ntalu ve, ya kele ti bampusa ya barcode 100+. Bantu ya kusadila yo me tulaka bansangu, me bongisaka design mpe me bakaka PNG ya me lunga sambu na kupima."
 }

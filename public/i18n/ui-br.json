@@ -289,5 +289,9 @@
  "wa.package.1": "Demat Nocoding, dedennet on gant ar pakad Bras. Mar plij, lâret din an derezioù da heul.",
  "wa.article": "Demat Nocoding, lennet am eus ur pennad war ho lec'hienn web ha c'hoant am eus da c'houlenn kuzul. Mar plij, lâret din an derezioù da heul.",
  "articles.toc": "Taolenn",
- "articles.readTime": "{n} munutenn lenn"
+ "articles.readTime": "{n} munutenn lenn",
+ "project.category.ineedsave": "Lec'hienn pellgargañ rouedadoù sokial",
+ "project.description.ineedsave": "Lec'hienn digoust evit pellgargañ videoioù, luc'hskeudennoù ha son diwar TikTok, Instagram, Facebook, X ha savennoù all. Pegit ul liamm, dibabit ar c'hwalite ha enrollit.",
+ "project.category.ineedbarcode": "Lec'hienn genroiñ barrkodoù ha kodoù QR",
+ "project.description.ineedbarcode": "Genroer digoust a varrkodoù ha kodoù QR gant 100+ doare barrkod. An implijerien a enskriv roadennoù, a cheñch an design hag a bellgarg ur PNG prest da voullañ."
 }

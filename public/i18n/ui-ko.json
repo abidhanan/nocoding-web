@@ -289,5 +289,9 @@
  "wa.package.1": "안녕하세요 Nocoding, 빅 패키지에 관심이 있습니다. 다음 단계를 안내해 주세요.",
  "wa.article": "안녕하세요 Nocoding, 웹사이트에서 아티클을 읽고 상담을 받고 싶습니다. 다음 단계를 안내해 주세요.",
  "articles.toc": "목차",
- "articles.readTime": "{n}분 읽기"
+ "articles.readTime": "{n}분 읽기",
+ "project.category.ineedsave": "소셜 미디어 다운로더 웹사이트",
+ "project.description.ineedsave": "TikTok, Instagram, Facebook, X 등 여러 플랫폼의 동영상, 사진, 오디오를 내려받는 무료 웹사이트입니다. 링크를 붙여넣고 화질을 선택해 저장하세요.",
+ "project.category.ineedbarcode": "바코드 및 QR 코드 생성 웹사이트",
+ "project.description.ineedbarcode": "100+가지 바코드 유형을 지원하는 무료 바코드 및 QR 코드 생성기입니다. 데이터를 입력하고 디자인을 조정한 뒤 인쇄용 PNG를 다운로드하세요."
 }

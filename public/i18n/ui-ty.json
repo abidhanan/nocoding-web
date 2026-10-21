@@ -289,5 +289,9 @@
  "wa.package.1": "Ia ora na Nocoding, te hinaaro nei au i te Pūʻohu Rahi. Parau mai i te mau ʻaʻano i muri mai.",
  "wa.article": "Ia ora na Nocoding, ua taioʻ au i te hoê tumu parau i tā ʻoutou tahua e e hinaaro vau i te hoê aparaʻa. Parau mai i te mau ʻaʻano i muri mai.",
  "articles.toc": "Tāpura parau",
- "articles.readTime": "{n} minuti pāpai"
+ "articles.readTime": "{n} minuti pāpai",
+ "project.category.ineedsave": "Web no te download i te media totiale",
+ "project.description.ineedsave": "Web ʻōmaha ʻore no te download i te mau video, hōhoʻa e te reo mai te TikTok, Instagram, Facebook, X e te tahi atu mau platform. Tāpiri i te link, maʻiti i te quality, e tāpaʻo.",
+ "project.category.ineedbarcode": "Web no te hāmani i te barcode e te QR code",
+ "project.description.ineedbarcode": "Hāmani barcode e QR code ʻōmaha ʻore, e 100+ huru barcode. E haʻaputu te mau taʻata faʻaʻohipa i te data, e faʻahuru i te hoʻohoʻa, e download i te PNG ʻia au i te taʻi."
 }

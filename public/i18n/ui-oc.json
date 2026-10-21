@@ -289,5 +289,9 @@
  "wa.package.1": "Bonjorn Nocoding, m'interèssa l'ofèrta Granda. Mercé de me comunicar las etapas seguentas.",
  "wa.article": "Bonjorn Nocoding, ai legit un article sus vòstre sit web e volriái far una consulta. Mercé de me comunicar las etapas seguentas.",
  "articles.toc": "Sommari",
- "articles.readTime": "{n} min de lectura"
+ "articles.readTime": "{n} min de lectura",
+ "project.category.ineedsave": "Site per telecargar dels rets socials",
+ "project.description.ineedsave": "Site gratuit per telecargar vidèos, fotos e àudio de TikTok, Instagram, Facebook, X e d'autras plataformas. Pegatz un ligam, causissètz la qualitat e salvatz.",
+ "project.category.ineedbarcode": "Site generador de còdis de barras e QR",
+ "project.description.ineedbarcode": "Generador gratuit de còdis de barras e de còdis QR amb 100+ tipes de còdis de barras. Los utilizaires pican las donadas, ajustan lo design e telecargan un PNG pronte per l'impression."
 }

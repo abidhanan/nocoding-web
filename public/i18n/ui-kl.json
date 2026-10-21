@@ -289,5 +289,9 @@
  "wa.package.1": "Aluu Nocoding, pakke angisoq soqutigaara. Kingorna iliuusissat nassiutigitigut.",
  "wa.article": "Aluu Nocoding, nittartakkiinni allaaserisaq atuarpara siunnersuuteqarusullunga. Kingorna iliuusissat nassiutigitigut.",
  "articles.toc": "Imarisai",
- "articles.readTime": "{n} minutsit atuaqqissaarneq"
+ "articles.readTime": "{n} minutsit atuaqqissaarneq",
+ "project.category.ineedsave": "Social media-mit download-iniarnermut nittartagaq",
+ "project.description.ineedsave": "TikTok, Instagram, Facebook, X assigiinngitsunillu platform-init video-t, assit alapernaarsuutillu download-iniarnermut akeqanngitsoq nittartagaq. Link-i ilanngullugu, qulakkeerneq toqqaruk, toqqortarlu.",
+ "project.category.ineedbarcode": "Barcode-t QR code-llu pilersitsiviusumut nittartagaq",
+ "project.description.ineedbarcode": "Barcode-t QR code-llu pilersitsisoq akeqanngitsoq, barcode-t suussusii 100+ ilaqartitsisoq. Atuisut data-t ilanngussapput, ittuuneq allanngortittarlugu PNG-ilu naqiterniarnermut piareersimasoq download-iuarlugu."
 }

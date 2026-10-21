@@ -289,5 +289,9 @@
  "wa.package.1": "Saluton Nocoding, mi interesiĝas pri la Granda pako. Bonvolu diri la sekvajn paŝojn.",
  "wa.article": "Saluton Nocoding, mi legis artikolon en via retejo kaj ŝatus konsulton. Bonvolu diri la sekvajn paŝojn.",
  "articles.toc": "Enhavo",
- "articles.readTime": "{n} min. legado"
+ "articles.readTime": "{n} min. legado",
+ "project.category.ineedsave": "Retejo por elŝuti el sociaj retoj",
+ "project.description.ineedsave": "Senpaga retejo por elŝuti videojn, fotojn kaj sonon el TikTok, Instagram, Facebook, X kaj aliaj platformoj. Algluu ligilon, elektu la kvaliton kaj konservu.",
+ "project.category.ineedbarcode": "Retejo por krei strekkodojn kaj QR-kodojn",
+ "project.description.ineedbarcode": "Senpaga generilo de strekkodoj kaj QR-kodoj kun 100+ specoj de strekkodoj. Uzantoj enigas datumojn, ĝustigas la dezajnon kaj elŝutas presprete pretan PNG."
 }

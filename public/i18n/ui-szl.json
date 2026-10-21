@@ -289,5 +289,9 @@
  "wa.package.1": "Dobry dziyń Nocoding, interesuje mie paket Big. Prosza ô nastympne kroki.",
  "wa.article": "Dobry dziyń Nocoding, przeczytołech artykuł na wasyj strōnie i chciołbych porady. Prosza ô nastympne kroki.",
  "articles.toc": "Spis treści",
- "articles.readTime": "{n} min czytanio"
+ "articles.readTime": "{n} min czytanio",
+ "project.category.ineedsave": "Strōna do ściōganiŏ ze społecznych medyjōw",
+ "project.description.ineedsave": "Darmowŏ strōna do ściōganiŏ filmōw, fotek i dźwiyku ze TikTok, Instagram, Facebook, X i inkszych platformōw. Wciep link, wybier jakość i zapisz.",
+ "project.category.ineedbarcode": "Strōna do robiynia kodōw paskowych i QR",
+ "project.description.ineedbarcode": "Darmowy generatōr kodōw paskowych i QR ze 100+ zortami kodōw paskowych. Używŏcze wpisujōm dane, ustawiajōm wyglōnd i ściōgajōm PNG gotowy do ôdruku."
 }

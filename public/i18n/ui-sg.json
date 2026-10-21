@@ -289,5 +289,9 @@
  "wa.package.1": "Bara ala Nocoding, mbi ye pakê Kota. Sïngö na mbi âlêgë tî pekoni.",
  "wa.article": "Bara ala Nocoding, mbi diko mbeni ätïkle na sît tî ala na mbi ye tî sara konsiltasiö. Sïngö na mbi âlêgë tî pekoni.",
  "articles.toc": "Tënë ti kodoro",
- "articles.readTime": "{n} minüti ti diko"
+ "articles.readTime": "{n} minüti ti diko",
+ "project.category.ineedsave": "Sit ti télécharger na ya ti réseau social",
+ "project.description.ineedsave": "Sit gratuit ti télécharger vidéo, foto na son ti TikTok, Instagram, Facebook, X na ambeni plateforme. Pose lien, sorï kalité, na bata ni.",
+ "project.category.ineedbarcode": "Sit ti sara barcode na QR code",
+ "project.description.ineedbarcode": "Générateur gratuit ti barcode na QR code, so ayeke na aga ti barcode 100+. Azo so asara ye na ni abâ ndö ti data, asâra design nga atélécharger PNG so ayeke prêt ti imprimer."
 }

@@ -289,5 +289,9 @@
  "wa.package.1": "Talofa Nocoding, ou te fiafia i le pakete Tele. Faamolemole ia fesoasoani mai i laasaga e sosoo ai.",
  "wa.article": "Talofa Nocoding, na ou faitau se tusitusiga i lau uepisaite ma ou te manaʻo e talanoa. Faamolemole ia fesoasoani mai i laasaga e sosoo ai.",
  "articles.toc": "Ripoti o mataupu",
- "articles.readTime": "{n} minute e faitau ai"
+ "articles.readTime": "{n} minute e faitau ai",
+ "project.category.ineedsave": "Upega tafa'ilagi mo le download mai media lautele",
+ "project.description.ineedsave": "Upega tafa'ilagi e leai se totogi mo le download o ata vitio, ata, ma leo mai TikTok, Instagram, Facebook, X, ma isi fa'avae. Fa'apipi'i se So'oga, filifili le tulaga lelei, ona teu lea.",
+ "project.category.ineedbarcode": "Upega tafa'ilagi e fau ai barcode ma QR code",
+ "project.description.ineedbarcode": "Se mea e fau ai barcode ma QR code e leai se totogi, e 100+ ituaiga barcode. E fa'aogaina e tagata fa'aoga fa'amatalaga, fetuuna'i le mamanu, ma download se PNG ua sauni mo le lomiga."
 }

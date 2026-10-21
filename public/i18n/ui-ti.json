@@ -289,5 +289,9 @@
  "wa.package.1": "ሰላም Nocoding፡ ኣብ ዓቢ ፓኬጅ ተገዲሰ። በጃኹም ዝቕጽሉ ስጉምትታት ኣካፍሉኒ።",
  "wa.article": "ሰላም Nocoding፡ ኣብ መርበብ ሓበሬታኹም ሓንቲ ጽሑፍ ኣንቢበ፡ ምኽሪ ክረክብ እደሊ። በጃኹም ዝቕጽሉ ስጉምትታት ኣካፍሉኒ።",
  "articles.toc": "ትሕዝቶ",
- "articles.readTime": "{n} ደቒቕ ንባብ"
+ "articles.readTime": "{n} ደቒቕ ንባብ",
+ "project.category.ineedsave": "ናይ ማሕበራዊ ሚድያ ምውራድ መርበብ ሓበሬታ",
+ "project.description.ineedsave": "ካብ TikTok፣ Instagram፣ Facebook፣ X ከምኡ'ውን ካልኦት ፕላትፎርማት ቪድዮ፣ ፎቶን ድምጽን ንምውራድ ብነጻ ዝቐርብ መርበብ ሓበሬታ። ሊንክ ለጥፉ፣ ጥራት ሕረዩ እሞ ዓቅብዎ።",
+ "project.category.ineedbarcode": "ናይ ባርኮድን QR ኮድን መፍጠሪ መርበብ ሓበሬታ",
+ "project.description.ineedbarcode": "ዝተፈላለዩ 100+ ዓይነታት ባርኮድ ዘለዎ ብነጻ ዝቐርብ ናይ ባርኮድን QR ኮድን መፍጠሪ። ተጠቀምቲ ዳታ የእቱዉ፣ ዲዛይን የዕለቡ፣ ንሕትመት ድሉው PNG ድማ የውርዱ።"
 }

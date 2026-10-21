@@ -289,5 +289,9 @@
  "wa.package.1": "Assalomu alaykum, Nocoding! Menga Katta paket qiziq. Iltimos, keyingi qadamlarni yozing.",
  "wa.article": "Assalomu alaykum, Nocoding! Saytingizdagi maqolani oʻqidim va maslahat olmoqchiman. Iltimos, keyingi qadamlarni yozing.",
  "articles.toc": "Mundarija",
- "articles.readTime": "{n} daqiqalik o‘qish"
+ "articles.readTime": "{n} daqiqalik o‘qish",
+ "project.category.ineedsave": "Ijtimoiy tarmoqlardan yuklab olish sayti",
+ "project.description.ineedsave": "TikTok, Instagram, Facebook, X va boshqa platformalardan video, foto va audio yuklab olish uchun bepul sayt. Havolani joylang, sifatni tanlang va saqlang.",
+ "project.category.ineedbarcode": "Shtrix-kod va QR kod generatori sayti",
+ "project.description.ineedbarcode": "100+ turdagi shtrix-kodli bepul shtrix-kod va QR kod generatori. Foydalanuvchilar ma'lumot kiritadi, dizaynni sozlaydi va chop etishga tayyor PNG yuklab oladi."
 }

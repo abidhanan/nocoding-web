@@ -289,5 +289,9 @@
  "wa.package.1": "Halo Nocoding, aye tertarik ame Paket Gede. Tolong kasih tau langkah berikutnye ye.",
  "wa.article": "Halo Nocoding, aye baca artikel di website ini ame pengen konsultasi. Tolong kasih tau langkah berikutnye ye.",
  "articles.toc": "Isi",
- "articles.readTime": "{n} menit bacaan"
+ "articles.readTime": "{n} menit bacaan",
+ "project.category.ineedsave": "Situs pengunduh medsos",
+ "project.description.ineedsave": "Situs gratis buat ngunduh video, foto, ama audio dari TikTok, Instagram, Facebook, X, ama platform laennye. Tempel link, pilih kualitas, terus simpen.",
+ "project.category.ineedbarcode": "Situs pembuat barcode & kode QR",
+ "project.description.ineedbarcode": "Pembuat barcode ama kode QR gratis dengan 100+ jenis barcode. Pengguna masukin data, atur desain, terus unduh PNG yang siap dicetak."
 }

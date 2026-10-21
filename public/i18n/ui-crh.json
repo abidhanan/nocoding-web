@@ -289,5 +289,9 @@
  "wa.package.1": "Merhaba Nocoding, Büyük paket meni qızıqtıra. Lütfen soñraki adımlarnı bildiriñiz.",
  "wa.article": "Merhaba Nocoding, saytıñızda bir maqale oqudım ve maslahat almaq isteyim. Lütfen soñraki adımlarnı bildiriñiz.",
  "articles.toc": "Münderice",
- "articles.readTime": "{n} daqqa oqumaq"
+ "articles.readTime": "{n} daqqa oqumaq",
+ "project.category.ineedsave": "Içtimaiy medya yükleme saytı",
+ "project.description.ineedsave": "TikTok, Instagram, Facebook, X ve diger platformalardan video, fotoğraf ve ses yüklemek içün parasız sayt. Baglantını yapıştırıñız, keyfiyetni saylañız ve saqlañız.",
+ "project.category.ineedbarcode": "Barkod ve QR kod yaratıcı saytı",
+ "project.description.ineedbarcode": "100+ barkod türü olğan parasız barkod ve QR kod yaratıcı. Qullanıcılar malümat kirsete, dizaynnı tüzete ve basmağa azır PNG yükleyler."
 }

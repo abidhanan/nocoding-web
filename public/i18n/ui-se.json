@@ -289,5 +289,9 @@
  "wa.package.1": "Buorre beaivvi Nocoding, mun beroštan Stuorra paheahkas. Sáddet mu boahtte lávkkiid.",
  "wa.article": "Buorre beaivvi Nocoding, mun lohken artihkkala din neahttabáikkis ja háliidan ráđđádallat. Sáddet mu boahtte lávkkiid.",
  "articles.toc": "Sisdoallu",
- "articles.readTime": "{n} minuhta lohkan"
+ "articles.readTime": "{n} minuhta lohkan",
+ "project.category.ineedsave": "Sosiála media viežžanfierpmádat",
+ "project.description.ineedsave": "Friddja fierpmádatsiidu videoid, govaid ja jietnadiid viežžat TikTok, Instagram, Facebook, X ja eará plattforpmain. Čadnet liŋka, vállje kvalitehta ja vurke.",
+ "project.category.ineedbarcode": "Barkoda- ja QR-koda dahkanfierpmádat",
+ "project.description.ineedbarcode": "Friddja barkoda- ja QR-kodageneráhtor mas leat 100+ barkodašlájat. Geavaheaddjit čálligohtet dieđuid, heivehit hápmema ja viežžet PNG-fiilla mii lea gárvvis deaddilit."
 }

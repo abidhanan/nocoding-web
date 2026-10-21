@@ -289,5 +289,9 @@
  "wa.package.1": "Kumusta Nocoding, interesadoak iti Big a pakete. Pangngaasi, ibagayo kaniak dagiti sumaruno nga addang.",
  "wa.article": "Kumusta Nocoding, nabasak ti maysa nga artikulo iti website yo ket kayatko ti agkonsulta. Pangngaasi, ibagayo kaniak dagiti sumaruno nga addang.",
  "articles.toc": "Listaan ti Linaon",
- "articles.readTime": "{n} a minuto a basaen"
+ "articles.readTime": "{n} a minuto a basaen",
+ "project.category.ineedsave": "Website a pagida-download manipud iti social media",
+ "project.description.ineedsave": "Libre a website a pagida-download kadagiti video, ladawan, ken audio manipud iti TikTok, Instagram, Facebook, X, ken sabsabali pay a platform. I-paste ti link, piliem ti kalidad, ken i-save.",
+ "project.category.ineedbarcode": "Website a mangaramid iti barcode ken QR code",
+ "project.description.ineedbarcode": "Libre a barcode ken QR code generator nga addaan iti 100+ a kita ti barcode. Mangikabil dagiti agar-aramat iti data, ibaliwda ti disenio, ken i-downloadda ti PNG a nakaisagana nga i-print."
 }

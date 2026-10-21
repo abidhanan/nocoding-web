@@ -289,5 +289,9 @@
  "wa.package.1": "Üdv, Nocoding! Érdekel a Nagy csomag. Kérlek, írjátok meg a következő lépéseket.",
  "wa.article": "Üdv, Nocoding! Olvastam egy cikket a weboldalatokon, és szeretnék konzultálni. Kérlek, írjátok meg a következő lépéseket.",
  "articles.toc": "Tartalomjegyzék",
- "articles.readTime": "{n} perc olvasás"
+ "articles.readTime": "{n} perc olvasás",
+ "project.category.ineedsave": "Közösségi média letöltő weboldal",
+ "project.description.ineedsave": "Ingyenes weboldal videók, fotók és hanganyagok letöltéséhez TikTok, Instagram, Facebook, X és más platformokról. Illessz be egy linket, válaszd ki a minőséget, és mentsd el.",
+ "project.category.ineedbarcode": "Vonalkód- és QR-kód-generátor weboldal",
+ "project.description.ineedbarcode": "Ingyenes vonalkód- és QR-kód-generátor 100+ vonalkódtípussal. A felhasználók megadják az adatokat, beállítják a dizájnt, és letöltenek egy nyomtatásra kész PNG-t."
 }

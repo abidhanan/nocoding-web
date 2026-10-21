@@ -289,5 +289,9 @@
  "wa.package.1": "Om Swastyastu Nocoding, titiang kataki ring paket Ageng. Mangda katuntun ring langkah sané lanturan.",
  "wa.article": "Om Swastyastu Nocoding, titiang sampun maca artikel ring website Nocoding lan jagi konsultasi. Mangda katuntun ring langkah sané lanturan.",
  "articles.toc": "Isi",
- "articles.readTime": "{n} menit mabaca"
+ "articles.readTime": "{n} menit mabaca",
+ "project.category.ineedsave": "Situs pangunduh media sosial",
+ "project.description.ineedsave": "Situs gratis anggén ngunduh video, foto, miwah audio saking TikTok, Instagram, Facebook, X, miwah platform lianan. Tempélang tautan, pilih kualitas, laut simpen.",
+ "project.category.ineedbarcode": "Situs pangwangun barcode miwah kode QR",
+ "project.description.ineedbarcode": "Pangwangun barcode miwah kode QR gratis sane madaging 100+ soroh barcode. Sane nganggén ngisi data, ngowahin desain, miwah ngunduh PNG sane sampun siap cetak."
 }

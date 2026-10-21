@@ -289,5 +289,9 @@
  "wa.package.1": "Mhoro Nocoding, ndinofarira pakeji Guru. Ndapota ndiudzei matanho anotevera.",
  "wa.article": "Mhoro Nocoding, ndaverenga chinyorwa pawebsite yenyu uye ndinoda kurukurirana. Ndapota ndiudzei matanho anotevera.",
  "articles.toc": "Zviri mukati",
- "articles.readTime": "Maminetsi {n}ekuverenga"
+ "articles.readTime": "Maminetsi {n}ekuverenga",
+ "project.category.ineedsave": "Webhusaiti yekudownloada kubva pamasocial media",
+ "project.description.ineedsave": "Webhusaiti yemahara yekudownloada mavhidhiyo, mifananidzo, nenzwi kubva paTikTok, Instagram, Facebook, X, nedzimwe nzvimbo. Namira link, sarudza mhando, wozochengeta.",
+ "project.category.ineedbarcode": "Webhusaiti yekugadzira barcode neQR code",
+ "project.description.ineedbarcode": "Chishandiso chemahara chekugadzira barcode neQR code chine marudzi eBarcode 100+. Vashandisi vanoisa data, vanochinja dhizaini, uye vanodownloada PNG yakagadzirira kudhindwa."
 }

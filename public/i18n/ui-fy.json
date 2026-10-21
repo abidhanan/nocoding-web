@@ -289,5 +289,9 @@
  "wa.package.1": "Hallo Nocoding, ik haw belangstelling foar it Grutte pakket. Litte jo my de folgjende stappen witte?",
  "wa.article": "Hallo Nocoding, ik haw in artikel op jo webside lêzen en wol graach advys. Litte jo my de folgjende stappen witte?",
  "articles.toc": "Ynhâldsopjefte",
- "articles.readTime": "{n} min lêstiid"
+ "articles.readTime": "{n} min lêstiid",
+ "project.category.ineedsave": "Webside foar it delhelje fan sosjale media",
+ "project.description.ineedsave": "Fergese webside om fideo's, foto's en audio fan TikTok, Instagram, Facebook, X en oare platfoarms del te heljen. Plak in keppeling, kies de kwaliteit en bewarje.",
+ "project.category.ineedbarcode": "Webside foar strekkoade- en QR-koadegenerator",
+ "project.description.ineedbarcode": "Fergese strekkoade- en QR-koadegenerator mei 100+ strekkoadetypen. Brûkers fiere gegevens yn, passe it ûntwerp oan en helje in printklear PNG del."
 }

@@ -289,5 +289,9 @@
  "wa.package.1": "Helo Nocoding, mae gen i ddiddordeb yn y Pecyn mawr. Anfonwch y camau nesaf, os gwelwch yn dda.",
  "wa.article": "Helo Nocoding, darllenais erthygl ar eich gwefan a hoffwn gael ymgynghoriad. Anfonwch y camau nesaf, os gwelwch yn dda.",
  "articles.toc": "Cynnwys",
- "articles.readTime": "{n} munud o ddarllen"
+ "articles.readTime": "{n} munud o ddarllen",
+ "project.category.ineedsave": "Gwefan i lawrlwytho o gyfryngau cymdeithasol",
+ "project.description.ineedsave": "Gwefan am ddim i lawrlwytho fideos, lluniau a sain o TikTok, Instagram, Facebook, X a llwyfannau eraill. Gludwch ddolen, dewiswch yr ansawdd a chadwch.",
+ "project.category.ineedbarcode": "Gwefan cynhyrchu codau bar a chodau QR",
+ "project.description.ineedbarcode": "Cynhyrchydd codau bar a chodau QR am ddim gyda 100+ math o god bar. Mae defnyddwyr yn rhoi data i mewn, yn addasu'r dyluniad ac yn lawrlwytho PNG sy'n barod i'w argraffu."
 }

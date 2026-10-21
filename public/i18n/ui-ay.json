@@ -289,5 +289,9 @@
  "wa.package.1": "Aski uru Nocoding, nayax Jach'a paquete munta. Mayiwa, qhipa lurañanak yatiyita.",
  "wa.article": "Aski uru Nocoding, nayax web utaman mä qillqata liyta ukat jiskt'asiñ munta. Mayiwa, qhipa lurañanak yatiyita.",
  "articles.toc": "Kuntiñ uñachtʼäwi",
- "articles.readTime": "{n} minuto liyiña"
+ "articles.readTime": "{n} minuto liyiña",
+ "project.category.ineedsave": "Redes sociales apsuñataki web uta",
+ "project.description.ineedsave": "TikTok, Instagram, Facebook, X ukat yaqha lurañanakat video, foto ukat audio apsuñataki jan qullqiniwa web uta. Link ch'ukt'ayam, kalidad ajlliñamawa ukat imañamawa.",
+ "project.category.ineedbarcode": "Barcode ukat QR code luraña web uta",
+ "project.description.ineedbarcode": "Jan qullqini barcode ukat QR code luraña, 100+ barcode laya ukanakampi. Apnaqirinakax datos uchapxi, diseño mayjt'ayapxi ukat imprimiñatakix wakicht'at PNG apsupxi."
 }

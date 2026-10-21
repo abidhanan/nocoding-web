@@ -289,5 +289,9 @@
  "wa.package.1": "Bongiorno Nocoding, me interessa o paccheto Big. Dîme pe piaxei i passi apreuvo.",
  "wa.article": "Bongiorno Nocoding, ò lêto un articolo in sciô vostro scito e vorriæ unna consulensa. Dîme pe piaxei i passi apreuvo.",
  "articles.toc": "Indixe",
- "articles.readTime": "{n} min de letua"
+ "articles.readTime": "{n} min de letua",
+ "project.category.ineedsave": "Sito pe descaregâ di social media",
+ "project.description.ineedsave": "Sito web gratuito pe descaregâ video, foto e audio da TikTok, Instagram, Facebook, X e atre piataforme. Incolla un ligamme, sceggi a qualitæ e sarva.",
+ "project.category.ineedbarcode": "Sito generatô de còdixi a barre e QR",
+ "project.description.ineedbarcode": "Generatô gratuito de còdixi a barre e còdixi QR con 100+ tipi de còdixi a barre. Chi o deuvia o mette i dæti, o regola o disegno e o descarega un PNG pronto pe a stampa."
 }

@@ -289,5 +289,9 @@
  "wa.package.1": "Bula Nocoding, au taleitaka na Pakete Levu. Tukuna mai na yavu e tarava.",
  "wa.article": "Bula Nocoding, au wilika e dua na tukutuku ena nomuni wepsaiti ka gadreva me veivosaki. Tukuna mai na yavu e tarava.",
  "articles.toc": "Na Ulutaga",
- "articles.readTime": "{n} na miniti ni wilivola"
+ "articles.readTime": "{n} na miniti ni wilivola",
+ "project.category.ineedsave": "Website ni download mai na social media",
+ "project.description.ineedsave": "Website sega ni saumi me download video, itaba, kei na rorogo mai na TikTok, Instagram, Facebook, X, kei na so tale na platform. Paste na link, digitaka na quality, ka maroroya.",
+ "project.category.ineedbarcode": "Website ni qaravi na barcode kei na QR code",
+ "project.description.ineedbarcode": "Generator ni barcode kei na QR code sega ni saumi, e tiko kina na barcode 100+ na kena ivakarau. Era na vola na data na dau vakayagataka, veisautaka na design, ka download na PNG sa rawa ni printed."
 }

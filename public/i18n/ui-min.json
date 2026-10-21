@@ -289,5 +289,9 @@
  "wa.package.1": "Halo Nocoding, ambo tatarik jo Paket Gadang. Tolong agiahkan langkah salanjuiknyo.",
  "wa.article": "Halo Nocoding, ambo lah mambaco artikel di website kalian jo handak bakonsultasi. Tolong agiahkan langkah salanjuiknyo.",
  "articles.toc": "Daftar Isi",
- "articles.readTime": "{n} minik bacaan"
+ "articles.readTime": "{n} minik bacaan",
+ "project.category.ineedsave": "Situs pangunduah media sosial",
+ "project.description.ineedsave": "Situs gratih untuak maunduah video, foto, jo audio dari TikTok, Instagram, Facebook, X, jo platform lainnyo. Tampel tautan, pilih kualitas, lalu simpan.",
+ "project.category.ineedbarcode": "Situs pambuek barcode jo kode QR",
+ "project.description.ineedbarcode": "Pambuek barcode jo kode QR gratih jo 100+ jenis barcode. Pangguno maisi data, maatur desain, jo maunduah PNG nan sadio dicetak."
 }

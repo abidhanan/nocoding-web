@@ -289,5 +289,9 @@
  "wa.package.1": "Mwawonani Nocoding, nkhukonda Phukusi Likuru. Chonde tiuzgeni vyakuchita vyakuzira.",
  "wa.article": "Mwawonani Nocoding, naŵerenga nkhani pa webusayiti yinu ndipo nkhukhumba kuphalirana. Chonde tiuzgeni vyakuchita vyakuzira.",
  "articles.toc": "Vyali mukati",
- "articles.readTime": "Maminiti {n} ghakuŵerenga"
+ "articles.readTime": "Maminiti {n} ghakuŵerenga",
+ "project.category.ineedsave": "Webusayiti yakukopa ivyakuchokera ku social media",
+ "project.description.ineedsave": "Webusayiti ya waka yakukopa mavidiyo, vithunzi, na audio kufuma ku TikTok, Instagram, Facebook, X, na malo ghanyake. Ikani link, sankhani khalidwe, ndipo musunge.",
+ "project.category.ineedbarcode": "Webusayiti yakupanga barcode na QR code",
+ "project.description.ineedbarcode": "Chipangizo cha waka chakupanga barcode na QR code chakuŵa na mitundu ya barcode 100+. Ŵakugwiriska ntchito ŵakuŵika data, kusintha dizayini, na kukopa PNG yakukonzeka kusindikizga."
 }

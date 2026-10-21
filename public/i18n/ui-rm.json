@@ -289,5 +289,9 @@
  "wa.package.1": "Allegra Nocoding, jau sun interessà dal pachet Grond. Per plaschair, communitgai a mai ils proxims pass.",
  "wa.article": "Allegra Nocoding, jau hai legì in artitgel sin voss website e less ma laschar cussegliar. Per plaschair, communitgai a mai ils proxims pass.",
  "articles.toc": "Cuntegn",
- "articles.readTime": "{n} min lectura"
+ "articles.readTime": "{n} min lectura",
+ "project.category.ineedsave": "Pagina web per telechargiar da las medias socialas",
+ "project.description.ineedsave": "Pagina web gratuita per telechargiar videos, fotografias ed audio da TikTok, Instagram, Facebook, X ed autras plattafurmas. Encollar ina colliaziun, tscherner la qualitad e memorisar.",
+ "project.category.ineedbarcode": "Pagina web per generar codes da trais e codes QR",
+ "project.description.ineedbarcode": "Generatur gratuit da codes da trais e codes QR cun 100+ tips da codes da trais. Ils utilisaders endatan datas, adattan il design e telechargian in PNG pront per stampar."
 }

@@ -289,5 +289,9 @@
  "wa.package.1": "Salutamu Nocoding, mi nteressa u Pacchettu granni. Pi favuri dicitimi i passi succissivi.",
  "wa.article": "Salutamu Nocoding, liggivi n'articulu supra u vostru situ e vulissi na cunsulenza. Pi favuri dicitimi i passi succissivi.",
  "articles.toc": "Innici",
- "articles.readTime": "{n} min di littura"
+ "articles.readTime": "{n} min di littura",
+ "project.category.ineedsave": "Situ pi scarricari di li social media",
+ "project.description.ineedsave": "Situ web gratisi pi scarricari video, foto e audio di TikTok, Instagram, Facebook, X e àutri chiattaformi. Ncolla nu link, scegghi a qualità e sarva.",
+ "project.category.ineedbarcode": "Situ pi fari codici a barri e QR",
+ "project.description.ineedbarcode": "Generaturi gratisi di codici a barri e codici QR cu 100+ tipi di codici a barri. L'utenti nzèrinu i dati, rigulanu u disignu e scàrricanu nu PNG prontu pi la stampa."
 }

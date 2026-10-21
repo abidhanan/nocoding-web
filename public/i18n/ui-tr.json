@@ -289,5 +289,9 @@
  "wa.package.1": "Merhaba Nocoding, Büyük paketle ilgileniyorum. Lütfen sonraki adımları paylaşır mısınız?",
  "wa.article": "Merhaba Nocoding, web sitenizde bir makale okudum ve danışmanlık almak istiyorum. Lütfen sonraki adımları paylaşır mısınız?",
  "articles.toc": "İçindekiler",
- "articles.readTime": "{n} dk okuma"
+ "articles.readTime": "{n} dk okuma",
+ "project.category.ineedsave": "Sosyal medya indirme sitesi",
+ "project.description.ineedsave": "TikTok, Instagram, Facebook, X ve diğer platformlardan video, fotoğraf ve ses indirmek için ücretsiz web sitesi. Bağlantıyı yapıştırın, kaliteyi seçin ve kaydedin.",
+ "project.category.ineedbarcode": "Barkod ve QR kod oluşturucu sitesi",
+ "project.description.ineedbarcode": "100+ barkod türü sunan ücretsiz barkod ve QR kod oluşturucu. Kullanıcılar verileri girer, tasarımı düzenler ve baskıya hazır PNG indirir."
 }

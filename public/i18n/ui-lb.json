@@ -289,5 +289,9 @@
  "wa.package.1": "Moien Nocoding, ech interesséieren mech fir d'Paket „Grouss“. Schéckt mir w.e.g. déi nächst Schrëtt.",
  "wa.article": "Moien Nocoding, ech hunn en Artikel op Ärer Websäit gelies an hätt gär eng Berodung. Schéckt mir w.e.g. déi nächst Schrëtt.",
  "articles.toc": "Inhaltsverzeechnes",
- "articles.readTime": "{n} Min. Lieszäit"
+ "articles.readTime": "{n} Min. Lieszäit",
+ "project.category.ineedsave": "Websäit fir Downloads vu sozialen Medien",
+ "project.description.ineedsave": "Gratis Websäit fir Videoen, Fotoen an Audio vun TikTok, Instagram, Facebook, X an aneren Plattformen erofzelueden. Setzt e Link an, wielt d'Qualitéit aus a späichert.",
+ "project.category.ineedbarcode": "Websäit fir Barcode- a QR-Code-Generator",
+ "project.description.ineedbarcode": "Gratis Barcode- a QR-Code-Generator mat 100+ Barcode-Typen. D'Benotzer ginn Daten an, passen den Design un an luede e PNG erof, dat prett ass fir den Dréck."
 }

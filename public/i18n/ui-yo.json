@@ -289,5 +289,9 @@
  "wa.package.1": "Ẹ kú iṣẹ́ Nocoding, mo nífẹ̀ẹ́ sí Àpò Ńlá. Jọ̀wọ́ ẹ sọ àwọn ìgbésẹ̀ tó kàn fún mi.",
  "wa.article": "Ẹ kú iṣẹ́ Nocoding, mo ka àpilẹ̀kọ kan lórí ojú-òpó wẹ́ẹ̀bù yín, mo sì fẹ́ gba ìgbìmọ̀ràn. Jọ̀wọ́ ẹ sọ àwọn ìgbésẹ̀ tó kàn fún mi.",
  "articles.toc": "Àkójọpọ̀ àkòónú",
- "articles.readTime": "Ìṣẹ́jú {n} kíkà"
+ "articles.readTime": "Ìṣẹ́jú {n} kíkà",
+ "project.category.ineedsave": "Ojú-òpó ìgbàsílẹ̀ àwọn ìkànnì àjọlò",
+ "project.description.ineedsave": "Ojú-òpó ọ̀fẹ́ fún gbígba fídíò, fọ́tò àti ohùn sílẹ̀ láti TikTok, Instagram, Facebook, X àti àwọn pèpéjáde mìíràn. Lẹ ọ̀nà àsopọ̀ mọ́, yan dídára, kí o sì fi pamọ́.",
+ "project.category.ineedbarcode": "Ojú-òpó ìṣẹ̀dá barcode àti QR code",
+ "project.description.ineedbarcode": "Irinṣẹ́ ọ̀fẹ́ fún ṣíṣẹ̀dá barcode àti QR code pẹ̀lú oríṣi barcode 100+. Àwọn olùmúlò máa ń tẹ dátà sínú rẹ̀, ṣàtúnṣe ìrísí, wọ́n sì máa ń gba PNG tí ó ṣetán fún títẹ̀jáde."
 }

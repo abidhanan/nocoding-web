@@ -289,5 +289,9 @@
  "wa.package.1": "Silav Nocoding, pakêta Mezin bala min dikişîne. Ji kerema xwe gavên din ji min re bêjin.",
  "wa.article": "Silav Nocoding, min gotarek li malpera we xwend û ez dixwazim şêwir bikim. Ji kerema xwe gavên din ji min re bêjin.",
  "articles.toc": "Naverok",
- "articles.readTime": "{n} deqe xwendin"
+ "articles.readTime": "{n} deqe xwendin",
+ "project.category.ineedsave": "Malpera daxistina ji tora civakî",
+ "project.description.ineedsave": "Malpera belaş ji bo daxistina vîdyo, wêne û dengan ji TikTok, Instagram, Facebook, X û platformên din. Girêdanekê bixin, kalîteyê hilbijêrin û tomar bikin.",
+ "project.category.ineedbarcode": "Malpera çêkirina barkod û QR kodê",
+ "project.description.ineedbarcode": "Çêkerê barkod û QR kodê yê belaş bi 100+ cureyên barkodê. Bikarhêner daneyan dinivîsin, sêwiranê eyar dikin û PNGyek ku ji bo çapê amade ye dadixin."
 }

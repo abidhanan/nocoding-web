@@ -289,5 +289,9 @@
  "wa.package.1": "Salam Nocoding, Uly paket meni gyzyklandyrýar. Indiki ädimleri paýlaşyň, haýyş.",
  "wa.article": "Salam Nocoding, web sahypaňyzdaky bir makalany okadym we maslahat almak isleýärin. Indiki ädimleri paýlaşyň, haýyş.",
  "articles.toc": "Mazmuny",
- "articles.readTime": "{n} min okamak"
+ "articles.readTime": "{n} min okamak",
+ "project.category.ineedsave": "Sosial mediadan ýükleme sahypasy",
+ "project.description.ineedsave": "TikTok, Instagram, Facebook, X we beýleki platformalardan wideo, surat we ses ýüklemek üçin mugt web sahypa. Baglanyşygy goýuň, hilini saýlaň we ýatda saklaň.",
+ "project.category.ineedbarcode": "Barkod we QR kod generatory sahypasy",
+ "project.description.ineedbarcode": "100+ barkod görnüşi bolan mugt barkod we QR kod generatory. Ulanyjylar maglumat girizýärler, dizaýny sazlaýarlar we çap etmäge taýyn PNG ýükleýärler."
 }

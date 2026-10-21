@@ -289,5 +289,9 @@
  "wa.package.1": "Halló Nocoding, eg havi áhuga í stóra pakkanum. Vinaliga send mær næstu stig.",
  "wa.article": "Halló Nocoding, eg lisi eina grein á heimasíðuni hjá tykkum og vil gjarna hava ráðgeving. Vinaliga send mær næstu stig.",
  "articles.toc": "Innihald",
- "articles.readTime": "{n} min. lesnaður"
+ "articles.readTime": "{n} min. lesnaður",
+ "project.category.ineedsave": "Heimasíða til at taka niður frá sosialum miðlum",
+ "project.description.ineedsave": "Ókeypis heimasíða til at taka víðeo, myndir og ljóð niður frá TikTok, Instagram, Facebook, X og øðrum pallum. Set ein leinku inn, vel góðskuna og goym.",
+ "project.category.ineedbarcode": "Heimasíða at gera strikumerki og QR-kotur",
+ "project.description.ineedbarcode": "Ókeypis gerð av strikumerkjum og QR-kotum við 100+ slagum av strikumerkjum. Brúkarar skriva data inn, tillaga sniðið og taka PNG, klárt til prentingar, niður."
 }

@@ -289,5 +289,9 @@
  "wa.package.1": "Moyo Nocoding, ndi musue Pakete Munene. Ndekela mundeje bia kuya kumpala.",
  "wa.article": "Moyo Nocoding, ndiverenge mukanda pa webusite wenu ne ndi musue kuipuka. Ndekela mundeje bia kuya kumpala.",
  "articles.toc": "Malu a mukanda",
- "articles.readTime": "Miniti {n} ya kubadia"
+ "articles.readTime": "Miniti {n} ya kubadia",
+ "project.category.ineedsave": "Webusaite wa kutuadija bia ku social media",
+ "project.description.ineedsave": "Webusaite wa ku buabu wa kutuadija mavidiyo, mifwanyi ne dîyi bia ku TikTok, Instagram, Facebook, X ne ku mapulatifomo makuabo. Tuadika lien, hitula bulenga, ne bika.",
+ "project.category.ineedbarcode": "Webusaite wa kuenza barcode ne QR code",
+ "project.description.ineedbarcode": "Tshiamu tshia ku buabu tshia kuenza barcode ne QR code tshidi ne mixile ya barcode 100+. Bakadi ba tshiamu badi bateka data, bashintulula dizayini, ne batuadija PNG mikale ya kuprinta."
 }

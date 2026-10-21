@@ -289,5 +289,9 @@
  "wa.package.1": "Chibai Nocoding, package Lian hi ka duh a ni. Pen tak tur hrilh rawh se.",
  "wa.article": "Chibai Nocoding, in website-a thuziak ka chhiar a, inbiakpawh ka duh a ni. Pen tak tur hrilh rawh se.",
  "articles.toc": "Chhûngkua",
- "articles.readTime": "{n} minute chhiar"
+ "articles.readTime": "{n} minute chhiar",
+ "project.category.ineedsave": "Social media download nan website",
+ "project.description.ineedsave": "TikTok, Instagram, Facebook, X leh platform dangte atanga video, thlalak leh audio download nan website thawh man lo. Link paste la, quality thlang la, save rawh.",
+ "project.category.ineedbarcode": "Barcode leh QR code siamna website",
+ "project.description.ineedbarcode": "Barcode 100+ nei, barcode leh QR code siamna thawh man lo. Hman tuten data an dah, design an siam thatsak a, print atana ready PNG an download thei."
 }

@@ -289,5 +289,9 @@
  "wa.package.1": "Salaan Nocoding, xirmada Weyn ayaa i xiiseysiisa. Fadlan ii sheeg tallaabooyinka xiga.",
  "wa.article": "Salaan Nocoding, waxaan akhriyay maqaal mareegtaada ku jira oo waxaan rabaa la-tashi. Fadlan ii sheeg tallaabooyinka xiga.",
  "articles.toc": "Tusmada",
- "articles.readTime": "{n} daqiiqo akhris"
+ "articles.readTime": "{n} daqiiqo akhris",
+ "project.category.ineedsave": "Bogga lagu soo dejiyo shabakadaha bulshada",
+ "project.description.ineedsave": "Bog bilaash ah oo lagu soo dejiyo muuqaallo, sawirro iyo cod laga helo TikTok, Instagram, Facebook, X iyo goobo kale. Ku dheji xiriir, dooro tayada, kuna kaydi.",
+ "project.category.ineedbarcode": "Bogga sameeya barcode iyo QR code",
+ "project.description.ineedbarcode": "Sameeye barcode iyo QR code oo bilaash ah oo leh 100+ nooc oo barcode ah. Isticmaalayaasha waxay geliyaan xogta, hagaajiyaan naqshadda, kuna soo dejiyaan PNG diyaar u ah daabacaad."
 }

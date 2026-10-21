@@ -289,5 +289,9 @@
  "wa.package.1": "您好 Nocoding，我对大型套餐感兴趣，请告诉我后续步骤。",
  "wa.article": "您好 Nocoding，我在你们的网站上读了一篇文章，想进行咨询，请告诉我后续步骤。",
  "articles.toc": "目录",
- "articles.readTime": "阅读约 {n} 分钟"
+ "articles.readTime": "阅读约 {n} 分钟",
+ "project.category.ineedsave": "社交媒体下载网站",
+ "project.description.ineedsave": "免费网站，可下载 TikTok、Instagram、Facebook、X 等平台的视频、照片和音频。粘贴链接，选择画质，即可保存。",
+ "project.category.ineedbarcode": "条形码和二维码生成网站",
+ "project.description.ineedbarcode": "免费条形码和二维码生成器，支持 100+ 种条形码类型。用户输入数据、调整设计，即可下载可直接打印的 PNG。"
 }

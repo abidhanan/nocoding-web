@@ -289,5 +289,9 @@
  "wa.package.1": "Avuxeni Nocoding, ndzi tsakela phakheji ya Nkulu. Hi kombela mi ndzi byela magoza lama landzelaka.",
  "wa.article": "Avuxeni Nocoding, ndzi hlayile xihloko eka websayiti ya n'wina kutani ndzi lava ku kuma xitsundzuxo. Hi kombela mi ndzi byela magoza lama landzelaka.",
  "articles.toc": "Leswi nga endzeni",
- "articles.readTime": "Timinete ta {n} ta ku hlaya"
+ "articles.readTime": "Timinete ta {n} ta ku hlaya",
+ "project.category.ineedsave": "Webusaiti ya ku dawunilodha eka mimamedhiya ya vanhu",
+ "project.description.ineedsave": "Webusaiti ya mahala yo dawunilodha tivhidiyo, swifaniso na mpfumawulo eka TikTok, Instagram, Facebook, X ni tiplatifomo tin'wana. Namarha ndzhawulo, hlawula khwalithi kutani u hlayisa.",
+ "project.category.ineedbarcode": "Webusaiti ya ku endla barcode na QR code",
+ "project.description.ineedbarcode": "Muendli wa barcode na QR code wa mahala lowu nga ni mixaka ya barcode ya 100+. Vatirhisi va nghenisa data, va cinca vuyelo, va dawunilodha PNG leyi lunghekeke yo kandziyisa."
 }

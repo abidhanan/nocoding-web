@@ -289,5 +289,9 @@
  "wa.package.1": "Horas Nocoding, ahu tartarik tu Paket Balga. Tolong paboa langkah na ro.",
  "wa.article": "Horas Nocoding, nunga ahu mambasa tulisan di website muna jala naeng marhata-hata. Tolong paboa langkah na ro.",
  "articles.toc": "Isi",
- "articles.readTime": "{n} menit bacaan"
+ "articles.readTime": "{n} menit bacaan",
+ "project.category.ineedsave": "Situs pangunduh media sosial",
+ "project.description.ineedsave": "Situs gratis laho mangunduh video, foto, dohot audio sian TikTok, Instagram, Facebook, X, dohot platform na asing. Tempel tautan, pillit kualitas, dung i simpan.",
+ "project.category.ineedbarcode": "Situs pamuat barcode dohot kode QR",
+ "project.description.ineedbarcode": "Pamuat barcode dohot kode QR gratis dohot 100+ jenis barcode. Si manggunahon manurat data, mangubah desain, dung i mangunduh PNG na saud laho cetak."
 }

@@ -289,5 +289,9 @@
  "wa.package.1": "Bok Nocoding, zanima me Veliki paket. Molim vas, javite mi sljedeće korake.",
  "wa.article": "Bok Nocoding, pročitao sam članak na vašoj web stranici i želio bih se savjetovati. Molim vas, javite mi sljedeće korake.",
  "articles.toc": "Sadržaj",
- "articles.readTime": "{n} min čitanja"
+ "articles.readTime": "{n} min čitanja",
+ "project.category.ineedsave": "Web stranica za preuzimanje s društvenih mreža",
+ "project.description.ineedsave": "Besplatna web stranica za preuzimanje videa, fotografija i zvuka s TikTok, Instagram, Facebook, X i drugih platformi. Zalijepite poveznicu, odaberite kvalitetu i spremite.",
+ "project.category.ineedbarcode": "Web stranica za izradu crtičnih kodova i QR kodova",
+ "project.description.ineedbarcode": "Besplatni generator crtičnih kodova i QR kodova sa 100+ vrsta crtičnih kodova. Korisnici unose podatke, prilagođavaju dizajn i preuzimaju PNG spreman za ispis."
 }

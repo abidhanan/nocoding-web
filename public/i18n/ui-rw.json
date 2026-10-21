@@ -289,5 +289,9 @@
  "wa.package.1": "Muraho Nocoding, nshishikajwe n'ipaki Nini. Mumbwire intambwe zikurikira.",
  "wa.article": "Muraho Nocoding, nasomye inkuru ku rubuga rwanyu kandi nifuza inama. Mumbwire intambwe zikurikira.",
  "articles.toc": "Ibiri mu nyandiko",
- "articles.readTime": "Iminota {n} yo gusoma"
+ "articles.readTime": "Iminota {n} yo gusoma",
+ "project.category.ineedsave": "Urubuga rwo gukuramo ibyo ku mbuga nkoranyambaga",
+ "project.description.ineedsave": "Urubuga rutishyurwa rwo gukuramo amashusho, amafoto n'amajwi kuri TikTok, Instagram, Facebook, X n'izindi mbuga. Shyiramo umurongo, hitamo ubuziranenge, hanyuma ubibike.",
+ "project.category.ineedbarcode": "Urubuga rwo gukora barcode na QR code",
+ "project.description.ineedbarcode": "Igikoresho kitishyurwa cyo gukora barcode na QR code gifite ubwoko bwa barcode 100+. Abakoresha bashyiramo amakuru, bagahindura imiterere, bagakuramo PNG yiteguye gucapwa."
 }

@@ -289,5 +289,9 @@
  "wa.package.1": "Hi Nocoding, ta ynteres aym ayns y phagget Mooar. Cur dooin ny kayrnyn ta cheet, mie ayd.",
  "wa.article": "Hi Nocoding, lhaih mee artiggal er yn ynnyd-eggey ayd as baillish lhiam co-choyrle. Cur dooin ny kayrnyn ta cheet, mie ayd.",
  "articles.toc": "Claare Chooid",
- "articles.readTime": "{n} meiteil lhaih"
+ "articles.readTime": "{n} meiteil lhaih",
+ "project.category.ineedsave": "Ynnyd-eggey loaghtaghey veih meanyn sheshoil",
+ "project.description.ineedsave": "Ynnyd-eggey seyr dy loaghtaghey feeraghyn, pictyryn as sheean veih TikTok, Instagram, Facebook, X as ardjyn elley. Lheiy ayns kiangley, reih yn chaslys, as coadee.",
+ "project.category.ineedbarcode": "Ynnyd-eggey jannoo barcode as QR code",
+ "project.description.ineedbarcode": "Jantagh barcode as QR code seyr lesh 100+ ineeyn barcode. Ta ymmydeyryn cur stiagh data, caghlaa y dessin, as loaghtaghey PNG aarloo son chlou."
 }

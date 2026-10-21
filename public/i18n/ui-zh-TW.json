@@ -289,5 +289,9 @@
  "wa.package.1": "您好 Nocoding，我對大型方案有興趣，請告訴我後續步驟。",
  "wa.article": "您好 Nocoding，我在你們的網站上讀了一篇文章，想進行諮詢，請告訴我後續步驟。",
  "articles.toc": "目錄",
- "articles.readTime": "閱讀約 {n} 分鐘"
+ "articles.readTime": "閱讀約 {n} 分鐘",
+ "project.category.ineedsave": "社群媒體下載網站",
+ "project.description.ineedsave": "免費網站，可下載 TikTok、Instagram、Facebook、X 等平台的影片、照片和音訊。貼上連結、選擇畫質，即可儲存。",
+ "project.category.ineedbarcode": "條碼與 QR 碼產生器網站",
+ "project.description.ineedbarcode": "免費條碼與 QR 碼產生器，支援 100+ 種條碼類型。使用者輸入資料、調整設計，即可下載可直接列印的 PNG。"
 }

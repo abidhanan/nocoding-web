@@ -289,5 +289,9 @@
  "wa.package.1": "Xin chào Nocoding, tôi quan tâm đến gói Lớn. Vui lòng cho tôi biết các bước tiếp theo.",
  "wa.article": "Xin chào Nocoding, tôi đã đọc một bài viết trên website của bạn và muốn được tư vấn. Vui lòng cho tôi biết các bước tiếp theo.",
  "articles.toc": "Mục lục",
- "articles.readTime": "{n} phút đọc"
+ "articles.readTime": "{n} phút đọc",
+ "project.category.ineedsave": "Website tải nội dung mạng xã hội",
+ "project.description.ineedsave": "Website miễn phí để tải video, ảnh và âm thanh từ TikTok, Instagram, Facebook, X và các nền tảng khác. Dán liên kết, chọn chất lượng rồi lưu.",
+ "project.category.ineedbarcode": "Website tạo mã vạch và mã QR",
+ "project.description.ineedbarcode": "Trình tạo mã vạch và mã QR miễn phí với 100+ loại mã vạch. Người dùng nhập dữ liệu, tùy chỉnh thiết kế và tải về file PNG sẵn sàng để in."
 }

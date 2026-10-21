@@ -289,5 +289,9 @@
  "wa.package.1": "Kaixo Nocoding, pakete Handiak interesatzen zait. Mesedez, esaidazue zein diren hurrengo urratsak.",
  "wa.article": "Kaixo Nocoding, zuen webgunean artikulu bat irakurri dut eta kontsulta bat egin nahiko nuke. Mesedez, esaidazue zein diren hurrengo urratsak.",
  "articles.toc": "Aurkibidea",
- "articles.readTime": "{n} min irakurtzeko"
+ "articles.readTime": "{n} min irakurtzeko",
+ "project.category.ineedsave": "Sare sozialetako deskargen webgunea",
+ "project.description.ineedsave": "TikTok, Instagram, Facebook, X eta beste plataforma batzuetako bideoak, argazkiak eta audioa deskargatzeko doako webgunea. Itsatsi esteka, aukeratu kalitatea eta gorde.",
+ "project.category.ineedbarcode": "Barra-kode eta QR kode sortzailearen webgunea",
+ "project.description.ineedbarcode": "100+ barra-kode mota dituen barra-kode eta QR kode sortzaile doakoa. Erabiltzaileek datuak sartzen dituzte, diseinua egokitzen dute eta inprimatzeko prest dagoen PNG bat deskargatzen dute."
 }

@@ -289,5 +289,9 @@
  "wa.package.1": "Olá, Nocoding! Tenho interesse no pacote Grande. Por favor, me informem os próximos passos.",
  "wa.article": "Olá, Nocoding! Li um artigo no site de vocês e gostaria de fazer uma consulta. Por favor, me informem os próximos passos.",
  "articles.toc": "Índice",
- "articles.readTime": "{n} min de leitura"
+ "articles.readTime": "{n} min de leitura",
+ "project.category.ineedsave": "Site para baixar de redes sociais",
+ "project.description.ineedsave": "Site gratuito para baixar vídeos, fotos e áudio do TikTok, Instagram, Facebook, X e outras plataformas. Cole um link, escolha a qualidade e salve.",
+ "project.category.ineedbarcode": "Site gerador de código de barras e QR code",
+ "project.description.ineedbarcode": "Gerador gratuito de código de barras e QR code com 100+ tipos de código de barras. Os usuários inserem os dados, ajustam o design e baixam um PNG pronto para impressão."
 }

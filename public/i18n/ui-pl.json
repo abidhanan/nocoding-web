@@ -289,5 +289,9 @@
  "wa.package.1": "Dzień dobry, Nocoding, interesuje mnie pakiet Duży. Proszę o informację o kolejnych krokach.",
  "wa.article": "Dzień dobry, Nocoding, przeczytałem artykuł na Państwa stronie i chciałbym się skonsultować. Proszę o informację o kolejnych krokach.",
  "articles.toc": "Spis treści",
- "articles.readTime": "{n} min czytania"
+ "articles.readTime": "{n} min czytania",
+ "project.category.ineedsave": "Strona do pobierania z mediów społecznościowych",
+ "project.description.ineedsave": "Bezpłatna strona do pobierania filmów, zdjęć i dźwięku z platform takich jak TikTok, Instagram, Facebook, X i innych. Wklej link, wybierz jakość i zapisz.",
+ "project.category.ineedbarcode": "Strona do generowania kodów kreskowych i QR",
+ "project.description.ineedbarcode": "Bezpłatny generator kodów kreskowych i kodów QR ze 100+ typami kodów kreskowych. Użytkownicy wpisują dane, dopasowują projekt i pobierają plik PNG gotowy do druku."
 }

@@ -289,5 +289,9 @@
  "wa.package.1": "مرحبًا Nocoding، أنا مهتم بالباقة الكبيرة. يرجى إخباري بالخطوات التالية.",
  "wa.article": "مرحبًا Nocoding، قرأت مقالًا على موقعكم وأودّ طلب استشارة. يرجى إخباري بالخطوات التالية.",
  "articles.toc": "جدول المحتويات",
- "articles.readTime": "قراءة {n} دقائق"
+ "articles.readTime": "قراءة {n} دقائق",
+ "project.category.ineedsave": "موقع لتحميل محتوى وسائل التواصل",
+ "project.description.ineedsave": "موقع مجاني لتحميل الفيديوهات والصور والصوتيات من TikTok وInstagram وFacebook وX ومنصات أخرى. الصق الرابط، واختر الجودة، ثم احفظ.",
+ "project.category.ineedbarcode": "موقع لإنشاء الباركود ورمز QR",
+ "project.description.ineedbarcode": "مولّد مجاني للباركود ورموز QR يضم 100+ نوع من الباركود. يُدخل المستخدمون البيانات ويعدّلون التصميم ويحمّلون ملف PNG جاهزًا للطباعة."
 }

@@ -289,5 +289,9 @@
  "wa.package.1": "Hello Nocoding, I am interested in the Big package. Please share the next steps.",
  "wa.article": "Hello Nocoding, I read an article on your website and would like a consultation. Please share the next steps.",
  "articles.toc": "Table of contents",
- "articles.readTime": "{n} min read"
+ "articles.readTime": "{n} min read",
+ "project.category.ineedsave": "Social media downloader website",
+ "project.description.ineedsave": "Free website to download videos, photos, and audio from TikTok, Instagram, Facebook, X, and other platforms. Paste a link, choose the quality, and save.",
+ "project.category.ineedbarcode": "Barcode & QR code generator website",
+ "project.description.ineedbarcode": "Free barcode and QR code generator with 100+ barcode types. Users enter data, adjust the design, and download a print-ready PNG."
 }

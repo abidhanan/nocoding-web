@@ -289,5 +289,9 @@
  "wa.package.1": "Aloha e Nocoding, makemake au i ka Pūʻolo Nui. E ʻoluʻolu e haʻi mai i nā ʻanuʻu aʻe.",
  "wa.article": "Aloha e Nocoding, ua heluhelu au i kekahi ʻatikala ma kāu pūnaewele a makemake au e kūkākūkā. E ʻoluʻolu e haʻi mai i nā ʻanuʻu aʻe.",
  "articles.toc": "Papa Kuhikuhi",
- "articles.readTime": "{n} minuke heluhelu"
+ "articles.readTime": "{n} minuke heluhelu",
+ "project.category.ineedsave": "Pūnaewele hoʻoiho media pāpaho",
+ "project.description.ineedsave": "He pūnaewele manuahi no ke hoʻoiho i nā wikiō, nā kiʻi, a me nā leo mai TikTok, Instagram, Facebook, X, a me nā pūnaewele ʻē aʻe. Hoʻokomo i ka loulou, koho i ka maikaʻi, a mālama.",
+ "project.category.ineedbarcode": "Pūnaewele hana barcode a me QR code",
+ "project.description.ineedbarcode": "He mea hana barcode a me QR code manuahi me nā ʻano barcode he 100+. Hoʻokomo nā mea hoʻohana i ka ʻikepili, hoʻololi i ka hoʻolālā, a hoʻoiho i kahi PNG mākaukau no ka paʻi."
 }

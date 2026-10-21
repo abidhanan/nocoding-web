@@ -289,5 +289,9 @@
  "wa.package.1": "Sawubona Nocoding, ngiyatsakasela iphakheji Lenkhulu. Sicela ungitjele sinyatselo lesilandzelako.",
  "wa.article": "Sawubona Nocoding, ngifundze sihloko ku-webhusayithi yenu futsi ngicela seluleko. Sicela ungitjele sinyatselo lesilandzelako.",
  "articles.toc": "Lokucuketfwe",
- "articles.readTime": "Emaminithi la-{n} kufundza"
+ "articles.readTime": "Emaminithi la-{n} kufundza",
+ "project.category.ineedsave": "Liwebhusayithi lekulanda kumasocial media",
+ "project.description.ineedsave": "Liwebhusayithi lemahhala lekulanda tivideyo, titfombe, nemsindvo kusuka ku-TikTok, Instagram, Facebook, X nakwemanye emapulatifomu. Namatsisa lilinki, khetsa bukhwalithi, bese uyasindza.",
+ "project.category.ineedbarcode": "Liwebhusayithi lekwakha i-barcode ne-QR code",
+ "project.description.ineedbarcode": "Sakhi se-barcode ne-QR code semahhala lesinemihlobo ye-barcode lengu-100+. Basebentisi bafaka lwati, balungise umklamo, futsi balande i-PNG lesilungele kuphrintwa."
 }

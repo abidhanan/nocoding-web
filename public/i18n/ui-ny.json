@@ -289,5 +289,9 @@
  "wa.package.1": "Moni Nocoding, ndikufuna phukusi la Big. Chonde tiuzeni masitepe otsatira.",
  "wa.article": "Moni Nocoding, ndawerenga nkhani pa webusaiti yanu ndipo ndikufuna kukambirana. Chonde tiuzeni masitepe otsatira.",
  "articles.toc": "Zamkatimu",
- "articles.readTime": "Mphindi {n} yowerenga"
+ "articles.readTime": "Mphindi {n} yowerenga",
+ "project.category.ineedsave": "Webusayiti yotsitsa zinthu za pa social media",
+ "project.description.ineedsave": "Webusayiti yaulere yotsitsa makanema, zithunzi, ndi mawu kuchokera ku TikTok, Instagram, Facebook, X, ndi malo ena. Ikani ulalo, sankhani khalidwe, ndipo sungani.",
+ "project.category.ineedbarcode": "Webusayiti yopanga barcode ndi QR code",
+ "project.description.ineedbarcode": "Chida chaulere chopanga barcode ndi QR code chokhala ndi mitundu 100+ ya barcode. Ogwiritsa ntchito amalemba zomwe akufuna, kusintha kapangidwe, ndi kutsitsa PNG yokonzeka kusindikiza."
 }

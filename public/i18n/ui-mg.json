@@ -289,5 +289,9 @@
  "wa.package.1": "Salama Nocoding, liana amin'ny fonosana Lehibe aho. Azafady zarao ny dingana manaraka.",
  "wa.article": "Salama Nocoding, namaky lahatsoratra tao amin'ny tranonkalanareo aho ary te hahazo torohevitra. Azafady zarao ny dingana manaraka.",
  "articles.toc": "Votoatiny",
- "articles.readTime": "{n} min famakiana"
+ "articles.readTime": "{n} min famakiana",
+ "project.category.ineedsave": "Tranokala fakana avy amin'ny tambajotra sosialy",
+ "project.description.ineedsave": "Tranokala maimaim-poana hakana horonan-tsary, sary ary feo avy amin'ny TikTok, Instagram, Facebook, X ary sehatra hafa. Apetaho ny rohy, fidio ny kalitao, ary tehirizo.",
+ "project.category.ineedbarcode": "Tranokala mamorona barcode sy QR code",
+ "project.description.ineedbarcode": "Mpamorona barcode sy QR code maimaim-poana misy karazana barcode 100+. Ampidirin'ny mpampiasa ny angona, ovainy ny endrika, ary alainy ny PNG vonona hovoaina."
 }

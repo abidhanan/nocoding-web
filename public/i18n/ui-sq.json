@@ -289,5 +289,9 @@
  "wa.package.1": "Përshëndetje Nocoding, jam i interesuar për pakon e madhe. Ju lutem ndani hapat e ardhshëm.",
  "wa.article": "Përshëndetje Nocoding, lexova një artikull në faqen tuaj dhe dua një konsultim. Ju lutem ndani hapat e ardhshëm.",
  "articles.toc": "Përmbajtja",
- "articles.readTime": "{n} min lexim"
+ "articles.readTime": "{n} min lexim",
+ "project.category.ineedsave": "Faqe për shkarkim nga rrjetet sociale",
+ "project.description.ineedsave": "Faqe interneti falas për të shkarkuar video, foto dhe audio nga TikTok, Instagram, Facebook, X dhe platforma të tjera. Ngjit një lidhje, zgjidh cilësinë dhe ruaje.",
+ "project.category.ineedbarcode": "Faqe gjeneruese barkodesh dhe kodesh QR",
+ "project.description.ineedbarcode": "Gjenerues falas barkodesh dhe kodesh QR me 100+ lloje barkodesh. Përdoruesit fusin të dhënat, rregullojnë dizajnin dhe shkarkojnë një PNG gati për printim."
 }

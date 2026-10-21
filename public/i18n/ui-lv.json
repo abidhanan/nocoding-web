@@ -289,5 +289,9 @@
  "wa.package.1": "Sveiki, Nocoding! Mani interesē Lielā pakotne. Lūdzu, pastāstiet par nākamajiem soļiem.",
  "wa.article": "Sveiki, Nocoding! Es izlasīju rakstu jūsu vietnē un vēlētos konsultāciju. Lūdzu, pastāstiet par nākamajiem soļiem.",
  "articles.toc": "Satura rādītājs",
- "articles.readTime": "{n} min lasīšanas"
+ "articles.readTime": "{n} min lasīšanas",
+ "project.category.ineedsave": "Vietne satura lejupielādei no sociālajiem tīkliem",
+ "project.description.ineedsave": "Bezmaksas vietne video, foto un audio lejupielādei no TikTok, Instagram, Facebook, X un citām platformām. Ielīmējiet saiti, izvēlieties kvalitāti un saglabājiet.",
+ "project.category.ineedbarcode": "Svītrkodu un QR kodu ģeneratora vietne",
+ "project.description.ineedbarcode": "Bezmaksas svītrkodu un QR kodu ģenerators ar 100+ svītrkodu veidiem. Lietotāji ievada datus, pielāgo dizainu un lejupielādē drukai gatavu PNG."
 }

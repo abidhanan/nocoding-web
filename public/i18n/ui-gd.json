@@ -289,5 +289,9 @@
  "wa.package.1": "Halò Nocoding, tha ùidh agam sa Phasgan Mhòr. Feuch an innis sibh dhomh na ceumannan a leanas.",
  "wa.article": "Halò Nocoding, leugh mi artaigil air an làrach-lìn agaibh agus bu mhath leam comhairle. Feuch an innis sibh dhomh na ceumannan a leanas.",
  "articles.toc": "Clàr-innse",
- "articles.readTime": "{n} mionaidean leughaidh"
+ "articles.readTime": "{n} mionaidean leughaidh",
+ "project.category.ineedsave": "Làrach-lìn luchdaidh a-nuas bho na meadhanan sòisealta",
+ "project.description.ineedsave": "Làrach-lìn an-asgaidh airson bhideothan, dealbhan agus fuaim a luchdadh a-nuas o TikTok, Instagram, Facebook, X agus àrdan eile. Cuir a-steach ceangal, tagh càileachd agus sàbhail.",
+ "project.category.ineedbarcode": "Làrach-lìn gineadair bharcodan is còdan QR",
+ "project.description.ineedbarcode": "Gineadair bharcodan is còdan QR an-asgaidh le 100+ seòrsa de bharcodan. Bidh luchd-cleachdaidh a' cur a-steach dàta, ag atharrachadh an dealbhaidh agus a' luchdadh a-nuas PNG deiseil airson clò-bhualadh."
 }

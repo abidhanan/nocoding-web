@@ -289,5 +289,9 @@
  "wa.package.1": "Molo Nocoding, ndinomdla kwiphakheji Enkulu. Nceda undixelele amanyathelo alandelayo.",
  "wa.article": "Molo Nocoding, ndifunde inqaku kwiwebhusayithi yakho kwaye ndingathanda ukubonisana. Nceda undixelele amanyathelo alandelayo.",
  "articles.toc": "Okuqulathwe",
- "articles.readTime": "Imizuzu emi-{n} yokufunda"
+ "articles.readTime": "Imizuzu emi-{n} yokufunda",
+ "project.category.ineedsave": "Iwebhusayithi yokukhuphela kwimidiya yoluntu",
+ "project.description.ineedsave": "Iwebhusayithi ysimahla yokukhuphela iividiyo, iifoto nesandi ukusuka kwi-TikTok, Instagram, Facebook, X nakwezinye iindawo. Namathelisa ikhonkco, khetha umgangatho, uze ugcine.",
+ "project.category.ineedbarcode": "Iwebhusayithi yokwenza i-barcode ne-QR code",
+ "project.description.ineedbarcode": "Isenzi se-barcode ne-QR code simahla esinentlobo ze-barcode ezingama-100+. Abasebenzisi bafaka idatha, balungelelanise uyilo, bakhuphele i-PNG ekulungele ukushicilelwa."
 }

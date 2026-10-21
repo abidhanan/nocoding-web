@@ -289,5 +289,9 @@
  "wa.package.1": "Bonghjornu Nocoding, sò interessatu à u pacchettu Grande. Mandatemi i passi seguenti, per piacè.",
  "wa.article": "Bonghjornu Nocoding, aghju lettu un articulu nant'à u vostru situ è vurria una cunsultazione. Mandatemi i passi seguenti, per piacè.",
  "articles.toc": "Indice",
- "articles.readTime": "{n} min di lettura"
+ "articles.readTime": "{n} min di lettura",
+ "project.category.ineedsave": "Situ per scaricà da i social media",
+ "project.description.ineedsave": "Situ web gratuitu per scaricà video, foto è audio da TikTok, Instagram, Facebook, X è altre piattaforme. Incollate un ligame, sceglite a qualità è salvate.",
+ "project.category.ineedbarcode": "Situ generatore di codici à barre è QR",
+ "project.description.ineedbarcode": "Generatore gratuitu di codici à barre è QR code cù 100+ tipi di codici à barre. L'utilizatori inseriscenu i dati, aghjustanu u disegnu è scaricanu un PNG prontu per a stampa."
 }

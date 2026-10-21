@@ -289,5 +289,9 @@
  "wa.package.1": "Ba'ax ka wa'alik Nocoding, in k'áat in wilik le Paquete Nuxi'. Ts'aabeten in wojéeltik ba'ax ku taal.",
  "wa.article": "Ba'ax ka wa'alik Nocoding, ts'o'ok in xokik jump'éel ts'íib ti' a sitio web yéetel in k'áat jump'éel tsikbal. Ts'aabeten in wojéeltik ba'ax ku taal.",
  "articles.toc": "Ts'íibil tuukul",
- "articles.readTime": "{n} minuto xook"
+ "articles.readTime": "{n} minuto xook",
+ "project.category.ineedsave": "Web utia'al descargar ti' redes sociales",
+ "project.description.ineedsave": "Web ma' tu k'abéetkunsik taak'in utia'al descargar video, foto yéetel audio ti' TikTok, Instagram, Facebook, X yéetel uláak' plataformas. Tak'e' junp'éel enlace, yéey le kalidad yéetel ma'alob a kaxt.",
+ "project.category.ineedbarcode": "Web utia'al u beetik barcode yéetel QR code",
+ "project.description.ineedbarcode": "Generador ma' tu k'abéetkunsik taak'in utia'al barcode yéetel QR code yéetel 100+ kuuch barcode. Le máaxo'ob ku meyajtiko'ob ku táakbesik datos, ku jelik le diseño yéetel ku descargar junp'éel PNG listo utia'al imprimir."
 }

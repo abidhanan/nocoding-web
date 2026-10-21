@@ -289,5 +289,9 @@
  "wa.package.1": "Alo Nocoding, a lɛk di Big pakej. Pliz tɛl mi di nɛks step dɛn.",
  "wa.article": "Alo Nocoding, a rid wan atikul na una wɛbsayt ɛn a want fɔ kɔnsɔlt. Pliz tɛl mi di nɛks step dɛn.",
  "articles.toc": "Wetin De Insay",
- "articles.readTime": "{n} minit fɔ rid"
+ "articles.readTime": "{n} minit fɔ rid",
+ "project.category.ineedsave": "Wɛbsayt fɔ daunload frɔm sosyal midia",
+ "project.description.ineedsave": "Fri wɛbsayt fɔ daunload vidio, foto, ɛn ɔdio frɔm TikTok, Instagram, Facebook, X, ɛn ɔda platfɔm dɛm. Pes wan lɛnk, pik di kwaliti, ɛn sev am.",
+ "project.category.ineedbarcode": "Wɛbsayt fɔ mek barkod ɛn QR kod",
+ "project.description.ineedbarcode": "Fri barkod ɛn QR kod jenarieta wit 100+ kayn barkod. Yusa dɛm de put data, adjɔst di dizayn, ɛn daunload PNG we rɛdi fɔ print."
 }

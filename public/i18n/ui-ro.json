@@ -289,5 +289,9 @@
  "wa.package.1": "Bună, Nocoding! Mă interesează pachetul Mare. Vă rog să-mi spuneți care sunt pașii următori.",
  "wa.article": "Bună, Nocoding! Am citit un articol pe site-ul vostru și aș vrea o consultanță. Vă rog să-mi spuneți care sunt pașii următori.",
  "articles.toc": "Cuprins",
- "articles.readTime": "{n} min de citit"
+ "articles.readTime": "{n} min de citit",
+ "project.category.ineedsave": "Site pentru descărcări din rețele sociale",
+ "project.description.ineedsave": "Site gratuit pentru descărcarea de videoclipuri, fotografii și audio de pe TikTok, Instagram, Facebook, X și alte platforme. Lipește un link, alege calitatea și salvează.",
+ "project.category.ineedbarcode": "Site generator de coduri de bare și QR",
+ "project.description.ineedbarcode": "Generator gratuit de coduri de bare și coduri QR cu 100+ tipuri de coduri de bare. Utilizatorii introduc datele, ajustează designul și descarcă un PNG gata de tipărit."
 }

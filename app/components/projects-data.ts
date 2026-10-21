@@ -291,6 +291,30 @@ export const projects = [
     logo: "/projects/logos/caer-finance.webp",
     imageAlt: "Tampilan website Caér Finance di laptop dan ponsel",
   },
+  {
+    name: "I Need Save",
+    category: "Website pengunduh media sosial",
+    categoryId: "project.category.ineedsave",
+    description:
+      "Website gratis untuk mengunduh video, foto, dan audio dari TikTok, Instagram, Facebook, X, dan platform lain. Cukup tempel link, pilih kualitas, lalu simpan.",
+    descriptionId: "project.description.ineedsave",
+    image: "/projects/ineedsave-unduh-media-sosial.webp",
+    logo: "/projects/logos/ineedsave-sq.webp",
+    logoFull: true,
+    imageAlt: "Tampilan website I Need Save di laptop dan ponsel",
+  },
+  {
+    name: "I Need Barcode",
+    category: "Website generator barcode & QR Code",
+    categoryId: "project.category.ineedbarcode",
+    description:
+      "Generator barcode dan QR Code gratis dengan lebih dari 100 jenis barcode. Pengguna mengisi data, mengatur desain, lalu mengunduh PNG siap cetak.",
+    descriptionId: "project.description.ineedbarcode",
+    image: "/projects/ineedbarcode-generator-barcode.webp",
+    logo: "/projects/logos/ineedbarcode-sq.webp",
+    logoFull: true,
+    imageAlt: "Tampilan website I Need Barcode di laptop dan ponsel",
+  },
 ] satisfies Project[];
 
 // WhatsApp contact. Display uses the international format with a leading +; the href

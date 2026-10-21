@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Gwefan i lawrlwytho o gyfryngau cymdeithasol",
  "project.description.ineedsave": "Gwefan am ddim i lawrlwytho fideos, lluniau a sain o TikTok, Instagram, Facebook, X a llwyfannau eraill. Gludwch ddolen, dewiswch yr ansawdd a chadwch.",
  "project.category.ineedbarcode": "Gwefan cynhyrchu codau bar a chodau QR",
- "project.description.ineedbarcode": "Cynhyrchydd codau bar a chodau QR am ddim gyda 100+ math o god bar. Mae defnyddwyr yn rhoi data i mewn, yn addasu'r dyluniad ac yn lawrlwytho PNG sy'n barod i'w argraffu."
+ "project.description.ineedbarcode": "Cynhyrchydd codau bar a chodau QR am ddim gyda 100+ math o god bar. Mae defnyddwyr yn rhoi data i mewn, yn addasu'r dyluniad ac yn lawrlwytho PNG sy'n barod i'w argraffu.",
+ "legal.privacy": "Polisi Preifatrwydd",
+ "legal.terms": "Telerau ac Amodau",
+ "legal.cookies": "Polisi Cwcis",
+ "aria.legal": "Gwybodaeth gyfreithiol"
 }

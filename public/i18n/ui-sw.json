@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Tovuti ya kupakua kutoka mitandao ya kijamii",
  "project.description.ineedsave": "Tovuti ya bure ya kupakua video, picha, na sauti kutoka TikTok, Instagram, Facebook, X, na majukwaa mengine. Bandika kiungo, chagua ubora, kisha hifadhi.",
  "project.category.ineedbarcode": "Tovuti ya kutengeneza barcode na QR code",
- "project.description.ineedbarcode": "Kitengeneza barcode na QR code bila malipo chenye aina 100+ za barcode. Watumiaji huingiza data, hurekebisha muundo, na kupakua PNG tayari kwa kuchapishwa."
+ "project.description.ineedbarcode": "Kitengeneza barcode na QR code bila malipo chenye aina 100+ za barcode. Watumiaji huingiza data, hurekebisha muundo, na kupakua PNG tayari kwa kuchapishwa.",
+ "legal.privacy": "Sera ya Faragha",
+ "legal.terms": "Sheria na Masharti",
+ "legal.cookies": "Sera ya Vidakuzi",
+ "aria.legal": "Taarifa za kisheria"
 }

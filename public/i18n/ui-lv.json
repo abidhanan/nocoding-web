@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Vietne satura lejupielādei no sociālajiem tīkliem",
  "project.description.ineedsave": "Bezmaksas vietne video, foto un audio lejupielādei no TikTok, Instagram, Facebook, X un citām platformām. Ielīmējiet saiti, izvēlieties kvalitāti un saglabājiet.",
  "project.category.ineedbarcode": "Svītrkodu un QR kodu ģeneratora vietne",
- "project.description.ineedbarcode": "Bezmaksas svītrkodu un QR kodu ģenerators ar 100+ svītrkodu veidiem. Lietotāji ievada datus, pielāgo dizainu un lejupielādē drukai gatavu PNG."
+ "project.description.ineedbarcode": "Bezmaksas svītrkodu un QR kodu ģenerators ar 100+ svītrkodu veidiem. Lietotāji ievada datus, pielāgo dizainu un lejupielādē drukai gatavu PNG.",
+ "legal.privacy": "Privātuma politika",
+ "legal.terms": "Noteikumi un nosacījumi",
+ "legal.cookies": "Sīkdatņu politika",
+ "aria.legal": "Juridiskā informācija"
 }

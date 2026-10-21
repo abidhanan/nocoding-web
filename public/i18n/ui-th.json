@@ -293,5 +293,9 @@
  "project.category.ineedsave": "เว็บไซต์ดาวน์โหลดโซเชียลมีเดีย",
  "project.description.ineedsave": "เว็บไซต์ฟรีสำหรับดาวน์โหลดวิดีโอ รูปภาพ และเสียงจาก TikTok, Instagram, Facebook, X และแพลตฟอร์มอื่น ๆ เพียงวางลิงก์ เลือกคุณภาพ แล้วบันทึก",
  "project.category.ineedbarcode": "เว็บไซต์สร้างบาร์โค้ดและ QR code",
- "project.description.ineedbarcode": "เครื่องมือสร้างบาร์โค้ดและ QR code ฟรี รองรับบาร์โค้ด 100+ ประเภท ผู้ใช้กรอกข้อมูล ปรับแต่งดีไซน์ และดาวน์โหลด PNG ที่พร้อมพิมพ์"
+ "project.description.ineedbarcode": "เครื่องมือสร้างบาร์โค้ดและ QR code ฟรี รองรับบาร์โค้ด 100+ ประเภท ผู้ใช้กรอกข้อมูล ปรับแต่งดีไซน์ และดาวน์โหลด PNG ที่พร้อมพิมพ์",
+ "legal.privacy": "นโยบายความเป็นส่วนตัว",
+ "legal.terms": "ข้อกำหนดและเงื่อนไข",
+ "legal.cookies": "นโยบายคุกกี้",
+ "aria.legal": "ข้อมูลทางกฎหมาย"
 }

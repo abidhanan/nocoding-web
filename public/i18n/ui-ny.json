@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Webusayiti yotsitsa zinthu za pa social media",
  "project.description.ineedsave": "Webusayiti yaulere yotsitsa makanema, zithunzi, ndi mawu kuchokera ku TikTok, Instagram, Facebook, X, ndi malo ena. Ikani ulalo, sankhani khalidwe, ndipo sungani.",
  "project.category.ineedbarcode": "Webusayiti yopanga barcode ndi QR code",
- "project.description.ineedbarcode": "Chida chaulere chopanga barcode ndi QR code chokhala ndi mitundu 100+ ya barcode. Ogwiritsa ntchito amalemba zomwe akufuna, kusintha kapangidwe, ndi kutsitsa PNG yokonzeka kusindikiza."
+ "project.description.ineedbarcode": "Chida chaulere chopanga barcode ndi QR code chokhala ndi mitundu 100+ ya barcode. Ogwiritsa ntchito amalemba zomwe akufuna, kusintha kapangidwe, ndi kutsitsa PNG yokonzeka kusindikiza.",
+ "legal.privacy": "Mfundo za Chinsinsi",
+ "legal.terms": "Mfundo ndi Zikhalidwe",
+ "legal.cookies": "Mfundo za Cookie",
+ "aria.legal": "Zambiri zalamulo"
 }

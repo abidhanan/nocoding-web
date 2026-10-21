@@ -293,5 +293,9 @@
  "project.category.ineedsave": "وب‌سایت دانلود از شبکه‌های اجتماعی",
  "project.description.ineedsave": "وب‌سایت رایگان برای دانلود ویدیو، عکس و صدا از TikTok، Instagram، Facebook، X و سایر پلتفرم‌ها. لینک را بچسبانید، کیفیت را انتخاب کنید و ذخیره کنید.",
  "project.category.ineedbarcode": "وب‌سایت ساخت بارکد و کد QR",
- "project.description.ineedbarcode": "سازنده رایگان بارکد و کد QR با 100+ نوع بارکد. کاربران داده‌ها را وارد می‌کنند، طراحی را تنظیم می‌کنند و PNG آماده چاپ را دانلود می‌کنند."
+ "project.description.ineedbarcode": "سازنده رایگان بارکد و کد QR با 100+ نوع بارکد. کاربران داده‌ها را وارد می‌کنند، طراحی را تنظیم می‌کنند و PNG آماده چاپ را دانلود می‌کنند.",
+ "legal.privacy": "سیاست حفظ حریم خصوصی",
+ "legal.terms": "شرایط و ضوابط",
+ "legal.cookies": "سیاست کوکی‌ها",
+ "aria.legal": "اطلاعات حقوقی"
 }

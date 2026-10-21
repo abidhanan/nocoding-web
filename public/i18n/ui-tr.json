@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Sosyal medya indirme sitesi",
  "project.description.ineedsave": "TikTok, Instagram, Facebook, X ve diğer platformlardan video, fotoğraf ve ses indirmek için ücretsiz web sitesi. Bağlantıyı yapıştırın, kaliteyi seçin ve kaydedin.",
  "project.category.ineedbarcode": "Barkod ve QR kod oluşturucu sitesi",
- "project.description.ineedbarcode": "100+ barkod türü sunan ücretsiz barkod ve QR kod oluşturucu. Kullanıcılar verileri girer, tasarımı düzenler ve baskıya hazır PNG indirir."
+ "project.description.ineedbarcode": "100+ barkod türü sunan ücretsiz barkod ve QR kod oluşturucu. Kullanıcılar verileri girer, tasarımı düzenler ve baskıya hazır PNG indirir.",
+ "legal.privacy": "Gizlilik Politikası",
+ "legal.terms": "Şartlar ve Koşullar",
+ "legal.cookies": "Çerez Politikası",
+ "aria.legal": "Yasal bilgiler"
 }

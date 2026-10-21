@@ -293,5 +293,9 @@
  "project.category.ineedsave": "የማህበራዊ ሚዲያ ማውረጃ ድር ጣቢያ",
  "project.description.ineedsave": "ከTikTok፣ Instagram፣ Facebook፣ X እና ከሌሎች መድረኮች ቪዲዮዎችን፣ ፎቶዎችን እና ኦዲዮን ለማውረድ ነፃ ድር ጣቢያ። ሊንክ ይለጥፉ፣ ጥራቱን ይምረጡ እና ያስቀምጡ።",
  "project.category.ineedbarcode": "የባርኮድ እና QR ኮድ ማመንጫ ድር ጣቢያ",
- "project.description.ineedbarcode": "100+ የባርኮድ አይነቶች ያሉት ነፃ የባርኮድ እና QR ኮድ ማመንጫ። ተጠቃሚዎች መረጃ ያስገባሉ፣ ንድፉን ያስተካክላሉ እና ለህትመት ዝግጁ የሆነ PNG ያወርዳሉ።"
+ "project.description.ineedbarcode": "100+ የባርኮድ አይነቶች ያሉት ነፃ የባርኮድ እና QR ኮድ ማመንጫ። ተጠቃሚዎች መረጃ ያስገባሉ፣ ንድፉን ያስተካክላሉ እና ለህትመት ዝግጁ የሆነ PNG ያወርዳሉ።",
+ "legal.privacy": "የግላዊነት ፖሊሲ",
+ "legal.terms": "ውሎች እና ሁኔታዎች",
+ "legal.cookies": "የኩኪ ፖሊሲ",
+ "aria.legal": "ሕጋዊ መረጃ"
 }

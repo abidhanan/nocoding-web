@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Websajt għat-tniżżil mis-social media",
  "project.description.ineedsave": "Websajt b'xejn biex tniżżel vidjows, ritratti u awdjo minn TikTok, Instagram, Facebook, X u pjattaformi oħra. Waħħal link, agħżel il-kwalità u ssejvja.",
  "project.category.ineedbarcode": "Websajt ta' ġeneratur ta' barcode u QR code",
- "project.description.ineedbarcode": "Ġeneratur ta' barcode u QR code b'xejn b'100+ tip ta' barcode. L-utenti jdaħħlu d-data, jaġġustaw id-disinn u jniżżlu PNG lest għall-istampar."
+ "project.description.ineedbarcode": "Ġeneratur ta' barcode u QR code b'xejn b'100+ tip ta' barcode. L-utenti jdaħħlu d-data, jaġġustaw id-disinn u jniżżlu PNG lest għall-istampar.",
+ "legal.privacy": "Politika tal-Privatezza",
+ "legal.terms": "Termini u Kundizzjonijiet",
+ "legal.cookies": "Politika tal-Cookies",
+ "aria.legal": "Informazzjoni legali"
 }

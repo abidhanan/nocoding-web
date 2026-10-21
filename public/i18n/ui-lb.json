@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Websäit fir Downloads vu sozialen Medien",
  "project.description.ineedsave": "Gratis Websäit fir Videoen, Fotoen an Audio vun TikTok, Instagram, Facebook, X an aneren Plattformen erofzelueden. Setzt e Link an, wielt d'Qualitéit aus a späichert.",
  "project.category.ineedbarcode": "Websäit fir Barcode- a QR-Code-Generator",
- "project.description.ineedbarcode": "Gratis Barcode- a QR-Code-Generator mat 100+ Barcode-Typen. D'Benotzer ginn Daten an, passen den Design un an luede e PNG erof, dat prett ass fir den Dréck."
+ "project.description.ineedbarcode": "Gratis Barcode- a QR-Code-Generator mat 100+ Barcode-Typen. D'Benotzer ginn Daten an, passen den Design un an luede e PNG erof, dat prett ass fir den Dréck.",
+ "legal.privacy": "Dateschutzrichtlinn",
+ "legal.terms": "Allgemeng Konditiounen",
+ "legal.cookies": "Cookie-Richtlinn",
+ "aria.legal": "Rechtlech Informatiounen"
 }

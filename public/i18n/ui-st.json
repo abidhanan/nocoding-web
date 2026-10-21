@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Webosaete ea ho jarolla ho tsoa mecheng ea sechaba",
  "project.description.ineedsave": "Webosaete ea mahala ea ho jarolla livideo, linepe le molumo ho tsoa TikTok, Instagram, Facebook, X le mekhoa e meng. Kopitsa khokahano, khetha boleng, ebe u boloka.",
  "project.category.ineedbarcode": "Webosaete ea ho etsa barcode le QR code",
- "project.description.ineedbarcode": "Sebopeho sa mahala sa barcode le QR code se nang le mefuta ea barcode e 100+. Basebelisi ba kenya lintlha, ba fetola moralo, ebe ba jarolla PNG e lokiselitsoeng ho hatisoa."
+ "project.description.ineedbarcode": "Sebopeho sa mahala sa barcode le QR code se nang le mefuta ea barcode e 100+. Basebelisi ba kenya lintlha, ba fetola moralo, ebe ba jarolla PNG e lokiselitsoeng ho hatisoa.",
+ "legal.privacy": "Leano la Lekunutu",
+ "legal.terms": "Melao le Maemo",
+ "legal.cookies": "Leano la Cookie",
+ "aria.legal": "Tlhahisoleseling ea molao"
 }

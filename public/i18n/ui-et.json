@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Sotsiaalmeedia allalaadimise veebisait",
  "project.description.ineedsave": "Tasuta veebisait videote, fotode ja heli allalaadimiseks platvormidelt TikTok, Instagram, Facebook, X jt. Kleebi link, vali kvaliteet ja salvesta.",
  "project.category.ineedbarcode": "Vöötkoodi ja QR-koodi generaatori veebisait",
- "project.description.ineedbarcode": "Tasuta vöötkoodi ja QR-koodi generaator 100+ vöötkoodi tüübiga. Kasutajad sisestavad andmed, kohandavad kujundust ja laadivad alla trükivalmis PNG."
+ "project.description.ineedbarcode": "Tasuta vöötkoodi ja QR-koodi generaator 100+ vöötkoodi tüübiga. Kasutajad sisestavad andmed, kohandavad kujundust ja laadivad alla trükivalmis PNG.",
+ "legal.privacy": "Privaatsuspoliitika",
+ "legal.terms": "Kasutustingimused",
+ "legal.cookies": "Küpsisepoliitika",
+ "aria.legal": "Õiguslik teave"
 }

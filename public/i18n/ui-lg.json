@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Omukutu gw'okuggyako ebiri ku mikutu emigatta abantu",
  "project.description.ineedsave": "Omukutu ogwa bwereere ogw'okuggyako vidiyo, ebifaananyi n'eddoboozi okuva ku TikTok, Instagram, Facebook, X n'emikutu emirala. Teeka link, londa omutindo, olwo okuume.",
  "project.category.ineedbarcode": "Omukutu ogukola barcode ne QR code",
- "project.description.ineedbarcode": "Ekikozesebwa ekya bwereere ekikola barcode ne QR code nga kirina ebika bya barcode 100+. Abakozesa bateeka data, bakyusa dizayini, ne baggyako PNG eyeetegefu okukubibwa."
+ "project.description.ineedbarcode": "Ekikozesebwa ekya bwereere ekikola barcode ne QR code nga kirina ebika bya barcode 100+. Abakozesa bateeka data, bakyusa dizayini, ne baggyako PNG eyeetegefu okukubibwa.",
+ "legal.privacy": "Enkola y'Ebyama",
+ "legal.terms": "Amateeka n'Obukwakkulizo",
+ "legal.cookies": "Enkola ya Cookie",
+ "aria.legal": "Amawulire g'amateeka"
 }

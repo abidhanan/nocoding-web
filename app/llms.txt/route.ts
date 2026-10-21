@@ -40,6 +40,11 @@ ${projects.map((project) => `- ${project.name}: ${project.category}. ${project.d
 - TikTok: https://www.tiktok.com/@nocoding._
 - Website: ${siteUrl} (available in 185 languages)
 
+## Legal / Legal
+- Privacy Policy: ${siteUrl}/kebijakan-privasi
+- Terms and Conditions: ${siteUrl}/syarat-ketentuan
+- Cookie Policy: ${siteUrl}/kebijakan-cookie
+
 ## Articles / Artikel
 Full text of every article in Markdown: ${siteUrl}/llms-full.txt
 ${articles.map((article) => `- [${article.title}](${siteUrl}/artikel/${article.slug}): ${article.excerpt}`).join("\n")}

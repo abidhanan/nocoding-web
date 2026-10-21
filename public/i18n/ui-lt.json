@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Svetainė turiniui iš socialinių tinklų atsisiųsti",
  "project.description.ineedsave": "Nemokama svetainė vaizdo įrašams, nuotraukoms ir garso įrašams atsisiųsti iš TikTok, Instagram, Facebook, X ir kitų platformų. Įklijuokite nuorodą, pasirinkite kokybę ir išsaugokite.",
  "project.category.ineedbarcode": "Brūkšninių kodų ir QR kodų generatoriaus svetainė",
- "project.description.ineedbarcode": "Nemokamas brūkšninių kodų ir QR kodų generatorius su 100+ brūkšninių kodų tipų. Naudotojai įveda duomenis, pritaiko dizainą ir atsisiunčia spaudai paruoštą PNG."
+ "project.description.ineedbarcode": "Nemokamas brūkšninių kodų ir QR kodų generatorius su 100+ brūkšninių kodų tipų. Naudotojai įveda duomenis, pritaiko dizainą ir atsisiunčia spaudai paruoštą PNG.",
+ "legal.privacy": "Privatumo politika",
+ "legal.terms": "Taisyklės ir sąlygos",
+ "legal.cookies": "Slapukų politika",
+ "aria.legal": "Teisinė informacija"
 }

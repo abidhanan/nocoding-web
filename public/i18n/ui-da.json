@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Hjemmeside til download fra sociale medier",
  "project.description.ineedsave": "Gratis hjemmeside til at downloade videoer, billeder og lyd fra TikTok, Instagram, Facebook, X og andre platforme. Indsæt et link, vælg kvaliteten og gem.",
  "project.category.ineedbarcode": "Hjemmeside til stregkode- og QR-kodegenerator",
- "project.description.ineedbarcode": "Gratis stregkode- og QR-kodegenerator med 100+ stregkodetyper. Brugere indtaster data, tilpasser designet og downloader en printklar PNG."
+ "project.description.ineedbarcode": "Gratis stregkode- og QR-kodegenerator med 100+ stregkodetyper. Brugere indtaster data, tilpasser designet og downloader en printklar PNG.",
+ "legal.privacy": "Privatlivspolitik",
+ "legal.terms": "Vilkår og betingelser",
+ "legal.cookies": "Cookiepolitik",
+ "aria.legal": "Juridiske oplysninger"
 }

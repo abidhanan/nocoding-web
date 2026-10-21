@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Web stranica za preuzimanje s društvenih mreža",
  "project.description.ineedsave": "Besplatna web stranica za preuzimanje videa, fotografija i zvuka s TikTok, Instagram, Facebook, X i drugih platformi. Zalijepite poveznicu, odaberite kvalitetu i spremite.",
  "project.category.ineedbarcode": "Web stranica za izradu crtičnih kodova i QR kodova",
- "project.description.ineedbarcode": "Besplatni generator crtičnih kodova i QR kodova sa 100+ vrsta crtičnih kodova. Korisnici unose podatke, prilagođavaju dizajn i preuzimaju PNG spreman za ispis."
+ "project.description.ineedbarcode": "Besplatni generator crtičnih kodova i QR kodova sa 100+ vrsta crtičnih kodova. Korisnici unose podatke, prilagođavaju dizajn i preuzimaju PNG spreman za ispis.",
+ "legal.privacy": "Pravila privatnosti",
+ "legal.terms": "Uvjeti korištenja",
+ "legal.cookies": "Pravila o kolačićima",
+ "aria.legal": "Pravne informacije"
 }

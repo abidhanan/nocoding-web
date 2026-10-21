@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Situs pengunduh medsos",
  "project.description.ineedsave": "Situs gratis buat ngunduh video, foto, ama audio dari TikTok, Instagram, Facebook, X, ama platform laennye. Tempel link, pilih kualitas, terus simpen.",
  "project.category.ineedbarcode": "Situs pembuat barcode & kode QR",
- "project.description.ineedbarcode": "Pembuat barcode ama kode QR gratis dengan 100+ jenis barcode. Pengguna masukin data, atur desain, terus unduh PNG yang siap dicetak."
+ "project.description.ineedbarcode": "Pembuat barcode ama kode QR gratis dengan 100+ jenis barcode. Pengguna masukin data, atur desain, terus unduh PNG yang siap dicetak.",
+ "legal.privacy": "Kebijakan Privasi",
+ "legal.terms": "Syarat ame Ketentuan",
+ "legal.cookies": "Kebijakan Cookie",
+ "aria.legal": "Informasi hukum"
 }

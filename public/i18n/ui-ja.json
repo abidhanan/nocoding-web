@@ -293,5 +293,9 @@
  "project.category.ineedsave": "SNSダウンロードサイト",
  "project.description.ineedsave": "TikTok、Instagram、Facebook、Xなどのプラットフォームから動画・写真・音声をダウンロードできる無料サイト。リンクを貼り付け、画質を選んで保存するだけ。",
  "project.category.ineedbarcode": "バーコード・QRコード作成サイト",
- "project.description.ineedbarcode": "100+種類のバーコードに対応した無料のバーコード・QRコードジェネレーター。データを入力してデザインを調整し、印刷に適したPNGをダウンロードできます。"
+ "project.description.ineedbarcode": "100+種類のバーコードに対応した無料のバーコード・QRコードジェネレーター。データを入力してデザインを調整し、印刷に適したPNGをダウンロードできます。",
+ "legal.privacy": "プライバシーポリシー",
+ "legal.terms": "利用規約",
+ "legal.cookies": "Cookieポリシー",
+ "aria.legal": "法的情報"
 }

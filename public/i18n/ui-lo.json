@@ -293,5 +293,9 @@
  "project.category.ineedsave": "ເວັບໄຊດາວໂຫລດຈາກໂຊຊຽນມີເດຍ",
  "project.description.ineedsave": "ເວັບໄຊຟຣີສຳລັບດາວໂຫລດວິດີໂອ, ຮູບພາບ ແລະ ສຽງຈາກ TikTok, Instagram, Facebook, X ແລະ ແພລດຟອມອື່ນໆ. ວາງລິ້ງ, ເລືອກຄຸນນະພາບ ແລ້ວບັນທຶກ.",
  "project.category.ineedbarcode": "ເວັບໄຊສ້າງບາໂຄດ ແລະ QR code",
- "project.description.ineedbarcode": "ເຄື່ອງມືສ້າງບາໂຄດ ແລະ QR code ຟຣີ ທີ່ມີບາໂຄດ 100+ ປະເພດ. ຜູ້ໃຊ້ໃສ່ຂໍ້ມູນ, ປັບແຕ່ງດີໄຊນ໌ ແລະ ດາວໂຫລດ PNG ທີ່ພ້ອມພິມ."
+ "project.description.ineedbarcode": "ເຄື່ອງມືສ້າງບາໂຄດ ແລະ QR code ຟຣີ ທີ່ມີບາໂຄດ 100+ ປະເພດ. ຜູ້ໃຊ້ໃສ່ຂໍ້ມູນ, ປັບແຕ່ງດີໄຊນ໌ ແລະ ດາວໂຫລດ PNG ທີ່ພ້ອມພິມ.",
+ "legal.privacy": "ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ",
+ "legal.terms": "ຂໍ້ກຳນົດແລະເງື່ອນໄຂ",
+ "legal.cookies": "ນະໂຍບາຍຄຸກກີ",
+ "aria.legal": "ຂໍ້ມູນທາງກົດໝາຍ"
 }

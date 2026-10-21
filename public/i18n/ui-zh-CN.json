@@ -293,5 +293,9 @@
  "project.category.ineedsave": "社交媒体下载网站",
  "project.description.ineedsave": "免费网站，可下载 TikTok、Instagram、Facebook、X 等平台的视频、照片和音频。粘贴链接，选择画质，即可保存。",
  "project.category.ineedbarcode": "条形码和二维码生成网站",
- "project.description.ineedbarcode": "免费条形码和二维码生成器，支持 100+ 种条形码类型。用户输入数据、调整设计，即可下载可直接打印的 PNG。"
+ "project.description.ineedbarcode": "免费条形码和二维码生成器，支持 100+ 种条形码类型。用户输入数据、调整设计，即可下载可直接打印的 PNG。",
+ "legal.privacy": "隐私政策",
+ "legal.terms": "条款和条件",
+ "legal.cookies": "Cookie 政策",
+ "aria.legal": "法律信息"
 }

@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Webosaete ya go laolola mo dikgokaganyong tsa loago",
  "project.description.ineedsave": "Webosaete ya mahala ya go laolola dibidio, ditshwantsho le modumo go tswa kwa TikTok, Instagram, Facebook, X le diplatform tse dingwe. Kopiela kgokagano, tlhopha boleng, mme o boloke.",
  "project.category.ineedbarcode": "Webosaete ya go dira barcode le QR code",
- "project.description.ineedbarcode": "Sedirisiwa sa mahala sa barcode le QR code se se nang le mefuta ya barcode e le 100+. Badirisi ba tsenya tshedimosetso, ba fetola moakanyetso, mme ba laolola PNG e e siametseng go gatisiwa."
+ "project.description.ineedbarcode": "Sedirisiwa sa mahala sa barcode le QR code se se nang le mefuta ya barcode e le 100+. Badirisi ba tsenya tshedimosetso, ba fetola moakanyetso, mme ba laolola PNG e e siametseng go gatisiwa.",
+ "legal.privacy": "Pholisi ya Sephiri",
+ "legal.terms": "Melao le Dipaka",
+ "legal.cookies": "Pholisi ya Cookie",
+ "aria.legal": "Tshedimosetso ya molao"
 }

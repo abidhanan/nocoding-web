@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Sosiyali medi jiginni webusiti",
  "project.description.ineedsave": "Webusiti min tɛ sɔngɔ ɲini, a bɛ se ka widewo, foto ni dɔnkili jigin TikTok, Instagram, Facebook, X ni platifɔrimu wɛrɛw ma. Link dilan yan, kalite sugandi, ka a mara.",
  "project.category.ineedbarcode": "Barcode ni QR code dilanni webusiti",
- "project.description.ineedbarcode": "Barcode ni QR code dilan baara min tɛ sɔngɔ ɲini, barcode suguya 100+ b'a la. Baarakɛlaw bɛ data don, ka ja cogoya yɛlɛma, ka PNG min labɛnnen don dabɔli kama jigin."
+ "project.description.ineedbarcode": "Barcode ni QR code dilan baara min tɛ sɔngɔ ɲini, barcode suguya 100+ b'a la. Baarakɛlaw bɛ data don, ka ja cogoya yɛlɛma, ka PNG min labɛnnen don dabɔli kama jigin.",
+ "legal.privacy": "Gundo sariya",
+ "legal.terms": "Sariyaw ni Danni",
+ "legal.cookies": "Cookie sariya",
+ "aria.legal": "Sariya kunnafoni"
 }

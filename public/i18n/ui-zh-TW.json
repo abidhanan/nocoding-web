@@ -293,5 +293,9 @@
  "project.category.ineedsave": "社群媒體下載網站",
  "project.description.ineedsave": "免費網站，可下載 TikTok、Instagram、Facebook、X 等平台的影片、照片和音訊。貼上連結、選擇畫質，即可儲存。",
  "project.category.ineedbarcode": "條碼與 QR 碼產生器網站",
- "project.description.ineedbarcode": "免費條碼與 QR 碼產生器，支援 100+ 種條碼類型。使用者輸入資料、調整設計，即可下載可直接列印的 PNG。"
+ "project.description.ineedbarcode": "免費條碼與 QR 碼產生器，支援 100+ 種條碼類型。使用者輸入資料、調整設計，即可下載可直接列印的 PNG。",
+ "legal.privacy": "隱私權政策",
+ "legal.terms": "條款與條件",
+ "legal.cookies": "Cookie 政策",
+ "aria.legal": "法律資訊"
 }

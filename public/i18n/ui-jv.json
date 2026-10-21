@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Situs pangundhuh media sosial",
  "project.description.ineedsave": "Situs gratis kanggo ngundhuh video, foto, lan audio saka TikTok, Instagram, Facebook, X, lan platform liyane. Tempelna tautan, pilih kualitas, lan simpen.",
  "project.category.ineedbarcode": "Situs generator barcode & kode QR",
- "project.description.ineedbarcode": "Generator barcode lan kode QR gratis kanthi 100+ jinis barcode. Pangguna ngisi data, nyetel desain, lan ngundhuh PNG sing siap dicithak."
+ "project.description.ineedbarcode": "Generator barcode lan kode QR gratis kanthi 100+ jinis barcode. Pangguna ngisi data, nyetel desain, lan ngundhuh PNG sing siap dicithak.",
+ "legal.privacy": "Kabijakan Privasi",
+ "legal.terms": "Syarat lan Ketentuan",
+ "legal.cookies": "Kabijakan Cookie",
+ "aria.legal": "Informasi hukum"
 }

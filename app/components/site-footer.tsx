@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import CenteredScrollLink from "./centered-scroll-link";
 import { LocalizedText } from "./localized-text";
 import { createWhatsAppHref, whatsappDisplay } from "./projects-data";
@@ -110,7 +111,23 @@ export function Footer() {
           </div>
         </div>
 
-        <div className="mt-7 flex min-h-[4.75rem] items-center justify-center border-t border-white/10 text-center text-[0.72rem] text-slate-400">
+        <div className="mt-7 flex min-h-[4.75rem] flex-col items-center justify-center gap-2 border-t border-white/10 py-4 text-center text-[0.72rem] text-slate-400">
+          <nav aria-label="Informasi legal" data-i18n-aria="aria.legal" className="flex flex-wrap items-center justify-center gap-x-5 gap-y-1">
+            {[
+              { href: "/kebijakan-privasi", id: "legal.privacy", label: "Kebijakan Privasi" },
+              { href: "/syarat-ketentuan", id: "legal.terms", label: "Syarat dan Ketentuan" },
+              { href: "/kebijakan-cookie", id: "legal.cookies", label: "Kebijakan Cookie" },
+            ].map((item) => (
+              <Link
+                key={item.href}
+                prefetch={false}
+                href={item.href}
+                className="transition hover:text-brand-cyan focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-cyan"
+              >
+                <LocalizedText id={item.id}>{item.label}</LocalizedText>
+              </Link>
+            ))}
+          </nav>
           <p>
             <LocalizedText id="footer.copyright.prefix">&copy; 2026 Nocoding - Dibuat oleh</LocalizedText>{" "}
             <a

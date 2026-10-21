@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Urubuga rwo gukuramo ibyo ku mbuga nkoranyambaga",
  "project.description.ineedsave": "Urubuga rutishyurwa rwo gukuramo amashusho, amafoto n'amajwi kuri TikTok, Instagram, Facebook, X n'izindi mbuga. Shyiramo umurongo, hitamo ubuziranenge, hanyuma ubibike.",
  "project.category.ineedbarcode": "Urubuga rwo gukora barcode na QR code",
- "project.description.ineedbarcode": "Igikoresho kitishyurwa cyo gukora barcode na QR code gifite ubwoko bwa barcode 100+. Abakoresha bashyiramo amakuru, bagahindura imiterere, bagakuramo PNG yiteguye gucapwa."
+ "project.description.ineedbarcode": "Igikoresho kitishyurwa cyo gukora barcode na QR code gifite ubwoko bwa barcode 100+. Abakoresha bashyiramo amakuru, bagahindura imiterere, bagakuramo PNG yiteguye gucapwa.",
+ "legal.privacy": "Politiki y'Ibanga",
+ "legal.terms": "Amategeko n'Amabwiriza",
+ "legal.cookies": "Politiki ya Cookie",
+ "aria.legal": "Amakuru y'amategeko"
 }

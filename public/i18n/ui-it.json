@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Sito per scaricare dai social media",
  "project.description.ineedsave": "Sito web gratuito per scaricare video, foto e audio da TikTok, Instagram, Facebook, X e altre piattaforme. Incolla un link, scegli la qualità e salva.",
  "project.category.ineedbarcode": "Sito generatore di codici a barre e QR code",
- "project.description.ineedbarcode": "Generatore gratuito di codici a barre e QR code con 100+ tipi di codici a barre. Gli utenti inseriscono i dati, regolano il design e scaricano un PNG pronto per la stampa."
+ "project.description.ineedbarcode": "Generatore gratuito di codici a barre e QR code con 100+ tipi di codici a barre. Gli utenti inseriscono i dati, regolano il design e scaricano un PNG pronto per la stampa.",
+ "legal.privacy": "Informativa sulla privacy",
+ "legal.terms": "Termini e condizioni",
+ "legal.cookies": "Cookie Policy",
+ "aria.legal": "Informazioni legali"
 }

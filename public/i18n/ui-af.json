@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Webwerf vir die aflaai van sosiale media",
  "project.description.ineedsave": "Gratis webwerf om video's, foto's en oudio van TikTok, Instagram, Facebook, X en ander platforms af te laai. Plak 'n skakel, kies die gehalte en stoor.",
  "project.category.ineedbarcode": "Strepieskode- en QR-kode-generator-webwerf",
- "project.description.ineedbarcode": "Gratis strepieskode- en QR-kodegenerator met 100+ strepieskodetipes. Gebruikers voer data in, pas die ontwerp aan en laai 'n drukklaar PNG af."
+ "project.description.ineedbarcode": "Gratis strepieskode- en QR-kodegenerator met 100+ strepieskodetipes. Gebruikers voer data in, pas die ontwerp aan en laai 'n drukklaar PNG af.",
+ "legal.privacy": "Privaatheidsbeleid",
+ "legal.terms": "Bepalings en Voorwaardes",
+ "legal.cookies": "Koekiebeleid",
+ "aria.legal": "Regsinligting"
 }

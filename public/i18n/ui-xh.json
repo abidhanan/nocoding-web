@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Iwebhusayithi yokukhuphela kwimidiya yoluntu",
  "project.description.ineedsave": "Iwebhusayithi ysimahla yokukhuphela iividiyo, iifoto nesandi ukusuka kwi-TikTok, Instagram, Facebook, X nakwezinye iindawo. Namathelisa ikhonkco, khetha umgangatho, uze ugcine.",
  "project.category.ineedbarcode": "Iwebhusayithi yokwenza i-barcode ne-QR code",
- "project.description.ineedbarcode": "Isenzi se-barcode ne-QR code simahla esinentlobo ze-barcode ezingama-100+. Abasebenzisi bafaka idatha, balungelelanise uyilo, bakhuphele i-PNG ekulungele ukushicilelwa."
+ "project.description.ineedbarcode": "Isenzi se-barcode ne-QR code simahla esinentlobo ze-barcode ezingama-100+. Abasebenzisi bafaka idatha, balungelelanise uyilo, bakhuphele i-PNG ekulungele ukushicilelwa.",
+ "legal.privacy": "Umgaqo-nkqubo wabucala",
+ "legal.terms": "Imigaqo nemiqathango",
+ "legal.cookies": "Umgaqo-nkqubo weekhuki",
+ "aria.legal": "Ulwazi lomthetho"
 }

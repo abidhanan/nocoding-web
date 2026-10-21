@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Web ke stahování ze sociálních sítí",
  "project.description.ineedsave": "Bezplatný web pro stahování videí, fotek a zvuku ze sítí TikTok, Instagram, Facebook, X a dalších platforem. Vložte odkaz, vyberte kvalitu a uložte.",
  "project.category.ineedbarcode": "Web pro tvorbu čárových a QR kódů",
- "project.description.ineedbarcode": "Bezplatný generátor čárových kódů a QR kódů se 100+ typy čárových kódů. Uživatelé zadají data, upraví design a stáhnou PNG připravené k tisku."
+ "project.description.ineedbarcode": "Bezplatný generátor čárových kódů a QR kódů se 100+ typy čárových kódů. Uživatelé zadají data, upraví design a stáhnou PNG připravené k tisku.",
+ "legal.privacy": "Zásady ochrany osobních údajů",
+ "legal.terms": "Obchodní podmínky",
+ "legal.cookies": "Zásady cookies",
+ "aria.legal": "Právní informace"
 }

@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Sosiaalisen median lataussivusto",
  "project.description.ineedsave": "Ilmainen verkkosivusto videoiden, kuvien ja äänen lataamiseen TikTok-, Instagram-, Facebook- ja X-palveluista sekä muilta alustoilta. Liitä linkki, valitse laatu ja tallenna.",
  "project.category.ineedbarcode": "Viivakoodi- ja QR-koodigeneraattori",
- "project.description.ineedbarcode": "Ilmainen viivakoodi- ja QR-koodigeneraattori, jossa on 100+ viivakoodityyppiä. Käyttäjät syöttävät tiedot, säätävät ulkoasua ja lataavat tulostusvalmiin PNG-tiedoston."
+ "project.description.ineedbarcode": "Ilmainen viivakoodi- ja QR-koodigeneraattori, jossa on 100+ viivakoodityyppiä. Käyttäjät syöttävät tiedot, säätävät ulkoasua ja lataavat tulostusvalmiin PNG-tiedoston.",
+ "legal.privacy": "Tietosuojakäytäntö",
+ "legal.terms": "Käyttöehdot",
+ "legal.cookies": "Evästekäytäntö",
+ "aria.legal": "Oikeudelliset tiedot"
 }

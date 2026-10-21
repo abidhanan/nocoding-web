@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Website para ha pag-download tikang ha social media",
  "project.description.ineedsave": "Libre nga website para ha pag-download hin mga video, litrato, ngan audio tikang ha TikTok, Instagram, Facebook, X, ngan iba pa nga platform. I-paste an link, pilia an kalidad, ngan i-save.",
  "project.category.ineedbarcode": "Website nga naghihimo hin barcode ngan QR code",
- "project.description.ineedbarcode": "Libre nga barcode ngan QR code generator nga may 100+ nga klase hin barcode. An mga user nagbubutang hin data, nag-aayos han disenyo, ngan nagda-download hin PNG nga andam na i-print."
+ "project.description.ineedbarcode": "Libre nga barcode ngan QR code generator nga may 100+ nga klase hin barcode. An mga user nagbubutang hin data, nag-aayos han disenyo, ngan nagda-download hin PNG nga andam na i-print.",
+ "legal.privacy": "Palisiya han Pribasiya",
+ "legal.terms": "Mga Termino ngan Kondisyon",
+ "legal.cookies": "Palisiya han Cookie",
+ "aria.legal": "Legal nga impormasyon"
 }

@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Website tải nội dung mạng xã hội",
  "project.description.ineedsave": "Website miễn phí để tải video, ảnh và âm thanh từ TikTok, Instagram, Facebook, X và các nền tảng khác. Dán liên kết, chọn chất lượng rồi lưu.",
  "project.category.ineedbarcode": "Website tạo mã vạch và mã QR",
- "project.description.ineedbarcode": "Trình tạo mã vạch và mã QR miễn phí với 100+ loại mã vạch. Người dùng nhập dữ liệu, tùy chỉnh thiết kế và tải về file PNG sẵn sàng để in."
+ "project.description.ineedbarcode": "Trình tạo mã vạch và mã QR miễn phí với 100+ loại mã vạch. Người dùng nhập dữ liệu, tùy chỉnh thiết kế và tải về file PNG sẵn sàng để in.",
+ "legal.privacy": "Chính sách quyền riêng tư",
+ "legal.terms": "Điều khoản và điều kiện",
+ "legal.cookies": "Chính sách cookie",
+ "aria.legal": "Thông tin pháp lý"
 }

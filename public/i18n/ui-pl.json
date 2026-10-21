@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Strona do pobierania z mediów społecznościowych",
  "project.description.ineedsave": "Bezpłatna strona do pobierania filmów, zdjęć i dźwięku z platform takich jak TikTok, Instagram, Facebook, X i innych. Wklej link, wybierz jakość i zapisz.",
  "project.category.ineedbarcode": "Strona do generowania kodów kreskowych i QR",
- "project.description.ineedbarcode": "Bezpłatny generator kodów kreskowych i kodów QR ze 100+ typami kodów kreskowych. Użytkownicy wpisują dane, dopasowują projekt i pobierają plik PNG gotowy do druku."
+ "project.description.ineedbarcode": "Bezpłatny generator kodów kreskowych i kodów QR ze 100+ typami kodów kreskowych. Użytkownicy wpisują dane, dopasowują projekt i pobierają plik PNG gotowy do druku.",
+ "legal.privacy": "Polityka prywatności",
+ "legal.terms": "Regulamin",
+ "legal.cookies": "Polityka plików cookie",
+ "aria.legal": "Informacje prawne"
 }

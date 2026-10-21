@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Web para descargar de redes sociais",
  "project.description.ineedsave": "Web gratuíta para descargar vídeos, fotos e audio de TikTok, Instagram, Facebook, X e outras plataformas. Pega unha ligazón, escolle a calidade e garda.",
  "project.category.ineedbarcode": "Web xeradora de códigos de barras e QR",
- "project.description.ineedbarcode": "Xerador gratuíto de códigos de barras e códigos QR con 100+ tipos de códigos de barras. As persoas usuarias introducen os datos, axustan o deseño e descargan un PNG listo para imprimir."
+ "project.description.ineedbarcode": "Xerador gratuíto de códigos de barras e códigos QR con 100+ tipos de códigos de barras. As persoas usuarias introducen os datos, axustan o deseño e descargan un PNG listo para imprimir.",
+ "legal.privacy": "Política de privacidade",
+ "legal.terms": "Termos e condicións",
+ "legal.cookies": "Política de cookies",
+ "aria.legal": "Información legal"
 }

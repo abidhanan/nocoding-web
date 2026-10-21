@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Vefsíða til að sækja efni af samfélagsmiðlum",
  "project.description.ineedsave": "Ókeypis vefsíða til að sækja myndbönd, myndir og hljóð af TikTok, Instagram, Facebook, X og öðrum miðlum. Límdu inn hlekk, veldu gæðin og vistaðu.",
  "project.category.ineedbarcode": "Vefsíða fyrir strikamerki og QR-kóða",
- "project.description.ineedbarcode": "Ókeypis strikamerkja- og QR-kóðasmiður með 100+ gerðum strikamerkja. Notendur slá inn gögn, stilla hönnunina og sækja PNG sem er tilbúið til prentunar."
+ "project.description.ineedbarcode": "Ókeypis strikamerkja- og QR-kóðasmiður með 100+ gerðum strikamerkja. Notendur slá inn gögn, stilla hönnunina og sækja PNG sem er tilbúið til prentunar.",
+ "legal.privacy": "Persónuverndarstefna",
+ "legal.terms": "Skilmálar",
+ "legal.cookies": "Vafrakökustefna",
+ "aria.legal": "Lagalegar upplýsingar"
 }

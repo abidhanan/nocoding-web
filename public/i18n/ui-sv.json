@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Webbplats för nedladdning från sociala medier",
  "project.description.ineedsave": "Gratis webbplats för att ladda ner videor, bilder och ljud från TikTok, Instagram, Facebook, X och andra plattformar. Klistra in en länk, välj kvalitet och spara.",
  "project.category.ineedbarcode": "Webbplats för streckkods- och QR-kodsgenerator",
- "project.description.ineedbarcode": "Gratis streckkods- och QR-kodsgenerator med 100+ streckkodstyper. Användare anger data, justerar designen och laddar ner en utskriftsklar PNG."
+ "project.description.ineedbarcode": "Gratis streckkods- och QR-kodsgenerator med 100+ streckkodstyper. Användare anger data, justerar designen och laddar ner en utskriftsklar PNG.",
+ "legal.privacy": "Integritetspolicy",
+ "legal.terms": "Användarvillkor",
+ "legal.cookies": "Cookiepolicy",
+ "aria.legal": "Juridisk information"
 }

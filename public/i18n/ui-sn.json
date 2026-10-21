@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Webhusaiti yekudownloada kubva pamasocial media",
  "project.description.ineedsave": "Webhusaiti yemahara yekudownloada mavhidhiyo, mifananidzo, nenzwi kubva paTikTok, Instagram, Facebook, X, nedzimwe nzvimbo. Namira link, sarudza mhando, wozochengeta.",
  "project.category.ineedbarcode": "Webhusaiti yekugadzira barcode neQR code",
- "project.description.ineedbarcode": "Chishandiso chemahara chekugadzira barcode neQR code chine marudzi eBarcode 100+. Vashandisi vanoisa data, vanochinja dhizaini, uye vanodownloada PNG yakagadzirira kudhindwa."
+ "project.description.ineedbarcode": "Chishandiso chemahara chekugadzira barcode neQR code chine marudzi eBarcode 100+. Vashandisi vanoisa data, vanochinja dhizaini, uye vanodownloada PNG yakagadzirira kudhindwa.",
+ "legal.privacy": "Mutemo Wakavanzika",
+ "legal.terms": "Mitemo neMamiriro",
+ "legal.cookies": "Mutemo weCookie",
+ "aria.legal": "Ruzivo rwepamutemo"
 }

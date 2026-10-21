@@ -293,5 +293,9 @@
  "project.category.ineedsave": "소셜 미디어 다운로더 웹사이트",
  "project.description.ineedsave": "TikTok, Instagram, Facebook, X 등 여러 플랫폼의 동영상, 사진, 오디오를 내려받는 무료 웹사이트입니다. 링크를 붙여넣고 화질을 선택해 저장하세요.",
  "project.category.ineedbarcode": "바코드 및 QR 코드 생성 웹사이트",
- "project.description.ineedbarcode": "100+가지 바코드 유형을 지원하는 무료 바코드 및 QR 코드 생성기입니다. 데이터를 입력하고 디자인을 조정한 뒤 인쇄용 PNG를 다운로드하세요."
+ "project.description.ineedbarcode": "100+가지 바코드 유형을 지원하는 무료 바코드 및 QR 코드 생성기입니다. 데이터를 입력하고 디자인을 조정한 뒤 인쇄용 PNG를 다운로드하세요.",
+ "legal.privacy": "개인정보 처리방침",
+ "legal.terms": "이용약관",
+ "legal.cookies": "쿠키 정책",
+ "aria.legal": "법적 고지"
 }

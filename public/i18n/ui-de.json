@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Website zum Herunterladen von Social-Media-Inhalten",
  "project.description.ineedsave": "Kostenlose Website zum Herunterladen von Videos, Fotos und Audio von TikTok, Instagram, Facebook, X und weiteren Plattformen. Link einfügen, Qualität wählen und speichern.",
  "project.category.ineedbarcode": "Barcode- und QR-Code-Generator-Website",
- "project.description.ineedbarcode": "Kostenloser Barcode- und QR-Code-Generator mit 100+ Barcode-Typen. Nutzer geben Daten ein, passen das Design an und laden ein druckfertiges PNG herunter."
+ "project.description.ineedbarcode": "Kostenloser Barcode- und QR-Code-Generator mit 100+ Barcode-Typen. Nutzer geben Daten ein, passen das Design an und laden ein druckfertiges PNG herunter.",
+ "legal.privacy": "Datenschutzerklärung",
+ "legal.terms": "Allgemeine Geschäftsbedingungen",
+ "legal.cookies": "Cookie-Richtlinie",
+ "aria.legal": "Rechtliche Hinweise"
 }

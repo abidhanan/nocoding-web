@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Sosial media yükləmə saytı",
  "project.description.ineedsave": "TikTok, Instagram, Facebook, X və digər platformalardan video, foto və audio yükləmək üçün pulsuz sayt. Linki yapışdırın, keyfiyyəti seçin və yadda saxlayın.",
  "project.category.ineedbarcode": "Barkod və QR kod generatoru saytı",
- "project.description.ineedbarcode": "100+ barkod növü olan pulsuz barkod və QR kod generatoru. İstifadəçilər məlumatı daxil edir, dizaynı tənzimləyir və çapa hazır PNG yükləyir."
+ "project.description.ineedbarcode": "100+ barkod növü olan pulsuz barkod və QR kod generatoru. İstifadəçilər məlumatı daxil edir, dizaynı tənzimləyir və çapa hazır PNG yükləyir.",
+ "legal.privacy": "Məxfilik Siyasəti",
+ "legal.terms": "Şərtlər və Qaydalar",
+ "legal.cookies": "Kuki Siyasəti",
+ "aria.legal": "Hüquqi məlumat"
 }

@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Website voor het downloaden van social media",
  "project.description.ineedsave": "Gratis website om video's, foto's en audio te downloaden van TikTok, Instagram, Facebook, X en andere platforms. Plak een link, kies de kwaliteit en sla op.",
  "project.category.ineedbarcode": "Website voor barcode- en QR-codegenerator",
- "project.description.ineedbarcode": "Gratis barcode- en QR-codegenerator met 100+ barcodetypes. Gebruikers voeren gegevens in, passen het ontwerp aan en downloaden een printklare PNG."
+ "project.description.ineedbarcode": "Gratis barcode- en QR-codegenerator met 100+ barcodetypes. Gebruikers voeren gegevens in, passen het ontwerp aan en downloaden een printklare PNG.",
+ "legal.privacy": "Privacybeleid",
+ "legal.terms": "Algemene voorwaarden",
+ "legal.cookies": "Cookiebeleid",
+ "aria.legal": "Juridische informatie"
 }

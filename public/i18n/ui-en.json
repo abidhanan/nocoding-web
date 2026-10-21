@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Social media downloader website",
  "project.description.ineedsave": "Free website to download videos, photos, and audio from TikTok, Instagram, Facebook, X, and other platforms. Paste a link, choose the quality, and save.",
  "project.category.ineedbarcode": "Barcode & QR code generator website",
- "project.description.ineedbarcode": "Free barcode and QR code generator with 100+ barcode types. Users enter data, adjust the design, and download a print-ready PNG."
+ "project.description.ineedbarcode": "Free barcode and QR code generator with 100+ barcode types. Users enter data, adjust the design, and download a print-ready PNG.",
+ "legal.privacy": "Privacy Policy",
+ "legal.terms": "Terms and Conditions",
+ "legal.cookies": "Cookie Policy",
+ "aria.legal": "Legal information"
 }

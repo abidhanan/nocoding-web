@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Web no te download i te media totiale",
  "project.description.ineedsave": "Web ʻōmaha ʻore no te download i te mau video, hōhoʻa e te reo mai te TikTok, Instagram, Facebook, X e te tahi atu mau platform. Tāpiri i te link, maʻiti i te quality, e tāpaʻo.",
  "project.category.ineedbarcode": "Web no te hāmani i te barcode e te QR code",
- "project.description.ineedbarcode": "Hāmani barcode e QR code ʻōmaha ʻore, e 100+ huru barcode. E haʻaputu te mau taʻata faʻaʻohipa i te data, e faʻahuru i te hoʻohoʻa, e download i te PNG ʻia au i te taʻi."
+ "project.description.ineedbarcode": "Hāmani barcode e QR code ʻōmaha ʻore, e 100+ huru barcode. E haʻaputu te mau taʻata faʻaʻohipa i te data, e faʻahuru i te hoʻohoʻa, e download i te PNG ʻia au i te taʻi.",
+ "legal.privacy": "Faanahoraa Muna",
+ "legal.terms": "Mau parau e mau tuhaa",
+ "legal.cookies": "Faanahoraa Cookie",
+ "aria.legal": "Mau parau ture"
 }

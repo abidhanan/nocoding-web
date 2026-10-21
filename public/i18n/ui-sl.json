@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Spletno mesto za prenos z družbenih omrežij",
  "project.description.ineedsave": "Brezplačno spletno mesto za prenos videoposnetkov, fotografij in zvoka s platform TikTok, Instagram, Facebook, X in drugih. Prilepite povezavo, izberite kakovost in shranite.",
  "project.category.ineedbarcode": "Spletno mesto za ustvarjanje črtnih in QR kod",
- "project.description.ineedbarcode": "Brezplačen ustvarjalnik črtnih in QR kod s 100+ vrstami črtnih kod. Uporabniki vnesejo podatke, prilagodijo zasnovo in prenesejo PNG, pripravljen za tisk."
+ "project.description.ineedbarcode": "Brezplačen ustvarjalnik črtnih in QR kod s 100+ vrstami črtnih kod. Uporabniki vnesejo podatke, prilagodijo zasnovo in prenesejo PNG, pripravljen za tisk.",
+ "legal.privacy": "Politika zasebnosti",
+ "legal.terms": "Splošni pogoji",
+ "legal.cookies": "Politika piškotkov",
+ "aria.legal": "Pravne informacije"
 }

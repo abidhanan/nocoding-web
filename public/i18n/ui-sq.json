@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Faqe për shkarkim nga rrjetet sociale",
  "project.description.ineedsave": "Faqe interneti falas për të shkarkuar video, foto dhe audio nga TikTok, Instagram, Facebook, X dhe platforma të tjera. Ngjit një lidhje, zgjidh cilësinë dhe ruaje.",
  "project.category.ineedbarcode": "Faqe gjeneruese barkodesh dhe kodesh QR",
- "project.description.ineedbarcode": "Gjenerues falas barkodesh dhe kodesh QR me 100+ lloje barkodesh. Përdoruesit fusin të dhënat, rregullojnë dizajnin dhe shkarkojnë një PNG gati për printim."
+ "project.description.ineedbarcode": "Gjenerues falas barkodesh dhe kodesh QR me 100+ lloje barkodesh. Përdoruesit fusin të dhënat, rregullojnë dizajnin dhe shkarkojnë një PNG gati për printim.",
+ "legal.privacy": "Politika e privatësisë",
+ "legal.terms": "Termat dhe kushtet",
+ "legal.cookies": "Politika e cookie-ve",
+ "aria.legal": "Informacione ligjore"
 }

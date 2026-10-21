@@ -293,5 +293,9 @@
  "project.category.ineedsave": "Suíomh gréasáin le híoslódáil ó na meáin shóisialta",
  "project.description.ineedsave": "Suíomh gréasáin saor in aisce chun físeáin, grianghraif agus fuaim a íoslódáil ó TikTok, Instagram, Facebook, X agus ardáin eile. Greamaigh nasc, roghnaigh an cháilíocht agus sábháil.",
  "project.category.ineedbarcode": "Suíomh gréasáin a ghineann barcóid agus cóid QR",
- "project.description.ineedbarcode": "Gineadóir barcóid agus cóid QR saor in aisce le 100+ cineál barcóide. Cuireann úsáideoirí sonraí isteach, athraíonn siad an dearadh agus íoslódálann siad PNG atá réidh le priontáil."
+ "project.description.ineedbarcode": "Gineadóir barcóid agus cóid QR saor in aisce le 100+ cineál barcóide. Cuireann úsáideoirí sonraí isteach, athraíonn siad an dearadh agus íoslódálann siad PNG atá réidh le priontáil.",
+ "legal.privacy": "Polasaí Príobháideachta",
+ "legal.terms": "Téarmaí agus Coinníollacha",
+ "legal.cookies": "Polasaí Fianán",
+ "aria.legal": "Faisnéis dhlíthiúil"
 }

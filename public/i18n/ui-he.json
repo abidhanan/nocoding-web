@@ -293,5 +293,9 @@
  "project.category.ineedsave": "אתר להורדה מרשתות חברתיות",
  "project.description.ineedsave": "אתר חינמי להורדת סרטונים, תמונות ואודיו מ-TikTok, Instagram, Facebook, X ופלטפורמות נוספות. מדביקים קישור, בוחרים איכות ושומרים.",
  "project.category.ineedbarcode": "אתר ליצירת ברקוד וקוד QR",
- "project.description.ineedbarcode": "מחולל ברקודים וקודי QR חינמי עם 100+ סוגי ברקוד. המשתמשים מזינים נתונים, מתאימים את העיצוב ומורידים קובץ PNG מוכן להדפסה."
+ "project.description.ineedbarcode": "מחולל ברקודים וקודי QR חינמי עם 100+ סוגי ברקוד. המשתמשים מזינים נתונים, מתאימים את העיצוב ומורידים קובץ PNG מוכן להדפסה.",
+ "legal.privacy": "מדיניות פרטיות",
+ "legal.terms": "תנאי שימוש",
+ "legal.cookies": "מדיניות עוגיות",
+ "aria.legal": "מידע משפטי"
 }

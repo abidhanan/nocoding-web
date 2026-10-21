@@ -1,4 +1,5 @@
 import { getPublishedArticles } from "../../lib/articles/store";
+import { projects } from "../components/projects-data";
 
 const siteUrl = "https://www.nocoding.web.id";
 
@@ -29,6 +30,9 @@ Nocoding adalah jasa pembuatan website, aplikasi, dan automasi yang cepat, terja
 1. Audit kebutuhan (requirements). 2. Cek rancangan (design review and approval). 3. Pengerjaan (build, including mobile view). 4. Uji dan revisi (testing and revisions). 5. Rilis (launch with basic SEO).
 Simple websites are usually ready in 1-3 working days once materials are ready.
 
+## Projects / Portofolio
+${projects.map((project) => `- ${project.name}: ${project.category}. ${project.description}`).join("\n")}
+
 ## Contact / Kontak
 - WhatsApp: +62 853-2651-3324 (https://wa.me/6285326513324)
 - Email: nocodingindonesia@gmail.com
@@ -37,6 +41,7 @@ Simple websites are usually ready in 1-3 working days once materials are ready.
 - Website: ${siteUrl} (available in 185 languages)
 
 ## Articles / Artikel
+Full text of every article in Markdown: ${siteUrl}/llms-full.txt
 ${articles.map((article) => `- [${article.title}](${siteUrl}/artikel/${article.slug}): ${article.excerpt}`).join("\n")}
 `;
 

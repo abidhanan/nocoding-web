@@ -52,13 +52,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       modifiedTime: article.updatedAt,
       section: article.categories[0],
       tags: article.categories,
-      images: article.cover ? [{ url: article.cover.src, alt: article.cover.alt }] : undefined,
     },
     twitter: {
       card: "summary_large_image",
       title: article.title,
       description: article.excerpt,
-      images: article.cover ? [article.cover.src] : undefined,
     },
   };
 }

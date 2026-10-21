@@ -2,10 +2,6 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   devIndicators: false,
-  experimental: {
-    // The Tailwind stylesheet is small: shipping it with the HTML removes a render-blocking request.
-    inlineCss: true,
-  },
   async headers() {
     const immutableAssetHeaders = [
       {

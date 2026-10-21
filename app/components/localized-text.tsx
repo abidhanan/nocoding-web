@@ -1,7 +1,7 @@
 import type { ReactNode } from "react";
 
 /**
- * Renders the default (Indonesian) copy on the server as plain markup — no client
+ * Renders the default (Indonesian) copy on the server as plain markup - no client
  * component boundary, so it does not add to hydration/JS execution cost. The
  * `data-i18n` attribute lets the single client-side `LanguageController` swap the
  * text when the visitor selects English. The span is layout-transparent through

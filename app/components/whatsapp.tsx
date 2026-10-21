@@ -1,3 +1,7 @@
+"use client";
+
+import { usePathname } from "next/navigation";
+import { useEffect, useState } from "react";
 import { createWhatsAppHref } from "./projects-data";
 
 export function WhatsAppIcon({ className = "h-5 w-5" }: { className?: string }) {
@@ -8,7 +12,40 @@ export function WhatsAppIcon({ className = "h-5 w-5" }: { className?: string }) 
   );
 }
 
+/** The floating chat button. It fades away while the footer is on screen, since the footer has the contact details. */
 export function WhatsAppFloat() {
+  const pathname = usePathname();
+  // Remembers which page the answer is for, so a stale answer never carries over to the next page.
+  const [state, setState] = useState({ path: "", hidden: false });
+  const hidden = state.path === pathname && state.hidden;
+
+  useEffect(() => {
+    let observer: IntersectionObserver | undefined;
+    let retry = 0;
+
+    const watch = () => {
+      const footer = document.querySelector("footer");
+
+      if (!footer) {
+        // The page may still be mounting after a navigation: look once more shortly.
+        retry = window.setTimeout(watch, 300);
+
+        return;
+      }
+
+      // Hide a little before the footer reaches the button (the button sits 1.25rem above the bottom edge).
+      observer = new IntersectionObserver(([entry]) => setState({ path: pathname, hidden: entry.isIntersecting }), { rootMargin: "0px 0px -72px 0px" });
+      observer.observe(footer);
+    };
+
+    watch();
+
+    return () => {
+      window.clearTimeout(retry);
+      observer?.disconnect();
+    };
+  }, [pathname]);
+
   return (
     <a
       href={createWhatsAppHref(
@@ -17,7 +54,11 @@ export function WhatsAppFloat() {
       target="_blank"
       rel="noreferrer"
       aria-label="Chat WhatsApp" data-i18n-aria="aria.whatsapp" data-i18n-wa="wa.contact"
-      className="whatsapp-float fixed bottom-5 right-5 z-[70] grid h-14 w-14 place-items-center rounded-full bg-[#25d366] text-white shadow-lg shadow-black/40 transition hover:scale-105 focus:outline-none focus:ring-2 focus:ring-white/70 focus:ring-offset-2 focus:ring-offset-brand-dark"
+      aria-hidden={hidden || undefined}
+      tabIndex={hidden ? -1 : undefined}
+      className={`whatsapp-float fixed bottom-5 right-5 z-[70] grid h-14 w-14 place-items-center rounded-full bg-[#25d366] text-white shadow-lg shadow-black/40 transition-opacity duration-300 hover:scale-105 focus:outline-none focus:ring-2 focus:ring-white/70 focus:ring-offset-2 focus:ring-offset-brand-dark ${
+        hidden ? "pointer-events-none opacity-0" : "opacity-100"
+      }`}
     >
       <WhatsAppIcon className="whatsapp-float__icon h-7 w-7" />
     </a>

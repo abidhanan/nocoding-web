@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Yeroo dhumaa haaromfame",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Imaammata Dhuunfaa",
+   "description": "Daataan Nocoding walitti qabu, maaliif akka itti fayyadamu, eenyu akka hojjetu, fi mirgi keessan daataa dhuunfaa keessan irratti qabdan.",
+   "sections": [
+    {
+     "t": "1. Nuti eenyu dha",
+     "b": [
+      "Nocoding (nocoding.web.id) tajaajila marsariitii, appii, sirna odeeffannoo fi ofumaan hojjechiisuu kan Abid Hanan Wicaksono Indooneziyaa keessatti geggeessudha. Imaammanni kun yeroo marsariitii kana daawwattan yookaan nu qunnamtan daataa dhuunfaa keessan akkamitti akka qabnu ibsa.",
+      "Gaaffiin imaammata kana ilaalu nocodingindonesia@gmail.com yookaan WhatsApp +62 853-2651-3324 irratti ergamuu danda'a."
+     ]
+    },
+    {
+     "t": "2. Daataa nuti walitti qabnu",
+     "b": [
+      "- Daataa ofii keessan nuuf kennitan: maqaa keessan, lakkoofsa WhatsApp, imeelii fi ibsa pirojektii keessanii yeroo WhatsApp yookaan imeeliin nu qunnamtan. Marsariitiin kun akkaawuntii fayyadamaa yookaan unka galmee hin qabu.",
+      "- Daataa teekinikaa ofumaan hojjetamu: teessoo IP, gosa meeshaa fi biraawuzara, fi fuulota banitan. Dhiyeessitoonni hoostingii fi CDN keenya marsariitii dhiyeessuuf fi tajaajila dogoggoraan itti fayyadamuu irraa eegsisuuf ni hojjetu.",
+      "- Biyya tilmaamaan: gatiin maallaqa keessaniin akka agarsiifamuuf, biyyi keessan odeeffannoo CDN yookaan afaan biraawuzara keessanii irraa tilmaamama. Sirna (server) keenya irratti hin kuufnu.",
+      "- Daataa xiinxala: Google Analytics 4 fi Microsoft Clarity (yeroo hojii irra jiran) istaatistiksii itti fayyadamaa kan akka fuulota banaman, turtii daawwannaa, gosa meeshaa fi waraabbii wal-qunnamtii eenyummaa hin qabne ni walitti qabu. Isaan erga fuula waliin wal-qunnamtanii booda qofa fe'amu.",
+      "- Kuusaa biraawuzaraa: filannoo afaan keessanii, mallattoo barruu duraanuu jaallattan, ilaalan yookaan qooddan, fi tilmaama gatii yeroo gabaabaa. Bal'inaan Imaammata Kuukii keessatti argama.",
+      "- Lakkoofsi ilaalcha, jaalala fi qooddannaa barruu akka lakkoofsa walitti makame, eenyummaa daawwattootaa malee, ni kuufama."
+     ]
+    },
+    {
+     "t": "3. Daataan maaliif itti fayyadama",
+     "b": [
+      "- Gaaffii keessanii deebisuu, gatii dhiyeessuu fi pirojektii keessan raawwachuuf.",
+      "- Marsariitii dhiyeessuu, eegsisuu fi saffisaan akka hojjetu gochuuf.",
+      "- Marsariitiin akkamitti akka fayyadamamu hubachuun akka fooyyessinuuf.",
+      "- Dirqama seeraa raawwachuuf.",
+      "Daataa dhuunfaa keessan hin gurgurru."
+     ]
+    },
+    {
+     "t": "4. Gareewwan sadaffaa hirmaatan",
+     "b": [
+      "- Vercel: marsariitii hoostii gochuu fi dhiyeessuu.",
+      "- Cloudflare: CDN fi nageenya.",
+      "- Google (Google Analytics 4) fi Microsoft (Clarity): istaatistiksii itti fayyadama marsariitii.",
+      "- Meta (WhatsApp) fi Google (Gmail): yeroo liinkii WhatsApp yookaan imeelii marsariitii kana irra jiruun nu qunnamtan.",
+      "- Dhiyeessaa sadarkaa jijjiirraa maallaqaa: gaaffii sadarkaa sirna keenya irraa qofa fudhata, daataa daawwattootaa hin fudhatu.",
+      "Dhiyeessitoonni kun imaammata mataa isaanii hordofuun daataa Indooneziyaa alatti hojjechuu danda'u."
+     ]
+    },
+    {
+     "t": "5. Daataan hanga yoomiitti kuusama",
+     "b": [
+      "Haasawaa fi meeshaalee pirojektii hanga tajaajila geggeessuuf, deeggarsa kennuuf fi dirqama seeraa raawwachuuf barbaachisutti kuufamu, achiis ni haqamu yookaan eenyummaa malee ni taasifamu. Daataan xiinxalaa qindaa'ina turtii kuusaa dhiyeessaa isaa ni hordofa. Daataan biraawuzara keessan keessa jiru hanga isin haqxanitti ni turu."
+     ]
+    },
+    {
+     "t": "6. Mirga keessan",
+     "b": [
+      "Seera Lakk. 27 bara 2022 kan Indooneziyaa waa'ee Eegumsa Daataa Dhuunfaa (Law No. 27 of 2022) jalatti, mirga kana qabdu:",
+      "- daataa dhuunfaa keessanii nu bira jiru beekuu fi garagalcha argachuu;",
+      "- daataan sirrii hin taane akka sirreeffamu gaafachuu;",
+      "- daataan keessan akka haqamu gaafachuu yookaan hayyamni keessan deebisuu;",
+      "- hojjetama tokko tokko morkachuu.",
+      "Gaaffii keessan nocodingindonesia@gmail.com irratti ergaa. Yeroo madaalawaa keessatti deebii isin kennina."
+     ]
+    },
+    {
+     "t": "7. Nageenyaa fi ijoollee",
+     "b": [
+      "Marsariitiin kun HTTPS fayyadama, daataa pirojektii argachuun daangeffameera. Mala daataa ergu yookaan kuusu tokkollee guutummaatti balaa irraa bilisa miti, kanaaf nageenya guutuu waadaa galuu hin dandeenyu.",
+      "Tajaajilli keenya namoota umuriin isaanii waggaa 18 fi isaa ol ta'aniif kan qophaa'e dha. Daataa dhuunfaa ijoolleetii beekaa-beekaa hin walitti qabnu."
+     ]
+    },
+    {
+     "t": "8. Jijjiirama imaammata kanaa",
+     "b": [
+      "Imaammanni kun yeroo yerootti haaromfamuu danda'a. Guyyaan haaromsa dhumaa fuula kanaa gubbaa irratti agarsiifama. Afaanonni hiikaan yoo adda ta'an, gosti Indooneziyaa ni raawwata."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Haalawwanii fi Ulaagaalee",
+   "description": "Seerota itti fayyadama marsariitii fi tajaajila Nocoding: paakeejjii, gatii, akkaataa hojiin itti hojjetamu, qabeenya sammuu fi daangaa itti gaafatamummaa.",
+   "sections": [
+    {
+     "t": "1. Haalawwan kana fudhachuu",
+     "b": [
+      "Marsariitii kana banuudhaan yookaan tajaajila Nocoding fayyadamuudhaan, haalawwanii fi ulaagaalee kana ni fudhattu. Yoo hin fudhanne, marsariitii fi tajaajila keenya hin fayyadaminaa."
+     ]
+    },
+    {
+     "t": "2. Tajaajilawwan",
+     "b": [
+      "Nocoding marsariitii poortifooliyoo yookaan CV, fuula qaqqabbii (landing page) fi profaayilii dhaabbataa, sirna odeeffannoo fi hojii, fi ofumaan hojjechiisuu adeemsa daldalaa ni hojjeta. Bal'ina hojii, amaloota, sagantaa fi baasii hojiin osoo hin eegalin WhatsApp yookaan imeeliin isin waliin ni waliigalama.",
+      "Gorsi yeroo hundumaa bilisa dha, yeroo isin barbaachise kamittuu, fi akka ajajtan isin hin dirqisiisu."
+     ]
+    },
+    {
+     "t": "3. Paakeejjii fi gatii",
+     "b": [
+      "- Paakeejjii xiqqaa: waggaatti Rp 500.000 irraa jalqabee, tursiisa bilisaa fi doomeenii waggaa 1 dabalatee.",
+      "- Paakeejjii guddaa: waggaatti Rp 2.000.000 irraa jalqabee, tursiisa bilisaa fi hoostingii waggaa 1 dabalatee.",
+      "Gatiin marsariitii irra jiru gatii jalqabaati. Hamma isa dhumaa erga gorsi godhamee booda fedhii keessan irratti hundaa'uun waliigalama. Daawwattoota Indooneziyaa alaatiif, gatiin maallaqa naannoo keessaniin akka tilmaamaatti sadarkaa jijjiirraa guyyaa irratti hundaa'ee agarsiifama; hamma rupiyaa waliigalle isa hojii irra oolu dha. Baasii dabalataa, akka amaloota dabalataa yookaan yeroo bilisaa erga xumurame booda haaromsuu, osoo hojiin hin hojjetamin isinitti himama."
+     ]
+    },
+    {
+     "t": "4. Akkaataa hojiin itti hojjetamu fi itti gaafatamummaa keessan",
+     "b": [
+      "Dizaayiniin osoo oomishamuu hin eegalin isin waliin ilaalamee ni mirkanaa'a. Sirreeffamni akka waliigalametti raawwatama.",
+      "Meeshaalee (loogoo, barreeffama, suuraa, daataa) yeroon dhiyeessuu fi mirga itti fayyadamuu qabaachuun itti gaafatamummaa keessani. Meeshaa yookaan yaada deebii turuun sagantaa irratti dhiibbaa geessisuu danda'a."
+     ]
+    },
+    {
+     "t": "5. Tursiisa",
+     "b": [
+      "Tursiisni bilisaa waggaa 1 dogoggora hojii keenyaa sirreessuu fi haaromsa nageenyaa bu'uuraa of keessaa qaba. Amaloonni haaraa, jijjiirama dizaayinii guddaan fi hojiin waliigaltee jalqabaa alaa addatti kaffalamu."
+     ]
+    },
+    {
+     "t": "6. Qabeenya sammuu",
+     "b": [
+      "Meeshaaleen isin kennitan kan keessan ta'anii hafu. Hojiin xumurame erga kaffaltiin akka waliigalametti guutummaatti raawwatamee booda isinii dabarfama. Yoo barreeffamaan akka hin agarsiifamne hin gaafatin, Nocoding hojii marsariitii irra jiru poortifooliyoo isaa keessatti fakkeenya ta'ee agarsiisuu danda'a.",
+      "Dizaayiniin, barreeffamaan fi barruuwwan nocoding.web.id kan Nocoding ti. Liinkii isaanii qooduu ni dandeessu, garuu hayyama malee garagalchuun daldalaaf itti fayyadamuu hin dandeessan. Suuraan barruu Unsplash irraa dhufe, hayyama isaa ni hordofa; madda isaa suura hundumaa jalatti kennameera."
+     ]
+    },
+    {
+     "t": "7. Afaanota marsariitii",
+     "b": [
+      "Marsariitiin kun afaanota hedduun argama. Hiikni, keessumaa afaanota dubbattoota xiqqaa qabaniif, mat'aa hin ta'in. Yoo hiikaan adda ta'e, gosti Indooneziyaa ni raawwata. Fuulonni seeraa kun Afaan Indooneziyaa fi Ingliffaan argamu."
+     ]
+    },
+    {
+     "t": "8. Daangaa itti gaafatamummaa",
+     "b": [
+      "Bu'aa gaarii kennuuf hojjenna, garuu bu'aa daldalaa addaa, akka sadarkaa barbaacha, lakkoofsa daawwattootaa yookaan gurgurtaa, hin waadaa galluu. Rakkoo gareewwan sadaffaa, akka dhiyeessitoota hoostingii, doomeenii yookaan kaffaltii irraa dhufu, yookaan miidhaa al-kallattii irratti itti gaafatamoo miti.",
+      "Itti gaafatamummaan keenya tajaajila tokkoof hamma tajaajila sanaaf isin kaffaltan qofaan daangeffameera, hamma seerri hayyamu. Kun mirga seeraan eegamu isin qabdan hin hir'isu."
+     ]
+    },
+    {
+     "t": "9. Seera hojii irra oolu",
+     "b": [
+      "Haalawwan kun seera Rippabliikii Indooneziyaatiin bulfamu. Yoo ho'a'insi uumame, duraan marii'achuun furuuf yaalla. Yoo walii galtee hin argamne, ho'a'insi mana murtii aangoo qabu Indooneziyaa keessa jiruun furama."
+     ]
+    },
+    {
+     "t": "10. Jijjiirama fi qunnamtii",
+     "b": [
+      "Haalawwan kun yeroo yerootti haaromfamuu danda'u; guyyaan haaromsa dhumaa fuula kanaa gubbaa irratti agarsiifama. Gaaffii nocodingindonesia@gmail.com yookaan WhatsApp +62 853-2651-3324 irratti ergamuu danda'a."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Imaammata Kuukii",
+   "description": "Kuukiiwwan fi kuusaa naannoo marsariitiin Nocoding itti fayyadamu, maaliif akka ta'an, fi akkamitti akka bulchamu.",
+   "sections": [
+    {
+     "t": "1. Kuukiin maali",
+     "b": [
+      "Kuukiiwwan faayilii xixiqqaa marsariitiin biraawuzara keessan keessatti kuusudha. Kuusaan naannoo fi kuusaan marsaa (session) haala wal fakkaatuun hojjetu, garuu ofumaan sirnaaf hin ergamu. Fuula kana irratti hunda isaanii kuukii jenna."
+     ]
+    },
+    {
+     "t": "2. Waan marsariitiin hojjechuuf barbaachisu",
+     "b": [
+      "Biraawuzara keessan keessatti kuufama, sirna keenyaaf hin ergamu:",
+      "- nocoding-language fi nocoding-language-set: afaan isin filattan yookaan biraawuzara keessan irraa adda baafame.",
+      "- nocoding-pricing (marsaa): maallaqa fi sadarkaa tilmaamame, gatiin fuula hundumaa irratti deebi'ee akka hin herregamneef.",
+      "- Mallattoo barruu: barruu duraanuu jaallattanii, ilaalanii yookaan qooddanii jiraachuu, lakkoofsi dachaan akka hin lakkaa'amneef.",
+      "- Mallattoo iddoo scroll yeroo gabaabaa yeroo kutaalee marsariitii gidduu socotan."
+     ]
+    },
+    {
+     "t": "3. Xiinxala",
+     "b": [
+      "Yeroo hojii irra jiran, tajaajilli xiinxalaa lama erga fuula waliin wal-qunnamtanii booda (scroll, tuqaa yookaan furtuu tuquu) fe'amu:",
+      "- Google Analytics 4 (kuukiiwwan akka _ga fi _ga_*, hanga waggaa 2 tilmaamaan hojii irra turan): istaatistiksii daawwannaa.",
+      "- Microsoft Clarity (kuukiiwwan akka _clck, _clsk, CLID fi MUID, hanga waggaa 1 tilmaamaan hojii irra turan): kaartaa ho'aa fi waraabbii wal-qunnamtii eenyummaa hin qabne.",
+      "Dhiyeessitoonni CDN fi nageenyaa marsariitii tamsaasa miidhaa fidu irraa eeguuf kuukii teekinikaa kaa'uu danda'u."
+     ]
+    },
+    {
+     "t": "4. Akkamitti kuukii bulchuu",
+     "b": [
+      "Kuukii qindaa'ina biraawuzara keessan keessatti haquu yookaan gufachiisuu ni dandeessu. Itti dabalataanis, Google Analytics irraa of baasuuf dabalata Google isaa seera qabeessa dhaabuu ni dandeessu. Yoo kuukiiwwan xiinxalaa gufatan illee, marsariitiin ni hojjeta; yoo kuusaan naannoo haqame, filannoon afaan keessanii gara qindaa'ina jalqabaa deebi'a."
+     ]
+    },
+    {
+     "t": "5. Gaaffii",
+     "b": [
+      "Gaaffii imaammata kana ilaalu qabaattan nocodingindonesia@gmail.com qunnamaa. Daataan dhuunfaa akkamitti akka itti fayyadamamu Imaammata Dhuunfaa keessatti caalaatti ibsameera. Afaanonni hiikaan yoo adda ta'an, gosti Indooneziyaa ni raawwata."
+     ]
+    }
+   ]
+  }
+ }
+}

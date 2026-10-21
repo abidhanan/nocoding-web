@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Urtimo agiornamento",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Politica sciā privacy",
+   "description": "Chi dæti Nocoding a racheugge, pe cöse se deuvian, chi ghe travaggia e che drîti t'æ ti in sciâ i teu dæti perzonæ.",
+   "sections": [
+    {
+     "t": "1. Chi semmo",
+     "b": [
+      "Nocoding (nocoding.web.id) o l'é un serviçio de scîti web, app, scistemi informativi e outomaçion gestîo da Abid Hanan Wicaksono in Indonesia. Sta politica a spiega comme trattemmo i teu dæti perzonæ quande ti vixiti sto scito o ti ne contatti.",
+      "E domande in sciâ politica se peuan mandâ a nocodingindonesia@gmail.com ò in sce WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. I dæti che racheuggemmo",
+     "b": [
+      "- Dæti che ti ne dæ ti: o teu nomme, o numero WhatsApp, l'email e 'na descrixon do teu progetto quande ti ne contatti con WhatsApp ò con l'email. Sto scito o no gh'à account d'utente ni moduli d'iscrixon.",
+      "- Dæti tecnichi trattæ outomaticamente: indirisso IP, tipo de dispoxitivo e de browser, e e pagine che ti avri. I nostri fornitoî de hosting e de CDN i i trattan pe fâ funçionâ o scito e protezilo da-i abuzi.",
+      "- Paeize approscimativo: pe mostrâ i prexi into teu monæa, o teu paeize o l'é stimmao con e informaçioin da CDN ò con a lengua do teu browser. No o conservemmo in sci nostri server.",
+      "- Dæti d'analixi: Google Analytics 4 e Microsoft Clarity (quande ativi) i racheuggian statistiche d'uzo comme e pagine avèrte, a dûa da vixita, o tipo de dispoxitivo e registraçioin anònime de l'interaçion. Se carian solo dòppo che ti t'æ interagio con a pagina.",
+      "- Memöia do browser: a teu scelta da lengua, segni che ti t'æ za misso mi piaxe, vistoû ò condivizo un articolo, e 'na stimma tenporanea do prexo. I detaggi son inta Politica di cookie.",
+      "- I numeri de vistoe, de mi piaxe e de condivixoin di articoli son conservæ comme numeri aggregæ, sensa l'identitæ do vixitatô."
+     ]
+    },
+    {
+     "t": "3. Pe cöse se deuvian i dæti",
+     "b": [
+      "- Respónde a-e teu domande, preparâ preventivi e portâ avanti o teu progetto.",
+      "- Mette a disposiçion o scito, protezilo e tegnilo veloce.",
+      "- Capî comme o scito o vëgne doeuvou pe poeilo megioâ.",
+      "- Rispettâ i obrighi de lezze.",
+      "No vendemmo i teu dæti perzonæ."
+     ]
+    },
+    {
+     "t": "4. Terze parte coinvolte",
+     "b": [
+      "- Vercel: hosting e distribuçion do scito.",
+      "- Cloudflare: CDN e sicuessa.",
+      "- Google (Google Analytics 4) e Microsoft (Clarity): statistiche d'uzo do scito.",
+      "- Meta (WhatsApp) e Google (Gmail): quande ti ne contatti tramite i link WhatsApp ò email de sto scito.",
+      "- Fornitô di cangi de monæa: o riçeive solo ciamæ pe i cangi da-o nostro server, no i dæti di vixitatoî.",
+      "Sti fornitoî poeuan trattâ i dæti feua da l'Indonesia segondo e so politiche."
+     ]
+    },
+    {
+     "t": "5. Quanto se conservan i dæti",
+     "b": [
+      "E conversaçioin e i materiæ do progetto se conservan o tempo necessaio pe gestî o serviçio, dâ asistensa e rispettâ i obrighi de lezze, dòppo se cançellan ò se rendan anònimi. I dæti d'analixi seguan e inpostaçioin de conservaçion do so fornitô. I dæti into teu browser restan fin quande ti i cançelli."
+     ]
+    },
+    {
+     "t": "6. I teu drîti",
+     "b": [
+      "Segondo a Lezze indonexe n. 27 do 2022 in sciâ protesion di dæti perzonæ, ti æ drîto de:",
+      "- savei e avei 'na còpia di dæti perzonæ che gh'emmo de ti;",
+      "- domandâ che i dæti sballæ vëgnan corètti;",
+      "- domandâ che i teu dæti vëgnan cançellæ ò revocâ o teu consenso;",
+      "- oppôrte a çerti trattamenti.",
+      "Manda a teu richiesta a nocodingindonesia@gmail.com. Rispondiemmo into tempo raxonavole."
+     ]
+    },
+    {
+     "t": "7. Sicuessa e figêu",
+     "b": [
+      "Sto scito o deuvia HTTPS e l'açesso a-i dæti do progetto o l'é limitao. Nisciun mòddo de trasmisción ò conservaçion di dæti o l'é de tutto sensa risco, coscì no poemmo goantî 'na sicuessa assolua.",
+      "I nostri serviççi son pensæ pe persoñe de 18 anni e ciù. No racheuggemmo scientemente dæti perzonæ de figêu."
+     ]
+    },
+    {
+     "t": "8. Cangiamenti a sta politica",
+     "b": [
+      "Sta politica a peu vegnî agiornâ de tanto in tanto. A dæta de l'urtimo agiornamento a l'é mostrâ in çimma a-a pagina. Se e lengue són diverse into significao, a vale a verscion indonexe."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Termini e condiçioin",
+   "description": "E regole pe doeuviâ o scito e i serviççi de Nocoding: pacchetti, prexi, comme se fa o travaggio, proprietæ intelletoâ e limiti de responsabilitæ.",
+   "sections": [
+    {
+     "t": "1. Açetaçion de sti termini",
+     "b": [
+      "Avrindo sto scito ò doeuviando i serviççi de Nocoding, ti açetti sti termini e condiçioin. Se no ti sei d'acòrdio, pe piaxei no doeuviâ o nòstro scito ò i nostri serviççi."
+     ]
+    },
+    {
+     "t": "2. I serviççi",
+     "b": [
+      "Nocoding a fa scîti web de portfolio ò CV, landing page e profî d'açienda, scistemi informativi e operativi, e outomaçion de process de business. O perimetro do travaggio, e funçioin, i tempi e o costo se concordan con ti in sce WhatsApp ò pe email prima de comensâ.",
+      "A consulensa a l'é sempre gratuita, quandonque ti n'æ bezoeugno, e a no t'obliga a ordinâ."
+     ]
+    },
+    {
+     "t": "3. Pacchetti e prexi",
+     "b": [
+      "- Pacchetto picin: da Rp 500.000 l'anno, con manutençion gratuita e domminio pe 1 anno.",
+      "- Pacchetto gròsso: da Rp 2.000.000 l'anno, con manutençion gratuita e hosting pe 1 anno.",
+      "I prexi into scito son prexi de partensa. L'importo finale o se concorda dòppo 'na consulensa, segondo e teu necessitæ. Pe-i vixitatoî de feua da l'Indonesia, i prexi vegnan mostræ inta monæa locale comme stimma segondo o cangio giornaliero; vâ l'importo in rupie che concordemmo. I costi in ciù, comme funçioin ariunte ò rinnovo dòppo a fin do periodo gratuito, t'èn comunicæ primma che o travaggio o vëgne fæto."
+     ]
+    },
+    {
+     "t": "4. Comme se fa o travaggio e e teu responsabilitæ",
+     "b": [
+      "O disegno o l'é riveddo e aprovao con ti prima da produçion. E modifiche son fæte comme concordao.",
+      "Ti ê responsabile de fornî i materiæ (logo, testo, fotografie, dæti) in tempo e d'avei o drîto de doeuviâli. I ritardi inti materiæ ò inte risposte poeuan inciddî in sci tempi."
+     ]
+    },
+    {
+     "t": "5. Manutençion",
+     "b": [
+      "A manutençion gratuita de 1 anno a comprende a currezion di erroî into nostro travaggio e agiornamenti de sicuessa de base. Funçioin neuve, grosse modifiche de disegno e travaggi feua da l'acòrdio d'oigine se fan pagâ a parte."
+     ]
+    },
+    {
+     "t": "6. Proprietæ intelletoâ",
+     "b": [
+      "I materiæ che ti fornisci restan teu. O travaggio finio o t'ven consegnao quande o pagamento comme concordao o l'é conpletao. Nocoding a peu mostrâ travaggi in produçion comme exenpi into so portfolio, a men che ti domandi pe iscrito de no mostrâli.",
+      "O disegno, i testi e i articoli in sce nocoding.web.id són de Nocoding. Ti peu condivide i link, ma no ti peu copiâli e doeuviâli pe scöpi commerciæ sensa permisso. E fotografie di articoli vëgnan da Unsplash e seguan a so licensa; a fonte a l'é indicâ sotta a ogni fotografia."
+     ]
+    },
+    {
+     "t": "7. Lengue do scito",
+     "b": [
+      "Sto scito o l'é disponibile in tante lengue. E traduçioin, speçialmente pe lengue con meno parlanti, poeuan no êse perfette. Se son diverse into significao, a vale a verscion indonexe. Ste pagine legæ son disponibili in indonexe e in ingleise."
+     ]
+    },
+    {
+     "t": "8. Limiti de responsabilitæ",
+     "b": [
+      "Travagiemmo pe dâ bon risultæ, ma no prometemmo risultæ de business speçifichi comme posiçioin into motô de riçerca, numero de vixitatoî ò vendie. No semmo responsabili de disservixi de terze parte comme fornitoî de hosting, domìnio ò pagamento, ni de dann indirètti.",
+      "A nostra responsabilitæ pe un serviçio a l'é limitâ a l'importo che ti æ pagao pe quello serviçio, int'a misua che a lezze a permette. Questo o no riduxe i drîti che ti æ protetti da-a lezze."
+     ]
+    },
+    {
+     "t": "9. Lezze applicabile",
+     "b": [
+      "Sti termini son regolæ da-e lezze da Repubrica d'Indonesia. Se nasce 'na controversia, primma provemmo a risolvila con a discuscion. Se no se riva a 'n acòrdio, a controversia a l'é risolta da-i tribunæ competenti in Indonesia."
+     ]
+    },
+    {
+     "t": "10. Cangiamenti e contatti",
+     "b": [
+      "Sti termini poeuan vegnî agiornæ de tanto in tanto; a dæta de l'urtimo agiornamento a l'é mostrâ in çimma a-a pagina. E domande se peuan mandâ a nocodingindonesia@gmail.com ò in sce WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Politica di cookie",
+   "description": "I cookie e a memöia locale che o scito Nocoding o deuvia, a cöse servan e comme gestîli.",
+   "sections": [
+    {
+     "t": "1. Cöse son i cookie",
+     "b": [
+      "I cookie son picin file che un scito o conserva into teu browser. A memöia locale e a memöia de session fan 'na cösa pægia ma no se mandan outomaticamente a 'n server. In sta pagina i ciamemmo tutti cookie."
+     ]
+    },
+    {
+     "t": "2. Cöse o scito o l'à bezoeugno pe funçionâ",
+     "b": [
+      "Conservæ into teu browser e no mandæ a-i nostri server:",
+      "- nocoding-language e nocoding-language-set: a lengua che ti æ scelto ò che a l'é stæta rilevâ da-o teu browser.",
+      "- nocoding-pricing (session): a monæa e o cangio stimmæ, coscì i prexi no son carcolæ torna in ogni pagina.",
+      "- Segni di articoli: se ti æ za misso mi piaxe, vistoû ò condivizo un articolo, coscì i numeri no son dobbi.",
+      "- Un segno tenporaneo da posiçion de scorrimento quande ti te mesci tra parte do scito."
+     ]
+    },
+    {
+     "t": "3. Analixi",
+     "b": [
+      "Quande ativi, doî serviççi d'analixi se carian dòppo che ti interagisci con a pagina (scorri, toccâ ò premi un tasto):",
+      "- Google Analytics 4 (cookie comme _ga e _ga_*, valîdi fin a circa 2 anni): statistiche de vixita.",
+      "- Microsoft Clarity (cookie comme _clck, _clsk, CLID e MUID, valîdi fin a circa 1 anno): mappe de caô e registraçioin anònime de l'interaçion.",
+      "I fornitoî de CDN e de sicuessa poeuan ascì inpostâ cookie tecnichi pe protezze o scito da-o traffico dannozo."
+     ]
+    },
+    {
+     "t": "4. Comme gestî i cookie",
+     "b": [
+      "Ti peu cançelâ ò blocâ i cookie inte inpostaçioin do teu browser. Ti peu ascì instalâ l'add-on ufiçiâ de Google pe refuzâ Google Analytics. Se i cookie d'analixi son blocæ, o scito o funçion-a l'istesso; se a memöia locale a l'é svoutâ, a teu scelta da lengua a torna a quella predefinia."
+     ]
+    },
+    {
+     "t": "5. Domande",
+     "b": [
+      "Pe domande in sciâ politica contatta nocodingindonesia@gmail.com. Comme se deuvian i dæti perzonæ o l'é spiegao ciù in detaggio inta Politica sciā privacy. Se e lengue son diverse into significao, a vale a verscion indonexe."
+     ]
+    }
+   ]
+  }
+ }
+}

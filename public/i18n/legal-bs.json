@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Posljednje ažuriranje",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Politika privatnosti",
+   "description": "Koje podatke Nocoding prikuplja, za šta se koriste, ko ih obrađuje i koja prava imate nad svojim ličnim podacima.",
+   "sections": [
+    {
+     "t": "1. Ko smo mi",
+     "b": [
+      "Nocoding (nocoding.web.id) je usluga izrade web stranica, aplikacija, informacionih sistema i automatizacije koju u Indoneziji vodi Abid Hanan Wicaksono. Ova politika objašnjava kako postupamo s vašim ličnim podacima kada posjetite ovu stranicu ili nas kontaktirate.",
+      "Pitanja o ovoj politici možete poslati na nocodingindonesia@gmail.com ili putem WhatsApp-a na +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Podaci koje prikupljamo",
+     "b": [
+      "- Podaci koje nam sami dajete: vaše ime, WhatsApp broj, e-pošta i opis vašeg projekta kada nas kontaktirate putem WhatsApp-a ili e-pošte. Ova stranica nema korisničkih računa niti obrazaca za registraciju.",
+      "- Tehnički podaci koji se obrađuju automatski: IP adresa, vrsta uređaja i preglednika te stranice koje otvarate. Naši pružaoci hostinga i CDN-a obrađuju ih kako bi stranica radila i bila zaštićena od zloupotrebe.",
+      "- Približna država: kako bi se cijene mogle prikazati u vašoj valuti, vaša država se procjenjuje na osnovu informacija CDN-a ili jezika vašeg preglednika. Ne pohranjujemo je na našim serverima.",
+      "- Analitički podaci: Google Analytics 4 i Microsoft Clarity (kada su uključeni) prikupljaju statistiku korištenja, kao što su otvorene stranice, trajanje posjete, vrsta uređaja i anonimni snimci interakcije. Učitavaju se tek nakon što stupite u interakciju sa stranicom.",
+      "- Pohrana u pregledniku: vaš izbor jezika, oznake da ste već lajkovali, pogledali ili podijelili članak te privremena procjena cijene. Detalji se nalaze u Politici kolačića.",
+      "- Broj pregleda, lajkova i dijeljenja članaka pohranjuje se kao zbirni brojevi, bez identiteta posjetitelja."
+     ]
+    },
+    {
+     "t": "3. Za šta se podaci koriste",
+     "b": [
+      "- Odgovaranje na vaša pitanja, pripremu ponuda i izvođenje vašeg projekta.",
+      "- Pružanje usluge, zaštitu i održavanje brzine stranice.",
+      "- Razumijevanje načina na koji se stranica koristi kako bismo je mogli poboljšati.",
+      "- Ispunjavanje zakonskih obaveza.",
+      "Vaše lične podatke ne prodajemo."
+     ]
+    },
+    {
+     "t": "4. Uključene treće strane",
+     "b": [
+      "- Vercel: hosting i posluživanje stranice.",
+      "- Cloudflare: CDN i sigurnost.",
+      "- Google (Google Analytics 4) i Microsoft (Clarity): statistika korištenja stranice.",
+      "- Meta (WhatsApp) i Google (Gmail): kada nas kontaktirate putem WhatsApp ili e-mail linkova na ovoj stranici.",
+      "- Pružalac kurseva valuta: prima samo zahtjeve za kurseve s našeg servera, a ne podatke o posjetiteljima.",
+      "Ovi pružaoci usluga mogu obrađivati podatke izvan Indonezije u skladu sa vlastitim politikama."
+     ]
+    },
+    {
+     "t": "5. Koliko dugo se podaci čuvaju",
+     "b": [
+      "Razgovori i materijali projekta čuvaju se onoliko dugo koliko je potrebno za pružanje usluge, podršku i ispunjavanje zakonskih obaveza, a zatim se brišu ili anonimiziraju. Analitički podaci slijede postavke čuvanja njihovog pružaoca. Podaci u vašem pregledniku ostaju dok ih ne obrišete."
+     ]
+    },
+    {
+     "t": "6. Vaša prava",
+     "b": [
+      "Prema indonezijskom Zakonu br. 27 iz 2022. godine o zaštiti ličnih podataka (Nomor 27 Tahun 2022), imate pravo:",
+      "- znati koje lične podatke o vama imamo i dobiti njihovu kopiju;",
+      "- zatražiti ispravku netačnih podataka;",
+      "- zatražiti brisanje vaših podataka ili povući svoju saglasnost;",
+      "- uložiti prigovor na određenu obradu.",
+      "Zahtjev pošaljite na nocodingindonesia@gmail.com. Odgovorit ćemo u razumnom roku."
+     ]
+    },
+    {
+     "t": "7. Sigurnost i djeca",
+     "b": [
+      "Ova stranica koristi HTTPS, a pristup podacima projekata je ograničen. Nijedan način prijenosa ili pohrane podataka nije potpuno bez rizika, pa ne možemo garantirati apsolutnu sigurnost.",
+      "Naše usluge namijenjene su osobama od 18 godina i starijim. Svjesno ne prikupljamo lične podatke djece."
+     ]
+    },
+    {
+     "t": "8. Izmjene ove politike",
+     "b": [
+      "Ova politika se može povremeno ažurirati. Datum posljednjeg ažuriranja prikazan je na vrhu stranice. Ako se jezici razlikuju u značenju, primjenjuje se indonezijska verzija."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Uslovi korištenja",
+   "description": "Pravila korištenja stranice i usluga Nocoding: paketi, cijene, način rada, intelektualno vlasništvo i granice odgovornosti.",
+   "sections": [
+    {
+     "t": "1. Prihvatanje ovih uslova",
+     "b": [
+      "Otvaranjem ove stranice ili korištenjem usluga stranice Nocoding prihvatate ove uslove korištenja. Ako se ne slažete, molimo vas da ne koristite našu stranicu ni usluge."
+     ]
+    },
+    {
+     "t": "2. Usluge",
+     "b": [
+      "Nocoding izrađuje portfolio ili CV web stranice, landing stranice i profile kompanija, informacione i operativne sisteme te automatizaciju poslovnih procesa. Obim posla, funkcije, rokovi i troškovi dogovaraju se s vama putem WhatsApp-a ili e-pošte prije početka rada.",
+      "Konsultacije su uvijek besplatne, kad god vam zatrebaju, i ne obavezuju vas na narudžbu."
+     ]
+    },
+    {
+     "t": "3. Paketi i cijene",
+     "b": [
+      "- Mali paket: od Rp 500.000 godišnje, uključujući besplatno održavanje i domenu na 1 godinu.",
+      "- Veliki paket: od Rp 2.000.000 godišnje, uključujući besplatno održavanje i hosting na 1 godinu.",
+      "Cijene na stranici su početne cijene. Konačni iznos dogovara se nakon konsultacija, na osnovu vaših potreba. Za posjetitelje izvan Indonezije cijene se prikazuju u lokalnoj valuti kao procjena na osnovu dnevnog kursa; važi iznos u rupijama o kojem se dogovorimo. Dodatni troškovi, kao što su dodatne funkcije ili obnova nakon isteka besplatnog perioda, saopćavaju vam se prije izvođenja radova."
+     ]
+    },
+    {
+     "t": "4. Način rada i vaše odgovornosti",
+     "b": [
+      "Dizajn se pregleda i odobrava s vama prije izrade. Izmjene se rade prema dogovoru.",
+      "Vi ste odgovorni za pravovremeno dostavljanje materijala (logotip, tekst, fotografije, podaci) i za to da imate pravo da ih koristite. Kašnjenja u materijalima ili povratnim informacijama mogu uticati na rokove."
+     ]
+    },
+    {
+     "t": "5. Održavanje",
+     "b": [
+      "Besplatno održavanje na 1 godinu obuhvata ispravljanje grešaka u našem radu i osnovna sigurnosna ažuriranja. Nove funkcije, veće promjene dizajna i radovi izvan prvobitnog dogovora naplaćuju se posebno."
+     ]
+    },
+    {
+     "t": "6. Intelektualno vlasništvo",
+     "b": [
+      "Materijali koje dostavite ostaju vaši. Završeni rad vam se predaje kada je plaćanje u skladu s dogovorom završeno. Nocoding može prikazivati objavljene radove kao primjere u svom portfoliju, osim ako pismeno zatražite da se ne prikazuju.",
+      "Dizajn, tekstovi i članci na nocoding.web.id pripadaju brendu Nocoding. Možete dijeliti linkove na njih, ali ih ne smijete kopirati i komercijalno koristiti bez dozvole. Fotografije u člancima potiču sa stranice Unsplash i podliježu njegovoj licenci; izvor je naveden ispod svake fotografije."
+     ]
+    },
+    {
+     "t": "7. Jezici stranice",
+     "b": [
+      "Ova stranica je dostupna na mnogim jezicima. Prijevodi, naročito na jezicima s manje govornika, možda nisu savršeni. Ako se razlikuju u značenju, primjenjuje se indonezijska verzija. Ove pravne stranice dostupne su na indonezijskom i engleskom jeziku."
+     ]
+    },
+    {
+     "t": "8. Granice odgovornosti",
+     "b": [
+      "Trudimo se postići dobre rezultate, ali ne obećavamo konkretne poslovne ishode kao što su pozicije u pretrazi, broj posjetitelja ili prodaja. Ne odgovaramo za smetnje koje potiču od trećih strana, kao što su pružaoci hostinga, domena ili plaćanja, niti za posredne gubitke.",
+      "Naša odgovornost za uslugu ograničena je na iznos koji ste platili za tu uslugu, u mjeri u kojoj to zakon dopušta. Ovo ne umanjuje vaša prava zaštićena zakonom."
+     ]
+    },
+    {
+     "t": "9. Mjerodavno pravo",
+     "b": [
+      "Ovi uslovi podliježu zakonima Republike Indonezije. Ako dođe do spora, prvo ga pokušavamo riješiti razgovorom. Ako se ne postigne dogovor, spor rješavaju nadležni sudovi u Indoneziji."
+     ]
+    },
+    {
+     "t": "10. Izmjene i kontakt",
+     "b": [
+      "Ovi uslovi se mogu povremeno ažurirati; datum posljednjeg ažuriranja prikazan je na vrhu stranice. Pitanja možete poslati na nocodingindonesia@gmail.com ili putem WhatsApp-a na +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Politika kolačića",
+   "description": "Kolačići i lokalna pohrana koje koristi stranica Nocoding, čemu služe i kako njima upravljati.",
+   "sections": [
+    {
+     "t": "1. Šta su kolačići",
+     "b": [
+      "Kolačići su male datoteke koje stranica pohranjuje u vašem pregledniku. Lokalna pohrana i pohrana sesije rade na sličan način, ali se ne šalju automatski na server. Na ovoj stranici sve ih zovemo kolačićima."
+     ]
+    },
+    {
+     "t": "2. Šta je stranici potrebno za rad",
+     "b": [
+      "Pohranjeno u vašem pregledniku i ne šalje se na naše servere:",
+      "- nocoding-language i nocoding-language-set: jezik koji ste odabrali ili koji je otkriven iz vašeg preglednika.",
+      "- nocoding-pricing (sesija): procijenjena valuta i kurs, kako se cijene ne bi iznova računale na svakoj stranici.",
+      "- Oznake članaka: jeste li već lajkovali, pogledali ili podijelili članak, kako se brojevi ne bi udvostručili.",
+      "- Privremena oznaka pozicije skrolanja pri prelasku između dijelova stranice."
+     ]
+    },
+    {
+     "t": "3. Analitika",
+     "b": [
+      "Kada su uključene, dvije analitičke usluge učitavaju se nakon što stupite u interakciju sa stranicom (skrolanje, dodir ili pritisak tipke):",
+      "- Google Analytics 4 (kolačići kao što su _ga i _ga_*, važe do otprilike 2 godine): statistika posjeta.",
+      "- Microsoft Clarity (kolačići kao što su _clck, _clsk, CLID i MUID, važe do otprilike 1 godine): toplotne mape i anonimni snimci interakcije.",
+      "Pružaoci CDN-a i sigurnosti također mogu postavljati tehničke kolačiće kako bi zaštitili stranicu od štetnog saobraćaja."
+     ]
+    },
+    {
+     "t": "4. Kako upravljati kolačićima",
+     "b": [
+      "Kolačiće možete obrisati ili blokirati u postavkama svog preglednika. Također možete instalirati Googleov službeni dodatak za odustajanje od praćenja za Google Analytics. Ako su analitički kolačići blokirani, stranica i dalje radi; ako se lokalna pohrana očisti, vaš izbor jezika vraća se na zadani."
+     ]
+    },
+    {
+     "t": "5. Pitanja",
+     "b": [
+      "Za pitanja o ovoj politici obratite se na nocodingindonesia@gmail.com. Način korištenja ličnih podataka dodatno je objašnjen u Politici privatnosti. Ako se jezici razlikuju u značenju, primjenjuje se indonezijska verzija."
+     ]
+    }
+   ]
+  }
+ }
+}

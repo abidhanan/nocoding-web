@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Ihlaziywe okokugqibela",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Umgaqo-nkqubo Wabucala",
+   "description": "Ulwazi oluqokelelwa yiNocoding, lusetyenziselwa ntoni, ngubani oluqhubayo, kunye namalungelo akho malunga nedatha yakho yobuqu.",
+   "sections": [
+    {
+     "t": "1. Singobani",
+     "b": [
+      "INocoding (nocoding.web.id) yinkonzo yewebhusayithi, ii-app, iinkqubo zolwazi kunye nokuzenzekelayo eqhutywa nguAbid Hanan Wicaksono e-Indonesia. Lo mgaqo-nkqubo uchaza indlela esiyisingatha ngayo idatha yakho yobuqu xa utyelele le sayithi okanye uqhagamshelana nathi.",
+      "Imibuzo ngalo mgaqo-nkqubo ingathunyelwa ku-nocodingindonesia@gmail.com okanye nge-WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Idatha esiyiqokelelayo",
+     "b": [
+      "- Idatha oyinikezayo: igama lakho, inombolo yakho ye-WhatsApp, i-imeyile kunye nenkcazelo yeprojekthi yakho xa uqhagamshelana nathi nge-WhatsApp okanye nge-imeyile. Le sayithi ayinawo ama-akhawunti abasebenzisi okanye iifom zokubhalisa.",
+      "- Idatha yobugcisa eqhutywa ngokuzenzekelayo: idilesi ye-IP, uhlobo lwesixhobo kunye nebrawuza, kunye namaphepha owavulayo. Abahlinzeki bethu bokubamba nabe-CDN bayiqhuba ukuze basebenzise isayithi kwaye bayikhusele ekusetyenzisweni gwenxa.",
+      "- Ilizwe elilinganiselweyo: ukuze amaxabiso abonakaliswe kwimali yakho, ilizwe lakho linconywa kwiinkcukacha ze-CDN okanye ulwimi lwebrawuza yakho. Asiyigcini kwiiseva zethu.",
+      "- Idatha yohlalutyo: i-Google Analytics 4 kunye ne-Microsoft Clarity (xa zivuliwe) ziqokelela izibalo zokusetyenziswa ezifana namaphepha avuliweyo, ubude botyelelo, uhlobo lwesixhobo kunye nokurekhodwa ngokungatyhilwa kokusebenzisana. Zilayisha kuphela emva kokuba usebenzisane nephepha.",
+      "- Indawo yokugcina yebrawuza: ukhetho lwakho lolwimi, iimpawu zokuba sele uyithandile, uyibonile okanye uyabelane ngenqaku, kunye nomlinganiselo wexabiso wethutyana. Iinkcukacha zikuMgaqo-nkqubo weeCookie.",
+      "- Amanani okubonwa, ukuthandwa nokwabelwana ngamanqaku agcinwa njengamanani adityanisiweyo, ngaphandle kobuni bomtyeleli."
+     ]
+    },
+    {
+     "t": "3. Idatha isetyenziselwa ntoni",
+     "b": [
+      "- Ukuphendula imibuzo yakho, ukulungiselela amagqabaza amaxabiso nokwenza iprojekthi yakho.",
+      "- Ukusebenzisa, ukukhusela nokugcina isayithi ikhawuleza.",
+      "- Ukuqonda indlela isayithi esetyenziswa ngayo ukuze siyiphucule.",
+      "- Ukuzalisekisa iimbopheleleko zomthetho.",
+      "Asiyithengisi idatha yakho yobuqu."
+     ]
+    },
+    {
+     "t": "4. Amacandelo wesithathu abandakanyekayo",
+     "b": [
+      "- Vercel: ukubamba nokusebenzisa isayithi.",
+      "- Cloudflare: i-CDN kunye nokhuseleko.",
+      "- Google (Google Analytics 4) kunye neMicrosoft (Clarity): izibalo zokusetyenziswa kwesayithi.",
+      "- Meta (WhatsApp) kunye neGoogle (Gmail): xa uqhagamshelana nathi ngeelinki ze-WhatsApp okanye ze-imeyile kule sayithi.",
+      "- Umhlinzeki wamaxabiso otshintshiselwano: ufumana kuphela izicelo zamaxabiso kwiseva yethu, hayi idatha yabatyeleli.",
+      "Aba bahlinzeki banokuqhuba idatha ngaphandle kwe-Indonesia ngokweemigaqo-nkqubo zabo."
+     ]
+    },
+    {
+     "t": "5. Ixesha idatha egcinwa ngalo",
+     "b": [
+      "Iincoko kunye nezixhobo zeprojekthi zigcinwa ixesha elide kangangoko kufuneka ukuqhuba inkonzo, ukunika inkxaso nokuzalisekisa iimbopheleleko zomthetho, emva koko zicinywe okanye zenziwe zingachazeki. Idatha yohlalutyo ilandela useto lokugcina lomhlinzeki wayo. Idatha ekwibrawuza yakho ihlala de uyicime."
+     ]
+    },
+    {
+     "t": "6. Amalungelo akho",
+     "b": [
+      "NgokoMthetho Onombolo 27 wango-2022 we-Indonesia ngoKhuseleko lweDatha yoBuqu, unelungelo lokuba:",
+      "- wazi kwaye ufumane ikopi yedatha yobuqu esinayo ngawe;",
+      "- ucele ukuba idatha engachanekanga ilungiswe;",
+      "- ucele ukuba idatha yakho icinywe okanye uyiphelise imvume yakho;",
+      "- uchase ukuqhutywa okuthile.",
+      "Thumela isicelo sakho ku-nocodingindonesia@gmail.com. Siza kuphendula ngexesha elifanelekileyo."
+     ]
+    },
+    {
+     "t": "7. Ukhuseleko nabantwana",
+     "b": [
+      "Le sayithi isebenzisa i-HTTPS kwaye ukufikelela kwidatha yeprojekthi kunqunyelwe. Akukho ndlela yokuthumela okanye yokugcina idatha engenaso nasiphi na isiphumo esibi, ngoko asikwazi ukuqinisekisa ukhuseleko olugqibeleleyo.",
+      "Iinkonzo zethu zenzelwe abantu abaneminyaka eyi-18 nangaphezulu. Asiqokeleli ngabom idatha yobuqu yabantwana."
+     ]
+    },
+    {
+     "t": "8. Utshintsho kulo mgaqo-nkqubo",
+     "b": [
+      "Lo mgaqo-nkqubo ungahlaziywa ngamaxesha athile. Umhla wohlaziyo lokugqibela ubonisiwe phezulu kwephepha. Ukuba iilwimi ziyahluka ngentsingiselo, kusebenza uguqulelo lwesiIndonesia."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Imiqathango neMiqathango",
+   "description": "Imithetho yokusebenzisa isayithi neenkonzo zeNocoding: iipakeji, amaxabiso, indlela umsebenzi owenziwa ngayo, ipropati yobuchule kunye nemida yeembopheleleko.",
+   "sections": [
+    {
+     "t": "1. Ukwamkela le miqathango",
+     "b": [
+      "Ngokuvula le sayithi okanye ngokusebenzisa iinkonzo zeNocoding, uyavuma kule miqathango neemeko. Ukuba awuvumi, nceda ungasebenzisi isayithi okanye iinkonzo zethu."
+     ]
+    },
+    {
+     "t": "2. Iinkonzo",
+     "b": [
+      "INocoding yakha iiwebhusayithi zeportfolio okanye ze-CV, amaphepha okufika neeprofayile zenkampani, iinkqubo zolwazi nezemisebenzi, kunye nokuzenzekelayo kweenkqubo zeshishini. Ububanzi bomsebenzi, iimpawu, uluhlu lwexesha nentlawulo ziyavunyelwana nawe nge-WhatsApp okanye nge-imeyile ngaphambi kokuba umsebenzi uqale.",
+      "Ukubonisana kusoloko kungasimahla, nanini na xa ukufuna, kwaye akukunyanzeli ukuba uyalele."
+     ]
+    },
+    {
+     "t": "3. Iipakeji namaxabiso",
+     "b": [
+      "- Ipakeji encinci: ukususela kwi-Rp 500.000 ngonyaka, kubandakanya ukugcinwa simahla kunye nedomeyini yonyaka ongu-1.",
+      "- Ipakeji enkulu: ukususela kwi-Rp 2.000.000 ngonyaka, kubandakanya ukugcinwa simahla kunye nokubamba (hosting) konyaka ongu-1.",
+      "Amaxabiso asesayithini ngamaxabiso aqalayo. Isixa sokugqibela siyavunyelwana emva kokubonisana, ngokweemfuno zakho. Kubatyeleli abangaphandle kwe-Indonesia, amaxabiso abonakaliswa kwimali yasekuhlaleni njengomlinganiselo osekelwe kwinqanaba lotshintshiselwano losuku ngalunye; isixa serupiah esiyavumelana ngaso sesona sisebenzayo. Iindleko ezongezelelweyo, ezifana neempawu ezongezelelweyo okanye ukuvuselela emva kokuphela kwexesha lasimahla, uxelelwa zona ngaphambi kokuba umsebenzi wenziwe."
+     ]
+    },
+    {
+     "t": "4. Indlela umsebenzi owenziwa ngayo noxanduva lwakho",
+     "b": [
+      "Uyilo luphononongwa kwaye luvunywe nawe ngaphambi kokuvelisa. Ukuhlaziywa kwenziwa njengoko kuvunyelwene.",
+      "Unoxanduva lokunikezela izinto (ilogo, isicatshulwa, iifoto, idatha) ngexesha nokuba nelungelo lokuzisebenzisa. Ukulibaziseka kwezinto okanye kwengxelo kunganefuthe kuluhlu lwexesha."
+     ]
+    },
+    {
+     "t": "5. Ukugcinwa",
+     "b": [
+      "Ukugcinwa simahla konyaka ongu-1 kubandakanya ukulungisa iimpazamo emsebenzini wethu kunye nohlaziyo olusisiseko lokhuseleko. Iimpawu ezintsha, utshintsho olukhulu loyilo nomsebenzi ongaphandle kwesivumelwano sokuqala zihlawulwa ngokwahlukileyo."
+     ]
+    },
+    {
+     "t": "6. Ipropati yobuchule",
+     "b": [
+      "Izinto ozinikezayo zihlala zezakho. Umsebenzi ogqityiweyo unikezelwa kuwe emva kokuba intlawulo njengoko kuvunyelwene igqityiwe. INocoding inokubonisa umsebenzi ophilayo njengemizekelo kwiportfolio yayo, ngaphandle kokuba ucele ngokubhaliweyo ukuba ungabonisiwa.",
+      "Uyilo, isicatshulwa namanqaku akuri nocoding.web.id zezeNocoding. Unokwabelana ngeelinki zazo, kodwa awunakuzikopa uzisebenzise ngokorhwebo ngaphandle kwemvume. Iifoto zamanqaku zivela kwi-Unsplash kwaye zilandela ilayisenisi yayo; umthombo uchazwe ngezantsi kwefoto nganye."
+     ]
+    },
+    {
+     "t": "7. Iilwimi zesayithi",
+     "b": [
+      "Le sayithi iyafumaneka ngeelwimi ezininzi. Iinguqulelo, ngakumbi zeelwimi ezinabathethi abambalwa, zinokungafezeki ngokupheleleyo. Ukuba ziyahluka ngentsingiselo, kusebenza uguqulelo lwesiIndonesia. La maphepha omthetho afumaneka ngesiIndonesia nangesiNgesi."
+     ]
+    },
+    {
+     "t": "8. Imida yoxanduva",
+     "b": [
+      "Sisebenza ukunikezela iziphumo ezintle, kodwa asithembisi iziphumo ezithile zeshishini ezifana neendawo zokukhangela, amanani abatyeleli okanye intengiso. Asinoxanduva lweziphazamiso ezivela kumacandelo wesithathu afana nabahlinzeki bokubamba, bedomeyini okanye bentlawulo, okanye lweelahleko ezingathanga ngqo.",
+      "Uxanduva lwethu lwenkonzo enye lunqunyelwe kwisixa osihlawule kuloo nkonzo, ngokomlinganiselo ovunyelwa ngumthetho. Oku akuyinciphisi amalungelo onawo akhuselwe ngumthetho."
+     ]
+    },
+    {
+     "t": "9. Umthetho olawulayo",
+     "b": [
+      "Le miqathango ilawulwa yimithetho yeRiphabliki yase-Indonesia. Ukuba kuvela impikiswano, siqala ngokuzama ukuyisombulula ngencoko. Ukuba akukho sivumelwano, impikiswano isonjululwa ziinkundla ezinegunya e-Indonesia."
+     ]
+    },
+    {
+     "t": "10. Utshintsho nonxibelelwano",
+     "b": [
+      "Le miqathango ingahlaziywa ngamaxesha athile; umhla wohlaziyo lokugqibela ubonisiwe phezulu kwephepha. Imibuzo ingathunyelwa ku-nocodingindonesia@gmail.com okanye nge-WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Umgaqo-nkqubo weeCookie",
+   "description": "Iicookie nendawo yokugcina yasekuhlaleni esetyenziswa sisayithi yeNocoding, ezenzelwe ntoni, nendlela yokuzilawula.",
+   "sections": [
+    {
+     "t": "1. Iicookie yintoni",
+     "b": [
+      "Iicookie ngamafayile amancinci isayithi iwagcina kwibrawuza yakho. Indawo yokugcina yasekuhlaleni nendawo yokugcina yeseshoni zisebenza ngendlela efanayo kodwa azithunyelwa kuseva ngokuzenzekelayo. Kweli phepha, sizibiza zonke ngokuthi ziicookie."
+     ]
+    },
+    {
+     "t": "2. Oko isayithi ikufunayo ukuze isebenze",
+     "b": [
+      "Zigcinwa kwibrawuza yakho kwaye azithunyelwa kwiiseva zethu:",
+      "- nocoding-language kunye ne-nocoding-language-set: ulwimi olukhethileyo okanye olufunyenwe kwibrawuza yakho.",
+      "- nocoding-pricing (iseshoni): imali elinganiselweyo nentlawulo yotshintshiselwano, ukuze amaxabiso angabalwa kwakhona kwiphepha ngalinye.",
+      "- Iimpawu zamanqaku: ukuba sele uyithandile, uyibonile okanye wabelane ngenqaku, ukuze amanani angaphindwa kabini.",
+      "- Uphawu lwethutyana lwendawo yokushukumisa xa uhamba phakathi kwamacandelo esayithi."
+     ]
+    },
+    {
+     "t": "3. Uhlalutyo",
+     "b": [
+      "Xa ivuliwe, iinkonzo ezimbini zohlalutyo zilayisha emva kokuba usebenzisane nephepha (ushukumisa, ucofa okanye utyhala ikhiyi):",
+      "- Google Analytics 4 (iicookie ezifana ne-_ga kunye ne-_ga_*, zisebenza kude kube malunga neminyaka emi-2): izibalo zotyelelo.",
+      "- Microsoft Clarity (iicookie ezifana ne-_clck, _clsk, CLID kunye ne-MUID, zisebenza kude kube malunga nonyaka omnye): iimaphu zobushushu nokurekhodwa ngokungatyhilwa kokusebenzisana.",
+      "Abahlinzeki be-CDN nabokhuseleko banokubeka iicookie zobugcisa ukukhusela isayithi kuhlobo olulimazayo lwetrafikhi."
+     ]
+    },
+    {
+     "t": "4. Indlela yokulawula iicookie",
+     "b": [
+      "Unokucima okanye uthintele iicookie kwiisetingi zebrawuza yakho. Ungafaka ne-add-on esemthethweni yeGoogle yokukhetha ukungabandakanyeki kwiGoogle Analytics. Ukuba iicookie zohlalutyo zithintelwe, isayithi isasebenza; ukuba indawo yokugcina yasekuhlaleni icinyiwe, ukhetho lwakho lolwimi lubuyela kwesiqhelo."
+     ]
+    },
+    {
+     "t": "5. Imibuzo",
+     "b": [
+      "Ngemibuzo ngalo mgaqo-nkqubo, qhagamshelana ne-nocodingindonesia@gmail.com. Indlela idatha yobuqu esetyenziswa ngayo ichazwa ngakumbi kuMgaqo-nkqubo Wabucala. Ukuba iilwimi ziyahluka ngentsingiselo, kusebenza uguqulelo lwesiIndonesia."
+     ]
+    }
+   ]
+  }
+ }
+}

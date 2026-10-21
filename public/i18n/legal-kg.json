@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Mbala ya nsuka ya kuvutuka",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Mibeni ya Kuzitisa Mambu ya Mutu",
+   "description": "Mambu Nocoding ke bokila, sambu na nki mambu yango ke sadilama, nani ke sala yo, ti makuka nge ke vandaka na yo na mambu na nge ya mutu.",
+   "sections": [
+    {
+     "t": "1. Beto kele nani",
+     "b": [
+      "Nocoding (nocoding.web.id) kele site ya internet, kisalu ya ba application, ya ba système ya mambu ti ya kusala bima na nzila ya machine, yina Abid Hanan Wicaksono ke kangula na Indonésie. Mibeni yai ke tubila mutindu beto ke zitisa mambu na nge ya mutu ntangu nge ke kwiza na site yai to ntangu nge ke tuba ti beto.",
+      "Mpusa ya mibeni yai lenda tindama na nocodingindonesia@gmail.com to na WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Mambu beto ke bokila",
+     "b": [
+      "- Mambu nge ke pesa beto: nkumbu na nge, nimero ya WhatsApp, email ti ndimbu ya kisalu na nge ntangu nge ke tuba ti beto na nzila ya WhatsApp to email. Site yai kele ve ti ba compte ya bantu to ba formulaire ya kudiyandikisa.",
+      "- Mambu ya technique yina ke sadilama yo mosi: adresse IP, mutindu ya appareil ti ya navigateur, ti ba page nge ke zibula. Bantu ya hébergement ti ya CDN ke sala yo sambu na kupesa site yai ti kukanga yo na mambu ya mbi.",
+      "- Insi na nge ya kutandila: sambu ba prix lenda monisama na mbongo na nge, insi na nge ke tandilama na nzila ya mambu ya CDN to ya ndinga ya navigateur na nge. Beto ke bumba yo ve na ba serveur na beto.",
+      "- Mambu ya ba statistique: Google Analytics 4 ti Microsoft Clarity (ntangu yo ke zibulama) ke bokila ba statistique ya mutindu nge ke sadila site, banda ba page yina nge zibula, ntangu nge vandaka, mutindu ya appareil, ti ba enregistrement ya mutindu nge ke sadila site yina ke monisa nkumbu ve. Yo ke kwiza kaka nsima ya nge sala kima na page.",
+      "- Kibumbu ya navigateur: ndinga yina nge kyolo, ba kidimbu ya mambu ya nge me tula like, me tala to me kabula nsangu mosi, ti nsangu ya ntangu fioti ya prix. Mambu mingi kele na Mibeni ya Cookie.",
+      "- Ba nimero ya ba nsangu yina bantu me tala, me tula like to me kabula kele ya kubumbama na mutindu ya kubumbana, kukonda nkumbu ya muntu ya kutala."
+     ]
+    },
+    {
+     "t": "3. Sambu na nki mambu yango ke sadilama",
+     "b": [
+      "- Kuyingisa mpusa na nge, kuyidika ba devis ti kusala kisalu na nge.",
+      "- Kupesa site, kukanga yo ti kuvandisa yo ya nsiku-nsiku.",
+      "- Kuzaba mutindu site ke sadilama sambu na kusala yo mbote koluta.",
+      "- Kukumisa ba nsiku ya kimvuka.",
+      "Beto ke uzisa ve mambu na nge ya mutu."
+     ]
+    },
+    {
+     "t": "4. Bantu ya zole yina ke na kati",
+     "b": [
+      "- Vercel: hébergement ti kupesa site.",
+      "- Cloudflare: CDN ti kukanga.",
+      "- Google (Google Analytics 4) ti Microsoft (Clarity): ba statistique ya mutindu site ke sadilama.",
+      "- Meta (WhatsApp) ti Google (Gmail): ntangu nge ke tuba ti beto na nzila ya ba lien ya WhatsApp to ya email na site yai.",
+      "- Muntu ya ke pesa ba taux ya mbongo: yandi ke zwa kaka ba mpusa ya taux ya serveur na beto, ve mambu ya bantu yina ke kwiza na site.",
+      "Bantu yai lenda sala mambu yango na nsi ya nkaka, ve na Indonésie, na nsiku na bo ya kimosi."
+     ]
+    },
+    {
+     "t": "5. Ntangu mambu ke vandaka",
+     "b": [
+      "Ba kutuba ti ba kima ya kisalu ke vandaka mingi ntangu yo me fwana sambu na kuyendisa kisalu, kupesa nsadisa ti kukumisa ba nsiku ya kimvuka, nsima yo ke katulama to ke salama mutindu ya kuzaba ve nani. Mambu ya ba statistique ke landa ba nsiku ya kubumba ya muntu yina ke pesa yo. Mambu na navigateur na nge ke vandaka tii nge ke katula yo."
+     ]
+    },
+    {
+     "t": "6. Makuka na nge",
+     "b": [
+      "Na nsiku ya Indonésie Nomero 27 ya Mvula 2022 sambu na Kuzitisa Mambu ya Mutu, nge kele na kuka ya:",
+      "- kuzaba ti kuzwa kopi ya mambu na nge ya mutu yina beto kele na yo;",
+      "- kulomba ti mambu ya mpamba ketiswa ya mbote;",
+      "- kulomba ti mambu na nge katulama to kuvutula ndima na nge;",
+      "- kuzimbisa mutindu mosi ya kusadila mambu.",
+      "Tinda mpusa na nge na nocodingindonesia@gmail.com. Beto ta vutula nge na ntangu ya mbote."
+     ]
+    },
+    {
+     "t": "7. Kukanga ti bana",
+     "b": [
+      "Site yai ke sadila HTTPS, ti kuyingina na mambu ya kisalu kele ya kukangama. Nzila ata mosi ya kutinda to ya kubumba mambu kele ve na kimbeni ya mvimba, yo yina beto lenda kudimina ve kukanga ya mvimba.",
+      "Bisalu na beto kele sambu na bantu ya mvula 18 to ya kuluta. Beto ke bokila ve na mpila ya kuzaba mambu ya mutu ya bana."
+     ]
+    },
+    {
+     "t": "8. Mbalusu ya mibeni yai",
+     "b": [
+      "Mibeni yai lenda balusama ntangu na ntangu. Zuva ya mbalusu ya nsuka ke monisama na ntwala ya page. Kana ba ndinga kele na ndimbu ya kuvukana ve, mutindu ya Indonésie ke sadilama."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Mibeni ti Mambu ya Kudima",
+   "description": "Ba nsiku ya kusadila site ti ba kisalu ya Nocoding: ba paquet, ba prix, mutindu kisalu ke salama, bunkuna ya mayele ti ba mpimpa ya mfunu.",
+   "sections": [
+    {
+     "t": "1. Kudima mibeni yai",
+     "b": [
+      "Na kuzibula site yai to na kusadila ba kisalu ya Nocoding, nge ke dima mibeni ti mambu ya kudima yai. Kana nge ke dima ve, beto ke lomba nge kusadila ve site to ba kisalu na beto."
+     ]
+    },
+    {
+     "t": "2. Ba kisalu",
+     "b": [
+      "Nocoding ke tungisa ba site ya portfolio to ya CV, ba landing page ti ba profil ya ba kampani, ba système ya mambu ti ya kisalu, ti kusala ba kisalu ya ba kampani na nzila ya machine. Nkuma ya kisalu, ba fonctionnalité, ntangu ti ntalu ke vukanaka na nge na nzila ya WhatsApp to email na ntwala ya kuvanda kisalu.",
+      "Mpusa ya mayele ke vandaka ntangu yonso na kobo, ntangu nge me lomba yo, ti yo ke kangisa nge ve na kutinda ndombolo."
+     ]
+    },
+    {
+     "t": "3. Ba paquet ti ba prix",
+     "b": [
+      "- Paquet ya fioti: banda na Rp 500,000 na mvula, ti kati na yo kuvanda ya mbote ya kobo ti domaine ya mvula 1.",
+      "- Paquet ya nene: banda na Rp 2,000,000 na mvula, ti kati na yo kuvanda ya mbote ya kobo ti hébergement ya mvula 1.",
+      "Ba prix na site kele ba prix ya kubanda. Ntalu ya nsuka ke vukanaka nsima ya mayele, na kutadila mpusa na nge. Sambu na bantu ya kele na nsi ya nkaka, ve na Indonésie, ba prix ke monisama na mbongo ya insi na bo mutindu ya kutandila, na kutadila taux ya mbongo ya zuva yonso. Ntalu ya rupiah yina beto me vukana yo yina ke sadilama. Ba mbongo ya kuvanda, mutindu ba fonctionnalité ya nkaka to kuvutula nsima ya ntangu ya kobo me nsuka, ke tubilama nge na ntwala ya kusala kisalu."
+     ]
+    },
+    {
+     "t": "4. Mutindu kisalu ke salama ti mfunu ya nge",
+     "b": [
+      "Dessin ke talama ti ke dimama ti nge na ntwala ya kusala. Ba mbalusu ke salama mutindu beto me vukana.",
+      "Nge kele ti mfunu ya kupesa ba kima (logo, ba mambu ya kusonika, ba foto, ba données) na ntangu ya mbote ti ya kuvanda na kuka ya kusadila yo. Kuvutula ntama ya ba kima to ya ba nsangu lenda sala ti ntangu ya kisalu kuvandaka mpamba."
+     ]
+    },
+    {
+     "t": "5. Kuvanda ya mbote",
+     "b": [
+      "Kuvanda ya mbote ya kobo ya mvula 1 ke kangisa kutula ya mbote ya ba mpasi ya kisalu na beto ti ba mbalusu ya mbote ya kukanga. Ba fonctionnalité ya mpa, ba mbalusu ya nene ya dessin ti kisalu ya katuka na kidimbu ya ntete ke futamaka ya kimpa."
+     ]
+    },
+    {
+     "t": "6. Mayele ya mutu",
+     "b": [
+      "Ba kima nge ke pesa ke vandaka ya nge. Kisalu ya me nsuka ke pesamaka na nge kana kufuta ya mutindu beto me vukana me nsuka. Nocoding lenda monisa ba kisalu ya ke zingaka mutindu ba ndakisa na portfolio na yo, kana nge me lomba ve na mikanda ti yo kumonisama ve.",
+      "Dessin, ba mambu ya kusonika ti ba nsangu na nocoding.web.id kele ya Nocoding. Nge lenda kabula ba lien na yo, kansi nge lenda kopiya mpi kusadila yo sambu na bisalu ya kuuzisa ve kukonda ndima. Ba foto ya ba nsangu ke katukaka na Unsplash ti ke landa nsiku na yo ya licence; mutu ya katuka ke tubama na nsi ya foto yonso."
+     ]
+    },
+    {
+     "t": "7. Ba ndinga ya site",
+     "b": [
+      "Site yai kele na ba ndinga mingi. Ba mbalusu, mingi-mingi ya ba ndinga ya bantu fioti ke tuba yo, lenda vanda ya mbote ve. Kana yo ke vukana ve na ndimbu, mutindu ya Indonésie ke sadilama. Ba page ya nsiku yai kele na ndinga ya Indonésie ti ya Anglais."
+     ]
+    },
+    {
+     "t": "8. Nsuka ya mfunu",
+     "b": [
+      "Beto ke sala sambu na kuvanda ti ba mbuma ya mbote, kansi beto ke tula ve ba mambu ya mpasi ya kisalu mutindu ba rang na ba moteur ya kutala, ntalu ya bantu ya ke kwiza to ba uzisa. Beto kele ve na mfunu ya ba mpasi ya bantu ya zole mutindu ba bantu ya hébergement, ya domaine to ya kufuta, to ya ba mpasi ya kuyingina ve.",
+      "Mfunu na beto sambu na kisalu mosi ke kangama na ntalu nge me futa sambu na kisalu yina, mutindu nsiku ke ndima. Yo ke fwa ve ba makuka na nge yina nsiku ke kanga."
+     ]
+    },
+    {
+     "t": "9. Nsiku ya kusadila",
+     "b": [
+      "Mibeni yai ke landa ba nsiku ya Republika ya Indonésie. Kana kimbeni me kwiza, beto ke ndima ya ntete kukuma kimvuka na nzila ya kuzabisa. Kana kuvukana ke monana ve, kimbeni ke bakisa na ba tribunal ya ke kwisa na Indonésie."
+     ]
+    },
+    {
+     "t": "10. Mbalusu ti kutuba",
+     "b": [
+      "Mibeni yai lenda balusama ntangu na ntangu; zuva ya mbalusu ya nsuka ke monisama na ntwala ya page. Mpusa lenda tindama na nocodingindonesia@gmail.com to na WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Mibeni ya Cookie",
+   "description": "Ba cookie ti ba kibumbu ya kisika yina site ya Nocoding ke sadila, sambu na nki, ti mutindu ya kuyendisa yo.",
+   "sections": [
+    {
+     "t": "1. Cookie kele nki",
+     "b": [
+      "Ba cookie kele ba fichier ya fioti yina site ke bumba na navigateur na nge. Local storage ti session storage ke sala mutindu mosi kansi ke tindama ve na serveur yo mosi. Na page yai beto ke bokila yo yonso cookie."
+     ]
+    },
+    {
+     "t": "2. Mambu site ke lomba sambu na kusala",
+     "b": [
+      "Ke bumbamaka na navigateur na nge ti ke tindamaka ve na ba serveur na beto:",
+      "- nocoding-language ti nocoding-language-set: ndinga yina nge me kyolo to yina me zabama na navigateur na nge.",
+      "- nocoding-pricing (session): mbongo ya kutandila ti taux, sambu ba prix ya kusala ve ntangu yonso na page yonso.",
+      "- Ba kidimbu ya ba nsangu: kana nge me tula like, me tala to me kabula nsangu, sambu ba ndombolo ya kuvanda ve mbala zole.",
+      "- Kidimbu ya ntangu fioti ya kisika ya scroll ntangu nge ke bwila na ba kisika ya site."
+     ]
+    },
+    {
+     "t": "3. Ba statistique",
+     "b": [
+      "Ntangu yo me zibulama, ba kisalu zole ya ba statistique ke kwiza nsima ya nge sala kima na page (kuvutuka, kubula to kukanga ya clavier):",
+      "- Google Analytics 4 (ba cookie mutindu _ga ti _ga_*, ya ke vanda tii mvula zole mutindu): ba statistique ya ba kwiza.",
+      "- Microsoft Clarity (ba cookie mutindu _clck, _clsk, CLID ti MUID, ya ke vanda tii mvula 1 mutindu): ba heatmap ti ba enregistrement ya mutindu nge ke sadila site yina ke monisa nkumbu ve.",
+      "Ba bantu ya CDN ti ya kukanga lenda tula mpi ba cookie ya technique sambu na kukanga site na ba kwiza ya mbi."
+     ]
+    },
+    {
+     "t": "4. Mutindu ya kuyendisa ba cookie",
+     "b": [
+      "Nge lenda katula to kukanga ba cookie na ba réglage ya navigateur na nge. Nge lenda mpi tula add-on ya Google ya kukatuka na Google Analytics. Kana ba cookie ya ba statistique kele ya kukangama, site ke sala kaka; kana local storage me katulama, ndinga na nge ke vutuka na ndinga ya kuvandaka."
+     ]
+    },
+    {
+     "t": "5. Ba ndombolo",
+     "b": [
+      "Sambu na ba ndombolo na mibeni yai, tuba ti nocodingindonesia@gmail.com. Mutindu mambu ya mutu ke sadilama ke tubama mingi na Mibeni ya Kuzitisa Mambu ya Mutu. Kana ba ndinga kele na ndimbu ya kuvukana ve, mutindu ya Indonésie ke sadilama."
+     ]
+    }
+   ]
+  }
+ }
+}

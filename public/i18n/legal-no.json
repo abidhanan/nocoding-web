@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Sist oppdatert",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Personvernerklæring",
+   "description": "Hvilke data Nocoding samler inn, hva de brukes til, hvem som behandler dem, og dine rettigheter over egne personopplysninger.",
+   "sections": [
+    {
+     "t": "1. Hvem vi er",
+     "b": [
+      "Nocoding (nocoding.web.id) er en tjeneste for nettsteder, apper, informasjonssystemer og automatisering som drives av Abid Hanan Wicaksono i Indonesia. Denne erklæringen forklarer hvordan vi behandler personopplysningene dine når du besøker dette nettstedet eller kontakter oss.",
+      "Spørsmål om denne erklæringen kan sendes til nocodingindonesia@gmail.com eller WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data vi samler inn",
+     "b": [
+      "- Data du gir oss selv: navn, WhatsApp-nummer, e-post og en beskrivelse av prosjektet ditt når du kontakter oss via WhatsApp eller e-post. Dette nettstedet har ingen brukerkontoer eller registreringsskjemaer.",
+      "- Tekniske data som behandles automatisk: IP-adresse, enhets- og nettlesertype og sidene du åpner. Våre drifts- og CDN-leverandører behandler disse for å levere nettstedet og beskytte det mot misbruk.",
+      "- Omtrentlig land: for at priser kan vises i din valuta, anslås landet ditt ut fra CDN-informasjon eller nettleserens språk. Vi lagrer det ikke på våre servere.",
+      "- Analysedata: Google Analytics 4 og Microsoft Clarity (når de er aktivert) samler inn bruksstatistikk, for eksempel åpnede sider, besøkets varighet, enhetstype og anonyme opptak av interaksjon. De lastes først etter at du har samhandlet med siden.",
+      "- Lagring i nettleseren: språkvalget ditt, markeringer om at du allerede har likt, sett eller delt en artikkel, og et midlertidig prisanslag. Detaljer finnes i erklæringen om informasjonskapsler.",
+      "- Antall visninger, likerklikk og delinger av artikler lagres som samlede tall, uten besøkendes identitet."
+     ]
+    },
+    {
+     "t": "3. Hva dataene brukes til",
+     "b": [
+      "- Å svare på spørsmålene dine, lage tilbud og gjennomføre prosjektet ditt.",
+      "- Å levere, sikre og holde nettstedet raskt.",
+      "- Å forstå hvordan nettstedet brukes, slik at vi kan forbedre det.",
+      "- Å oppfylle rettslige forpliktelser.",
+      "Vi selger ikke personopplysningene dine."
+     ]
+    },
+    {
+     "t": "4. Tredjeparter som er involvert",
+     "b": [
+      "- Vercel: drift og levering av nettstedet.",
+      "- Cloudflare: CDN og sikkerhet.",
+      "- Google (Google Analytics 4) og Microsoft (Clarity): statistikk over bruk av nettstedet.",
+      "- Meta (WhatsApp) og Google (Gmail): når du kontakter oss via WhatsApp- eller e-postlenkene på dette nettstedet.",
+      "- Leverandør av valutakurser: mottar bare kursforespørsler fra serveren vår, ikke data om besøkende.",
+      "Disse leverandørene kan behandle data utenfor Indonesia i henhold til sine egne retningslinjer."
+     ]
+    },
+    {
+     "t": "5. Hvor lenge data lagres",
+     "b": [
+      "Samtaler og prosjektmateriale lagres så lenge det er nødvendig for å drive tjenesten, gi støtte og oppfylle rettslige forpliktelser, og slettes eller anonymiseres deretter. Analysedata følger oppbevaringsinnstillingene til leverandøren. Data i nettleseren din blir liggende til du sletter dem."
+     ]
+    },
+    {
+     "t": "6. Dine rettigheter",
+     "b": [
+      "I henhold til Indonesias lov nr. 27 av 2022 om vern av personopplysninger (Law No. 27 of 2022) har du rett til å:",
+      "- få vite hvilke personopplysninger vi har om deg og få en kopi av dem;",
+      "- be om at uriktige data rettes;",
+      "- be om at dataene dine slettes eller trekke tilbake samtykket ditt;",
+      "- protestere mot enkelte former for behandling.",
+      "Send forespørselen din til nocodingindonesia@gmail.com. Vi svarer innen rimelig tid."
+     ]
+    },
+    {
+     "t": "7. Sikkerhet og barn",
+     "b": [
+      "Dette nettstedet bruker HTTPS, og tilgangen til prosjektdata er begrenset. Ingen metode for overføring eller lagring av data er helt risikofri, så vi kan ikke garantere absolutt sikkerhet.",
+      "Tjenestene våre er ment for personer som er 18 år eller eldre. Vi samler ikke bevisst inn personopplysninger om barn."
+     ]
+    },
+    {
+     "t": "8. Endringer i denne erklæringen",
+     "b": [
+      "Denne erklæringen kan oppdateres fra tid til annen. Datoen for siste oppdatering vises øverst på siden. Hvis språkene avviker i betydning, gjelder den indonesiske versjonen."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Vilkår og betingelser",
+   "description": "Reglene for bruk av nettstedet og tjenestene til Nocoding: pakker, priser, hvordan arbeidet utføres, immaterielle rettigheter og ansvarsbegrensninger.",
+   "sections": [
+    {
+     "t": "1. Godkjenning av vilkårene",
+     "b": [
+      "Ved å åpne dette nettstedet eller bruke Nocodings tjenester godtar du disse vilkårene og betingelsene. Hvis du ikke godtar dem, ber vi deg om å ikke bruke nettstedet eller tjenestene våre."
+     ]
+    },
+    {
+     "t": "2. Tjenestene",
+     "b": [
+      "Nocoding lager portefølje- eller CV-nettsteder, landingssider og bedriftsprofiler, informasjons- og driftssystemer, og automatisering av forretningsprosesser. Arbeidets omfang, funksjoner, tidsplan og kostnader avtales med deg via WhatsApp eller e-post før arbeidet starter.",
+      "Rådgivning er alltid gratis, når som helst du trenger det, og forplikter deg ikke til å bestille."
+     ]
+    },
+    {
+     "t": "3. Pakker og priser",
+     "b": [
+      "- Liten pakke: fra Rp 500.000 per år, inkludert gratis vedlikehold og domene i 1 år.",
+      "- Stor pakke: fra Rp 2.000.000 per år, inkludert gratis vedlikehold og drift (hosting) i 1 år.",
+      "Prisene på nettstedet er startpriser. Det endelige beløpet avtales etter en rådgivningssamtale, ut fra behovene dine. For besøkende utenfor Indonesia vises prisene i lokal valuta som et anslag basert på dagens vekslingskurs; det avtalte beløpet i rupiah er det som gjelder. Ekstrakostnader, for eksempel tilleggsfunksjoner eller fornyelse når den gratis perioden er over, opplyses om til deg før arbeidet utføres."
+     ]
+    },
+    {
+     "t": "4. Hvordan arbeidet utføres og ditt ansvar",
+     "b": [
+      "Designet gjennomgås og godkjennes sammen med deg før produksjon. Revisjoner utføres som avtalt.",
+      "Du er ansvarlig for å levere materiale (logo, tekst, bilder, data) i tide og for å ha rett til å bruke det. Forsinkelser med materiale eller tilbakemeldinger kan påvirke tidsplanen."
+     ]
+    },
+    {
+     "t": "5. Vedlikehold",
+     "b": [
+      "Gratis vedlikehold i 1 år omfatter retting av feil i arbeidet vårt og grunnleggende sikkerhetsoppdateringer. Nye funksjoner, store designendringer og arbeid utenfor den opprinnelige avtalen belastes separat."
+     ]
+    },
+    {
+     "t": "6. Immaterielle rettigheter",
+     "b": [
+      "Materialet du leverer, forblir ditt. Det ferdige arbeidet overleveres til deg når betalingen som er avtalt, er fullført. Nocoding kan vise publisert arbeid som eksempler i porteføljen sin, med mindre du skriftlig ber om at det ikke vises.",
+      "Designet, tekstene og artiklene på nocoding.web.id tilhører Nocoding. Du kan dele lenker til dem, men du kan ikke kopiere og bruke dem kommersielt uten tillatelse. Artikkelbildene kommer fra Unsplash og følger lisensen dens; kilden oppgis under hvert bilde."
+     ]
+    },
+    {
+     "t": "7. Språk på nettstedet",
+     "b": [
+      "Dette nettstedet er tilgjengelig på mange språk. Oversettelser, særlig for språk med færre brukere, er kanskje ikke perfekte. Hvis de avviker i betydning, gjelder den indonesiske versjonen. Disse juridiske sidene er tilgjengelige på indonesisk og engelsk."
+     ]
+    },
+    {
+     "t": "8. Ansvarsbegrensninger",
+     "b": [
+      "Vi arbeider for å levere gode resultater, men vi lover ikke bestemte forretningsresultater, som søkerangering, antall besøkende eller salg. Vi er ikke ansvarlige for avbrudd hos tredjeparter, som leverandører av hosting, domene eller betaling, eller for indirekte tap.",
+      "Vårt ansvar for en tjeneste er begrenset til beløpet du har betalt for tjenesten, så langt loven tillater det. Dette innskrenker ikke rettigheter du har som er beskyttet av loven."
+     ]
+    },
+    {
+     "t": "9. Gjeldende lov",
+     "b": [
+      "Disse vilkårene reguleres av lovene i Republikken Indonesia. Hvis det oppstår en tvist, prøver vi først å løse den gjennom dialog. Hvis det ikke oppnås enighet, avgjøres tvisten av de kompetente domstolene i Indonesia."
+     ]
+    },
+    {
+     "t": "10. Endringer og kontakt",
+     "b": [
+      "Disse vilkårene kan oppdateres fra tid til annen; datoen for siste oppdatering vises øverst på siden. Spørsmål kan sendes til nocodingindonesia@gmail.com eller WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Retningslinjer for informasjonskapsler",
+   "description": "Informasjonskapslene og den lokale lagringen som Nocoding-nettstedet bruker, hva de brukes til, og hvordan du kan administrere dem.",
+   "sections": [
+    {
+     "t": "1. Hva informasjonskapsler er",
+     "b": [
+      "Informasjonskapsler (cookies) er små filer som et nettsted lagrer i nettleseren din. Lokal lagring og øktlagring fungerer på lignende måte, men sendes ikke automatisk til en server. På denne siden kaller vi alt sammen informasjonskapsler."
+     ]
+    },
+    {
+     "t": "2. Det nettstedet trenger for å fungere",
+     "b": [
+      "Lagres i nettleseren din og sendes ikke til serverne våre:",
+      "- nocoding-language og nocoding-language-set: språket du valgte eller som ble oppdaget fra nettleseren din.",
+      "- nocoding-pricing (økt): anslått valuta og kurs, slik at prisene ikke beregnes på nytt på hver side.",
+      "- Artikkelmarkeringer: om du allerede har likt, sett eller delt en artikkel, slik at tallene ikke telles dobbelt.",
+      "- En midlertidig markering av rulleposisjon når du går mellom deler av nettstedet."
+     ]
+    },
+    {
+     "t": "3. Analyse",
+     "b": [
+      "Når de er aktivert, lastes to analysetjenester etter at du har samhandlet med siden (rullet, tappet eller trykket på en tast):",
+      "- Google Analytics 4 (informasjonskapsler som _ga og _ga_*, gyldige i opptil omtrent 2 år): besøksstatistikk.",
+      "- Microsoft Clarity (informasjonskapsler som _clck, _clsk, CLID og MUID, gyldige i opptil omtrent 1 år): varmekart og anonyme opptak av interaksjon.",
+      "CDN- og sikkerhetsleverandører kan også sette tekniske informasjonskapsler for å beskytte nettstedet mot skadelig trafikk."
+     ]
+    },
+    {
+     "t": "4. Slik administrerer du informasjonskapsler",
+     "b": [
+      "Du kan slette eller blokkere informasjonskapsler i nettleserinnstillingene dine. Du kan også installere Googles offisielle tillegg for å velge bort Google Analytics. Hvis analyse-informasjonskapsler blokkeres, fungerer nettstedet fortsatt; hvis lokal lagring tømmes, går språkvalget ditt tilbake til standard."
+     ]
+    },
+    {
+     "t": "5. Spørsmål",
+     "b": [
+      "Ved spørsmål om disse retningslinjene kan du kontakte nocodingindonesia@gmail.com. Hvordan personopplysninger brukes, forklares nærmere i personvernerklæringen. Hvis språkene avviker i betydning, gjelder den indonesiske versjonen."
+     ]
+    }
+   ]
+  }
+ }
+}

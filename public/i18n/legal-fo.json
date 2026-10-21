@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Seinast dagført",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Privatlívspolitikkur",
+   "description": "Hvørjar dátur Nocoding savnar, hvat tær verða brúktar til, hvør viðger tær, og hvørji rættindi tú hevur yvir tínum persónsupplýsingum.",
+   "sections": [
+    {
+     "t": "1. Hvør vit eru",
+     "b": [
+      "Nocoding (nocoding.web.id) er ein heimasíðu-, app-, upplýsingarskipans- og sjálvvirkandi tænasta, sum Abid Hanan Wicaksono rekur í Indonesia. Henda politikkurin greiðir frá, hvussu vit viðgera tínar persónsupplýsingar, tá tú vitjar hesa síðuna ella tekur samband við okkum.",
+      "Spurningar um hendan politikk kunnu sendast til nocodingindonesia@gmail.com ella WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Dátur, sum vit savna",
+     "b": [
+      "- Dátur, sum tú gevur okkum: títt navn, WhatsApp-nummar, teldupost og lýsing av tínum verkætlan, tá tú tekur samband við okkum gjøgnum WhatsApp ella teldupost. Hendan síðan hevur ongar brúkarakontur ella skrásetingarbløð.",
+      "- Tekniskar dátur, sum sjálvvirkandi verða viðgjørdar: IP-adressa, slag av tóli og kaga, og síðurnar, sum tú letur upp. Okkara vevtænastu- og CDN-veitarar viðgera tær fyri at vísa síðuna og verja hana ímóti misbrúki.",
+      "- Umleið land: fyri at kunna vísa prísir í tínum gjaldoyra verður títt land mett út frá CDN-upplýsingum ella tungumálinum í tínum kaga. Vit goyma tað ikki á okkara ambætarum.",
+      "- Greiningardátur: Google Analytics 4 og Microsoft Clarity (tá tey eru sett til) savna brúkstølfrøði, til dømis opnaðar síður, longd á vitjan, slag av tóli og dulnevndar upptøkur av samvirkan. Tey verða bert løddað, eftir at tú hevur samvirkað við síðuna.",
+      "- Goymsla í kaganum: títt mál, merki um at tú longu hevur likað, sæð ella deilt eina grein, og eitt millumbils prísmeting. Smálutir eru í sniðilspolitikkinum.",
+      "- Tal av sjónum, likum og deilingum av greinum verða goymd sum samanlagdar tølur, uttan samleika hjá vitjandi."
+     ]
+    },
+    {
+     "t": "3. Hvat dátur verða brúktar til",
+     "b": [
+      "- At svara tínum spurningum, gera tilboð og útinna títt verkætlan.",
+      "- At vísa, verja og halda síðuna skjótari.",
+      "- At skilja, hvussu síðan verður brúkt, so vit kunnu betra hana.",
+      "- At halda lógarkrøv.",
+      "Vit selja ikki tínar persónsupplýsingar."
+     ]
+    },
+    {
+     "t": "4. Triðjapartar, sum eru við",
+     "b": [
+      "- Vercel: vevtænasta og vísing av síðuni.",
+      "- Cloudflare: CDN og trygd.",
+      "- Google (Google Analytics 4) og Microsoft (Clarity): brúkstølfrøði fyri síðuna.",
+      "- Meta (WhatsApp) og Google (Gmail): tá tú tekur samband við okkum gjøgnum WhatsApp- ella teldupostleinkjurnar á hesi síðu.",
+      "- Veitari av gjaldoyrakursum: fær bert kursbeiðnir frá okkara ambæti, ikki dátur um vitjandi.",
+      "Hesir veitarar kunnu viðgera dátur uttanfyri Indonesia eftir sínum egnu politikkum."
+     ]
+    },
+    {
+     "t": "5. Hvussu leingi dátur verða goymdar",
+     "b": [
+      "Samrøður og verkætlanartilfar verða goymd so leingi, sum tørvur er á, fyri at reka tænastuna, geva stuðul og halda lógarkrøv, og síðani strikað ella dulnevnd. Greiningardátur fylgja goymsluskipanunum hjá veitaranum. Dátur í tínum kaga eru har, til tú strikar tær."
+     ]
+    },
+    {
+     "t": "6. Tíni rættindi",
+     "b": [
+      "Eftir Indonesia lóg nr. 27 frá 2022 um vernd av persónsupplýsingum hevur tú rætt til:",
+      "- at vita og fáa avrit av teimum persónsupplýsingum, sum vit hava um teg;",
+      "- at biðja um, at skeivar dátur verða rættaðar;",
+      "- at biðja um, at tínar dátur verða strikaðar, ella at taka samtykki títt aftur;",
+      "- at mótmæla ávísari viðgerð.",
+      "Send tína umbøn til nocodingindonesia@gmail.com. Vit svara innan eina rímiliga tíð."
+     ]
+    },
+    {
+     "t": "7. Trygd og børn",
+     "b": [
+      "Hendan síðan brúkar HTTPS, og atgongd til verkætlanardátur er avmarkað. Eingin háttur at flyta ella goyma dátur er fullkomiliga uttan váða, so vit kunnu ikki lofta fullkomiligari trygd.",
+      "Tænasturnar hjá okkum eru ætlaðar fólki, sum eru 18 ár og eldri. Vit savna ikki við vitan persónsupplýsingar um børn."
+     ]
+    },
+    {
+     "t": "8. Broytingar í hesum politikki",
+     "b": [
+      "Henda politikkurin kann verða dagførdur av og á. Dagfestingin av seinastu dagføring er víst yvast á síðuni. Um málini eru ymisk í týdningi, er tað indonesiska útgávan, sum er galdandi."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Treytir og táttmál",
+   "description": "Reglurnar fyri at brúka Nocoding-síðuna og tænasturnar: pakkar, prísir, hvussu arbeiðið verður gjørt, ognarrættindi og avmarkingar í ábyrgd.",
+   "sections": [
+    {
+     "t": "1. At góðtaka hesar treytir",
+     "b": [
+      "Við at opna hesa síðuna ella brúka tænasturnar hjá Nocoding góðtekur tú hesar treytir og táttmál. Um tú ikki góðtekur tær, vinarliga brúka ikki síðuna ella tænasturnar hjá okkum."
+     ]
+    },
+    {
+     "t": "2. Tænasturnar",
+     "b": [
+      "Nocoding bygger portfolio- ella CV-heimasíður, lendingarsíður og fyritøkuprofilar, upplýsingar- og rakstrarskipanir og sjálvvirkan av vinnuligum gongdum. Arbeiðsumfar, funktiónir, tíðarætlan og kostnaður verða avtalað við teg gjøgnum WhatsApp ella teldupost, áðrenn arbeiðið byrjar.",
+      "Ráðgeving er altíð ókeypis, nær tú hevur tørv á henni, og skyldar teg ikki at bíleggja."
+     ]
+    },
+    {
+     "t": "3. Pakkar og prísir",
+     "b": [
+      "- Lítil pakki: frá Rp 500.000 um árið, íroknað ókeypis viðlíkahald og eitt navnaøki í 1 ár.",
+      "- Stórur pakki: frá Rp 2.000.000 um árið, íroknað ókeypis viðlíkahald og vevtænastu í 1 ár.",
+      "Prísirnir á síðuni eru byrjanarprísir. Endaliga upphæddin verður avtalað eftir eina ráðgeving, út frá tínum tørvi. Fyri vitjandi uttanfyri Indonesia verða prísir víst í lokalum gjaldoyra sum eitt metingarvirði grundað á dagliga gjaldoyrakursin; upphæddin í rupiah, sum vit avtala, er tann, sum er galdandi. Aukakostnaður, til dømis fleiri funktiónir ella endurnýggjan, tá ókeypis tíðarskeiðið er av, verður sagdur tær, áðrenn arbeiðið verður gjørt."
+     ]
+    },
+    {
+     "t": "4. Hvussu arbeiðið verður gjørt og tín ábyrgd",
+     "b": [
+      "Sniðgevingin verður grannskoðað og góðkend saman við tær, áðrenn framleiðslan byrjar. Rættingar verða gjørdar sum avtalað.",
+      "Tú hevur ábyrgdina av at veita tilfar (logo, tekst, myndir, dátur) í tíð og av at hava rætt til at brúka tað. Seinkan av tilfari ella afturmeldingum kann ávirka tíðarætlanina."
+     ]
+    },
+    {
+     "t": "5. Viðlíkahald",
+     "b": [
+      "Ókeypis viðlíkahald í 1 ár fevnir um rætting av feilum í okkara arbeiði og grundleggjandi trygdardagføringar. Nýggjar funktiónir, stórar sniðbroytingar og arbeiði uttanfyri upprunaligu avtaluna verða kravd sær."
+     ]
+    },
+    {
+     "t": "6. Vitlig ogn",
+     "b": [
+      "Tilfarið, sum tú veitir, er áhaldandi títt. Liðna arbeiðið verður handað tær, tá ið rindan sum avtalað er fullfíggjað. Nocoding kann vísa livandi arbeiði sum dømi í sínum portfolio, um tú ikki skrivliga biður um, at tað ikki verður víst.",
+      "Sniðgevingin, tekstirnir og greinirnar á nocoding.web.id hoyra Nocoding til. Tú kanst deila leinkjur til tey, men tú mást ikki avrita og brúka tey í ídnaðarligum høpi uttan loyvi. Myndir í greinunum koma frá Unsplash og fylgja leyvisskipan hennara; keldan er nevnd undir hvørjari mynd."
+     ]
+    },
+    {
+     "t": "7. Mál á síðuni",
+     "b": [
+      "Henda síðan er tøk á mongum málum. Umsetingar, serliga til mál við færri talarum, eru kanska ikki fullkomnar. Um tær eru ymiskar í týdningi, er tað indonesiska útgávan, sum er galdandi. Hesar løgfrøðisíður eru tøkar á indonesiskum og enskum."
+     ]
+    },
+    {
+     "t": "8. Avmarkingar í ábyrgd",
+     "b": [
+      "Vit arbeiða fyri at geva góð úrslit, men vit lova ikki ávís vinnulig úrslit sum leitirangering, vitjandatal ella søla. Vit eru ikki ábyrg fyri forstyrringum frá triðjapørtum sum vevtænastu-, navnaøkis- ella rindingarveitarum ella fyri óbeinleiðis tapi.",
+      "Ábyrgd okkara fyri eina tænastu er avmarkað til upphæddina, sum tú hevur goldið fyri hana, so langt sum lógin loyvir tað. Hetta minkar ikki rættindi, sum tú hevur, og sum eru vard av lóg."
+     ]
+    },
+    {
+     "t": "9. Galdandi lóg",
+     "b": [
+      "Hesar treytir eru ásettar av lógunum í Indonesia lýðveldi. Um ein tvístøða stendst, royna vit fyrst at loysa hana við samrøðu. Um semja ikki verður fingin, verður tvístøðan loyst av førum dómstólum í Indonesia."
+     ]
+    },
+    {
+     "t": "10. Broytingar og samband",
+     "b": [
+      "Hesar treytir kunnu verða dagførdar av og á; dagfestingin av seinastu dagføring er víst yvast á síðuni. Spurningar kunnu sendast til nocodingindonesia@gmail.com ella WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Sniðilspolitikkur",
+   "description": "Sniðlarnir og lokala goymslan, sum Nocoding-síðan brúkar, hvat tey eru til, og hvussu tey kunnu stýrast.",
+   "sections": [
+    {
+     "t": "1. Hvat sniðlar eru",
+     "b": [
+      "Sniðlar eru smáar fílur, sum ein síða goymir í tínum kaga. Lokal goymsla og setugoymsla virka á líknandi hátt, men verða ikki send til ein ambætara sjálvvirkandi. Á hesi síðu kalla vit tey øll sniðlar."
+     ]
+    },
+    {
+     "t": "2. Hvat síðan hevur brúk fyri at virka",
+     "b": [
+      "Goymt í tínum kaga og ikki sent til okkara ambætarar:",
+      "- nocoding-language og nocoding-language-set: málið, sum tú valdi, ella sum varð funnið út frá tínum kaga.",
+      "- nocoding-pricing (seta): mett gjaldoyra og kursur, so at prísir ikki verða roknaðir av nýggjum á hvørjari síðu.",
+      "- Greinamerki: um tú longu hevur likað, sæð ella deilt eina grein, so at tøl ikki verða dupulgjørd.",
+      "- Eitt millumbils merki um skrulliplass, tá flutt verður millum partar av síðuni."
+     ]
+    },
+    {
+     "t": "3. Greining",
+     "b": [
+      "Tá tær eru settar til, verða tvær greiningartænasturnar løddar, eftir at tú samvirkar við síðuna (skrullar, trýstir ella trýstir á ein knapp):",
+      "- Google Analytics 4 (sniðlar sum _ga og _ga_*, galdandi upp til umleið 2 ár): vitjanarstølfrøði.",
+      "- Microsoft Clarity (sniðlar sum _clck, _clsk, CLID og MUID, galdandi upp til umleið 1 ár): hitakort og dulnevndar upptøkur av samvirkan.",
+      "CDN- og trygdarveitarar kunnu eisini seta tekniskar sniðlar fyri at verja síðuna ímóti skaðiligari ferð."
+     ]
+    },
+    {
+     "t": "4. Hvussu sniðlar verða stýrdir",
+     "b": [
+      "Tú kanst strika ella forða sniðlum í stillingunum í tínum kaga. Tú kanst eisini installera offisiella úrtøkuviðbótina frá Google fyri Google Analytics. Um greiningarsniðlar verða forðaðir, virkar síðan enn; um lokal goymsla verður tømd, fer málvalið hjá tær aftur til tað vanliga."
+     ]
+    },
+    {
+     "t": "5. Spurningar",
+     "b": [
+      "Fyri spurningar um henda politikk, tak samband við nocodingindonesia@gmail.com. Hvussu persónsupplýsingar verða brúktar, er frágreitt nærri í privatlívspolitikkinum. Um málini eru ymisk í týdningi, er tað indonesiska útgávan, sum er galdandi."
+     ]
+    }
+   ]
+  }
+ }
+}

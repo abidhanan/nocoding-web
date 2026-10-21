@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Nowyes diwettha",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Polici Privetter",
+   "description": "Pyth data a gesys Nocoding, rag pyth yw impynys, py hwer a'n argerdh, ha'gas gwiryow war agas data personel.",
+   "sections": [
+    {
+     "t": "1. Piw on ni",
+     "b": [
+      "Nocoding (nocoding.web.id) yw gonis a wiasva, a app, a sistemow derivadow ha'n omwrians ervys gans Abid Hanan Wicaksono yn Indonesia. An polici ma a dhysplan fatell dhyghtyn ni agas data personel pan wrewgh vysytya an le ma po kontakt genen.",
+      "Govynnow a-dro dhe'n polici ma a yll bos danvonys dhe nocodingindonesia@gmail.com po dre WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. An data a gesyn",
+     "b": [
+      "- Data a re ni: agas hanow, niver WhatsApp, e-bost ha deskrifans a'gas gwaith pan wrewgh kontakt genen dre WhatsApp po e-bost. Nyns eus akontys devnydhyor po furvyow dyskrivans y'n le ma.",
+      "- Data teknikel a vydh argerdhys yn awtomatek: trigva IP, ghenes an daklennow ha'n peurweyth, ha'n folennow a wrewgh egery. Agan provydyoryon westa ha CDN a'n argerdh rag servya an le ha'y difresya diworth gwrians drog.",
+      "- Pow ogas: rag displegya an prisyow yn agas arghans, agas pow a vydh jujyes dhyworth derivadow CDN po yeth agas peurweyth. Ny wren ni y gwithe war agan servyoryon.",
+      "- Data analytyk: Google Analytics 4 ha Microsoft Clarity (pan vons gweythys) a ges statystygyon devnydh kepar ha'n folennow egerys, hirder an vysytyans, ghenes an daklennow ha rekordyow dianow a ynterweyth. Ny wrons bys pan wrewgh ynterweyth gans an folen.",
+      "- Gwithva an peurweyth: dewis agas yeth, merkyow dhe ziskwedhes bos kerys, gwelys po rynnys genowgh an erthygel, ha tuth prys prys-termyn. An manylyon yw y'n Polici Cookies.",
+      "- Niverow gwelyans, kerensa ha rann an erthyglow a vydh gwithys avel niverow kesys, heb hanow an vysytyoryon."
+     ]
+    },
+    {
+     "t": "3. Rag pyth yw impynys an data",
+     "b": [
+      "- Gorthyp dhe'gas govynnow, ragparusi dyskrifow prys ha gul agas gwaith.",
+      "- Servya, difres ha gwitha an le skwith.",
+      "- Konvedhes fatell yw impynys an le may hyllyn y wellhe.",
+      "- Kwittya dhe oblygasyons laghel.",
+      "Ny wren ni gwertha agas data personel."
+     ]
+    },
+    {
+     "t": "4. Tryghyes yn kever",
+     "b": [
+      "- Vercel: gwesteva ha servya an le.",
+      "- Cloudflare: CDN ha sawder.",
+      "- Google (Google Analytics 4) ha Microsoft (Clarity): statystygyon devnydh an le.",
+      "- Meta (WhatsApp) ha Google (Gmail): pan wrewgh kontakt genen dre gevrennow WhatsApp po e-bost war an le ma.",
+      "- Provydyor ratys arghans: ny wra ev kemeres marnas govynnow ratys dhyworth agan servyor, na data an vysytyoryon.",
+      "An provydyoryon ma a yll argerdha data a-ves Indonesia herwydh aga honan polici."
+     ]
+    },
+    {
+     "t": "5. Pes termyn y feth data gwithys",
+     "b": [
+      "Kescows ha deunyow an gwaith a vydh gwithys hag aswon yw res rag ownya an gonis, ri skicans ha kwittya dhe oblygasyons laghel, hag ena dilys po gwrys dianow. Data analytyk a ji settyansow gwitha aga provydyor. Data y'n peurweyth a bys bys may fynnowgh aga dilea."
+     ]
+    },
+    {
+     "t": "6. Agas gwiryow",
+     "b": [
+      "Herwydh Lagh Niver 27 a 2022 Indonesia a-dro dhe Ziogeledh Data Personel, y fyth gwir dhywgh:",
+      "- godhvos ha kavos kopi a'n data personel a wren ni gwitha adro dhywgh;",
+      "- govyn bos data kamm amendys;",
+      "- govyn bos agas data dilys po tenna agas kesstyr;",
+      "- ombrederi erbynn nebes argerdhow.",
+      "Danvonewgh agas govyn dhe nocodingindonesia@gmail.com. Ni a worthyp yn termyn rygh."
+     ]
+    },
+    {
+     "t": "7. Sawder ha flehes",
+     "b": [
+      "An le ma a usya HTTPS ha'n entrans dhe ddata an gwaith yw kowlwrys. Nyns eus fordh dhe dhanvon po gwitha data heb arvow dhe gwettya, rag henna ny yllyn ni ri sawder yn tien.",
+      "Agan gonisow yw rag tus a 18 bledhen po moy. Ny wren ni kesya data personel flehes a-dhesyr."
+     ]
+    },
+    {
+     "t": "8. Chanjyow dhe'n polici ma",
+     "b": [
+      "An polici ma a yll bos nowydhys a-dro dhe dro. An dydh a'n nowyans diwettha a vydh displegys a-us an folen. Mar teu an yethow dhe vos dyffrys yn styr, an versyon Indonesek a dhalleth."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Termys ha Kondysyons",
+   "description": "An reylyow rag usya le ha gonisow Nocoding: pakkys, prisyow, fatell yw gwrys an gwaith, perghenogeth menten ha finyow dhe waytyans.",
+   "sections": [
+    {
+     "t": "1. Degemmeres an termys ma",
+     "b": [
+      "Dre ygeri an le ma po usya gonisow Nocoding, y fynnewgh assentya dhe'n termys ha kondysyons ma. Mar ny wrewgh assentya, na wrewgh usya agan le po gonisow."
+     ]
+    },
+    {
+     "t": "2. An gonisow",
+     "b": [
+      "Nocoding a wra gwiasvaow portfolio po CV, folennow dallath (landing page) ha profilys pewas, sistemow derivadow ha gwaith, hag omwrians a argerdhow negys. Hirder an gwaith, an dalvos, an termyn ha'n kost a vydh assentys genowgh dre WhatsApp po e-bost kyns dallath an gwaith.",
+      "Kusul yw pup prys heb pris, pan vo whansek dhywgh, ha ny'th kroghys dhe erghi."
+     ]
+    },
+    {
+     "t": "3. Pakkys ha prisyow",
+     "b": [
+      "- Pakk byghan: dhyworth Rp 500.000 an bledhen, gans mentons heb pris ha domen rag 1 bledhen.",
+      "- Pakk bras: dhyworth Rp 2.000.000 an bledhen, gans mentons heb pris ha gwesteva rag 1 bledhen.",
+      "Prisyow war an le yw prisyow dallath. An kenyver diwettha a vydh assentys wosa kusulyans, herwydh agas edhom. Rag vysytyoryon a-ves Indonesia, prisyow a vydh displegys yn arghans an pow avel jujyans herwydh an ratys a bub dydh; an kenyver yn rupiah a wrussyn assentya yw an kenyver a dalvia. Kostow ynwedh, kepar ha dalvosow ow tevi po nowydhyans wosa gorfenn an termyn heb pris, a vydh derivys dhywgh kyns gul an gwaith."
+     ]
+    },
+    {
+     "t": "4. Fatell yw gwrys an gwaith ha'gas dyledogow",
+     "b": [
+      "An dyghtyans a vydh gwelys ha tevyskys genowgh kyns an produksyon. Amendyansow a vydh gwrys herwydh an assentyans.",
+      "Why a'n jeves dyledogow dhe ri an deunyow (logo, tekst, skeusennow, data) yn termyn ha kavos gwir dh'aga usya. Hedhyow y'n deunyow po ynterweyth a yll tuchya an termyn."
+     ]
+    },
+    {
+     "t": "5. Mentons",
+     "b": [
+      "Mentons heb pris rag 1 bledhen a gemmer ynno amendya kammweyth y'gan gwaith ha nowydhyans sawder sylwadow. Dalvosow nowydh, chanjyow bras y'n dyghtyans ha gwaith a-ves an assentyans kynsa a vydh gorrys dhe'n kost dre-dhodho y honan."
+     ]
+    },
+    {
+     "t": "6. Perghenogeth menten",
+     "b": [
+      "An deunyow a rewgh a bys perghenek dhywgh. An gwaith gorfennys a vydh daskorrys dhywgh wosa bos gwrys an paymyans herwydh an assentyans. Nocoding a yll displegya gwaith bew avel ensamplys yn y bortfolio, marnas y fynnewgh y erghi yn scrifys na vo displegys.",
+      "An dyghtyans, an tekst hag erthyglow war nocoding.web.id yw a Nocoding. Hwi a yll rannya aga kevrennow, mes ny yllowgh aga hopia ha'ga usya yn negys heb cumyas. Skeusennow an erthyglow a dheu dhyworth Unsplash ha treylya y lyvyans; an tarddell a vydh menegys yn dann pup skeusen."
+     ]
+    },
+    {
+     "t": "7. Yethow an le",
+     "b": [
+      "An le ma yw kavadow yn lies yeth. An treylyansow, arbennik rag yethow gans le kewsoryon, a yll bos heb bos peurgwrys. Mar teuns dhe vos dyffrys yn styr, an versyon Indonesek a dhalleth. An folennow laghel ma yw kavadow yn Indonesek ha Sawsnek."
+     ]
+    },
+    {
+     "t": "8. Finyow dhe waytyans",
+     "b": [
+      "Ni a lavur rag ri sewyansow da, mes ny wren ni gwarantya sewyansow negys dres-penn kepar ha savla y'n whelyans, niver an vysytyoryon po gwerthyansow. Nyns on ni gwaytys rag lettyansow dhyworth tryghyes kepar ha provydyoryon gwesteva, domen po paymyans, nag a kolledhyow dydhrew.",
+      "Agan gwaytyans rag gonis yw finys dhe'n kenyver a wrewgh pe rag an gonis na, bys yn pell may talvia an lagh. Hemma ny wra lehe an gwiryow a'th eus gwithys gans an lagh."
+     ]
+    },
+    {
+     "t": "9. An lagh a dalvia",
+     "b": [
+      "An termys ma a vydh rewlys gans laghow Gwerhesys Indonesia. Mar teu stryf, ni a assay kynsa y dhisplegya dre gewsel. Mar ny gevir assentyans, an stryf a vydh disklyvys gans lysyow gallosek yn Indonesia."
+     ]
+    },
+    {
+     "t": "10. Chanjyow ha kontakt",
+     "b": [
+      "An termys ma a yll bos nowydhys a-dro dhe dro; an dydh a'n nowyans diwettha a vydh displegys a-us an folen. Govynnow a yll bos danvonys dhe nocodingindonesia@gmail.com po dre WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Polici Cookies",
+   "description": "An cookies ha gwithva leel a usyn le Nocoding, rag pyth yns, ha fatell wul aga rewlya.",
+   "sections": [
+    {
+     "t": "1. Pyth yw cookies",
+     "b": [
+      "Cookies yw fylyow byghan a with le y'th peurweyth. Gwithva leel (local storage) ha gwithva seshyon (session storage) a oberi yn kepar maner mes ny vons danvonys dhe servyor yn awtomatek. War an folen ma, ni a's gelwir oll cookies."
+     ]
+    },
+    {
+     "t": "2. Pyth a wor an le rag oberi",
+     "b": [
+      "Gwithys y'th peurweyth ha ny vons danvonys dhe'gan servyoryon:",
+      "- nocoding-language ha nocoding-language-set: an yeth a wrussowgh dewis po a veu kefys dhyworth agas peurweyth.",
+      "- nocoding-pricing (seshyon): an arghans ha'n ratys jujyes, may na vo prisyow nowydh jujyes war bub folen.",
+      "- Merkyow erthygel: martesen y feu kerys, gwelys po rynnys erthygel, may na vo niverow dewblek.",
+      "- Merk prys-termyn a'n le skrollya pan wrewgh gwaynya yntra radhow an le."
+     ]
+    },
+    {
+     "t": "3. Analytyk",
+     "b": [
+      "Pan vons gweythys, dew wonis analytyk a vydh gorrys wosa ynterweyth gans an folen (skrollya, tuchya po gwaskel alwhedh):",
+      "- Google Analytics 4 (cookies kepar ha _ga ha _ga_*, talvos bys yn 2 vledhen): statystygyon vysytyans.",
+      "- Microsoft Clarity (cookies kepar ha _clck, _clsk, CLID ha MUID, talvos bys yn 1 bledhen): mappys tom (heatmap) ha rekordyow dianow a ynterweyth.",
+      "Provydyoryon CDN ha sawder a yll ynwedh settya cookies teknikel rag difres an le diworth trafyk drog."
+     ]
+    },
+    {
+     "t": "4. Fatell rewlya cookies",
+     "b": [
+      "Why a yll dilea po lettya cookies yn settyansow agas peurweyth. Hwi a yll ynwedh stallya an ekstra ofisyel Google rag gasa Google Analytics. Mar teu cookies analytyk lettys, an le a gontynow ow oberi; mar teu gwithva leel diwoesys, agas dewis yeth a dhehwel dhe'n defowt."
+     ]
+    },
+    {
+     "t": "5. Govynnow",
+     "b": [
+      "Rag govynnow a-dro dhe'n polici ma, kevewgh gans nocodingindonesia@gmail.com. Fatell yw impynys data personel yw displegys moy y'n Polici Privetter. Mar teu an yethow dhe vos dyffrys yn styr, an versyon Indonesek a dhalleth."
+     ]
+    }
+   ]
+  }
+ }
+}

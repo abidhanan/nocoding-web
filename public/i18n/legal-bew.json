@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Terakhir diperbarui",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Kebijakan Privasi",
+   "description": "Data ape aje yang dikumpulin Nocoding, buat ape dipake, siape yang ngolahnye, dan hak lu atas data pribadi lu.",
+   "sections": [
+    {
+     "t": "1. Siape kite",
+     "b": [
+      "Nocoding (nocoding.web.id) adalah layanan situs web, aplikasi, sistem informasi, dan otomatisasi yang dijalanin Abid Hanan Wicaksono di Indonesia. Kebijakan ini ngejelasin gimane kite ngurus data pribadi lu waktu lu mampir ke situs ini atau ngubungin kite.",
+      "Pertanyaan soal kebijakan ini bise dikirim ke nocodingindonesia@gmail.com atau WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data yang kite kumpulin",
+     "b": [
+      "- Data yang lu kasih ke kite: nama lu, nomor WhatsApp, email, dan deskripsi proyek lu waktu lu ngubungin kite lewat WhatsApp atau email. Situs ini kagak punya akun pengguna atau formulir pendaftaran.",
+      "- Data teknis yang diolah otomatis: alamat IP, jenis perangkat dan browser, same halaman yang lu buka. Penyedia hosting dan CDN kite ngolahnye buat nyajiin situs dan ngelindungin dari penyalahgunaan.",
+      "- Perkiraan negara: biar harga bise ditampilin dalam mata uang lu, negara lu diperkirain dari informasi CDN atau bahasa browser lu. Kite kagak nyimpen itu di server kite.",
+      "- Data analitik: Google Analytics 4 dan Microsoft Clarity (kalo diaktifin) ngumpulin statistik pemakaian kayak halaman yang dibuka, lamanye kunjungan, jenis perangkat, dan rekaman interaksi anonim. Mereka baru dimuat setelah lu berinteraksi same halaman.",
+      "- Penyimpanan browser: pilihan bahasa lu, tanda kalo lu udah nge-like, ngeliat, atau ngebagiin artikel, dan perkiraan harga sementare. Rinciannye ade di Kebijakan Cookie.",
+      "- Jumlah tayangan, like, dan pembagian artikel disimpen sebagai angka gabungan, tanpa identitas pengunjung."
+     ]
+    },
+    {
+     "t": "3. Data dipake buat ape",
+     "b": [
+      "- Njawab pertanyaan lu, nyiapin penawaran, dan ngerjain proyek lu.",
+      "- Nyajiin, ngamanin, dan ngejaga situs tetep cepet.",
+      "- Ngerti gimane situs dipake biar kite bise nyempurnainnye.",
+      "- Memenuhi kewajiban hukum.",
+      "Kite kagak jual data pribadi lu."
+     ]
+    },
+    {
+     "t": "4. Pihak ketiga yang terlibat",
+     "b": [
+      "- Vercel: hosting dan nyajiin situs.",
+      "- Cloudflare: CDN dan keamanan.",
+      "- Google (Google Analytics 4) dan Microsoft (Clarity): statistik pemakaian situs.",
+      "- Meta (WhatsApp) dan Google (Gmail): waktu lu ngubungin kite lewat tautan WhatsApp atau email di situs ini.",
+      "- Penyedia kurs mata uang: cuma nerime permintaan kurs dari server kite, bukan data pengunjung.",
+      "Penyedia-penyedia ini bise ngolah data di luar Indonesia sesuai kebijakan mereka sendiri."
+     ]
+    },
+    {
+     "t": "5. Berape lame data disimpen",
+     "b": [
+      "Percakapan dan bahan proyek disimpen selame dibutuhin buat njalanin layanan, ngasih dukungan, dan memenuhi kewajiban hukum, abis itu dihapus atau dianonimin. Data analitik ngikutin pengaturan penyimpanan penyedianye. Data di browser lu tetep ade sampe lu hapus."
+     ]
+    },
+    {
+     "t": "6. Hak lu",
+     "b": [
+      "Berdasarkan Undang-Undang Indonesia Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi, lu berhak:",
+      "- tau dan dapet salinan data pribadi lu yang kite pegang;",
+      "- minta data yang salah dibetulin;",
+      "- minta data lu dihapus atau narik persetujuan lu;",
+      "- keberatan atas pengolahan tertentu.",
+      "Kirim permintaan lu ke nocodingindonesia@gmail.com. Kite bakal ngejawab dalam waktu yang wajar."
+     ]
+    },
+    {
+     "t": "7. Keamanan dan anak-anak",
+     "b": [
+      "Situs ini pake HTTPS dan akses ke data proyek dibatesin. Kagak ade cara ngirim atau nyimpen data yang bener-bener bebas risiko, jadi kite kagak bise njamin keamanan mutlak.",
+      "Layanan kite ditujuin buat orang berusia 18 tahun ke atas. Kite kagak sengaja ngumpulin data pribadi anak-anak."
+     ]
+    },
+    {
+     "t": "8. Perubahan kebijakan ini",
+     "b": [
+      "Kebijakan ini bise diperbarui sewaktu-waktu. Tanggal pembaruan terakhir ditampilin di bagian atas halaman. Kalo bahasa-bahasanye beda makna, versi bahasa Indonesia yang berlaku."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Syarat dan Ketentuan",
+   "description": "Aturan pake situs dan layanan Nocoding: paket, harga, cara kerje, kekayaan intelektual, dan batas tanggung jawab.",
+   "sections": [
+    {
+     "t": "1. Nerime syarat ini",
+     "b": [
+      "Dengan ngebuka situs ini atau pake layanan Nocoding, lu setuju same syarat dan ketentuan ini. Kalo lu kagak setuju, mohon jangan pake situs atau layanan kite."
+     ]
+    },
+    {
+     "t": "2. Layanan",
+     "b": [
+      "Nocoding bikin situs web portofolio atau CV, landing page dan profil perusahaan, sistem informasi dan operasional, serte otomatisasi proses bisnis. Ruang lingkup kerje, fitur, jadwal, dan biaya disepakatin same lu lewat WhatsApp atau email sebelum kerje dimulai.",
+      "Konsultasi selalu gratis, kapan aje lu butuh, dan kagak ngewajibin lu mesen."
+     ]
+    },
+    {
+     "t": "3. Paket dan harga",
+     "b": [
+      "- Paket kecil: mulai dari Rp 500.000 per tahun, udah termasuk perawatan gratis dan domain selame 1 tahun.",
+      "- Paket besar: mulai dari Rp 2.000.000 per tahun, udah termasuk perawatan gratis dan hosting selame 1 tahun.",
+      "Harga di situs adalah harga mulai dari. Jumlah akhirnye disepakatin abis konsultasi, sesuai kebutuhan lu. Buat pengunjung dari luar Indonesia, harga ditampilin dalam mata uang setempat sebagai perkiraan berdasarkan kurs harian; jumlah dalam rupiah yang kite sepakatin yang berlaku. Biaya tambahan, kayak fitur tambahan atau perpanjangan setelah masa gratis abis, dikasih tau ke lu sebelum kerjaannye dikerjain."
+     ]
+    },
+    {
+     "t": "4. Cara kerje dan tanggung jawab lu",
+     "b": [
+      "Desain ditinjau dan disetujuin bareng lu sebelum produksi. Revisi dikerjain sesuai kesepakatan.",
+      "Lu bertanggung jawab nyediain bahan (logo, teks, foto, data) tepat waktu dan punya hak buat makenye. Keterlambatan bahan atau masukan bise ngaruh ke jadwal."
+     ]
+    },
+    {
+     "t": "5. Perawatan",
+     "b": [
+      "Perawatan gratis selame 1 tahun mencakup ngebetulin kesalahan dalam kerjaan kite dan pembaruan keamanan dasar. Fitur baru, perubahan desain besar, dan kerjaan di luar kesepakatan awal dikenain biaya terpisah."
+     ]
+    },
+    {
+     "t": "6. Kekayaan intelektual",
+     "b": [
+      "Bahan yang lu kasih tetep punya lu. Hasil kerjaan yang udah jadi diserahin ke lu setelah pembayaran sesuai kesepakatan lunas. Nocoding bise nampilin hasil kerjaan yang udah tayang sebagai contoh di portofolionye, kecuali lu minta secare tertulis biar kagak ditampilin.",
+      "Desain, teks, dan artikel di nocoding.web.id punya Nocoding. Lu boleh ngebagiin tautannye, tapi kagak boleh nyalin dan makenye secare komersial tanpa izin. Foto artikel berasal dari Unsplash dan ngikutin lisensinye; sumbernye dicantumin di bawah tiap foto."
+     ]
+    },
+    {
+     "t": "7. Bahasa situs",
+     "b": [
+      "Situs ini tersedia dalam banyak bahasa. Terjemahan, terutame buat bahasa yang penuturnye lebih sedikit, mungkin kagak sempurne. Kalo beda makna, versi bahasa Indonesia yang berlaku. Halaman hukum ini tersedia dalam bahasa Indonesia dan Inggris."
+     ]
+    },
+    {
+     "t": "8. Batas tanggung jawab",
+     "b": [
+      "Kite berusaha ngasih hasil yang bagus, tapi kite kagak njanjiin hasil bisnis tertentu kayak peringkat pencarian, jumlah pengunjung, atau penjualan. Kite kagak bertanggung jawab atas gangguan dari pihak ketiga kayak penyedia hosting, domain, atau pembayaran, atau atas kerugian tidak langsung.",
+      "Tanggung jawab kite atas satu layanan dibatesin sebesar jumlah yang udah lu bayar buat layanan itu, sejauh yang diizinin hukum. Ini kagak ngurangin hak lu yang dilindungin hukum."
+     ]
+    },
+    {
+     "t": "9. Hukum yang berlaku",
+     "b": [
+      "Syarat ini tunduk pade hukum Republik Indonesia. Kalo timbul sengketa, kite coba selesein dulu lewat musyawarah. Kalo kagak ade kesepakatan, sengketa diselesein oleh pengadilan yang berwenang di Indonesia."
+     ]
+    },
+    {
+     "t": "10. Perubahan dan kontak",
+     "b": [
+      "Syarat ini bise diperbarui sewaktu-waktu; tanggal pembaruan terakhir ditampilin di bagian atas halaman. Pertanyaan bise dikirim ke nocodingindonesia@gmail.com atau WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Kebijakan Cookie",
+   "description": "Cookie dan penyimpanan lokal yang dipake situs Nocoding, gunenye, dan cara ngatur mereka.",
+   "sections": [
+    {
+     "t": "1. Cookie itu ape",
+     "b": [
+      "Cookie adalah file kecil yang disimpen situs di browser lu. Penyimpanan lokal dan penyimpanan sesi kerjenye mirip tapi kagak otomatis dikirim ke server. Di halaman ini kite nyebut semuenye cookie."
+     ]
+    },
+    {
+     "t": "2. Yang dibutuhin situs biar jalan",
+     "b": [
+      "Disimpen di browser lu dan kagak dikirim ke server kite:",
+      "- nocoding-language dan nocoding-language-set: bahasa yang lu pilih atau yang kedeteksi dari browser lu.",
+      "- nocoding-pricing (sesi): perkiraan mata uang dan kurs, biar harga kagak dihitung ulang di tiap halaman.",
+      "- Tanda artikel: udah lu like, lu liat, atau lu bagiin apa belom, biar jumlahnye kagak dobel.",
+      "- Tanda posisi gulir sementare waktu pindah antarbagian situs."
+     ]
+    },
+    {
+     "t": "3. Analitik",
+     "b": [
+      "Kalo diaktifin, due layanan analitik dimuat setelah lu berinteraksi same halaman (gulir, ketuk, atau pencet tombol):",
+      "- Google Analytics 4 (cookie kayak _ga dan _ga_*, berlaku sampe kire-kire 2 tahun): statistik kunjungan.",
+      "- Microsoft Clarity (cookie kayak _clck, _clsk, CLID, dan MUID, berlaku sampe kire-kire 1 tahun): heatmap dan rekaman interaksi anonim.",
+      "Penyedia CDN dan keamanan juge bise masang cookie teknis buat ngelindungin situs dari lalu lintas yang berbahaya."
+     ]
+    },
+    {
+     "t": "4. Cara ngatur cookie",
+     "b": [
+      "Lu bise ngapus atau ngeblokir cookie di pengaturan browser lu. Lu juge bise masang add-on opt-out resmi dari Google buat Google Analytics. Kalo cookie analitik diblokir, situs tetep jalan; kalo penyimpanan lokal dibersihin, pilihan bahasa lu balik ke bawaan."
+     ]
+    },
+    {
+     "t": "5. Pertanyaan",
+     "b": [
+      "Buat pertanyaan soal kebijakan ini, hubungin nocodingindonesia@gmail.com. Cara data pribadi dipake dijelasin lebih lanjut di Kebijakan Privasi. Kalo bahasa-bahasanye beda makna, versi bahasa Indonesia yang berlaku."
+     ]
+    }
+   ]
+  }
+ }
+}

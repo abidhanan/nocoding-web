@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Ultima actualizare",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Politica de confidențialitate",
+   "description": "Ce date colectează Nocoding, pentru ce sunt folosite, cine le prelucrează și ce drepturi aveți asupra datelor dumneavoastră personale.",
+   "sections": [
+    {
+     "t": "1. Cine suntem",
+     "b": [
+      "Nocoding (nocoding.web.id) este un serviciu de creare de site-uri web, aplicații, sisteme informatice și automatizări, administrat de Abid Hanan Wicaksono în Indonezia. Această politică explică modul în care tratăm datele dumneavoastră personale atunci când vizitați acest site sau ne contactați.",
+      "Întrebările despre această politică pot fi trimise la nocodingindonesia@gmail.com sau pe WhatsApp la +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Datele pe care le colectăm",
+     "b": [
+      "- Datele pe care ni le oferiți dumneavoastră: numele, numărul de WhatsApp, adresa de e-mail și o descriere a proiectului dumneavoastră, atunci când ne contactați pe WhatsApp sau prin e-mail. Acest site nu are conturi de utilizator sau formulare de înscriere.",
+      "- Date tehnice prelucrate automat: adresa IP, tipul dispozitivului și al browserului și paginile pe care le deschideți. Sunt prelucrate de furnizorii noștri de găzduire și CDN pentru a livra site-ul și a-l proteja împotriva abuzurilor.",
+      "- Țara aproximativă: pentru ca prețurile să poată fi afișate în moneda dumneavoastră, țara este estimată pe baza informațiilor CDN sau a limbii browserului. Nu o stocăm pe serverele noastre.",
+      "- Date de analiză: Google Analytics 4 și Microsoft Clarity (când sunt activate) colectează statistici de utilizare, precum paginile deschise, durata vizitei, tipul dispozitivului și înregistrări anonime ale interacțiunilor. Se încarcă abia după ce interacționați cu pagina.",
+      "- Stocarea în browser: limba aleasă, marcaje care arată că ați apreciat, vizualizat sau distribuit deja un articol și o estimare temporară a prețului. Detaliile se găsesc în Politica privind cookie-urile.",
+      "- Numărul de vizualizări, aprecieri și distribuiri ale articolelor este stocat sub formă de totaluri agregate, fără identitatea vizitatorilor."
+     ]
+    },
+    {
+     "t": "3. Pentru ce sunt folosite datele",
+     "b": [
+      "- Pentru a răspunde întrebărilor dumneavoastră, a pregăti oferte și a realiza proiectul dumneavoastră.",
+      "- Pentru a livra site-ul, a-l securiza și a-l menține rapid.",
+      "- Pentru a înțelege cum este folosit site-ul, astfel încât să îl putem îmbunătăți.",
+      "- Pentru a respecta obligațiile legale.",
+      "Nu vindem datele dumneavoastră personale."
+     ]
+    },
+    {
+     "t": "4. Terții implicați",
+     "b": [
+      "- Vercel: găzduirea și livrarea site-ului.",
+      "- Cloudflare: CDN și securitate.",
+      "- Google (Google Analytics 4) și Microsoft (Clarity): statistici de utilizare a site-ului.",
+      "- Meta (WhatsApp) și Google (Gmail): atunci când ne contactați prin linkurile WhatsApp sau e-mail de pe acest site.",
+      "- Furnizorul de cursuri valutare: primește de la serverul nostru doar cereri de curs valutar, nu date despre vizitatori.",
+      "Acești furnizori pot prelucra date în afara Indoneziei, conform propriilor politici."
+     ]
+    },
+    {
+     "t": "5. Cât timp sunt păstrate datele",
+     "b": [
+      "Conversațiile și materialele proiectului sunt păstrate cât timp este necesar pentru a presta serviciul, a oferi asistență și a respecta obligațiile legale, apoi sunt șterse sau anonimizate. Datele de analiză urmează setările de păstrare ale furnizorului lor. Datele din browserul dumneavoastră rămân acolo până când le ștergeți."
+     ]
+    },
+    {
+     "t": "6. Drepturile dumneavoastră",
+     "b": [
+      "Conform Legii nr. 27 din 2022 a Indoneziei privind protecția datelor cu caracter personal, aveți dreptul:",
+      "- de a cunoaște și de a obține o copie a datelor personale pe care le deținem despre dumneavoastră;",
+      "- de a cere corectarea datelor incorecte;",
+      "- de a cere ștergerea datelor sau de a vă retrage consimțământul;",
+      "- de a vă opune anumitor prelucrări.",
+      "Trimiteți solicitarea la nocodingindonesia@gmail.com. Vă vom răspunde într-un termen rezonabil."
+     ]
+    },
+    {
+     "t": "7. Securitatea și copiii",
+     "b": [
+      "Acest site folosește HTTPS, iar accesul la datele proiectelor este restricționat. Nicio metodă de transmitere sau stocare a datelor nu este complet lipsită de riscuri, așa că nu putem garanta securitatea absolută.",
+      "Serviciile noastre sunt destinate persoanelor cu vârsta de 18 ani sau peste. Nu colectăm cu bună știință date personale ale copiilor."
+     ]
+    },
+    {
+     "t": "8. Modificări ale acestei politici",
+     "b": [
+      "Această politică poate fi actualizată din când în când. Data ultimei actualizări este afișată în partea de sus a paginii. Dacă versiunile lingvistice diferă ca sens, se aplică versiunea în limba indoneziană."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Termeni și condiții",
+   "description": "Regulile de utilizare a site-ului și a serviciilor Nocoding: pachete, prețuri, modul de lucru, proprietatea intelectuală și limitele răspunderii.",
+   "sections": [
+    {
+     "t": "1. Acceptarea acestor termeni",
+     "b": [
+      "Prin accesarea acestui site sau prin utilizarea serviciilor Nocoding, sunteți de acord cu acești termeni și condiții. Dacă nu sunteți de acord, vă rugăm să nu folosiți site-ul și serviciile noastre."
+     ]
+    },
+    {
+     "t": "2. Serviciile",
+     "b": [
+      "Nocoding creează site-uri de portofoliu sau CV, pagini de prezentare (landing page) și profiluri de companie, sisteme informatice și operaționale, precum și automatizarea proceselor de afaceri. Sfera lucrărilor, funcțiile, calendarul și costul se stabilesc împreună cu dumneavoastră pe WhatsApp sau prin e-mail înainte de începerea lucrului.",
+      "Consultanța este întotdeauna gratuită, oricând aveți nevoie de ea, și nu vă obligă să comandați."
+     ]
+    },
+    {
+     "t": "3. Pachete și prețuri",
+     "b": [
+      "- Pachetul mic: de la Rp 500.000 pe an, incluzând mentenanță gratuită și un domeniu pentru 1 an.",
+      "- Pachetul mare: de la Rp 2.000.000 pe an, incluzând mentenanță gratuită și găzduire pentru 1 an.",
+      "Prețurile de pe site sunt prețuri de pornire. Suma finală se stabilește după o consultație, în funcție de nevoile dumneavoastră. Pentru vizitatorii din afara Indoneziei, prețurile sunt afișate în moneda locală, cu titlu estimativ, pe baza cursului valutar zilnic; se aplică suma în rupie asupra căreia ne-am pus de acord. Costurile suplimentare, precum funcțiile adiționale sau reînnoirea după încheierea perioadei gratuite, vă sunt comunicate înainte de efectuarea lucrării."
+     ]
+    },
+    {
+     "t": "4. Modul de lucru și responsabilitățile dumneavoastră",
+     "b": [
+      "Designul este revizuit și aprobat împreună cu dumneavoastră înainte de producție. Revizuirile se fac conform înțelegerii.",
+      "Sunteți responsabil(ă) să furnizați materialele (logo, texte, fotografii, date) la timp și să aveți dreptul de a le folosi. Întârzierile în furnizarea materialelor sau a observațiilor pot afecta calendarul."
+     ]
+    },
+    {
+     "t": "5. Mentenanța",
+     "b": [
+      "Mentenanța gratuită pentru 1 an acoperă remedierea erorilor din munca noastră și actualizările de bază de securitate. Funcțiile noi, modificările majore de design și lucrările din afara înțelegerii inițiale se taxează separat."
+     ]
+    },
+    {
+     "t": "6. Proprietatea intelectuală",
+     "b": [
+      "Materialele pe care le furnizați rămân ale dumneavoastră. Lucrarea finalizată vă este predată după ce plata, conform înțelegerii, este integral efectuată. Nocoding poate prezenta lucrările publicate ca exemple în portofoliul său, cu excepția cazului în care cereți în scris ca acestea să nu fie afișate.",
+      "Designul, textele și articolele de pe nocoding.web.id aparțin Nocoding. Puteți distribui linkuri către ele, dar nu le puteți copia și folosi în scop comercial fără permisiune. Fotografiile articolelor provin de la Unsplash și respectă licența acestuia; sursa este menționată sub fiecare fotografie."
+     ]
+    },
+    {
+     "t": "7. Limbile site-ului",
+     "b": [
+      "Acest site este disponibil în multe limbi. Traducerile, în special cele pentru limbi cu mai puțini vorbitori, pot să nu fie perfecte. Dacă diferă ca sens, se aplică versiunea în limba indoneziană. Aceste pagini juridice sunt disponibile în limba indoneziană și în limba engleză."
+     ]
+    },
+    {
+     "t": "8. Limitele răspunderii",
+     "b": [
+      "Ne străduim să oferim rezultate bune, dar nu promitem rezultate de afaceri specifice, precum pozițiile în căutări, numărul de vizitatori sau vânzările. Nu răspundem pentru întreruperile provocate de terți, precum furnizorii de găzduire, domenii sau plăți, și nici pentru pierderile indirecte.",
+      "Răspunderea noastră pentru un serviciu este limitată la suma pe care ați plătit-o pentru acel serviciu, în măsura permisă de lege. Aceasta nu diminuează drepturile dumneavoastră protejate de lege."
+     ]
+    },
+    {
+     "t": "9. Legea aplicabilă",
+     "b": [
+      "Acești termeni sunt guvernați de legile Republicii Indonezia. Dacă apare un litigiu, încercăm mai întâi să îl soluționăm prin discuții. Dacă nu se ajunge la un acord, litigiul este soluționat de instanțele competente din Indonezia."
+     ]
+    },
+    {
+     "t": "10. Modificări și contact",
+     "b": [
+      "Acești termeni pot fi actualizați din când în când; data ultimei actualizări este afișată în partea de sus a paginii. Întrebările pot fi trimise la nocodingindonesia@gmail.com sau pe WhatsApp la +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Politica privind cookie-urile",
+   "description": "Cookie-urile și stocarea locală folosite de site-ul Nocoding, la ce servesc și cum le puteți gestiona.",
+   "sections": [
+    {
+     "t": "1. Ce sunt cookie-urile",
+     "b": [
+      "Cookie-urile sunt fișiere mici pe care un site le stochează în browserul dumneavoastră. Stocarea locală (local storage) și stocarea de sesiune (session storage) funcționează similar, dar nu sunt trimise automat către un server. Pe această pagină le numim pe toate cookie-uri."
+     ]
+    },
+    {
+     "t": "2. Ce are nevoie site-ul pentru a funcționa",
+     "b": [
+      "Stocate în browserul dumneavoastră și netrimise către serverele noastre:",
+      "- nocoding-language și nocoding-language-set: limba pe care ați ales-o sau care a fost detectată din browserul dumneavoastră.",
+      "- nocoding-pricing (sesiune): moneda și cursul estimate, pentru ca prețurile să nu fie recalculate pe fiecare pagină.",
+      "- Marcaje pentru articole: dacă ați apreciat, vizualizat sau distribuit deja un articol, pentru ca numerele să nu fie dublate.",
+      "- Un marcaj temporar al poziției de derulare la trecerea între părțile site-ului."
+     ]
+    },
+    {
+     "t": "3. Analiză",
+     "b": [
+      "Când sunt activate, două servicii de analiză se încarcă după ce interacționați cu pagina (derulați, atingeți ecranul sau apăsați o tastă):",
+      "- Google Analytics 4 (cookie-uri precum _ga și _ga_*, valabile până la aproximativ 2 ani): statistici ale vizitelor.",
+      "- Microsoft Clarity (cookie-uri precum _clck, _clsk, CLID și MUID, valabile până la aproximativ 1 an): hărți termice și înregistrări anonime ale interacțiunilor.",
+      "Furnizorii de CDN și de securitate pot seta, de asemenea, cookie-uri tehnice pentru a proteja site-ul de traficul dăunător."
+     ]
+    },
+    {
+     "t": "4. Cum gestionați cookie-urile",
+     "b": [
+      "Puteți șterge sau bloca cookie-urile din setările browserului. Puteți instala și suplimentul oficial Google de dezactivare pentru Google Analytics. Dacă cookie-urile de analiză sunt blocate, site-ul funcționează în continuare; dacă stocarea locală este ștearsă, alegerea limbii revine la valoarea implicită."
+     ]
+    },
+    {
+     "t": "5. Întrebări",
+     "b": [
+      "Pentru întrebări despre această politică, contactați nocodingindonesia@gmail.com. Modul de utilizare a datelor personale este explicat în continuare în Politica de confidențialitate. Dacă versiunile lingvistice diferă ca sens, se aplică versiunea în limba indoneziană."
+     ]
+    }
+   ]
+  }
+ }
+}

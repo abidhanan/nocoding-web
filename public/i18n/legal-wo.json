@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Mujj gi yeesal",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Politigu Kumpa",
+   "description": "Xibaar yi Nocoding di dajale, lu ñu leen di jëfandikoo, ku leen di liggéeyal, ak sa yoon yi ci sa xibaar yu bokk ak yaw.",
+   "sections": [
+    {
+     "t": "1. Ñun ñooy ñan",
+     "b": [
+      "Nocoding (nocoding.web.id) mooy liggéey bu def siti web, aplikasiyoŋ, sistemu xibaar ak automatisaasiyoŋ, te Abid Hanan Wicaksono moo ko jiite ci Indonesia. Politig bii dafay leeral nu nuy jëfe ak sa xibaar yu bokk ak yaw, saa yu ngay seetsi siti bii walla nga woo nu.",
+      "Laaj yu jëm ci politig bii, mën nga leen yónnee ci nocodingindonesia@gmail.com walla ci WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Xibaar yi nuy dajale",
+     "b": [
+      "- Xibaar yi nga nu may: sa tur, sa nimero WhatsApp, sa imeel ak leeral ci sa proje bu nga nu wooye ci WhatsApp walla imeel. Siti bii amul compte yu jëfandikukat walla formulaire yu nuy bind.",
+      "- Xibaar yu teknik yuy jëm ci kanam ci seen bopp: adrees IP, xeetu jumtukaay ak navigatëer, ak xët yi nga ubbi. Ñi nuy dëkkal siti bi ak CDN bi ñooy leen di liggéeyal ngir joxe siti bi te aar ko ci jëfandikoo bu bon.",
+      "- Réew mi ci jege-jege: ngir wone sa njëg ci sa xaalis, sa réew dees ko xayma ci xibaar yu CDN walla ci làkku sa navigatëer. Du nu ko denc ci sunu serwër.",
+      "- Xibaar yu analitig: Google Analytics 4 ak Microsoft Clarity (bu ñu ubbeekoon) dañuy dajale statistik yu jëfandikoo yu ni xët yi ñu ubbi, diiru yégg bi, xeetu jumtukaay ak enregistrement yu amul tur yu jëm ci jëfandikoo. Duñu yeeg ndare bu nga jëfandikoo xët bi.",
+      "- Denc-denc bu navigatëer: sa tànn ci làkku, màrk yi wone ne nga bëgg na, gis na walla séddale nga ab artikel, ak ab xayma bu mujj-mujj ci njëg. Leeral yi nekk nañu ci Politigu Cookie.",
+      "- Limu gis, bëgg ak séddale artikel yi dees leen di denc ni lim bu dajale, te kenn gisul ku ko def."
+     ]
+    },
+    {
+     "t": "3. Lu tax nuy jëfandikoo xibaar yi",
+     "b": [
+      "- Tontu sa laaj yi, defar sa devis ak def sa proje.",
+      "- Jëfandikoo siti bi, aar ko te di ko gaaw.",
+      "- Xam naka la ñuy jëfandikoo siti bi ngir mën ko jëwal.",
+      "- Matal sunu yoon yi.",
+      "Duñu jaay sa xibaar yu bokk ak yaw."
+     ]
+    },
+    {
+     "t": "4. Ñi nu àndal",
+     "b": [
+      "- Vercel: dëkkal ak joxe siti bi.",
+      "- Cloudflare: CDN ak kaaraange.",
+      "- Google (Google Analytics 4) ak Microsoft (Clarity): statistik yu jëfandikoo siti bi.",
+      "- Meta (WhatsApp) ak Google (Gmail): bu nga nu wooye ci lien yu WhatsApp walla imeel yi nekk ci siti bii.",
+      "- Ki nuy jëlee cours xaalis yi: dafay jot rekk ay ñaan yu cours yu bàyyi sunu serwër, duy jot xibaar yu ñuy seetsi.",
+      "Ñooñu mën nañu liggéeyal xibaar yi ci biti Indonesia ci kaw seen politig."
+     ]
+    },
+    {
+     "t": "5. Diir gu ñuy denc xibaar yi",
+     "b": [
+      "Waxtaan yi ak jumtukaay yu proje bi dees leen di denc diir gu leen soxla ngir liggéey bi, ndimbal bi ak matal yoon yi, ba noppi dees leen far walla jële ci leen tur wi. Xibaar yu analitig, seen jëwriñ ñoo ko dogal. Xibaar yi nekk ci sa navigatëer di nañu toog ba keroog nga leen far."
+     ]
+    },
+    {
+     "t": "6. Sa yoon yi",
+     "b": [
+      "Ci kaw Yoon Nimero 27 ci atum 2022 bu Indonesia ci aar xibaar yu bokk, am nga yoon ci:",
+      "- xam ak jël ab kopi ci xibaar yu bokk yi nu am ci yaw;",
+      "- laaj ñu jubbanti xibaar yu juuyoo;",
+      "- laaj ñu far sa xibaar yi walla nga jële sa ngëneel;",
+      "- ñaanal ci ay liggéey yu ñuy def ci sa xibaar.",
+      "Yónnee sa ñaan ci nocodingindonesia@gmail.com. Dinanu la tontu ci diir gu yey."
+     ]
+    },
+    {
+     "t": "7. Kaaraange ak xale yi",
+     "b": [
+      "Siti bii dafay jëfandikoo HTTPS te dugg ci xibaar yu proje bi bañ ñu ko ubbi. Amul fi yoon bu ñuy yónnee walla di denc xibaar bu amul ñaawteef ci kow, kon mënunu wóor kaaraange gu mat sëkk.",
+      "Sunu liggéey yi ñoo ngi ñu ngir nit ñi am 18 at walla ñu ko ëpp. Duñu dajale xibaar yu bokk yu xale yi ci xel."
+     ]
+    },
+    {
+     "t": "8. Soppi politig bii",
+     "b": [
+      "Politig bii mën nañu ko yeesal ci saa su ne. Bés bi ñu ko mujje yeesal day feeñ ci kaw xët bi. Bu làkk yi juuyoo ci tekki, yoonu Indonesie moo ngi jëfe."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Yoon ak Ñeel yi",
+   "description": "Yoon yi ci jëfandikoo siti Nocoding ak liggéeyam: paket yi, njëg yi, naka lañuy liggéey, bokk-boppu xel ak dayo yi ci tontu.",
+   "sections": [
+    {
+     "t": "1. Nangu yoon yii",
+     "b": [
+      "Bu nga ubbee siti bii walla nga jëfandikoo liggéeyu Nocoding, nangu nga yoon ak ñeel yii. Bu ngéen ko nanguwul, bul jëfandikoo sunu siti walla sunu liggéey."
+     ]
+    },
+    {
+     "t": "2. Liggéey yi",
+     "b": [
+      "Nocoding dafay defar siti web yu portfolio walla CV, landing page ak profil say kompanee, sistemu xibaar ak sistemu liggéey, ak automatisaasiyoŋ ci proses yu njëgin. Dees na bokk ak yaw ci WhatsApp walla imeel ci kanam liggéey bi tàmbalee ci lu liggéey bi di tëddu, lu mu am, bu mu di jeex ak njëg li.",
+      "Ndigël dafa nekk lu amul njëg saa su ne, bu ñu ko soxlaa, te du la tax nga sant."
+     ]
+    },
+    {
+     "t": "3. Paket yi ak njëg yi",
+     "b": [
+      "- Paket bu ndaw: ci Rp 500.000 ci atum, ak kàttan gu amul njëg ak domain ci 1 at.",
+      "- Paket bu mag: ci Rp 2.000.000 ci atum, ak kàttan gu amul njëg ak hosting ci 1 at.",
+      "Njëg yi nekk ci siti bi ñooy njëg yu tàmbalee. Njëg lu mujj dees ko bokk ginnaaw ndigël, ci kaw sa soxla. Ñi nekk ci biti Indonesia, njëg yi dees leen di wone ci xaalisu bërëb ba ni xayma ci kaw cours bu bés bu nekk; xaalis bi ci rupiah bi nu àndandoo moo am doole. Dëgëndal yi, ni ay xarala yu yeneen walla yeesal ginnaaw diir gu amul njëg bi jeex, dees la leen wax ci kanam liggéey bi."
+     ]
+    },
+    {
+     "t": "4. Naka lañuy liggéey ak sa tolof",
+     "b": [
+      "Dees na seet te nangu desiñ bi ak yaw ci kanam liggéey bi. Soppi yi dees leen di def ni ñu ko àndandoo.",
+      "Yaw ngay tollu ci joxe jumtukaay yi (logo, bind, nataal, xibaar) ci jamono ak ci am yoon ci jëfandikoo leen. Yéexe ci jumtukaay yi walla ci tontu mën na jaxase jadwal bi."
+     ]
+    },
+    {
+     "t": "5. Kàttan",
+     "b": [
+      "Kàttan gu amul njëg ci 1 at mooy jubbanti njuumte yi nekk ci sunu liggéey ak yeesal yu kaaraange yu ñuul. Xarala yu bees, soppi yu mag ci desiñ ak liggéey yu génn ci àndandoo bu njëkk bi, dees leen di fey ci wet."
+     ]
+    },
+    {
+     "t": "6. Bokk-boppu xel",
+     "b": [
+      "Jumtukaay yi nga nu may, yaw rekk ñoo leen moom. Liggéey bi ñu jeexal dees la ko jox bu fey bi ñu àndandoo matee. Nocoding mën na wone liggéey yu dox ni misaal ci portfolio bi, ludul nga bind ne bu ñu ko wone.",
+      "Desiñ bi, bind bi ak artikel yi nekk ci nocoding.web.id, Nocoding mooy boroom. Mën nga séddale lien yi, waaye mënuloo leen koppi te jëfandikoo ci njaay te amul ndigël. Nataal yi nekk ci artikel yi, Unsplash lañu jóge te ñu jëfe ci lisàs bi; ñu bind fi ñu leen jële ci suuf bu nataal."
+     ]
+    },
+    {
+     "t": "7. Làkk yi ci siti bi",
+     "b": [
+      "Siti bii am na ci ay làkk yu bare. Tekki yi, rawatina ci làkk yu ñu ko wax tuut, mën nañu bañ a mat sëkk. Bu ñu juuyoo ci tekki, yoonu Indonesie moo ngi jëfe. Xët yii ci yoon, am nañu ci Indonesie ak Àngale."
+     ]
+    },
+    {
+     "t": "8. Dayo yi ci tontu",
+     "b": [
+      "Dañuy jéem a joxe njariñ yu baax, waaye duñu dige ay njariñ yu ñu tànn ci njaay ni bérëb ci wëyëlu gëstu, limu seetkat walla jaay yi. Duñu tontu ci jaxase yi jóge ci ñi nekk ci wet ni ñi nuy dëkkal, domain walla fey, walla ci mbooleem lor yu jaar ci yeneen yoon.",
+      "Sunu tontu ci benn liggéey dafay dayo ci xaalis bi nga fey ci liggéey boobu, ci lu yoon mën. Loolu du wàññi sa yoon yi yoon aar."
+     ]
+    },
+    {
+     "t": "9. Yoon bi jiite",
+     "b": [
+      "Yoon yii, yoonu Réewum Républik Indonesia moo leen jiite. Bu ay xeex amee, dinanu jëkk jéem koo jubbanti ci waxtaan. Bu ñu àndoogul, tribinaal yu am kàttan ci Indonesia ñooy àtte xeex bi."
+     ]
+    },
+    {
+     "t": "10. Soppi ak wooteku",
+     "b": [
+      "Yoon yii mën nañu leen yeesal ci saa su ne; bés bi ñu leen mujje yeesal day feeñ ci kaw xët bi. Laaj yi mën nga leen yónnee ci nocodingindonesia@gmail.com walla ci WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Politigu Cookie",
+   "description": "Cookie yi ak denc-denc bu bérëb bi siti Nocoding di jëfandikoo, lu tax ñu ko jëfandikoo, ak naka ngay ko jiite.",
+   "sections": [
+    {
+     "t": "1. Lan mooy cookie",
+     "b": [
+      "Cookie yi ay ndaw-fisier la yu siti di denc ci sa navigatëer. Denc-denc bu bérëb ak denc-denc bu session dañuy doxal ni ñoom waaye duñu yóbbu ci serwër ci boppu seen bopp. Ci xët bii, nuy woowe leen ñépp cookie."
+     ]
+    },
+    {
+     "t": "2. Lu siti bi soxla ngir dox",
+     "b": [
+      "Dees leen di denc ci sa navigatëer te duñu yónnee ci sunu serwër:",
+      "- nocoding-language ak nocoding-language-set: làkk wi nga tànn walla wi ñu gis ci sa navigatëer.",
+      "- nocoding-pricing (session): xaalis bi ñu xayma ak cours bi, ngir bañ a defaraat njëg yi ci xët bu nekk.",
+      "- Màrk yu artikel: ndax bëgg nga, gis nga walla séddale nga ab artikel, ngir bañ a dubleel lim yi.",
+      "- Ab màrk bu jaar-jaar ci toogu scroll bi bu ñuy ñibbisiku ci xaaj yi ci siti bi."
+     ]
+    },
+    {
+     "t": "3. Analitig",
+     "b": [
+      "Bu ñu ubbeekoon, ñaar yu liggéeyu analitig dañuy yeeg ginnaaw bu nga jëfandikoo xët bi (scroll, tap walla nga fas ab touche):",
+      "- Google Analytics 4 (cookie yu ni _ga ak _ga_*, ñuy am doole ba ci 2 at ci jege-jege): statistik yu seetsi.",
+      "- Microsoft Clarity (cookie yu ni _clck, _clsk, CLID ak MUID, ñuy am doole ba ci 1 at ci jege-jege): heatmap ak enregistrement yu amul tur yu jëm ci jëfandikoo.",
+      "Ñi nuy dëkkal CDN ak kaaraange mën nañu fas ay cookie yu teknik ngir aar siti bi ci trafik bu bon."
+     ]
+    },
+    {
+     "t": "4. Naka ngay jiite cookie yi",
+     "b": [
+      "Mën nga far walla tëj cookie yi ci tànneef yu sa navigatëer. Mën nga yokk it add-on bu Google ci opt-out ngir Google Analytics. Bu cookie yu analitig tëjee, siti bi di na dox; bu ñu far denc-denc bu bérëb bi, sa tànn ci làkk dafay delsi ci bi mu doon."
+     ]
+    },
+    {
+     "t": "5. Laaj yi",
+     "b": [
+      "Ngir laaj yu jëm ci politig bii, wooteel nocodingindonesia@gmail.com. Naka lañuy jëfandikoo xibaar yu bokk, leeral na ci Politigu Kumpa. Bu làkk yi juuyoo ci tekki, yoonu Indonesie moo ngi jëfe."
+     ]
+    }
+   ]
+  }
+ }
+}

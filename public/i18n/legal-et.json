@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Viimati uuendatud",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Privaatsuspoliitika",
+   "description": "Milliseid andmeid Nocoding kogub, milleks neid kasutatakse, kes neid töötleb ja millised õigused on sul oma isikuandmetele.",
+   "sections": [
+    {
+     "t": "1. Kes me oleme",
+     "b": [
+      "Nocoding (nocoding.web.id) on veebisaidi-, rakenduse-, infosüsteemi- ja automatiseerimisteenus, mida Indoneesias pakub Abid Hanan Wicaksono. See poliitika selgitab, kuidas me käsitleme sinu isikuandmeid, kui külastad seda saiti või võtad meiega ühendust.",
+      "Küsimusi selle poliitika kohta saad saata aadressil nocodingindonesia@gmail.com või WhatsAppi numbril +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Andmed, mida me kogume",
+     "b": [
+      "- Andmed, mille sa meile annad: sinu nimi, WhatsAppi number, e-posti aadress ja projekti kirjeldus, kui võtad meiega ühendust WhatsAppi või e-posti teel. Sellel saidil ei ole kasutajakontosid ega registreerimisvorme.",
+      "- Automaatselt töödeldavad tehnilised andmed: IP-aadress, seadme ja brauseri tüüp ning avatud lehed. Meie hostimis- ja CDN-teenuse pakkujad töötlevad neid saidi kuvamiseks ja selle kaitsmiseks kuritarvituste eest.",
+      "- Ligikaudne riik: et hindu saaks näidata sinu valuutas, hinnatakse sinu riiki CDN-i teabe või brauseri keele põhjal. Me ei salvesta seda oma serveritesse.",
+      "- Analüütikaandmed: Google Analytics 4 ja Microsoft Clarity (kui need on sisse lülitatud) koguvad kasutusstatistikat, näiteks avatud lehti, külastuse kestust, seadme tüüpi ja anonüümseid interaktsioonisalvestusi. Need laaditakse alles pärast seda, kui oled lehega suhelnud.",
+      "- Brauserisalvestus: sinu keelevalik, märked selle kohta, et oled artiklile juba meeldimise andnud, seda vaadanud või jaganud, ning ajutine hinnahinnang. Üksikasjad on küpsiste poliitikas.",
+      "- Artikli vaatamiste, meeldimiste ja jagamiste arvu salvestatakse summeeritud arvudena, ilma külastaja identiteedita."
+     ]
+    },
+    {
+     "t": "3. Milleks andmeid kasutatakse",
+     "b": [
+      "- Sinu küsimustele vastamiseks, pakkumiste koostamiseks ja sinu projekti elluviimiseks.",
+      "- Saidi kuvamiseks, kaitsmiseks ja kiirena hoidmiseks.",
+      "- Et mõista, kuidas saiti kasutatakse, ja seda parandada.",
+      "- Õiguslike kohustuste täitmiseks.",
+      "Me ei müü sinu isikuandmeid."
+     ]
+    },
+    {
+     "t": "4. Kaasatud kolmandad osapooled",
+     "b": [
+      "- Vercel: saidi hostimine ja kuvamine.",
+      "- Cloudflare: CDN ja turvalisus.",
+      "- Google (Google Analytics 4) ja Microsoft (Clarity): saidi kasutusstatistika.",
+      "- Meta (WhatsApp) ja Google (Gmail): kui võtad meiega ühendust selle saidi WhatsAppi või e-posti linkide kaudu.",
+      "- Valuutakursside pakkuja: saab meie serverilt ainult kursipäringuid, mitte külastajate andmeid.",
+      "Need teenusepakkujad võivad töödelda andmeid väljaspool Indoneesiat oma poliitikate alusel."
+     ]
+    },
+    {
+     "t": "5. Kui kaua andmeid säilitatakse",
+     "b": [
+      "Vestlusi ja projektimaterjale säilitatakse nii kaua, kui on vaja teenuse osutamiseks, toe pakkumiseks ja õiguslike kohustuste täitmiseks, seejärel need kustutatakse või muudetakse anonüümseks. Analüütikaandmete puhul lähtutakse nende pakkuja säilitusseadetest. Sinu brauseris olevad andmed jäävad alles, kuni sa need kustutad."
+     ]
+    },
+    {
+     "t": "6. Sinu õigused",
+     "b": [
+      "Indoneesia isikuandmete kaitse seaduse nr 27 (2022) alusel on sul õigus:",
+      "- teada saada ja saada koopia isikuandmetest, mida me sinu kohta hoiame;",
+      "- nõuda ebaõigete andmete parandamist;",
+      "- nõuda oma andmete kustutamist või võtta oma nõusolek tagasi;",
+      "- esitada vastuväiteid teatud töötlemisele.",
+      "Saada oma taotlus aadressil nocodingindonesia@gmail.com. Vastame mõistliku aja jooksul."
+     ]
+    },
+    {
+     "t": "7. Turvalisus ja lapsed",
+     "b": [
+      "See sait kasutab HTTPS-i ning juurdepääs projektiandmetele on piiratud. Ükski andmeedastus- või salvestusviis ei ole täiesti riskivaba, seega me ei saa garanteerida absoluutset turvalisust.",
+      "Meie teenused on mõeldud 18-aastastele ja vanematele inimestele. Me ei kogu teadlikult laste isikuandmeid."
+     ]
+    },
+    {
+     "t": "8. Selle poliitika muudatused",
+     "b": [
+      "Seda poliitikat võidakse aeg-ajalt uuendada. Viimase uuenduse kuupäev on näidatud lehe ülaosas. Kui keeleversioonide tähendus erineb, kehtib indoneesiakeelne versioon."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Kasutustingimused",
+   "description": "Nocodingi saidi ja teenuste kasutamise reeglid: paketid, hinnad, töö tegemise kord, intellektuaalomand ja vastutuse piirangud.",
+   "sections": [
+    {
+     "t": "1. Tingimustega nõustumine",
+     "b": [
+      "Selle saidi avamisel või Nocodingi teenuste kasutamisel nõustud nende kasutustingimustega. Kui sa ei nõustu, palun ära kasuta meie saiti ega teenuseid."
+     ]
+    },
+    {
+     "t": "2. Teenused",
+     "b": [
+      "Nocoding loob portfoolio- või CV-veebisaite, maandumislehti ja ettevõtte tutvustuslehti, info- ja tegevussüsteeme ning äriprotsesside automatiseerimist. Töö maht, funktsioonid, ajakava ja maksumus lepitakse sinuga kokku WhatsAppi või e-posti teel enne töö algust.",
+      "Konsultatsioon on alati tasuta, millal iganes seda vajad, ning see ei kohusta sind tellima."
+     ]
+    },
+    {
+     "t": "3. Paketid ja hinnad",
+     "b": [
+      "- Väike pakett: alates Rp 500 000 aastas, sisaldab tasuta hooldust ja domeeni 1 aastaks.",
+      "- Suur pakett: alates Rp 2 000 000 aastas, sisaldab tasuta hooldust ja hostimist 1 aastaks.",
+      "Saidil toodud hinnad on algushinnad. Lõplik summa lepitakse kokku pärast konsultatsiooni, lähtudes sinu vajadustest. Väljaspool Indoneesiat asuvatele külastajatele näidatakse hindu kohalikus valuutas hinnanguna, mis põhineb päevasel vahetuskursil; kehtib see rupiates summa, milles me kokku leppisime. Lisakuludest, näiteks lisafunktsioonidest või pikendamisest pärast tasuta perioodi lõppu, teatame sulle enne töö tegemist."
+     ]
+    },
+    {
+     "t": "4. Töö tegemise kord ja sinu kohustused",
+     "b": [
+      "Disain vaadatakse sinuga üle ja kinnitatakse enne tootmist. Parandused tehakse kokkulepitud viisil.",
+      "Sina vastutad materjalide (logo, tekst, fotod, andmed) õigeaegse esitamise eest ning selle eest, et sul on õigus neid kasutada. Materjalide või tagasiside hilinemine võib mõjutada ajakava."
+     ]
+    },
+    {
+     "t": "5. Hooldus",
+     "b": [
+      "1-aastane tasuta hooldus hõlmab meie töös esinevate vigade parandamist ja põhilisi turvauuendusi. Uued funktsioonid, suuremad disainimuudatused ja algse kokkuleppega väljaspool olev töö on eraldi tasulised."
+     ]
+    },
+    {
+     "t": "6. Intellektuaalomand",
+     "b": [
+      "Sinu esitatud materjalid jäävad sinule. Valmis töö antakse sulle üle pärast kokkulepitud makse täielikku tasumist. Nocoding võib näidata valminud töid oma portfoolios näidetena, välja arvatud juhul, kui sa palud kirjalikult seda mitte teha.",
+      "Saidi nocoding.web.id disain, tekstid ja artiklid kuuluvad Nocodingile. Võid jagada linke neile, kuid ilma loata ei tohi neid kopeerida ega kommertsotstarbel kasutada. Artiklite fotod pärinevad Unsplashist ja järgivad selle litsentsi; allikas on iga foto all nimetatud."
+     ]
+    },
+    {
+     "t": "7. Saidi keeled",
+     "b": [
+      "See sait on saadaval paljudes keeltes. Tõlked, eriti vähemkõnelejatega keeltesse, ei pruugi olla täiuslikud. Kui tähendus erineb, kehtib indoneesiakeelne versioon. Need õigusalased lehed on saadaval indoneesia ja inglise keeles."
+     ]
+    },
+    {
+     "t": "8. Vastutuse piirangud",
+     "b": [
+      "Püüame saavutada häid tulemusi, kuid me ei luba konkreetseid ärilisi tulemusi, nagu otsingutulemuste asetus, külastajate arv või müük. Me ei vastuta kolmandate osapoolte, näiteks hostimis-, domeeni- või makseteenuse pakkujate tekitatud häirete eest ega kaudsete kahjude eest.",
+      "Meie vastutus teenuse eest on seadusega lubatud ulatuses piiratud summaga, mille oled selle teenuse eest maksnud. See ei vähenda sinu seadusega kaitstud õigusi."
+     ]
+    },
+    {
+     "t": "9. Kohaldatav õigus",
+     "b": [
+      "Neile tingimustele kohaldatakse Indoneesia Vabariigi õigust. Vaidluse korral püüame seda kõigepealt lahendada läbirääkimistega. Kui kokkulepet ei saavutata, lahendavad vaidluse Indoneesia pädevad kohtud."
+     ]
+    },
+    {
+     "t": "10. Muudatused ja kontakt",
+     "b": [
+      "Neid tingimusi võidakse aeg-ajalt uuendada; viimase uuenduse kuupäev on näidatud lehe ülaosas. Küsimusi saad saata aadressil nocodingindonesia@gmail.com või WhatsAppi numbril +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Küpsiste poliitika",
+   "description": "Küpsised ja kohalik salvestus, mida Nocodingi sait kasutab, milleks neid vaja on ja kuidas neid hallata.",
+   "sections": [
+    {
+     "t": "1. Mis on küpsised",
+     "b": [
+      "Küpsised on väikesed failid, mida sait salvestab sinu brauserisse. Kohalik salvestus ja seansisalvestus toimivad sarnaselt, kuid neid ei saadeta serverile automaatselt. Sellel lehel nimetame neid kõiki küpsisteks."
+     ]
+    },
+    {
+     "t": "2. Mida sait töötamiseks vajab",
+     "b": [
+      "Salvestatud sinu brauserisse ja mitte saadetud meie serveritele:",
+      "- nocoding-language ja nocoding-language-set: keel, mille valisid või mis tuvastati sinu brauserist.",
+      "- nocoding-pricing (seanss): hinnanguline valuuta ja kurss, et hindu ei arvutataks igal lehel uuesti.",
+      "- Artiklimärked: kas oled artiklile juba meeldimise andnud, seda vaadanud või jaganud, et arve ei dubleeritaks.",
+      "- Ajutine kerimiskoha märge saidi osade vahel liikumisel."
+     ]
+    },
+    {
+     "t": "3. Analüütika",
+     "b": [
+      "Kui need on sisse lülitatud, laaditakse kaks analüütikateenust pärast seda, kui oled lehega suhelnud (kerinud, puudutanud või klahvi vajutanud):",
+      "- Google Analytics 4 (küpsised nagu _ga ja _ga_*, kehtivad kuni umbes 2 aastat): külastusstatistika.",
+      "- Microsoft Clarity (küpsised nagu _clck, _clsk, CLID ja MUID, kehtivad kuni umbes 1 aasta): soojuskaardid ja anonüümsed interaktsioonisalvestused.",
+      "CDN-i ja turvateenuse pakkujad võivad samuti määrata tehnilisi küpsiseid, et kaitsta saiti kahjuliku liikluse eest."
+     ]
+    },
+    {
+     "t": "4. Kuidas küpsiseid hallata",
+     "b": [
+      "Saad küpsiseid kustutada või blokeerida oma brauseri seadetes. Võid paigaldada ka Google'i ametliku Google Analyticsi loobumislaiendi. Kui analüütikaküpsised on blokeeritud, sait töötab edasi; kui kohalik salvestus tühjendatakse, naaseb sinu keelevalik vaikimisi väärtusele."
+     ]
+    },
+    {
+     "t": "5. Küsimused",
+     "b": [
+      "Selle poliitika kohta küsimuste korral võta ühendust aadressil nocodingindonesia@gmail.com. Isikuandmete kasutamist selgitatakse täpsemalt privaatsuspoliitikas. Kui keeleversioonide tähendus erineb, kehtib indoneesiakeelne versioon."
+     ]
+    }
+   ]
+  }
+ }
+}

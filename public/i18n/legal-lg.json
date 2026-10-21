@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Kyasembayo okuzzibwa obuggya",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Enkola y'Ekyama",
+   "description": "Data Nocoding gy'ekung'aanya, gy'ekozesebwa, abagikola, n'eddembe lyo ku data yo ey'obuntu.",
+   "sections": [
+    {
+     "t": "1. Ffe baani",
+     "b": [
+      "Nocoding (nocoding.web.id) mulimu gwa kukola mikutu gya yintaneeti, apps, enkola z'amawulire n'okwekolera kw'emirimu (automation) oguddukanyizibwa Abid Hanan Wicaksono mu Indonesia. Enkola eno annyonnyola engeri gye tufuddemu data yo ey'obuntu bw'ojja ku mukutu guno oba bw'otukubira.",
+      "Ebibuuzo ku nkola eno bisobola okusindikibwa ku nocodingindonesia@gmail.com oba WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data gye tukung'aanya",
+     "b": [
+      "- Data gy'otuwa: erinnya lyo, namba yo eya WhatsApp, email n'ennyonnyola ya pulojekiti yo bw'otukubira ku WhatsApp oba email. Omukutu guno teguliiko akawunti z'abakozesa wadde fomu z'okwewandiisa.",
+      "- Data ey'ebyuma ekolebwa yokka: endagiriro ya IP, ekika kya ddiyo n'eky'ekyuma ekiraba (browser), n'empapula z'oggulawo. Abatuwa hosting ne CDN bagikola okuwa omukutu n'okugukuuma obutakozesebwa bubi.",
+      "- Eggwanga ery'okuteebereza: ebbeeyi ziraga mu ssente zo, eggwanga lyo liteebezebwa okuva ku mawulire ga CDN oba olulimi lwa browser yo. Tetugitereka ku ssaaviisi zaffe.",
+      "- Data ey'okwekenneenya: Google Analytics 4 ne Microsoft Clarity (bwe bikola) bikung'aanya ebibalo by'enkozesa nga empapula ezizibwawo, ebbanga ly'omala, ekika ky'ekyuma, n'ebifaananyi by'engeri gy'okozesaamu omukutu nga tebiraga ani. Bitandika kuggyibwa oluvannyuma lw'okukwata ku lupapula.",
+      "- Okutereka mu browser: olulimi lw'olonze, obubonero obulaga nti wasiimye, wakubye amaaso oba wagabana ekiwandiiko, n'okuteebereza ebbeeyi okw'akaseera. Ebikwata ku nsonga eno biri mu Nkola y'Ebikuukuuma (Cookie).",
+      "- Omuwendo gw'abalaba, abasiima n'abagabana ebiwandiiko gutereekebwa nga namba eziteekeddwa awamu, nga tezirina bwe zitegeeza ani yali alaba."
+     ]
+    },
+    {
+     "t": "3. Data gy'ekozesebwa",
+     "b": [
+      "- Okuddamu ebibuuzo byo, okutegeka ebbeeyi n'okukola pulojekiti yo.",
+      "- Okuwa omukutu, okuguwa obukuumi n'okugukuuma nga gwa mbiro.",
+      "- Okutegeera engeri omukutu gye gukozesebwamu tusobole okugulongoosa.",
+      "- Okutuukiriza obuvunaanyizibwa obw'amateeka.",
+      "Tetutunda data yo ey'obuntu."
+     ]
+    },
+    {
+     "t": "4. Abantu abalala abeenyigira",
+     "b": [
+      "- Vercel: hosting n'okuwa omukutu.",
+      "- Cloudflare: CDN n'obukuumi.",
+      "- Google (Google Analytics 4) ne Microsoft (Clarity): ebibalo by'enkozesa y'omukutu.",
+      "- Meta (WhatsApp) ne Google (Gmail): bw'otukubira ng'okozesa links za WhatsApp oba email ku mukutu guno.",
+      "- Omuwa omuwendo gw'ensimbi: afuna kusaba kwa muwendo gwokka okuva ku ssaaviisi yaffe, so si data y'abagenyi.",
+      "Abo abawa empeereza bayinza okukola data ebweru wa Indonesia nga bagoberera enkola zaabwe."
+     ]
+    },
+    {
+     "t": "5. Data gy'ewaayo ebbanga ki",
+     "b": [
+      "Emboozi n'ebikozesebwa mu pulojekiti bitereekebwa okutuusa lwe byetaagibwa okuddukanya empeereza, okuwa obuyambi n'okutuukiriza obuvunaanyizibwa obw'amateeka, oluvannyuma ne bisangulwa oba ne bitaggibwako erinnya. Data ey'okwekenneenya egoberera enkola y'okugitereka ey'oyo agiwa. Data eri mu browser yo esigalawo okutuusa lw'ogisangula."
+     ]
+    },
+    {
+     "t": "6. Eddembe lyo",
+     "b": [
+      "Okusinziira ku Mateeka ga Indonesia Namba 27 aga 2022 ku Kukuuma Data ey'Obuntu, olina eddembe okuva ku:",
+      "- okumanya n'okufuna kopi ya data yo ey'obuntu gye tulina;",
+      "- okusaba data etali ntuufu ezibwe;",
+      "- okusaba data yo esangulwe oba okuggyayo okukkiriza kwo;",
+      "- okuwakanya okukola data mu ngeri ezimu.",
+      "Sindika okusaba kwo ku nocodingindonesia@gmail.com. Tujja kukuddamu mu bbanga ery'amakulu."
+     ]
+    },
+    {
+     "t": "7. Obukuumi n'abaana",
+     "b": [
+      "Omukutu guno gukozesa HTTPS era okuyingira ku data ya pulojekiti kukugirwa. Tewali ngeri yonna ey'okusindika oba okutereka data etaliimu bulabe ddala, noolwekyo tetusobola kukakasa bukuumi bwa bwannamunigina.",
+      "Empeereza zaffe zigendereddwamu abantu abalina emyaka 18 n'okusingawo. Tetukung'aanya mu bugenderevu data y'obuntu ey'abaana."
+     ]
+    },
+    {
+     "t": "8. Enkyukakyuka mu nkola eno",
+     "b": [
+      "Enkola eno eyinza okuzzibwa obuggya buli kiseera. Ennaku z'omuwendo ogwasembayo ziraga waggulu ku lupapula. Singa ennimi zikontana mu makulu, ennyiriri ez'Oluindoneesiya ze zikola."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Amateeka n'Embeera",
+   "description": "Amateeka g'okukozesa omukutu n'empeereza za Nocoding: pakeegi, ebbeeyi, engeri omulimu gye gukolebwamu, eddembe ku bintu eby'amagezi n'ekkomo ly'obuvunaanyizibwa.",
+   "sections": [
+    {
+     "t": "1. Okukkiriza amateeka gano",
+     "b": [
+      "Bw'oggulawo omukutu guno oba okozesa empeereza za Nocoding, okkiriza amateeka n'embeera zino. Bw'otokkiriziganya, tusaba tokozesa mukutu gwaffe wadde empeereza zaffe."
+     ]
+    },
+    {
+     "t": "2. Empeereza",
+     "b": [
+      "Nocoding ekola emikutu gya portfolio oba CV, landing pages n'ebiwandiiko ebikwata ku kkampuni, enkola z'amawulire n'ez'emirimu, n'okwekolera kw'emirimu gy'bizinensi (automation). Obunene bw'omulimu, ebiyinza okukolebwa, enteekateeka y'ebiseera n'omuwendo bikkaanyizibwako naawe ku WhatsApp oba email nga omulimu tegunnatandika.",
+      "Okubuuza amagezi kuli bwereere buli kiseera, buli lw'okwetaaga, era tekikuwaliriza kulagira."
+     ]
+    },
+    {
+     "t": "3. Pakeegi n'ebbeeyi",
+     "b": [
+      "- Pakeegi Entono: okuva ku Rp 500.000 buli mwaka, nga mulimu okulabirira (maintenance) kwa bwereere ne domain okumala omwaka 1.",
+      "- Pakeegi Ennene: okuva ku Rp 2.000.000 buli mwaka, nga mulimu okulabirira (maintenance) kwa bwereere ne hosting okumala omwaka 1.",
+      "Ebbeeyi ezirabika ku mukutu ze zitandikirako. Omuwendo ogusembayo gukkaanyizibwako oluvannyuma lw'okubuuzibwa amagezi, nga gusinziira ku by'olina okwetaaga. Eri abagenyi abali ebweru wa Indonesia, ebbeeyi ziragibwa mu ssente z'eggwanga lyabwe ng'okuteebereza okusinziira ku muwendo gw'ensimbi ogwa buli lunaku; ogukola ge muwendo mu rupiah gwe tukkaanyizzaako. Ebisale ebirala, nga ebirina okwongerwako oba okuzza obuggya nga ekiseera eky'obwereere kiweddeko, bikumanyisibwa omulimu nga tegunnakolebwa."
+     ]
+    },
+    {
+     "t": "4. Engeri omulimu gye gukolebwamu n'obuvunaanyizibwa bwo",
+     "b": [
+      "Dizayini ekebererwa n'ekkirizibwa naawe nga tennatandika kukolebwa. Okukyusakyusa kukolebwa nga bwe bikkaanyiziddwako.",
+      "Obeera na buvunaanyizibwa bw'okuwa ebikozesebwa (logo, ebiwandiiko, ebifaananyi, data) mu budde n'okuba n'eddembe ly'okubikozesa. Okulwawo okuwa ebikozesebwa oba endowooza kuyinza okukosa enteekateeka y'ebiseera."
+     ]
+    },
+    {
+     "t": "5. Okulabirira (Maintenance)",
+     "b": [
+      "Okulabirira okwa bwereere okumala omwaka 1 kuzingiramu okutereeza ensobi mu mulimu gwaffe n'okuzza obuggya obukuumi obw'ekikugu. Ebintu ebipya, enkyukakyuka ennene mu dizayini n'emirimu egiri ebweru w'endagaano esooka bisasulwa kyawufu."
+     ]
+    },
+    {
+     "t": "6. Eddembe ku bintu eby'amagezi",
+     "b": [
+      "Ebikozesebwa by'otuwa bisigala bibyo. Omulimu ogumaliriziddwa guweebwa ggwe nga okusasula nga bwe tukkaanyizza kuwedde. Nocoding eyinza okulaga emirimu egiri ku mukutu ng'ebyokulabirako mu portfolio yaayo, okuggyako ng'osabye mu buwandiike obutagulaga.",
+      "Dizayini, ebiwandiiko n'ebiwandiiko by'amawulire ku nocoding.web.id bya Nocoding. Oyinza okugabana links zaabyo, naye tosobola kubikoppa n'obikozesa mu by'obusuubuzi nga tofunye lukusa. Ebifaananyi by'ebiwandiiko biva ku Unsplash era bigoberera layisinsi yaayo; ensibuko eragibwa wansi wa buli kifaananyi."
+     ]
+    },
+    {
+     "t": "7. Ennimi z'omukutu",
+     "b": [
+      "Omukutu guno guliwo mu nnimi nnyingi. Okuvvuunula, naddala mu nnimi ezirina abazoogera batono, kuyinza obutaba kutuukiridde. Singa kukontana mu makulu, ennyiriri ez'Oluindoneesiya ze zikola. Empapula zino ez'amateeka ziri mu Luindoneesiya n'Oluzungu."
+     ]
+    },
+    {
+     "t": "8. Ekkomo ly'obuvunaanyizibwa",
+     "b": [
+      "Tukola okuwa ebivaamu ebirungi, naye tetusuubiza bivaamu ebimu mu bizinensi nga ekifo ku bifaananyi by'okunoonya, omuwendo gw'abagenyi oba okutunda. Tetuvunaanyizibwa ku kutaataaganyizibwa okuva eri abantu abalala nga abawa hosting, domain oba okusasula, wadde ku bufiirwa obutali butereevu.",
+      "Obuvunaanyizibwa bwaffe ku mpeereza bukomekkerezebwa ku muwendo gw'osasudde ku mpeereza eyo, okutuuka ku kigero amateeka kye gakkiriza. Kino tekikendeeza ku ddembe lyo eriterekeddwa amateeka."
+     ]
+    },
+    {
+     "t": "9. Amateeka agafuga",
+     "b": [
+      "Amateeka gano gafugibwa amateeka ga Lipubulika ya Indonesia. Singa wabaawo obutakkaanya, tusooka kugezaako okubumalawo nga twogera. Bwe tutakkaanya, obutakkaanya buwozesebwa mu kkooti ezirina obuyinza mu Indonesia."
+     ]
+    },
+    {
+     "t": "10. Enkyukakyuka n'okukwatagana naffe",
+     "b": [
+      "Amateeka gano gayinza okuzzibwa obuggya buli kiseera; ennaku z'omuwendo ogwasembayo ziraga waggulu ku lupapula. Ebibuuzo bisobola okusindikibwa ku nocodingindonesia@gmail.com oba WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Enkola ya Cookie",
+   "description": "Cookies n'ekitereko ky'omu kifo (local storage) omukutu gwa Nocoding bye gukozesa, ebigendererwa byabyo, n'engeri y'okubikwatamu.",
+   "sections": [
+    {
+     "t": "1. Cookies kye ki",
+     "b": [
+      "Cookies bye bifaayiro ebitonotono omukutu bye gutereka mu browser yo. Local storage ne session storage bikola mu ngeri efaananako naye tebisindikibwa yokka ku ssaaviisi. Ku lupapula luno byonna tubyita cookies."
+     ]
+    },
+    {
+     "t": "2. Ebyetaagibwa omukutu okukola",
+     "b": [
+      "Bitereekebwa mu browser yo era tebisindikibwa ku ssaaviisi zaffe:",
+      "- nocoding-language ne nocoding-language-set: olulimi lw'olonze oba olwazuuliddwa okuva mu browser yo.",
+      "- nocoding-pricing (session): ssente ezitebeezebwa n'omuwendo gwazo, ebbeeyi ereme okubalibwa buggya ku buli lupapula.",
+      "- Obubonero bw'ebiwandiiko: oba wasiimye, wakubye amaaso oba wagabana ekiwandiiko, omuwendo guleme okubalwa emirundi ebiri.",
+      "- Akabonero k'ekifo ky'okusika wansi ak'akaseera ng'ova ku kitundu ky'omukutu okudda ku kirala."
+     ]
+    },
+    {
+     "t": "3. Okwekenneenya (Analytics)",
+     "b": [
+      "Bwe kuba kukoleddwa, empeereza bbiri ez'okwekenneenya ziggyibwawo oluvannyuma lw'okukwata ku lupapula (okusika, okukombako oba okunyiga ekinyigo):",
+      "- Google Analytics 4 (cookies nga _ga ne _ga_*, ezimala okutuuka ku myaka nga 2): ebibalo by'abagenyi.",
+      "- Microsoft Clarity (cookies nga _clck, _clsk, CLID ne MUID, ezimala okutuuka ku mwaka nga 1): heatmaps n'ebifaananyi by'engeri gy'okozesaamu omukutu nga tebiraga ani.",
+      "Abawa CDN n'obukuumi nabo bayinza okuteekawo cookies ez'ekikugu okukuuma omukutu ku bantu abagwagwawaza."
+     ]
+    },
+    {
+     "t": "4. Engeri y'okukwatamu cookies",
+     "b": [
+      "Osobola okusangula oba okuziyiza cookies mu nteekateeka za browser yo. Osobola n'okuteekawo add-on ya Google ey'obwanguwa ey'okugaana Google Analytics. Singa cookies z'okwekenneenya ziziyizibwa, omukutu gweyongera okukola; singa local storage esangulwa, olulimi lw'olonze lukomawo ku lwa bulijjo."
+     ]
+    },
+    {
+     "t": "5. Ebibuuzo",
+     "b": [
+      "Ku bibuuzo ebikwata ku nkola eno, kwatagana ne nocodingindonesia@gmail.com. Engeri data ey'obuntu gy'ekozesebwamu eyongera okunnyonnyolwa mu Nkola y'Ekyama. Singa ennimi zikontana mu makulu, ennyiriri ez'Oluindoneesiya ze zikola."
+     ]
+    }
+   ]
+  }
+ }
+}

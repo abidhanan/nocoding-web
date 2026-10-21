@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Loko mogik",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Chenro mar Kano Weche Mopondo",
+   "description": "Data ma Nocoding oyiko, tiende, joma tiyo godo, gi ratiro mari kuom data mari mopondo.",
+   "sections": [
+    {
+     "t": "1. Wan ngʼa",
+     "b": [
+      "Nocoding (nocoding.web.id) en tich mar loso website, apps, yor kano weche gi tiyo kendo kende (automation) ma Abid Hanan Wicaksono rito e Indonesia. Chenro ni lero kaka wanyalo rito data mari mopondo ka idhi e website ni kata ka ikwayowa.",
+      "Penjo kuom chenro ni inyalo ire nocodingindonesia@gmail.com kata WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data ma wayiko",
+     "b": [
+      "- Data ma imiyowa: nyingi, namba mar WhatsApp, email kod weche mag pro-jek mari ka ikwayowa kuom WhatsApp kata email. Website ni onge gi akaundi mag jotiyo kata fomu mag mondo ndik.",
+      "- Data mar teknik ma otim kendo kende: adres mar IP, kit gadget kod browser, gi pejine ma iyawo. Jogo ma miyowa hosting gi CDN tiyo godo mondo mi website ni ochungi kendo giwinj e ketho.",
+      "- Pinyi ma ongʼeyo e ndalo: mondo nengo nenyis e pesa mari, pinyi ongʼeyo kuom weche mag CDN kata dho browser mari. Ok wakan e server maywa.",
+      "- Data mar nonro: Google Analytics 4 gi Microsoft Clarity (ka gitiyo) yiko kwan mar tiyo gi website kaka pejine ma oyawo, kinde ma ibet, kit gadget, kod rekod mag kit ma itiyo ne maonge ngʼama ongʼeyo. Giyaw bende bang ka iseketho ne pejin.",
+      "- Kano e browser: dhoo ma ikwano, ranyisi ma nyiso ni isetimo like, ineno kata iloko ne ngeche, kod nengo mar kinde matin. Weche mathoth nitie e Chenro mar Cookie.",
+      "- Kwan mar joma oneno, ma ohero kod ma oloko ne ngeche kan e kwan achiel, ma onge nying janeno."
+     ]
+    },
+    {
+     "t": "3. Tiend data",
+     "b": [
+      "- Dwoko penjo mari, loso nengo kod tiyo pro-jek mari.",
+      "- Miyo website ni, gengo kod rito mondo ochiw piyo.",
+      "- Winjo kaka ritiyo gi website ni mondo wayud yor mar ber moloyo.",
+      "- Dwoko chike mag chik.",
+      "Ok wato data mari mopondo."
+     ]
+    },
+    {
+     "t": "4. Jomachielo ma nigi pach e tichno",
+     "b": [
+      "- Vercel: hosting kod miyo website.",
+      "- Cloudflare: CDN gi gengo.",
+      "- Google (Google Analytics 4) gi Microsoft (Clarity): kwan mar tiyo gi website.",
+      "- Meta (WhatsApp) gi Google (Gmail): ka ikwayowa kuom link mag WhatsApp kata email e website ni.",
+      "- Jal mamiyo kwan mar nengo pesa: yudo kwayo mar nengo kende koa e server maywa, ok data mag jogo ma wuok.",
+      "Jogi nyalo tiyo gi data oko mar Indonesia kaluwore gi chenro margi giwegi."
+     ]
+    },
+    {
+     "t": "5. Kinde ma data kano",
+     "b": [
+      "Weche ma wachiwore gi gik tich mag pro-jek kan nyaka kinde ma dwarore mondo wamed tiyo, miyo konyruok kendo wachop chike mag chik, eka ginegi kata ginegi nying. Data mar nonro luwo chenro mar kano mar jal ma miyo tichno. Data e browser mari nitie nyaka ichiko."
+     ]
+    },
+    {
+     "t": "6. Ratiro mari",
+     "b": [
+      "Kaluwore gi Chik Namba 27 mar higa 2022 mar Indonesia kuom Rito Data Mopondo, in gi ratiro mar:",
+      "- ngʼeyo kendo yudo kopi mar data mari mopondo ma wan go;",
+      "- kwayo mondo data ma ok kare ochiki;",
+      "- kwayo mondo data mari ogol kata mondo iwe yie mari;",
+      "- kwedo tiyo moko gi data.",
+      "Cha kwayo mari e nocodingindonesia@gmail.com. Wabidwoki e kinde ma ok bor."
+     ]
+    },
+    {
+     "t": "7. Gengo gi nyithindo",
+     "b": [
+      "Website ni tiyo gi HTTPS kendo yudo data mag pro-jek ochungi gi ratiro. Onge yor mar cheyo kata kano data ma onge ketho kata matin, omiyo ok wanyal nyiso ni gengo pok ochop.",
+      "Tich maywa en ne ji ma nigi higni 18 kod moloyo. Ok wayik data mopondo mar nyithindo gi weche."
+     ]
+    },
+    {
+     "t": "8. Loko e chenro ni",
+     "b": [
+      "Chenro ni nyalo bedo ka oloko dichieng' moro amora. Tarik mar loko mogik nenore malo e ngeye. Ka dhok mag lwar ok luwore e tiende, Dho Indonesia e matiyo."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Chike gi Weche Mogol",
+   "description": "Chike mag tiyo gi website kod tich mag Nocoding: pake, nengo, kaka tich timore, ratiro mar pach kod tem mar ketho.",
+   "sections": [
+    {
+     "t": "1. Yie gi chike ni",
+     "b": [
+      "Ka iyawo website ni kata itiyo gi tich mag Nocoding, iyie gi chike gi weche mogol. Ka ok iyie, kwayi kik itii gi website kata tich maywa."
+     ]
+    },
+    {
+     "t": "2. Tich",
+     "b": [
+      "Nocoding loso website mag portfolio kata CV, landing page gi profile mag kampuni, yore mag kano weche kod tich, gi tiyo kendo kende mar tich mar business (automation). Tiend tich, gik ma nitie, sa mar tich kod nengo ket gi in kuom WhatsApp kata email kapok tich ochak.",
+      "Pwodhruok (consultation) en maonge chudo kinde ang'o kata ang'o ma idwaro, kendo ok gi chuno mondo iket order."
+     ]
+    },
+    {
+     "t": "3. Pake gi nengo",
+     "b": [
+      "- Pake Matin: chakre Rp 500.000 e higa, kaachiel gi maintenance ma onge chudo kod domain kuom higa 1.",
+      "- Pake Maduong': chakre Rp 2.000.000 e higa, kaachiel gi maintenance ma onge chudo kod hosting kuom higa 1.",
+      "Nengo ma nenore e website en nengo mar chakruok. Nengo mogik ket bang ngʼeyo kod chuny kaluwore gi gik ma idwaro. Ne joneno ma oa oko mar Indonesia, nengo nyiso e pesa mag pinygi kaka kar rieko ma luwo nengo mar pesa mar odiechieng'; ma tiyo en nengo e rupiah ma wakete. Chudo mamoko, kaka tich moko ma medi kata loko bang kinde mar chudo onge ochopo giko, wawachni nyaka kapok tich ochik."
+     ]
+    },
+    {
+     "t": "4. Kaka tich timore gi migawo mari",
+     "b": [
+      "Dizain nono kendo yie gi in kapok ochak kendo. Loko timore kaluwore gi winjruok.",
+      "In migawo mar mi gik tich (logo, weche, picha, data) e kinde kendo bedo gi ratiro mar tiyo godo. Tiendo mar gik tich kata mar pach nyalo kelo ayie e sa."
+     ]
+    },
+    {
+     "t": "5. Maintenance",
+     "b": [
+      "Maintenance maonge chudo kuom higa 1 oriwo ber mar ketho e tich maywa gi loko mag gengo mapoth. Gik manyien, loko madongʼ e dizain kod tich ma odong' oko mar winjruok mokwongo kuwo chudo kendo."
+     ]
+    },
+    {
+     "t": "6. Ratiro mar pach",
+     "b": [
+      "Gik tich ma imiyowa odongʼ e bedo mari. Tich ma otieno chiwo ne in ka chudo kaluwore gi winjruok otieno. Nocoding nyalo nyiso tich ma osebedo e website kaka rapar e portfolio mare, makmana ka ikwayo e ndiko mondo kik nyis.",
+      "Dizain, weche gi ngeche e nocoding.web.id mag Nocoding. Inyalo chiwo link margi ne jomachielo, to ok inyal kopo kendo itiyo godo e ohala maonge ruoth. Picha mag ngeche aa Unsplash kendo luwo layisens mare; kar ma gia nyiso e tho picha."
+     ]
+    },
+    {
+     "t": "7. Dhok mag website",
+     "b": [
+      "Website ni nitie e dhok mathoth. Lokruok, ahinya ne dhok ma jotiyo godo matin, nyalo bedo ma ok kare chuth. Ka ok luwore e tiende, Dho Indonesia e matiyo. Pejin mag chik ni nitie e Dho Indonesia gi Dho Ingʼisa."
+     ]
+    },
+    {
+     "t": "8. Tem mar ketho",
+     "b": [
+      "Wachiwo tich maber, to ok wawinjo rieko mar gik ma business nyalo yudo kaka kar pejin e nonro, kwan mar jomaneno kata ritiyo. Ok wan gi ketho ne luoro moa e jomachielo kaka jo ma miyo hosting, domain kata chudo, kata ne hinyruok ma ok mos.",
+      "Ketho maywa kuom tich achiel romo gi pesa ma ichudo kuom tich ma, kinde ma chik yie. Ma ok orido ratiro mari ma chik gengo."
+     ]
+    },
+    {
+     "t": "9. Chik ma tiyo",
+     "b": [
+      "Chike ni tiyo e bwo chik mar Jamhuri mar Indonesia. Ka pek omoko, wachako temo duoko gi weche. Ka ok wanyal yudo winjruok, pek oyudo bwo kothe ma nigi teko e Indonesia."
+     ]
+    },
+    {
+     "t": "10. Loko gi winjruok",
+     "b": [
+      "Chike ni nyalo bedo ka oloko dichieng' moro amora; tarik mar loko mogik nenore malo e ngeye. Penjo inyalo ire nocodingindonesia@gmail.com kata WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Chenro mar Cookie",
+   "description": "Cookies kod local storage ma website mar Nocoding tiyo godo, tiende, kod kaka itiyo godo.",
+   "sections": [
+    {
+     "t": "1. Cookie en ang'o",
+     "b": [
+      "Cookies gin fael matindo ma website kano e browser mari. Local storage gi session storage tiyo machal kamano to ok oor kendo kende e server. E pejin ni wawacho ne giwegi ni cookies."
+     ]
+    },
+    {
+     "t": "2. Gik ma website dwaro mondo otim tich",
+     "b": [
+      "Kan e browser mari kendo ok oor e server maywa:",
+      "- nocoding-language gi nocoding-language-set: dhok ma ikwano kata ma ofwenyore e browser mari.",
+      "- nocoding-pricing (session): pesa ma ongʼeyo kod nengo mare, mondo nengo kik kwan kendo e pejin ka pejin.",
+      "- Ranyisi mag ngeche: kaka isetimo like, ineno kata iloko ne ngeche, mondo kwan kik rom ariyo.",
+      "- Ranyisi mar kar ma iluwo e pejin kinde matin ka idhi kuom ngima achiel mar website ni."
+     ]
+    },
+    {
+     "t": "3. Nonro (Analytics)",
+     "b": [
+      "Ka giyawo, tich ariyo mag nonro yaw bang ka itiyo gi pejin (kulo, ketho lwedo kata dino kitando):",
+      "- Google Analytics 4 (cookies kaka _ga gi _ga_*, ma tiyo nyaka higni 2 gi koda): kwan mar joma biro.",
+      "- Microsoft Clarity (cookies kaka _clck, _clsk, CLID gi MUID, ma tiyo nyaka higa 1 gi koda): heatmaps kod rekod mag kit ma itiyo ne maonge ngʼama ongʼeyo.",
+      "Jogo ma miyo CDN kod gengo bende nyalo keto cookies mag teknik mar gengo website ni e jomaricho."
+     ]
+    },
+    {
+     "t": "4. Kaka idhi ne cookies",
+     "b": [
+      "Inyalo kwedo kata gengo cookies e saeting mag browser mari. Inyalo bende ket add-on ma Google ochiwo mar kwedo Google Analytics. Ka cookies mag nonro ogengi, website ni dhi nyime kendo tiyo; ka local storage ongʼado, dhoo ma ikwano dok e mokwongo."
+     ]
+    },
+    {
+     "t": "5. Penjo",
+     "b": [
+      "Ne penjo kuom chenro ni, ikwayowa e nocodingindonesia@gmail.com. Kaka data mopondo tiyo godo olero maduong' e Chenro mar Kano Weche Mopondo. Ka dhok mag lwar ok luwore e tiende, Dho Indonesia e matiyo."
+     ]
+    }
+   ]
+  }
+ }
+}

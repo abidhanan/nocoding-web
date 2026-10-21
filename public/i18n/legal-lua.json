@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Dituku dia nsudi dia buvuluji",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Mukenji wa kukanda mafuku",
+   "description": "Bidi bia dîba Nocoding udi wamba, bualu buidi buenzela, nganyi udi uenza mudimu nabi, ne mbulamatadi yebe ya bidi bia ku muntu webe.",
+   "sections": [
+    {
+     "t": "1. Netu nganyi",
+     "b": [
+      "Nocoding (nocoding.web.id) mmudimu wa webusaite, wa mudimu wa kompiuta, wa mushindu wa mamanya ne wa kuenza mudimu pa buawu udi usombeshibua kudi Abid Hanan Wicaksono mu Indonésie. Mukenji eu udi umvuija muvuabu bualu netu tudi tuenza bidi bia ku muntu webe pamutu webe uya pa webusaite eu nansha utuambila.",
+      "Bipangadiki bia pa mukenji eu bidi bishipa kutumina ku nocodingindonesia@gmail.com nansha ku WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Bidi bia dîba tudi tuamba",
+     "b": [
+      "- Bidi biudi utupa: dîna diebe, nimero ya WhatsApp, imeyilu ne dimvuija dia mudimu webe pamutu webe utuambila ku WhatsApp nansha ku imeyilu. Webusaite eu kayi ne makonti a bantu nansha mapepa a kudiyisha.",
+      "- Bidi bia mudimu bia mashinyi bidi bienzeka bienze: adrese ya IP, mushindu wa kompiuta ne wa brauzere, ne mapeji audi wangula. Bantu betu ba hosting ne ba CDN badi benza mudimu nabi bua kuleja webusaite ne kuwukuka ku bubi.",
+      "- Cimenga ca bulelela bupiamu: bua mpetu ya bintu ileje mu mpetu yebe, cimenga cebe ci mua kumanyika ku mamanya a CDN nansha ku tshiyi tsha brauzere webe. Katutu tuyiteka mu seva yetu nansha.",
+      "- Bidi bia analitiki: Google Analytics 4 ne Microsoft Clarity (padiabi bivuluke) bidi bitua bipeta bia mudimu bia buenzeji, bia mapeji avuluke, bunene bua dîba, mushindu wa kompiuta ne bidi bia kuenza bia kayi dîna. Bidi bivuluka kumbusha pamutu webe wenza bualu pa peji.",
+      "- Dibika dia brauzere: tshiyi tshiudi usungula, bimanyisha bia ne wakalonda nansha wamona nansha wapana mukanda, ne mpetu ya kantu ya dîba kakese. Malongolola adi mu Mukenji wa makuki.",
+      "- Nimero ya kumona, kukonda ne kupana mikanda idi mu bupika bumue, kayi dîna dia bantu badi baya."
+     ]
+    },
+    {
+     "t": "3. Bidi bienzela bua bualu kayi",
+     "b": [
+      "- Kuvutulula bipangadiki biebe, kulongolola mpetu ne kuenza mudimu webe.",
+      "- Kuleja, kukuka ne kusunguluja webusaite bua wendele lukasa.",
+      "- Kumvua muvuabu benza mudimu ne webusaite bua kuwuvudija.",
+      "- Kulonda mikenji ya mbulamatadi.",
+      "Katutu tushitisha bidi bia ku muntu webe nansha."
+     ]
+    },
+    {
+     "t": "4. Bantu bakuabu badi mu mudimu",
+     "b": [
+      "- Vercel: kusomba ne kuleja webusaite.",
+      "- Cloudflare: CDN ne bukuku.",
+      "- Google (Google Analytics 4) ne Microsoft (Clarity): bipeta bia mudimu bua webusaite.",
+      "- Meta (WhatsApp) ne Google (Gmail): padiudi utuambila ku miyanda ya WhatsApp nansha ya imeyilu idi pa webusaite eu.",
+      "- Muena mpetu ya mashinyi: udi upeta bipangadiki bia mpetu bidiabi biuya ku seva yetu, kakuyi bidi bia bantu badi baya.",
+      "Bantu aba bakuatshi mua kuenza mudimu ne bidi kunyima kua Indonésie bilonda mikenji yabu."
+     ]
+    },
+    {
+     "t": "5. Bidi bidiyisha ntshidi bua dîba kayi",
+     "b": [
+      "Mêyi a kuakula ne bintu bia mudimu bidi biteka bua dîba dikala dia mudimu, dia kupeshangana bukuatshi ne dia kulonda mikenji ya mbulamatadi, bidi bisudibua nansha bidi bibikibua bua kayi dîna. Bidi bia analitiki bidi bilonda malongolola a muena mudimu wabi. Bidi bidi mu brauzere webe bidi bikala too paudi ubisudiya."
+     ]
+    },
+    {
+     "t": "6. Mbulamatadi yebe",
+     "b": [
+      "Ku mukenji wa Indonésie wa nimero 27 wa mvu wa 2022 wa kukuka bidi bia ku muntu, udi ne mbulamatadi ya:",
+      "- kumanya ne kupeta kopi ya bidi bia ku muntu webe bidi netu;",
+      "- kupangadija bua bidi bishilangana bikoselue;",
+      "- kupangadija bua bidi biebe bisudibue nansha kuangata dîsua diebe;",
+      "- kukandika mudimu mukuabu wa bidi.",
+      "Tumina dipangadija diebe ku nocodingindonesia@gmail.com. Netu tukuvutulula mu dîba dilenga."
+     ]
+    },
+    {
+     "t": "7. Bukuku ne baana",
+     "b": [
+      "Webusaite eu udi wenza mudimu ne HTTPS, ne bipeta bia bidi bia mudimu bidi ne bumbusha. Kakuena mushindu wa kutumina nansha wa kuteka bidi udi kayi ne njiwu mushindu wonso, bualu buetu katupi mua kuela dilaya dia bukuku bukumbane.",
+      "Mudimu wetu udi bua bantu ba bidimu 18 ne kutuadila. Katutu tuamba bidi bia ku muntu bia baana bua dimanya."
+     ]
+    },
+    {
+     "t": "8. Mashinyi a mukenji eu",
+     "b": [
+      "Mukenji eu udi mua kuvuluka ku dîba ku dîba. Dituku dia nsudi dia buvuluji didi pa mutu wa peji. Padi miakulu ishilangana mu tshiyi, tshiyi tshia Indonésie tshidi tshikuata."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Mikenji ne mashinyi",
+   "description": "Mikenji ya kuenza mudimu ne webusaite wa Nocoding ne mudimu wawu: bintu bia mpetu, mpetu, muvuabu mudimu wenzeka, bintu bia mubungu ne mimbu ya buenzeji.",
+   "sections": [
+    {
+     "t": "1. Kuangata mikenji eyi",
+     "b": [
+      "Padiudi wangula webusaite eu nansha wenza mudimu ne mudimu wa Nocoding, udi wangata mikenji ne mashinyi aya. Divua kayi mua kuangata, bidi bimpe kuenza mudimu ne webusaite netu nansha mudimu wetu."
+     ]
+    },
+    {
+     "t": "2. Mudimu",
+     "b": [
+      "Nocoding udi wakula mawebusaite a portfolio nansha a CV, mapeji a landing ne mapeji a mudimu wa kampani, mishindu ya mamanya ne ya mudimu, ne kuenza mudimu wa bukalenge bua bintu bia mudimu. Bunene bua mudimu, bidi biakajinga, dîba ne mpetu bidi bipangadijibua nebe ku WhatsApp nansha ku imeyilu kumpala kua mudimu kutuadija.",
+      "Dipangadija didi dienda kayi mpetu dîba dionso, padiudi ukuata bua, ne kadiena dikukakanyisha kuoda."
+     ]
+    },
+    {
+     "t": "3. Bintu bia mpetu ne mpetu",
+     "b": [
+      "- Dipakete dikese: kuatuadija ku Rp 500.000 pa muaka, ne kukuata mudimu wa kukuka kayi mpetu ne domene wa muaka 1.",
+      "- Dipakete dinene: kuatuadija ku Rp 2.000.000 pa muaka, ne kukuata mudimu wa kukuka kayi mpetu ne hosting wa muaka 1.",
+      "Mpetu idi pa webusaite idi mpetu ya kutuadija. Mpetu ya nsudi idi ipangadijibua panyima pa dipangadija, ku bidi biudi ukuata bua. Bua bantu badi kunyima kua Indonésie, mpetu idi ileja mu mpetu ya cimenga mu tshimpe tshia mpetu bua kufuka, ya ku mpetu ya dituku ne dituku ya kupanganyibua; mpetu mu rupiya idiatu tupangadije idi ikuata. Mpetu mikuabu, bu bidi biakajinga bipiamu nansha kuvulula panyima pa dîba dikala dia kayi mpetu, idi ibakulabua kumpala kua mudimu kuenzeka."
+     ]
+    },
+    {
+     "t": "4. Muvuabu mudimu wenzeka ne mudimu webe",
+     "b": [
+      "Dizeyine didi dilonda ne kuangatshibua nebe kumpala kua kuenza. Mapangadiki adi enzeka bu muvuatu tupangadije.",
+      "Udi ne mudimu wa kupana bintu (logo, mêyi, bifuanyikiji, bidi) mu dîba ne wa kuikala ne mbulamatadi ya kubienzela mudimu. Kutebuka kua bintu nansha kua mêyi kudi mua kuenza dîba dishilangane."
+     ]
+    },
+    {
+     "t": "5. Kukuka",
+     "b": [
+      "Kukuka kua kayi mpetu kua muaka 1 kudi kukuata kupangadija bipanga bia mudimu wetu ne kuvuluja bia bukuku bia kumpala. Bipiamu, mashinyi manene a dizeyine ne mudimu udi kunyima kua dipangadija dia kumpala bidi bipangiwa pa buabi."
+     ]
+    },
+    {
+     "t": "6. Bintu bia mubungu",
+     "b": [
+      "Bintu biudi upana bidi bikala biebe. Mudimu mupwidije udi upanyibua kudi webe padi mpetu ipwa bu muvuatu tupangadije. Nocoding udi mua kuleja mudimu mupwidije bu bilejelu mu portfolio wende, kuyi webe wangata kupanga mu mukanda bua kayi kuleja.",
+      "Dizeyine, mêyi ne mikanda idi pa nocoding.web.id bidi bia Nocoding. Udi mua kupana miyanda yabi, kadiena mua kubikopa ne kubienzela mudimu wa bukalenge kayi dipangadija. Bifuanyikiji bia mikanda bidi biuya ku Unsplash ne bilonda dilesa diadi; muaba biuya udi ulejibua pa nshi pa cifuanyikiji conso."
+     ]
+    },
+    {
+     "t": "7. Tshiyi tsha webusaite",
+     "b": [
+      "Webusaite eu udiku mu tshiyi tshivule. Mamanyishi, mulongo bua tshiyi tshidi ne bantu bakese, adi mua kuikala kayi bulelela bukumbane. Padi miakulu ishilangana, tshiyi tshia Indonésie tshidi tshikuata. Mapeji aa a mikenji adiku mu tshiyi tshia Indonésie ne tshia Nglese."
+     ]
+    },
+    {
+     "t": "8. Mimbu ya buenzeji",
+     "b": [
+      "Tudi tuenza mudimu bua kupana bipeta bimpe, kadi katutu tulaya bipeta bia mudimu bia bukua nabi bu dibaka dia kuenza ku mushindu wa kubanga, bungi bua bantu badi baya nansha mishindu. Katutu ne buenzeji bua bubi bua bantu bakuabu bu bantu ba hosting, ba domene nansha ba mpetu, nansha bua bubi bidi kayi bumushindu.",
+      "Buenzeji buetu bua mudimu mukuabu udi mu mpetu ya wakapana bua mudimu au, ku bunene mukenji mutuambile. Bualu ebu kabuena bukepesha mbulamatadi yebe idi mikenji ikuka."
+     ]
+    },
+    {
+     "t": "9. Mukenji udi ukuata",
+     "b": [
+      "Mikenji eyi idi ikuatabua ne mikenji ya Republiki wa Indonésie. Padi bipanga bidi bibuka, tudi tuanji kuyisombesha ku mpanda. Padi kayi dipangadija, bipanga bidi bisombeshibua kudi mazubu a bukumbaji adi mu Indonésie."
+     ]
+    },
+    {
+     "t": "10. Mashinyi ne ntuminu",
+     "b": [
+      "Mikenji eyi idi mua kuvuluka ku dîba ku dîba; dituku dia nsudi dia buvuluji didi pa mutu wa peji. Bipangadiki bidi bishipa kutumina ku nocodingindonesia@gmail.com nansha ku WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Mukenji wa makuki",
+   "description": "Makuki ne dibika dia ku brauzere bidi webusaite wa Nocoding wenza mudimu nabi, bidienzela bualu kayi, ne muvuabu bidi bishombeshibua.",
+   "sections": [
+    {
+     "t": "1. Makuki mmunyi",
+     "b": [
+      "Makuki mmapepa makese adi webusaite uteka mu brauzere webe. Dibika dia ku brauzere ne dibika dia sesyo bidi bienza mudimu bua muomumue kadi kabiena bitumina ku seva ku buabi. Pa peji eu tudi tuabidikila bionso makuki."
+     ]
+    },
+    {
+     "t": "2. Bidi webusaite ukuata bua bua kuenza mudimu",
+     "b": [
+      "Bidi biteka mu brauzere webe ne kabiena bitumina ku seva yetu:",
+      "- nocoding-language ne nocoding-language-set: tshiyi tshiudi usungula nansha tshimanyika ku brauzere webe.",
+      "- nocoding-pricing (sesyo): mpetu ya cimenga ne mpetu ya kupanganyibua, bua mpetu kayi kubalulabua pa peji yonso.",
+      "- Bimanyisha bia mukanda: wakalonda nansha wamona nansha wapana mukanda, bua bungi kabuyi kuvula kabidi.",
+      "- Cimanyisha cia dîba kakese cia muaba wa kuenda pa nshi padiudi uya ku cipindi cikuabu cia webusaite."
+     ]
+    },
+    {
+     "t": "3. Analitiki",
+     "b": [
+      "Padi bivuluke, mudimu muibidi wa analitiki udi uvuluka panyima pa kuenza bualu pa peji (kuenda pa nshi, kukumbula nansha kukuata dikuta):",
+      "- Google Analytics 4 (makuki bu _ga ne _ga_*, adi akala too ku bidimu 2): bipeta bia buenzeji.",
+      "- Microsoft Clarity (makuki bu _clck, _clsk, CLID ne MUID, adi akala too ku muaka 1): mapu a dikoka ne bidi bia kuenza bia kayi dîna.",
+      "Bantu ba CDN ne ba bukuku badi mua kuteka makuki a mudimu a mashinyi bua kukuka webusaite ku bubi."
+     ]
+    },
+    {
+     "t": "4. Muvuabu bishombeshibua makuki",
+     "b": [
+      "Udi mua kusudiya nansha kupandisha makuki mu malongolola a brauzere webe. Udi mua kuteka kabidi cishibidi cia Google cia kuanji kupeta Google Analytics. Padi makuki a analitiki apandishibue, webusaite udi wenda; padi dibika dia ku brauzere disukuluibue, tshiyi tshiudi usungula tshidi tshiya ku tshia kumpala."
+     ]
+    },
+    {
+     "t": "5. Bipangadiki",
+     "b": [
+      "Bua bipangadiki bia pa mukenji eu, tuambile ku nocodingindonesia@gmail.com. Muvuabu bidi bia ku muntu bienzela mudimu bidi bilongolola bimpe mu Mukenji wa kukanda mafuku. Padi miakulu ishilangana, tshiyi tshia Indonésie tshidi tshikuata."
+     ]
+    }
+   ]
+  }
+ }
+}

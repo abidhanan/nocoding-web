@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Cập nhật lần cuối",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Chính sách quyền riêng tư",
+   "description": "Nocoding thu thập những dữ liệu nào, dùng để làm gì, ai xử lý chúng, và các quyền của bạn đối với dữ liệu cá nhân của mình.",
+   "sections": [
+    {
+     "t": "1. Chúng tôi là ai",
+     "b": [
+      "Nocoding (nocoding.web.id) là dịch vụ xây dựng website, ứng dụng, hệ thống thông tin và tự động hóa do Abid Hanan Wicaksono vận hành tại Indonesia. Chính sách này giải thích cách chúng tôi xử lý dữ liệu cá nhân của bạn khi bạn truy cập trang web này hoặc liên hệ với chúng tôi.",
+      "Mọi câu hỏi về chính sách này có thể gửi đến nocodingindonesia@gmail.com hoặc WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Dữ liệu chúng tôi thu thập",
+     "b": [
+      "- Dữ liệu do bạn cung cấp: tên, số WhatsApp, email và mô tả dự án của bạn khi bạn liên hệ với chúng tôi qua WhatsApp hoặc email. Trang web này không có tài khoản người dùng hay biểu mẫu đăng ký.",
+      "- Dữ liệu kỹ thuật được xử lý tự động: địa chỉ IP, loại thiết bị và trình duyệt, cùng các trang bạn mở. Nhà cung cấp dịch vụ lưu trữ và CDN của chúng tôi xử lý dữ liệu này để phục vụ trang web và bảo vệ trang khỏi việc lạm dụng.",
+      "- Quốc gia ước tính: để hiển thị giá bằng đơn vị tiền tệ của bạn, quốc gia của bạn được ước tính từ thông tin CDN hoặc ngôn ngữ trình duyệt. Chúng tôi không lưu thông tin này trên máy chủ của mình.",
+      "- Dữ liệu phân tích: Google Analytics 4 và Microsoft Clarity (khi được bật) thu thập số liệu thống kê sử dụng như các trang đã mở, thời gian truy cập, loại thiết bị và bản ghi tương tác ẩn danh. Chúng chỉ được tải sau khi bạn tương tác với trang.",
+      "- Bộ nhớ trình duyệt: lựa chọn ngôn ngữ của bạn, dấu hiệu cho biết bạn đã thích, xem hoặc chia sẻ một bài viết, và một mức giá ước tính tạm thời. Chi tiết nằm trong Chính sách cookie.",
+      "- Số lượt xem, lượt thích và lượt chia sẻ bài viết được lưu dưới dạng số tổng hợp, không kèm danh tính người truy cập."
+     ]
+    },
+    {
+     "t": "3. Dữ liệu được dùng để làm gì",
+     "b": [
+      "- Trả lời câu hỏi của bạn, chuẩn bị báo giá và thực hiện dự án của bạn.",
+      "- Phục vụ, bảo vệ và giữ cho trang web chạy nhanh.",
+      "- Hiểu cách trang web được sử dụng để chúng tôi cải thiện nó.",
+      "- Đáp ứng các nghĩa vụ pháp lý.",
+      "Chúng tôi không bán dữ liệu cá nhân của bạn."
+     ]
+    },
+    {
+     "t": "4. Các bên thứ ba liên quan",
+     "b": [
+      "- Vercel: lưu trữ và phục vụ trang web.",
+      "- Cloudflare: CDN và bảo mật.",
+      "- Google (Google Analytics 4) và Microsoft (Clarity): thống kê sử dụng trang web.",
+      "- Meta (WhatsApp) và Google (Gmail): khi bạn liên hệ với chúng tôi qua các liên kết WhatsApp hoặc email trên trang web này.",
+      "- Nhà cung cấp tỷ giá tiền tệ: chỉ nhận các yêu cầu lấy tỷ giá từ máy chủ của chúng tôi, không nhận dữ liệu của người truy cập.",
+      "Các nhà cung cấp này có thể xử lý dữ liệu bên ngoài Indonesia theo chính sách riêng của họ."
+     ]
+    },
+    {
+     "t": "5. Dữ liệu được lưu trong bao lâu",
+     "b": [
+      "Các cuộc trao đổi và tài liệu dự án được lưu giữ trong thời gian cần thiết để vận hành dịch vụ, hỗ trợ và đáp ứng các nghĩa vụ pháp lý, sau đó được xóa hoặc ẩn danh hóa. Dữ liệu phân tích tuân theo cài đặt lưu giữ của nhà cung cấp tương ứng. Dữ liệu trong trình duyệt của bạn được giữ cho đến khi bạn xóa nó."
+     ]
+    },
+    {
+     "t": "6. Quyền của bạn",
+     "b": [
+      "Theo Luật số 27 năm 2022 của Indonesia về Bảo vệ dữ liệu cá nhân, bạn có quyền:",
+      "- biết và nhận bản sao dữ liệu cá nhân của bạn mà chúng tôi đang lưu giữ;",
+      "- yêu cầu chỉnh sửa dữ liệu không chính xác;",
+      "- yêu cầu xóa dữ liệu của bạn hoặc rút lại sự đồng ý;",
+      "- phản đối một số hoạt động xử lý nhất định.",
+      "Hãy gửi yêu cầu của bạn đến nocodingindonesia@gmail.com. Chúng tôi sẽ phản hồi trong một khoảng thời gian hợp lý."
+     ]
+    },
+    {
+     "t": "7. Bảo mật và trẻ em",
+     "b": [
+      "Trang web này sử dụng HTTPS và quyền truy cập vào dữ liệu dự án bị hạn chế. Không có phương thức truyền hoặc lưu trữ dữ liệu nào hoàn toàn không có rủi ro, vì vậy chúng tôi không thể đảm bảo an toàn tuyệt đối.",
+      "Dịch vụ của chúng tôi dành cho người từ 18 tuổi trở lên. Chúng tôi không cố ý thu thập dữ liệu cá nhân của trẻ em."
+     ]
+    },
+    {
+     "t": "8. Thay đổi đối với chính sách này",
+     "b": [
+      "Chính sách này có thể được cập nhật theo thời gian. Ngày cập nhật gần nhất được hiển thị ở đầu trang. Nếu các ngôn ngữ khác nhau về ý nghĩa, phiên bản tiếng Indonesia sẽ được áp dụng."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Điều khoản và điều kiện",
+   "description": "Các quy tắc sử dụng trang web và dịch vụ của Nocoding: gói dịch vụ, giá, cách thức làm việc, sở hữu trí tuệ và giới hạn trách nhiệm.",
+   "sections": [
+    {
+     "t": "1. Chấp nhận các điều khoản này",
+     "b": [
+      "Khi mở trang web này hoặc sử dụng dịch vụ của Nocoding, bạn đồng ý với các điều khoản và điều kiện này. Nếu bạn không đồng ý, vui lòng không sử dụng trang web hoặc dịch vụ của chúng tôi."
+     ]
+    },
+    {
+     "t": "2. Dịch vụ",
+     "b": [
+      "Nocoding xây dựng website hồ sơ năng lực hoặc CV, trang đích và hồ sơ công ty, hệ thống thông tin và vận hành, cùng tự động hóa quy trình kinh doanh. Phạm vi công việc, tính năng, tiến độ và chi phí được thống nhất với bạn qua WhatsApp hoặc email trước khi bắt đầu làm việc.",
+      "Tư vấn luôn miễn phí, bất cứ khi nào bạn cần, và không buộc bạn phải đặt hàng."
+     ]
+    },
+    {
+     "t": "3. Gói dịch vụ và giá",
+     "b": [
+      "- Gói nhỏ: từ Rp 500.000 mỗi năm, bao gồm bảo trì miễn phí và tên miền trong 1 năm.",
+      "- Gói lớn: từ Rp 2.000.000 mỗi năm, bao gồm bảo trì miễn phí và dịch vụ lưu trữ trong 1 năm.",
+      "Giá trên trang web là giá khởi điểm. Số tiền cuối cùng được thống nhất sau buổi tư vấn, dựa trên nhu cầu của bạn. Với người truy cập từ ngoài Indonesia, giá được hiển thị bằng nội tệ ở mức ước tính dựa trên tỷ giá hằng ngày; số tiền bằng rupiah mà chúng ta thống nhất mới là số tiền có hiệu lực. Các chi phí phát sinh, chẳng hạn tính năng bổ sung hoặc gia hạn sau khi hết thời gian miễn phí, sẽ được báo cho bạn trước khi thực hiện công việc."
+     ]
+    },
+    {
+     "t": "4. Cách thức làm việc và trách nhiệm của bạn",
+     "b": [
+      "Thiết kế được xem xét và phê duyệt cùng bạn trước khi sản xuất. Việc chỉnh sửa được thực hiện theo thỏa thuận.",
+      "Bạn chịu trách nhiệm cung cấp tài liệu (logo, văn bản, hình ảnh, dữ liệu) đúng hạn và có quyền sử dụng chúng. Việc chậm trễ trong cung cấp tài liệu hoặc phản hồi có thể ảnh hưởng đến tiến độ."
+     ]
+    },
+    {
+     "t": "5. Bảo trì",
+     "b": [
+      "Bảo trì miễn phí trong 1 năm bao gồm việc sửa lỗi trong sản phẩm của chúng tôi và các bản cập nhật bảo mật cơ bản. Tính năng mới, thay đổi lớn về thiết kế và công việc ngoài thỏa thuận ban đầu sẽ được tính phí riêng."
+     ]
+    },
+    {
+     "t": "6. Sở hữu trí tuệ",
+     "b": [
+      "Tài liệu bạn cung cấp vẫn thuộc về bạn. Sản phẩm hoàn thiện được bàn giao cho bạn sau khi thanh toán đầy đủ theo thỏa thuận. Nocoding có thể trưng bày các sản phẩm đã đưa vào hoạt động làm ví dụ trong danh mục dự án của mình, trừ khi bạn yêu cầu bằng văn bản không trưng bày.",
+      "Thiết kế, văn bản và bài viết trên nocoding.web.id thuộc về Nocoding. Bạn có thể chia sẻ liên kết đến chúng, nhưng không được sao chép và sử dụng cho mục đích thương mại nếu chưa được phép. Ảnh bài viết đến từ Unsplash và tuân theo giấy phép của nguồn này; nguồn được ghi dưới mỗi ảnh."
+     ]
+    },
+    {
+     "t": "7. Ngôn ngữ của trang web",
+     "b": [
+      "Trang web này có nhiều ngôn ngữ. Bản dịch, đặc biệt đối với các ngôn ngữ có ít người nói, có thể chưa hoàn hảo. Nếu có khác biệt về ý nghĩa, phiên bản tiếng Indonesia sẽ được áp dụng. Các trang pháp lý này có bằng tiếng Indonesia và tiếng Anh."
+     ]
+    },
+    {
+     "t": "8. Giới hạn trách nhiệm",
+     "b": [
+      "Chúng tôi nỗ lực mang lại kết quả tốt, nhưng không hứa hẹn các kết quả kinh doanh cụ thể như thứ hạng tìm kiếm, lượng truy cập hay doanh số. Chúng tôi không chịu trách nhiệm về những gián đoạn từ bên thứ ba như nhà cung cấp dịch vụ lưu trữ, tên miền hoặc thanh toán, cũng như về các tổn thất gián tiếp.",
+      "Trách nhiệm của chúng tôi đối với một dịch vụ được giới hạn ở số tiền bạn đã thanh toán cho dịch vụ đó, trong phạm vi pháp luật cho phép. Điều này không làm giảm các quyền của bạn được pháp luật bảo vệ."
+     ]
+    },
+    {
+     "t": "9. Luật điều chỉnh",
+     "b": [
+      "Các điều khoản này được điều chỉnh bởi pháp luật của Cộng hòa Indonesia. Nếu phát sinh tranh chấp, trước tiên chúng ta cố gắng giải quyết bằng thảo luận. Nếu không đạt được thỏa thuận, tranh chấp sẽ được giải quyết bởi các tòa án có thẩm quyền tại Indonesia."
+     ]
+    },
+    {
+     "t": "10. Thay đổi và liên hệ",
+     "b": [
+      "Các điều khoản này có thể được cập nhật theo thời gian; ngày cập nhật gần nhất được hiển thị ở đầu trang. Câu hỏi có thể gửi đến nocodingindonesia@gmail.com hoặc WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Chính sách cookie",
+   "description": "Các cookie và bộ nhớ cục bộ mà trang web Nocoding sử dụng, mục đích của chúng và cách quản lý.",
+   "sections": [
+    {
+     "t": "1. Cookie là gì",
+     "b": [
+      "Cookie là những tệp nhỏ mà một trang web lưu trong trình duyệt của bạn. Bộ nhớ cục bộ (local storage) và bộ nhớ phiên (session storage) hoạt động tương tự nhưng không tự động được gửi đến máy chủ. Trên trang này, chúng tôi gọi tất cả là cookie."
+     ]
+    },
+    {
+     "t": "2. Những gì trang web cần để hoạt động",
+     "b": [
+      "Được lưu trong trình duyệt của bạn và không gửi đến máy chủ của chúng tôi:",
+      "- nocoding-language và nocoding-language-set: ngôn ngữ bạn đã chọn hoặc được phát hiện từ trình duyệt của bạn.",
+      "- nocoding-pricing (phiên): đơn vị tiền tệ và tỷ giá ước tính, để giá không phải tính lại ở mỗi trang.",
+      "- Dấu hiệu bài viết: bạn đã thích, xem hoặc chia sẻ một bài viết hay chưa, để số lượt không bị tính gấp đôi.",
+      "- Một dấu hiệu vị trí cuộn tạm thời khi chuyển giữa các phần của trang web."
+     ]
+    },
+    {
+     "t": "3. Phân tích",
+     "b": [
+      "Khi được bật, hai dịch vụ phân tích sẽ được tải sau khi bạn tương tác với trang (cuộn, chạm hoặc nhấn phím):",
+      "- Google Analytics 4 (các cookie như _ga và _ga_*, có hiệu lực tối đa khoảng 2 năm): thống kê lượt truy cập.",
+      "- Microsoft Clarity (các cookie như _clck, _clsk, CLID và MUID, có hiệu lực tối đa khoảng 1 năm): bản đồ nhiệt và bản ghi tương tác ẩn danh.",
+      "Các nhà cung cấp CDN và bảo mật cũng có thể đặt cookie kỹ thuật để bảo vệ trang web khỏi lưu lượng truy cập độc hại."
+     ]
+    },
+    {
+     "t": "4. Cách quản lý cookie",
+     "b": [
+      "Bạn có thể xóa hoặc chặn cookie trong phần cài đặt trình duyệt. Bạn cũng có thể cài tiện ích từ chối chính thức của Google dành cho Google Analytics. Nếu cookie phân tích bị chặn, trang web vẫn hoạt động; nếu bộ nhớ cục bộ bị xóa, lựa chọn ngôn ngữ của bạn sẽ trở về mặc định."
+     ]
+    },
+    {
+     "t": "5. Câu hỏi",
+     "b": [
+      "Nếu có câu hỏi về chính sách này, hãy liên hệ nocodingindonesia@gmail.com. Cách sử dụng dữ liệu cá nhân được giải thích thêm trong Chính sách quyền riêng tư. Nếu các ngôn ngữ khác nhau về ý nghĩa, phiên bản tiếng Indonesia sẽ được áp dụng."
+     ]
+    }
+   ]
+  }
+ }
+}

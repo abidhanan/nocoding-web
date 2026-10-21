@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Ku antswisiwe ro hetelela hi",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Pholisi ya Vuhlayiseki bya Vuxokoxoko",
+   "description": "Vuxokoxoko lebyi Nocoding byi hlengeletaka, leswi byi tirhisiwaka ha swona, loyi a byi tirhaka, ni mfanelo ya wena hi vuxokoxoko bya wena bya munhu hi ximun'wana.",
+   "sections": [
+    {
+     "t": "1. Hi vamani",
+     "b": [
+      "Nocoding (nocoding.web.id) i vukorhokeri bya webusayiti, xiapi, sisiteme ya vuxokoxoko ni ku tirhisa swilo hi ximun'wana (automation) leswi lawuriwaka hi Abid Hanan Wicaksono eIndonesia. Pholisi leyi yi hlamusela ndlela leyi hi khathalelaka vuxokoxoko bya wena bya munhu hi yona loko u endzela sayiti leri kumbe u tihlanganisa na hina.",
+      "Swivutiso hi pholisi leyi swi nga rhumeriwa eka nocodingindonesia@gmail.com kumbe eka WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Vuxokoxoko lebyi hi byi hlengeletaka",
+     "b": [
+      "- Vuxokoxoko lebyi u hi nyikaka byona: vito ra wena, nomboro ya WhatsApp, imeyili ni nhlamuselo ya phurojekiti ya wena loko u tihlanganisa na hina hi WhatsApp kumbe hi imeyili. Sayiti leri a ri na tiakhawunti ta vatirhisi kumbe mafomo yo tlhandla.",
+      "- Vuxokoxoko bya vutekiniki lebyi tirhiwaka hi ku tihlamulela: adirese ya IP, ndlela ya xitirhisiwa ni ya brawuza, ni matluka lawa u ma pfulaka. Vaphakeli va hina va hosting na CDN va byi tirha ku phamela sayiti ni ku ri sirhelela eka ku tirhisiwa hi ndlela yo biha.",
+      "- Tiko leri nga ha ringanisiwaka: leswaku mimpimo yi kombisiwa hi mali ya wena, tiko ra wena ri ringanisiwa hi vuxokoxoko bya CDN kumbe ririmi ra brawuza ya wena. A hi ri hlayisi eka tiseva ta hina.",
+      "- Vuxokoxoko bya analitiki: Google Analytics 4 na Microsoft Clarity (loko swi pfuriwile) swi hlengeleta tinhlayo ta ku tirhisiwa swo fana ni matluka lama pfuriweke, nkarhi wa ku endzela, ndlela ya xitirhisiwa ni switsalwa swa ku tirhisana leswi nga hlawuliwiki vito. Swi pakisiwa ntsena endzhaku ka loko u tirhisana ni tluka.",
+      "- Vuhlayiseki bya brawuza: ku hlawula ka wena ririmi, swikombiso swa leswaku se u tsakile, u vonile kumbe u avelanile xihloko, ni ku ringanisa ka mpimo ka nkarhinyana. Vuxokoxoko byi kona eka Pholisi ya Tikuki.",
+      "- Tinhlayo ta ku vona, ku tsakela ni ku avelana swihloko swi hlayisiwa tanihi tinhlayo leti hlanganisiweke, handle ka vumunhu bya muendzeli."
+     ]
+    },
+    {
+     "t": "3. Vuxokoxoko byi tirhisiwa ku endla yini",
+     "b": [
+      "- Ku hlamula swivutiso swa wena, ku lunghiselela tinkombiso ta mimpimo ni ku endla phurojekiti ya wena.",
+      "- Ku phamela, ku sirhelela ni ku hlayisa sayiti ri hatlisa.",
+      "- Ku twisisa ndlela leyi sayiti ri tirhisiwaka ha yona leswaku hi ri antswisa.",
+      "- Ku hetisisa swihoxo swa nawu.",
+      "A hi xavisi vuxokoxoko bya wena bya munhu."
+     ]
+    },
+    {
+     "t": "4. Vanhu van'wana lava hlanganeke",
+     "b": [
+      "- Vercel: ku hosta ni ku phamela sayiti.",
+      "- Cloudflare: CDN ni vuhlayiseki.",
+      "- Google (Google Analytics 4) na Microsoft (Clarity): tinhlayo ta ku tirhisiwa ka sayiti.",
+      "- Meta (WhatsApp) na Google (Gmail): loko u tihlanganisa na hina hi swihlanganisi swa WhatsApp kumbe imeyili eka sayiti leri.",
+      "- Muphakeli wa mpimo wa mali: wu amukela ntsena swikombelo swa mpimo ku suka eka seva ya hina, ku nga ri vuxokoxoko bya vaendzeli.",
+      "Vaphakeli lava va nga tirha vuxokoxoko handle ka Indonesia hi ku landza pholisi ya vona."
+     ]
+    },
+    {
+     "t": "5. Vuxokoxoko byi hlayisiwa nkarhi wo tanihi kwihi",
+     "b": [
+      "Mintsakamano ni swilo swa phurojekiti swi hlayisiwa ku ringana nkarhi lowu swi lavekaka ha wona ku tirhisa vukorhokeri, ku nyika nseketelo ni ku hetisisa swihoxo swa nawu, endzhaku swi susiwa kumbe swi endliwa leswaku swi nga tiviwi. Vuxokoxoko bya analitiki byi landza swihlomulo swa ku hlayisa swa muphakeli wa byona. Vuxokoxoko lebyi nga eka brawuza ya wena byi sala ku fikela u byi susa."
+     ]
+    },
+    {
+     "t": "6. Mfanelo ya wena",
+     "b": [
+      "Hi ku ya hi Nawu wa Indonesia Nomboro 27 wa 2022 hi Ku Sirhelela Vuxokoxoko bya Munhu, u na mfanelo ya ku:",
+      "- tiva ni ku kuma kopi ya vuxokoxoko bya wena bya munhu lebyi hi nga na byona;",
+      "- kombela leswaku vuxokoxoko lebyi nga ri bya ntiyiso byi lulamisiwa;",
+      "- kombela leswaku vuxokoxoko bya wena byi susiwa kumbe ku tlherisa ku pfumela ka wena;",
+      "- kaneta ku tirha ko karhi.",
+      "Rhumela xikombelo xa wena eka nocodingindonesia@gmail.com. Hi ta ku hlamula hi nkarhi lowu faneleke."
+     ]
+    },
+    {
+     "t": "7. Vuhlayiseki ni vana",
+     "b": [
+      "Sayiti leri ri tirhisa HTTPS naswona ku nghena eka vuxokoxoko bya phurojekiti ku sivelekile. A ku na ndlela ya ku rhumela kumbe ku hlayisa vuxokoxoko leyi nga riki na khombo hi ku helela, hikokwalaho a hi nge tshembisi vuhlayiseki lebyi hetisekeke.",
+      "Vukorhokeri bya hina byi tsarisiwe vanhu va malembe ya 18 ni ku tlula. A hi hlengeleti vuxokoxoko bya munhu bya vana hi ku tiva."
+     ]
+    },
+    {
+     "t": "8. Ku cinca ka pholisi leyi",
+     "b": [
+      "Pholisi leyi yi nga antswisiwa ku suka eka nkarhi ku ya eka nkarhi. Siku ra ku antswisiwa ro hetelela ri kombisiwa ehenhla ka tluka. Loko tindzimi ti hambana hi nhlamuselo, vhezini ya Xindonesia byi tirha."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Milawu ni Swiyimo",
+   "description": "Milawu ya ku tirhisa sayiti ni vukorhokeri bya Nocoding: tipakete, mimpimo, ndlela leyi ntirho wu endliwaka ha yona, ndzhaka ya mianakanyo ni mindzilakano ya vutihlamuleri.",
+   "sections": [
+    {
+     "t": "1. Ku amukela milawu leyi",
+     "b": [
+      "Hi ku pfula sayiti leri kumbe ku tirhisa vukorhokeri bya Nocoding, u pfumelelana ni milawu ni swiyimo leswi. Loko u nga pfumeli, hi kombela u nga tirhisi sayiti ra hina kumbe vukorhokeri."
+     ]
+    },
+    {
+     "t": "2. Vukorhokeri",
+     "b": [
+      "Nocoding yi aka tiwebusayiti ta portfolio kumbe CV, matluka ya landing ni switsalwa swa tikhamphani, tisisiteme ta vuxokoxoko ni ta mintirho, ni ku tirhisa swilo hi ximun'wana swa matirhelo ya bindzu. Vuandlalo bya ntirho, swihlawulekisi, nkarhi ni ndleko swi pfumeleriwa na wena hi WhatsApp kumbe hi imeyili ntirho wu nga si sungula.",
+      "Ndzavisiso wu tshama wu ri mahala, nkarhi wihi na wihi loko u wu lava, naswona a wu ku boheki ku odara."
+     ]
+    },
+    {
+     "t": "3. Tipakete ni mimpimo",
+     "b": [
+      "- Pakete ntsongo: ku sukela eka Rp 500.000 hi lembe, ku katsa ku hlayisa ka mahala ni domeni ya lembe 1.",
+      "- Pakete leyikulu: ku sukela eka Rp 2.000.000 hi lembe, ku katsa ku hlayisa ka mahala ni hosting ya lembe 1.",
+      "Mimpimo leyi nga eka sayiti i mimpimo yo sungula. Nhlayo yo hetelela yi pfumeleriwa endzhaku ka ndzavisiso, hi ku ya hi leswi u swi lavaka. Eka vaendzeli va le handle ka Indonesia, mimpimo yi kombisiwa hi mali ya laha tikweni tanihi xivumbeko lexi tsemakanyiweke hi ku landza mpimo wa siku na siku wa ku cinca mali; nhlayo ya rupiya leyi hi yi pfumeleriwaka hi yona yi tirhaka. Mindleko yin'wana, ku fana ni swihlawulekisi swo tlhela swi engetela kumbe ku vuyisela endzhaku ka loko nkarhi wa mahala wu hela, u byeriwa ntirho wu nga si endliwa."
+     ]
+    },
+    {
+     "t": "4. Ndlela leyi ntirho wu endliwaka ha yona ni vutihlamuleri bya wena",
+     "b": [
+      "Dizayini yi kamberiwa ni ku pfumeleriwa na wena ku nga si endliwa. Ku lulamisiwa ku endliwa hi ku ya hi leswi pfumeleriweke.",
+      "U tihlamulerile ku nyika swilo (logo, matsalwa, swifaniso, vuxokoxoko) hi nkarhi ni ku va ni mfanelo yo swi tirhisa. Ku hlwela ka swilo kumbe mavonelo swi nga khumba nkarhi."
+     ]
+    },
+    {
+     "t": "5. Ku hlayisa",
+     "b": [
+      "Ku hlayisa ka mahala ka lembe 1 ku katsa ku lulamisa swihoxo eka ntirho wa hina ni ku antswisiwa ka vuhlayiseki bya masungulo. Swihlawulekisi swintshwa, ku cinca lokukulu ka dizayini ni ntirho lowu nga eka ntwanano wa le sunguleni swi kokiwa hi ku hambana."
+     ]
+    },
+    {
+     "t": "6. Ndzhaka ya mianakanyo",
+     "b": [
+      "Swilo leswi u swi nyikaka swi sala swi ri swa wena. Ntirho lowu hetisiweke wu nyikiwa wena loko hakelo leyi pfumeleriweke yi hela. Nocoding yi nga kombisa ntirho lowu hanyaka tanihi swikombiso eka portfolio ya yona, handle ka loko u kombela hi ku tsala leswaku wu nga kombisiwi.",
+      "Dizayini, matsalwa ni swihloko eka nocoding.web.id i swa Nocoding. U nga avelana swihlanganisi swa swona, kambe a wu nge swi kopa ni ku swi tirhisa ku endla bindzu handle ka mpfumelelo. Swifaniso swa swihloko swi huma eka Unsplash naswona swi landza layisense ya yona; xihlovo xi tsariwa ehansi ka xifaniso xin'wana ni xin'wana."
+     ]
+    },
+    {
+     "t": "7. Tindzimi ta sayiti",
+     "b": [
+      "Sayiti leri ri kumeka hi tindzimi to tala. Switlhela-ririmi, ngopfu-ngopfu eka tindzimi leti nga na vatirhisi vatsongo, swi nga ha pfumeleli ku hetiseka. Loko swi hambana hi nhlamuselo, vhezini ya Xindonesia byi tirha. Matluka lama ya nawu ma kumeka hi Xindonesia ni Xinghezi."
+     ]
+    },
+    {
+     "t": "8. Mindzilakano ya vutihlamuleri",
+     "b": [
+      "Hi tirha ku nyika mimbuyelo leyinene, kambe a hi tshembisi mimbuyelo yo karhi ya bindzu ku fana ni swiyimo swa ku lavisisa, nhlayo ya vaendzeli kumbe mabindzu. A hi tihlamuleli ku tshikiwa ka vanhu van'wana ku fana ni vaphakeli va hosting, domeni kumbe hakelo, kumbe ku lahlekeriwa lokuga kongomangiki.",
+      "Vutihlamuleri bya hina eka vukorhokeri byi sivelekile eka nhlayo leyi u yi hakeleke eka vukorhokeri lebyi, ku ya hi leswi nawu wu swi pfumelelaka. Leswi a swi tsongahati mfanelo ya wena leyi sirheleriweke hi nawu."
+     ]
+    },
+    {
+     "t": "9. Nawu lowu tirhaka",
+     "b": [
+      "Milawu leyi yi lawuriwa hi tinawu ta Republic of Indonesia. Loko ku ri ni ntlhontlho, hi ringeta ku wu tshunxa hi ku burisana. Loko ku nga fikeleriwi ntwanano, ntlhontlho wu tshunxiwa hi makhoto lama faneleke eIndonesia."
+     ]
+    },
+    {
+     "t": "10. Ku cinca ni ku tihlanganisa",
+     "b": [
+      "Milawu leyi yi nga antswisiwa ku suka eka nkarhi ku ya eka nkarhi; siku ra ku antswisiwa ro hetelela ri kombisiwa ehenhla ka tluka. Swivutiso swi nga rhumeriwa eka nocodingindonesia@gmail.com kumbe eka WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Pholisi ya Tikuki",
+   "description": "Tikuki ni vuhlayiseki bya lokali leswi sayiti ra Nocoding ri swi tirhisaka, leswi swi nga swa yini, ni ndlela yo swi lawula.",
+   "sections": [
+    {
+     "t": "1. Tikuki i yini",
+     "b": [
+      "Tikuki i tifayili ta tsongo leti sayiti ri ti hlayisaka eka brawuza ya wena. Vuhlayiseki bya lokali ni bya sesheni swi tirha hi ndlela leyi fanaka kambe a swi rhumeriwi eka seva hi ku tihlamulela. Eka tluka leri hi ti vitana hinkwato tikuki."
+     ]
+    },
+    {
+     "t": "2. Leswi sayiti ri swi lavaka ku tirha",
+     "b": [
+      "Swi hlayisiwa eka brawuza ya wena naswona a swi rhumeriwi eka tiseva ta hina:",
+      "- nocoding-language na nocoding-language-set: ririmi leri u ri hlawuleke kumbe leri ri kumiweke eka brawuza ya wena.",
+      "- nocoding-pricing (sesheni): mali leyi ringanisiweke ni mpimo, leswaku mimpimo yi nga tlheriseli ku hlayiwa eka tluka rin'wana ni rin'wana.",
+      "- Swikombiso swa xihloko: loko u tsakile, u vonile kumbe u avelanile xihloko, leswaku tinhlayo ti nga andziwi kambirhi.",
+      "- Xikombiso xa nkarhinyana xa ndhawu ya ku skrola loko u famba exikarhi ka swiphemu swa sayiti."
+     ]
+    },
+    {
+     "t": "3. Analitiki",
+     "b": [
+      "Loko swi pfuriwile, tinkoka timbirhi ta analitiki ti pakisiwa endzhaku ka loko u tirhisana ni tluka (ku skrola, ku khomba kumbe ku hetelela khi):",
+      "- Google Analytics 4 (tikuki to fana ni _ga na _ga_*, leti tirhaka ku ya eka malembe ya 2 hi ku ringanisa): tinhlayo ta ku endzela.",
+      "- Microsoft Clarity (tikuki to fana ni _clck, _clsk, CLID na MUID, leti tirhaka ku ya eka lembe 1 hi ku ringanisa): timepe ta ku hisa ni switsalwa swa ku tirhisana leswi nga hlawuliwiki vito.",
+      "Vaphakeli va CDN ni va vuhlayiseki va nga ha vekisa tikuki ta vutekiniki ku sirhelela sayiti eka thrafiki yo biha."
+     ]
+    },
+    {
+     "t": "4. Ndlela yo lawula tikuki",
+     "b": [
+      "U nga susa kumbe ku sivela tikuki eka swihlamulo swa brawuza ya wena. U nga ha nghenisa ni xiengetelo xa Google xa ku tshika Google Analytics. Loko tikuki ta analitiki ti sivelekile, sayiti ri ya emahlweni ri tirha; loko vuhlayiseki bya lokali byi basisiwile, ku hlawula ka wena ririmi ku tlhelela eka leswi sunguleke."
+     ]
+    },
+    {
+     "t": "5. Swivutiso",
+     "b": [
+      "Eka swivutiso hi pholisi leyi, tihlanganise na nocodingindonesia@gmail.com. Ndlela leyi vuxokoxoko bya munhu byi tirhisiwaka ha yona yi hlamuseriwa swinene eka Pholisi ya Vuhlayiseki bya Vuxokoxoko. Loko tindzimi ti hambana hi nhlamuselo, vhezini ya Xindonesia byi tirha."
+     ]
+    }
+   ]
+  }
+ }
+}

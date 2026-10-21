@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Tabaru diparbaharui",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Kabijakan Privasi",
+   "description": "Data apo nan dikumpuakan Nocoding, untuak apo digunokan, siapo nan mamprosesnyo, jo hak-hak Sanak ateh data pribadi Sanak.",
+   "sections": [
+    {
+     "t": "1. Siapo kami",
+     "b": [
+      "Nocoding (nocoding.web.id) adolah layanan situs web, aplikasi, sistem informasi jo otomatisasi nan dikolaan dek Abid Hanan Wicaksono di Indonesia. Kabijakan iko manjaleh-an baa kami managani data pribadi Sanak katiko Sanak mangunjuang situs iko atau manghubuangi kami.",
+      "Patanyoan tantang kabijakan iko dapek dikirim ka nocodingindonesia@gmail.com atau ka WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data nan kami kumpuakan",
+     "b": [
+      "- Data nan Sanak barikan ka kami: namo, nomor WhatsApp, email jo gambaran proyek Sanak katiko Sanak manghubuangi kami lewat WhatsApp atau email. Situs iko indak punyo akun pangguno atau formulir pandaftaran.",
+      "- Data teknis nan diproses sacaro otomatis: alamat IP, jenis parangkek jo browser, sarato halaman nan Sanak buka. Panyadio hosting jo CDN kami mamprosesnyo untuak manyajikan situs jo malindunginyo dari panyalahgunaan.",
+      "- Negara perkiraan: supayo harago dapek ditunjuakkan dalam mato uang Sanak, negara Sanak diperkirokan dari informasi CDN atau bahaso browser Sanak. Kami indak manyimpannyo di server kami.",
+      "- Data analitik: Google Analytics 4 jo Microsoft Clarity (kalau diaktifkan) mangumpuakan statistik panggunoan saroman halaman nan dibuka, lamo kunjungan, jenis parangkek jo rekaman interaksi anonim. Kaduonyo hanyo dimuek sasudah Sanak babuek interaksi jo halaman.",
+      "- Panyimpanan browser: pilihan bahaso Sanak, tando bahwa Sanak alah manyukai, malihek atau mambagi sabuah artikel, jo perkiraan harago samantaro. Rincian ado di Kabijakan Cookie.",
+      "- Jumlah tontonan, suko jo bagian artikel disimpan sabagai angka gabungan, tanpo identitas pangunjuang."
+     ]
+    },
+    {
+     "t": "3. Untuak apo data digunokan",
+     "b": [
+      "- Manjawab patanyoan Sanak, manyiapkan panawaran jo malaksanakan proyek Sanak.",
+      "- Manyajikan, mangamankan jo manjago kacapatan situs.",
+      "- Mamahami baa situs digunokan supayo dapek kami pabaiki.",
+      "- Mamanuhi kawajiban hukum.",
+      "Kami indak manjua data pribadi Sanak."
+     ]
+    },
+    {
+     "t": "4. Pihak katigo nan tabalik",
+     "b": [
+      "- Vercel: hosting jo panyajian situs.",
+      "- Cloudflare: CDN jo karamanan.",
+      "- Google (Google Analytics 4) jo Microsoft (Clarity): statistik panggunoan situs.",
+      "- Meta (WhatsApp) jo Google (Gmail): katiko Sanak manghubuangi kami lewat tautan WhatsApp atau email di situs iko.",
+      "- Panyadio kurs mato uang: hanyo manarimo pamintaan kurs dari server kami, indak data pangunjuang.",
+      "Panyadio-panyadio iko mungkin mamproses data di lua Indonesia manuruik kabijakan masiang-masiang."
+     ]
+    },
+    {
+     "t": "5. Barapo lamo data disimpan",
+     "b": [
+      "Pabincangan jo bahan proyek disimpan salamo dibutuahkan untuak manjalankan layanan, mamberikan dukungan jo mamanuhi kawajiban hukum, sudah tu dihapuih atau dianonimkan. Data analitik maikuik pangaturan panyimpanan panyadionyo. Data di browser Sanak tatap ado sampai Sanak manghapuihnyo."
+     ]
+    },
+    {
+     "t": "6. Hak-hak Sanak",
+     "b": [
+      "Manuruik Undang-Undang Nomor 27 Tahun 2022 Indonesia tantang Palindungan Data Pribadi, Sanak punyo hak untuak:",
+      "- mangatahui jo mandapekkan salinan data pribadi Sanak nan kami pegang;",
+      "- maminta data nan salah dibaiki;",
+      "- maminta data Sanak dihapuih atau mancabuik persetujuan Sanak;",
+      "- manolak pamrosesan tatantu.",
+      "Kirim pamintaan Sanak ka nocodingindonesia@gmail.com. Kami ka manjawab dalam wakatu nan wajar."
+     ]
+    },
+    {
+     "t": "7. Karamanan jo anak-anak",
+     "b": [
+      "Situs iko mamakai HTTPS jo akses ka data proyek dibateh. Indak ado cara pangirimen atau panyimpanan data nan sapanuahnyo bebas risiko, jadi kami indak dapek manjamin karamanan mutlak.",
+      "Layanan kami dimaksudkan untuak urang barumua 18 tahun ka ateh. Kami indak jo sangaja mangumpuakan data pribadi anak-anak."
+     ]
+    },
+    {
+     "t": "8. Parubahan kabijakan iko",
+     "b": [
+      "Kabijakan iko dapek diparbaharui dari wakatu ka wakatu. Tanggal pambaharuan tarakhir ditunjuakkan di bagian ateh halaman. Kalau bahaso-bahaso babeda artinyo, versi bahaso Indonesia nan barlaku."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Syarat jo Katantuan",
+   "description": "Paratuaran untuak mamakai situs jo layanan Nocoding: paket, harago, caro karajo dilakukan, kakayaan intelektual jo bateh tanggung jawab.",
+   "sections": [
+    {
+     "t": "1. Manarimo syarat iko",
+     "b": [
+      "Jo mambukak situs iko atau mamakai layanan Nocoding, Sanak satuju jo syarat jo katantuan iko. Kalau Sanak indak satuju, tolong jan pakai situs atau layanan kami."
+     ]
+    },
+    {
+     "t": "2. Layanan",
+     "b": [
+      "Nocoding mambuek situs web portofolio atau CV, landing page jo profil parusahaan, sistem informasi jo operasional, sarato otomatisasi proses bisnis. Lingkup karajo, fitur, jadwal jo biaya disapakati jo Sanak lewat WhatsApp atau email sabalum karajo dimulai.",
+      "Konsultasi salalu gratis, kapan sajo Sanak mamerlukannyo, jo indak mawajibkan Sanak untuak mamasan."
+     ]
+    },
+    {
+     "t": "3. Paket jo harago",
+     "b": [
+      "- Paket ketek: mulai dari Rp 500.000 per tahun, tamasuak pamaliharaan gratis jo domain salamo 1 tahun.",
+      "- Paket gadang: mulai dari Rp 2.000.000 per tahun, tamasuak pamaliharaan gratis jo hosting salamo 1 tahun.",
+      "Harago di situs adolah harago awal. Jumlah akhia disapakati sasudah konsultasi, badasarkan kabutuhan Sanak. Untuak pangunjuang dari lua Indonesia, harago ditunjuakkan dalam mato uang satampek sabagai perkiraan badasarkan kurs harian; jumlah dalam rupiah nan kami sapakati itulah nan barlaku. Biaya tambahan, saroman fitur tambahan atau parpanjangan sasudah masa gratis habih, disampaikan ka Sanak sabalum karajo dilakukan."
+     ]
+    },
+    {
+     "t": "4. Caro karajo dilakukan jo tanggung jawab Sanak",
+     "b": [
+      "Desain ditinjau jo disetujui jo Sanak sabalum produksi. Revisi dilakukan sasuai kasapakatan.",
+      "Sanak batanggung jawab mamasok bahan (logo, taks, foto, data) tapek wakatu jo punyo hak untuak mamakainyo. Kalambatan bahan atau umpan balik dapek mampangaruhi jadwal."
+     ]
+    },
+    {
+     "t": "5. Pamaliharaan",
+     "b": [
+      "Pamaliharaan gratis salamo 1 tahun maliputi pambaikan kasalahan dalam karajo kami jo pambaharuan karamanan dasar. Fitur baru, parubahan desain gadang jo karajo di lua kasapakatan awal dikenakan biaya tasendiri."
+     ]
+    },
+    {
+     "t": "6. Kakayaan intelektual",
+     "b": [
+      "Bahan nan Sanak barikan tatap milik Sanak. Hasil karajo nan alah salasai diserahkan ka Sanak sabaitu pambayaran sasuai kasapakatan lunas. Nocoding dapek manunjuakkan karajo nan alah tayang sabagai contoh di portofolionyo, kecuali Sanak maminta sacaro tatulih supayo indak ditunjuakkan.",
+      "Desain, taks jo artikel di nocoding.web.id adolah milik Nocoding. Sanak buliah mambagi tautannyo, tapi indak buliah manyalin jo mamakainyo sacaro komersial tanpo izin. Foto artikel barasa dari Unsplash jo maikuik lisensinyo; sumbernyo dicantumkan di bawah satiok foto."
+     ]
+    },
+    {
+     "t": "7. Bahaso situs",
+     "b": [
+      "Situs iko tasedia dalam banyak bahaso. Tarjamahan, tarutamo untuak bahaso nan panuturnyo saketek, mungkin indak sampurno. Kalau babeda artinyo, versi bahaso Indonesia nan barlaku. Halaman hukum iko tasedia dalam bahaso Indonesia jo Inggirih."
+     ]
+    },
+    {
+     "t": "8. Bateh tanggung jawab",
+     "b": [
+      "Kami barusaho mamberikan hasil nan elok, tapi kami indak manjanjikan hasil bisnis tatantu saroman paringkek pancarian, jumlah pangunjuang atau panjualan. Kami indak batanggung jawab ateh gangguan dari pihak katigo saroman panyadio hosting, domain atau pambayaran, atau ateh karugian tidak langsuang.",
+      "Tanggung jawab kami untuak sabuah layanan dibateh sampai jumlah nan alah Sanak bayia untuak layanan tu, sajauah nan diizinkan hukum. Iko indak maurangi hak Sanak nan dilindungi hukum."
+     ]
+    },
+    {
+     "t": "9. Hukum nan barlaku",
+     "b": [
+      "Syarat iko diatur dek hukum Republik Indonesia. Kalau tajadi sangketo, kami mancubo manyalesaikannyo lewat musyawarah dahulu. Kalau indak ado kasapakatan, sangketo disalesaikan dek pangadilan nan barwenang di Indonesia."
+     ]
+    },
+    {
+     "t": "10. Parubahan jo kontak",
+     "b": [
+      "Syarat iko dapek diparbaharui dari wakatu ka wakatu; tanggal pambaharuan tarakhir ditunjuakkan di bagian ateh halaman. Patanyoan dapek dikirim ka nocodingindonesia@gmail.com atau ka WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Kabijakan Cookie",
+   "description": "Cookie jo panyimpanan lokal nan dipakai situs Nocoding, untuak apo gunonyo, jo caro mangaturnyo.",
+   "sections": [
+    {
+     "t": "1. Apo itu cookie",
+     "b": [
+      "Cookie adolah bakeh ketek nan disimpan situs di browser Sanak. Panyimpanan lokal jo panyimpanan sasi bakarajo sarupo tu, tapi indak dikirim sacaro otomatis ka server. Di halaman iko kami manyabuik kasadonyo cookie."
+     ]
+    },
+    {
+     "t": "2. Nan diperlukan situs supayo bajalan",
+     "b": [
+      "Disimpan di browser Sanak jo indak dikirim ka server kami:",
+      "- nocoding-language jo nocoding-language-set: bahaso nan Sanak pilih atau nan tadeteksi dari browser Sanak.",
+      "- nocoding-pricing (sasi): mato uang jo kurs nan diperkirokan, supayo harago indak dihitung ulang di satiok halaman.",
+      "- Tando artikel: apokah Sanak alah manyukai, malihek atau mambagi sabuah artikel, supayo jumlahnyo indak ganda.",
+      "- Panando posisi gulung samantaro katiko bapindah antaro bagian situs."
+     ]
+    },
+    {
+     "t": "3. Analitik",
+     "b": [
+      "Kalau diaktifkan, duo layanan analitik dimuek sasudah Sanak babuek interaksi jo halaman (manggulung, manyentuah atau manakan tuts):",
+      "- Google Analytics 4 (cookie saroman _ga jo _ga_*, babulah sampai sakitar 2 tahun): statistik kunjungan.",
+      "- Microsoft Clarity (cookie saroman _clck, _clsk, CLID jo MUID, babulah sampai sakitar 1 tahun): peta panas jo rekaman interaksi anonim.",
+      "Panyadio CDN jo karamanan juo dapek mamasang cookie teknis untuak malindungi situs dari lalu lintas barbahayo."
+     ]
+    },
+    {
+     "t": "4. Caro mangatur cookie",
+     "b": [
+      "Sanak dapek manghapuih atau mamblokir cookie di pangaturan browser Sanak. Sanak juo dapek mamasang add-on opt-out resmi dari Google untuak Google Analytics. Kalau cookie analitik diblokir, situs tatap bajalan; kalau panyimpanan lokal dibarasiahkan, pilihan bahaso Sanak kambali ka standar."
+     ]
+    },
+    {
+     "t": "5. Patanyoan",
+     "b": [
+      "Untuak patanyoan tantang kabijakan iko, hubuangi nocodingindonesia@gmail.com. Baa data pribadi digunokan dijaleh-an labiah lanjuik di Kabijakan Privasi. Kalau bahaso-bahaso babeda artinyo, versi bahaso Indonesia nan barlaku."
+     ]
+    }
+   ]
+  }
+ }
+}

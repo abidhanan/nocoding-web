@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Kaping untat kaubah",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Kebijakan Privasi",
+   "description": "Data napi sane kakumpulang olih Nocoding, kanggen nyihnayang napi, sapasira sane ngolah, miwah hak ragane indik data pribadi.",
+   "sections": [
+    {
+     "t": "1. Titiang puniki sapasira",
+     "b": [
+      "Nocoding (nocoding.web.id) inggih punika layanan pembuatan website, aplikasi, sistem informasi, miwah otomasi sane kelola olih Abid Hanan Wicaksono ring Indonesia. Kebijakan puniki nyihnayang pidabdab titiang ngawinang data pribadi ragane rikala ragane ngwangun situs puniki utawi ngubungin titiang.",
+      "Pitakén indik kebijakan puniki prasida kakirim ka nocodingindonesia@gmail.com utawi WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data sane kakumpulang titiang",
+     "b": [
+      "- Data sane kaparinayang olih ragane padaduanan: parab, nomor WhatsApp, email, miwah katerangan indik proyek ragane rikala ngubungin titiang antuk WhatsApp utawi email. Situs puniki nenten madue akun pangguna utawi formulir pendaftaran.",
+      "- Data teknis sane kaproses sacara otomatis: alamat IP, soroh piranti miwah browser, tur kaca-kaca sane kabuka. Data puniki kaproses olih penyedia hosting miwah CDN titiang kanggén nayangang situs miwah ngajagi saking panyalahgunaan.",
+      "- Prakiraan negara: mangda ajeng-ajengan rupiah mungguh ring mata uang ragane, negara ragane kaprakirayang saking informasi CDN utawi pasang basa browser. Titiang nenten nyimpen punika ring server.",
+      "- Data analitik: Google Analytics 4 miwah Microsoft Clarity (yéning aktif) ngumpulang statistik pamakéan buka kaca sane kabuka, dawa kunjungan, soroh piranti, miwah rekaman interaksi tanpa identitas. Sané kalih punika wantah kamuat sasampun ragane makarya interaksi ring kaca.",
+      "- Panyimpenan ring browser: pilihan basa, tanda yéning ragane sampun nyukayang, nyingakin, utawi mabagi artikel, tur prakiraan ajeng-ajengan sementara. Rincianipun wenten ring Kebijakan Cookie.",
+      "- Jumlah kasingakin, kasukayang, miwah kabagi ring artikel kasimpen minakadi angka gabungan tanpa identitas pengunjung."
+     ]
+    },
+    {
+     "t": "3. Data kanggén napi",
+     "b": [
+      "- Nyawurin pitakén, nyusun penawaran, miwah ngardi proyek ragane.",
+      "- Nayangang, ngamanang, miwah ngajaga kecepatan situs.",
+      "- Mahayu pamahayu mangda uning sapunapi situs kanggén, mangda prasida kaparbaikin titiang.",
+      "- Muputang kewajiban hukum sane mawinan.",
+      "Titiang nenten ngadol data pribadi ragane."
+     ]
+    },
+    {
+     "t": "4. Pihak katiga sane kalibetang",
+     "b": [
+      "- Vercel: hosting miwah panayangan situs.",
+      "- Cloudflare: CDN miwah kaamanan.",
+      "- Google (Google Analytics 4) miwah Microsoft (Clarity): statistik pamakéan situs.",
+      "- Meta (WhatsApp) miwah Google (Gmail): rikala ragane ngubungin titiang antuk tautan WhatsApp utawi email ring situs puniki.",
+      "- Penyedia kurs mata uang: wantah nampi pamundut kurs saking server titiang, nenten data pengunjung.",
+      "Penyedia punika prasida ngolah data ring luar Indonesia manut kebijakan soang-soang."
+     ]
+    },
+    {
+     "t": "5. Sapunapi dawan data kasimpen",
+     "b": [
+      "Pawarah-warah miwah materi proyek kasimpen salami kabuatang kanggén ngamargiang layanan, maparinin dukungan, miwah muputang kewajiban hukum, raris kapunduhang utawi kaanonimkan. Data analitik nuut masa simpen pasang penyedianipun. Data ring browser ragane tetep wenten ngantos ragane ngicalang."
+     ]
+    },
+    {
+     "t": "6. Hak ragane",
+     "b": [
+      "Manut Undang-Undang Nomor 27 Warsa 2022 indik Pelindungan Data Pribadi ring Indonesia, ragane madue hak kanggén:",
+      "- uning miwah nunas salinan data pribadi ragane sane kasimpen titiang;",
+      "- nunas mangda data sane iwang kaparbaikin;",
+      "- nunas mangda data kapunduhang utawi ngwangsulang pasetujon ragane;",
+      "- nolak pangolahan sane tamtu.",
+      "Kirimang pamundut ragane ka nocodingindonesia@gmail.com. Titiang pacang nyawurin ring wanci sane patut."
+     ]
+    },
+    {
+     "t": "7. Kaamanan miwah anak-anak",
+     "b": [
+      "Situs puniki nganggén HTTPS tur akses ring data proyek kawatesin. Nenten wenten cara ngirim utawi nyimpen data sane sampurna tanpa resiko, dadosnyane titiang nenten prasida ngamanahin kaamanan mutlak.",
+      "Layanan titiang katuju antuk pangguna sane marumur 18 warsa ka duur. Titiang nenten ngumpulang data pribadi anak-anak antuk sengaja."
+     ]
+    },
+    {
+     "t": "8. Parubahan kebijakan",
+     "b": [
+      "Kebijakan puniki prasida kaubah sawatara-watara. Rahina pembaruan sane kaping untat kacingak ring duur kaca. Yéning wenten bina makna sakewanten antar basa, versi Basa Indonesia sane mawinan."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Syarat miwah Ketentuan",
+   "description": "Paiketan pamakéan situs miwah layanan Nocoding: paket, ajeng-ajengan, tata cara ngardi, hak kekayaan intelektual, miwah watesan tanggung jawab.",
+   "sections": [
+    {
+     "t": "1. Panampen syarat",
+     "b": [
+      "Antuk mbukak situs puniki utawi nganggén layanan Nocoding, ragane nyaksiang syarat miwah ketentuan puniki. Yéning ragane nenten sarujuk, durusang ragane nenten nganggén situs miwah layanan titiang."
+     ]
+    },
+    {
+     "t": "2. Layanan",
+     "b": [
+      "Nocoding ngardi website portofolio utawi CV, landing page miwah profil perusahaan, sistem informasi miwah operasional, tur otomasi proses bisnis. Cakupan pakaryan, fitur, jadwal, miwah biaya kaputusang sareng ragane antuk WhatsApp utawi email sadurung pakaryan kaawitin.",
+      "Konsultasi satata gratis, galah napi ugi ragane merluang, tur nenten ngwajibang ragane mesen."
+     ]
+    },
+    {
+     "t": "3. Paket miwah ajeng-ajengan",
+     "b": [
+      "- Paket Cenik: wiwit Rp 500.000 sawarsa, kalebet maintenance gratis miwah domain salami 1 warsa.",
+      "- Paket Ageng: wiwit Rp 2.000.000 sawarsa, kalebet maintenance gratis miwah hosting salami 1 warsa.",
+      "Ajeng-ajengan ring situs inggih punika ajeng-ajengan wit. Nilai pamuput kasarujukin sasampun konsultasi manut kapetengan ragane. Antuk pengunjung saking luar Indonesia, ajeng-ajengan kapaiketang ring mata uang setempat minakadi prakiraan manut kurs rahina-rahina; sane mawinan inggih punika nilai rupiah sane kasarujukin. Biaya tambahan, minakadi fitur tambahan utawi perpanjangan sasampun masa gratis puput, kaaturang sadurung kakaryanin."
+     ]
+    },
+    {
+     "t": "4. Tata cara ngardi miwah tanggung jawab ragane",
+     "b": [
+      "Rancangan kaperiksa miwah kasarujukin sareng ragane sadurung malih ka produksi. Revisi kakaryanin manut kasarujukan.",
+      "Ragane tanggung jawab nyediayang materi (logo, teks, foto, data) ring galah sane patut tur nanggung mungguh ragane madue hak nganggén punika. Kalambatan materi utawi masukan prasida ngaruhin jadwal."
+     ]
+    },
+    {
+     "t": "5. Maintenance",
+     "b": [
+      "Maintenance gratis salami 1 warsa nyakup pangardi perbaikan kaiwangan ring pakaryan titiang miwah pembaruan kaamanan dasar. Fitur anyar, parubahan ageng ring desain, miwah pakaryan ring luar kasarujukan wit kaitung pasaja."
+     ]
+    },
+    {
+     "t": "6. Hak kekayaan intelektual",
+     "b": [
+      "Materi sane kaparinayang olih ragane tetep dados sane ragane. Pikolih pakaryan kaaturang ring ragane sasampun pamayahan manut kasarujukan lunas. Nocoding prasida nayangang karya sane sampun tayang minakadi conto ring portofolio, kecuali ragane nunas nganggén tulis mangda nenten kapaiketang.",
+      "Desain, teks, miwah artikel ring nocoding.web.id puniki duwenipun Nocoding. Ragane prasida mabagi tautanipun, nanging nenten prasida nyalin tur nganggén sacara komersial tanpa idin. Foto artikel mawit saking Unsplash tur nuut lisensinipun; sumberipun kacantumang ring sor foto."
+     ]
+    },
+    {
+     "t": "7. Basa situs",
+     "b": [
+      "Situs puniki wenten ring akéh basa. Terjemahan, mliha antuk basa sane akidik penuturipun, prasida durung sampurna. Yéning wenten bina makna, versi Basa Indonesia sane mawinan. Kaca hukum puniki wenten ring Basa Indonesia miwah Inggris."
+     ]
+    },
+    {
+     "t": "8. Watesan tanggung jawab",
+     "b": [
+      "Titiang nyobiayang maparinin pikolih sane becik, nanging nenten ngajanjiang pikolih bisnis sane tamtu minakadi peringkat pencarian, jumlah pengunjung, utawi pangadolan. Titiang nenten tanggung jawab antuk gangguan saking pihak katiga minakadi penyedia hosting, domain, utawi pembayaran, miwah antuk karugian sane nenten langsung.",
+      "Tanggung jawab titiang antuk soang-soang layanan kawatesin sakadi nilai sane sampun kabayahin ragane antuk layanan punika, sakadi sane kaicén olih hukum. Ketentuan puniki nenten ngicalang hak ragane sane kaayahin olih peraturan perundang-undangan."
+     ]
+    },
+    {
+     "t": "9. Hukum sane mawinan",
+     "b": [
+      "Syarat puniki tunduk ring hukum Republik Indonesia. Yéning wenten pasalisih, titiang nyobiayang nyalesaiang riin antuk musyawarah. Yéning nenten kapanggihin kasarujukan, pasalisih kasalesaiang nganggén pengadilan sane madue wewenang ring Indonesia."
+     ]
+    },
+    {
+     "t": "10. Parubahan miwah kontak",
+     "b": [
+      "Syarat puniki prasida kaubah sawatara-watara; rahina pembaruan sane kaping untat kacingak ring duur kaca. Pitakén prasida kakirim ka nocodingindonesia@gmail.com utawi WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Kebijakan Cookie",
+   "description": "Cookie miwah panyimpenan lokal sane kanggén olih situs Nocoding, kanggén napi, miwah sapunapi ngelolanyané.",
+   "sections": [
+    {
+     "t": "1. Napi punika cookie",
+     "b": [
+      "Cookie inggih punika berkas cenik sane kasimpen olih situs ring browser ragane. Panyimpenan lokal (local storage miwah session storage) mamargi sakadi punika nanging nenten kakirim otomatis ka server. Ring kaca puniki sane kalih punika kaucapang cookie."
+     ]
+    },
+    {
+     "t": "2. Sane kabuatang mangda situs mamargi",
+     "b": [
+      "Kasimpen ring browser ragane tur nenten kakirim ka server titiang:",
+      "- nocoding-language miwah nocoding-language-set: basa sane kapilih ragane utawi sane kadeteksi saking browser.",
+      "- nocoding-pricing (sesi): prakiraan mata uang miwah kurs mangda ajeng-ajengan nenten kaitung malih ring soang-soang kaca.",
+      "- Tanda artikel: napike ragane sampun nyukayang, nyingakin, utawi mabagi artikel, mangda itungan nenten dados dobel.",
+      "- Tanda posisi gulir sementara rikala mabalik-balik ring bagian situs."
+     ]
+    },
+    {
+     "t": "3. Analitik",
+     "b": [
+      "Yéning kaaktifang, kalih layanan analitik kamuat sasampun ragane makarya interaksi ring kaca (nggulir, nyentuh, utawi nyeet tombol):",
+      "- Google Analytics 4 (cookie minakadi _ga miwah _ga_*, masa mawinan ngantos sawatara 2 warsa): statistik kunjungan.",
+      "- Microsoft Clarity (cookie minakadi _clck, _clsk, CLID, miwah MUID, masa mawinan ngantos sawatara 1 warsa): peta panes miwah rekaman interaksi tanpa identitas.",
+      "Penyedia CDN miwah kaamanan taler prasida masang cookie teknis kanggén ngajagi situs saking lalu lintas sane ngawinang rugi."
+     ]
+    },
+    {
+     "t": "4. Sapunapi ngelola cookie",
+     "b": [
+      "Ragane prasida ngicalang utawi ngeblok cookie ring pasang browser. Ragane taler prasida masang add-on panolakan resmi saking Google antuk Google Analytics. Yéning cookie analitik kablok, situs tetep mamargi; yéning panyimpenan lokal kasapuhin, pilihan basa ragane mawali ka pasang wit."
+     ]
+    },
+    {
+     "t": "5. Pitakén",
+     "b": [
+      "Antuk pitakén indik kebijakan puniki, ubungin nocodingindonesia@gmail.com. Pamakéan data pribadi kajelasang langkung lanturan ring Kebijakan Privasi. Yéning wenten bina makna antar basa, versi Basa Indonesia sane mawinan."
+     ]
+    }
+   ]
+  }
+ }
+}

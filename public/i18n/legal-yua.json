@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Ts'o'ok u k'exel tu ts'ook",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "U Politika ti' Privacidad",
+   "description": "Ba'ax datos ku much'ik Nocoding, utia'al ba'ax ku meyajtik, máax ku meyajtik, yéetel a derechos ti' a datos personal.",
+   "sections": [
+    {
+     "t": "1. Máaxo'on",
+     "b": [
+      "Nocoding (nocoding.web.id) jump'éel meyaj utia'al u beetik sitios web, aplicaciones, sistemas de información yéetel automatización, ku jo'olbesik Abid Hanan Wicaksono ti' Indonesia. Le política je'ela' ku k'a'ajsik bix k meyajtik a datos personal ka bin a xak'alt le sitio web wa ka k'ajoltik to'on.",
+      "Le k'áatchi'ob ti' le política je'ela' ku páajtal a túuxtik tu'ux nocodingindonesia@gmail.com wa tu WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Datos ku much'ik to'on",
+     "b": [
+      "- Datos ku ts'aik to'on teech: a k'aaba', a número WhatsApp, a correo yéetel u tzolxikin a proyecto ka k'ajoltik to'on tu WhatsApp wa tu correo. Le sitio web je'ela' mina' cuentas utia'al máaxo'ob ku meyajtik wa formularios utia'al registrarse.",
+      "- Datos técnicos ku meyajtik ti' u bejil: dirección IP, tuukulil dispositivo yéetel navegador, yéetel le ju'unob ku ja'abal. Le yaan to'on hosting yéetel CDN ku meyajtiko'ob utia'al u ts'aiko'ob le sitio yéetel utia'al u kanáantiko'ob ti' mina'an utsil meyaj.",
+      "- Noj lu'um tu jaajil ma' tu jaajil: utia'al u ye'esik le precios ich a taak'in, ku tukultal tu'ux yaan a lu'um ti' le informacion CDN wa ti' le t'aan ku meyajtik a navegador. Ma' tu kaxtaj ti' to'on servidores.",
+      "- Datos utia'al analytics: Google Analytics 4 yéetel Microsoft Clarity (ken ts'a'abak u meyajo'ob) ku much'iko'ob estadisticas utia'al u meyajtik, je'el bix ju'unob ts'o'ok u je'elel, ba'ax kéen k'iin ku xak'alt, tuukulil dispositivo yéetel grabaciones ma' tu k'aaba' ti' bix ku meyajtik. Chen ku cargarte'ob ken ts'o'ok a meyajtik le ju'una'.",
+      "- Kuuchil u kaanbal navegador: a t'aan ka a jeelaj, señas wa ts'o'ok a tsikbalt, a wilik wa a much'ik jump'éel artículo, yéetel jump'éel estimación ti' precio utia'al ma' mu'uk'. Le detalles yaan ti' U Politika ti' Cookies.",
+      "- Le yaan wilik, tsikbalt yéetel much'ik artículos ku kuuchbil bey jump'éel kúuchil, mina'an k'aaba' máax xak'alt."
+     ]
+    },
+    {
+     "t": "3. Utia'al ba'ax ku meyajtik le datos",
+     "b": [
+      "- U tuklik a tzolxikin, u beetik precios yéetel u beetik a proyecto.",
+      "- U ts'aiko'ob, u kanáantik yéetel u beetik chowak le sitio.",
+      "- U na'atik bix ku meyajtik le sitio utia'al u utschintik.",
+      "- U cumplir yéetel le ley.",
+      "Ma' tu ko'onol a datos personal."
+     ]
+    },
+    {
+     "t": "4. Terceros ku yaantal",
+     "b": [
+      "- Vercel: hosting yéetel u ts'aik le sitio.",
+      "- Cloudflare: CDN yéetel seguridad.",
+      "- Google (Google Analytics 4) yéetel Microsoft (Clarity): estadisticas utia'al u meyajtik le sitio.",
+      "- Meta (WhatsApp) yéetel Google (Gmail): ken a k'ajoltik to'on tu'ux le ligas WhatsApp wa correo ti' le sitio je'ela'.",
+      "- Máax ku ts'aik le tipo ti' cambio: chen ku ch'a'ik k'áatchi'ob ti' le tipo ti' to'on servidor, ma' datos ti' máaxo'ob ku xak'alt.",
+      "Le máaxo'ob je'elo' kun páajtal u meyajtik datos tu kaajil ti' Indonesia je'el bix u políticas."
+     ]
+    },
+    {
+     "t": "5. Jaytúul k'iin ku kuuchbil le datos",
+     "b": [
+      "Le tsikbalo'ob yéetel le meyaj ti' proyecto ku kuuchbil chen bey u k'a'abéettal utia'al u meyajtik le meyaj, u ts'aik yáanal yéetel u cumplir yéetel le ley, ts'o'ok ku jóoyol wa ku ts'aik ti' ma' tu k'aaba'. Le datos ti' analytics ku beeta'al je'el bix u política le máax ku ts'aik. Le datos ti' a navegador ku máan tak ken a jóoysik."
+     ]
+    },
+    {
+     "t": "6. A derechos",
+     "b": [
+      "Tu yo'olal Ley Número 27 ti' u ja'abil 2022 ti' Indonesia utia'al u kanáantik datos personal, yaan a derecho utia'al:",
+      "- u yojéeltik yéetel u ch'a'ik jump'éel copia ti' le datos personal yaan to'on ti' teech;",
+      "- u k'áatik u utschinta'al le datos ma' jaaj;",
+      "- u k'áatik u jóoysa'al a datos wa u kaxtik a ts'aik ti' a baaj;",
+      "- ma' u ch'a'ik jujuntúul meyaj ti' a datos.",
+      "Túuxt a k'áat tu'ux nocodingindonesia@gmail.com. Ken ka'ansik to'on ich jump'éel k'iin utia'al."
+     ]
+    },
+    {
+     "t": "7. Seguridad yéetel mejen paalalo'ob",
+     "b": [
+      "Le sitio web je'ela' ku meyajtik HTTPS yéetel le ku bin ti' datos ti' proyecto ku kuuchbil. Mina' jump'éel bix u túuxtik wa u kuuchbil datos mina'an ya'ab ba'al ku páajtal u jach ma'alob, tumen ma' páajtal k tsikbalt jump'éel seguridad ts'o'ok.",
+      "Le meyaj k beetik utia'al máaxo'ob yaan 18 ja'abo'ob wa u yaantal. Ma' ku much'ik to'on datos personal ti' mejen paalalo'ob je'el bix k na'at."
+     ]
+    },
+    {
+     "t": "8. K'exelo'ob ti' le política je'ela'",
+     "b": [
+      "Le política je'ela' kun páajtal u k'exel ti' k'iin yéetel k'iin. Le k'iin ti' le ts'ook k'exel ku ye'esa'al tu jo'olbil ti' le ju'un. Wa le t'aanob ku jejeláasil ti' u tuukulil, le versión ti' Indonesia ku meyajtik."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Términos yéetel Condiciones",
+   "description": "Le reglas utia'al u meyajtik le sitio Nocoding yéetel u meyajo'ob: paquetes, precios, bix ku beetik le meyaj, propiedad intelectual yéetel u límite ti' responsabilidad.",
+   "sections": [
+    {
+     "t": "1. U ch'a'ik le términos je'ela'",
+     "b": [
+      "Ken a je'ik le sitio je'ela' wa ken a meyajtik le meyajo'ob Nocoding, ku ts'aik a t'aan ti' le términos yéetel condiciones je'ela'. Wa ma' ku ts'aik a t'aan, ma' a meyajtik to'on sitio wa to'on meyaj."
+     ]
+    },
+    {
+     "t": "2. Le meyajo'ob",
+     "b": [
+      "Nocoding ku beetik sitios web utia'al portafolio wa CV, páginas de aterrizaje yéetel perfiles ti' empresa, sistemas ti' información yéetel ti' operaciones, yéetel automatización ti' procesos ti' negocio. Le ba'ax kun beetal, le funciones, le k'iin yéetel le precio ku t'aanal yéetel teech tu WhatsApp wa tu correo antes ti' u káajal le meyaj.",
+      "Le consulta mina' precio ti' tuláakal k'iin, ken a k'a'abéetkunsik, yéetel ma' ku k'a'abéetkunsik a k'áat."
+     ]
+    },
+    {
+     "t": "3. Paquetes yéetel precios",
+     "b": [
+      "- Mejen paquete: ti' Rp 500.000 tu ja'abil, yéetel mantenimiento ma' precio yéetel jump'éel dominio utia'al 1 ja'ab.",
+      "- Nojoch paquete: ti' Rp 2.000.000 tu ja'abil, yéetel mantenimiento ma' precio yéetel hosting utia'al 1 ja'ab.",
+      "Le precios ti' le sitio precios ti' káajbal. Le precio ts'o'ok ku t'aanal ts'o'ok le consulta, je'el bix a k'a'abéetil. Utia'al máaxo'ob ku xak'alt ti' tu'ux ma' Indonesia, le precios ku ye'esa'al ich taak'in ti' le lu'um bey jump'éel estimación ti' le tipo de cambio ti' sakbe'en; le taak'in ich rupiah ku t'aanal ku meyajtik. Le yaanal precios, je'el bix funciones yaanal wa renovación ts'o'ok le k'iin ma' precio ku ts'o'okol, ku t'aanal ti' teech antes ti' u beeta'al le meyaj."
+     ]
+    },
+    {
+     "t": "4. Bix ku beeta'al le meyaj yéetel a responsabilidad",
+     "b": [
+      "Le diseño ku xak'alta'al yéetel ku ch'a'abal yéetel teech antes ti' u beeta'al. Le k'exelo'ob ku beeta'al je'el bix ku t'aanal.",
+      "Teech yaan a responsabilidad utia'al a ts'aik le materiales (logo, texto, fotos, datos) ich k'iin yéetel utia'al a yaantal derecho utia'al a meyajtik. Wa ku yaantal u kajtal ti' materiales wa ti' tzolxikin, kun páajtal u beetik ba'al ti' le k'iin."
+     ]
+    },
+    {
+     "t": "5. Mantenimiento",
+     "b": [
+      "Le mantenimiento ma' precio utia'al 1 ja'ab ku k'amik u utschinta'al le errores ti' to'on meyaj yéetel le actualizaciones básicas ti' seguridad. Le funciones túumbenak, le k'exelo'ob nojoch ti' diseño yéetel le meyaj ma' ti' le acuerdo ti' káajbal ku cobrarse uláak'."
+     ]
+    },
+    {
+     "t": "6. Propiedad intelectual",
+     "b": [
+      "Le materiales ku ts'aik teech ku máanal ti' teech. Le meyaj ts'o'ok ku ts'aa'abal ti' teech ken ts'o'ok le pago je'el bix ku t'aanal. Nocoding kun páajtal u ye'esik meyaj ku kuxtal bey ejemplos ti' u portafolio, wa ma' a k'áat tu ju'un ma' u ye'esa'al.",
+      "Le diseño, texto yéetel artículos ti' nocoding.web.id ku yaantal ti' Nocoding. Kun páajtal a much'ik ligas ti' to'ob, ba'ale' ma' páajtal a copiar yéetel a meyajtik utia'al negocio ma' permiso. Le fotos ti' artículos ku taal ti' Unsplash yéetel ku bin yéetel u licencia; le fuente ku ts'ibta'al yáanal ti' jujuntúul foto."
+     ]
+    },
+    {
+     "t": "7. T'aanob ti' le sitio",
+     "b": [
+      "Le sitio je'ela' yaan ich ya'ab t'aanob. Le traducciones, tuukul utia'al t'aanob yaan mina'an ya'ab máaxo'ob ku t'aan, kun páajtal ma' u ts'o'okol ma'alob. Wa ku jejeláasil ti' u tuukulil, le versión ti' Indonesia ku meyajtik. Le páginas legales je'ela' yaan ich Indonesia yéetel inglés."
+     ]
+    },
+    {
+     "t": "8. Límites ti' responsabilidad",
+     "b": [
+      "K meyajtik utia'al u ts'aik utsil resultados, ba'ale' ma' k ts'aik t'aan ti' resultados ti' negocio je'el bix posiciones ti' búsqueda, yaan xak'alt wa ko'onol. Ma' k yaan responsabilidad utia'al problemas ti' terceros je'el bix hosting, dominio wa pago, wa utia'al pérdidas indirectas.",
+      "To'on responsabilidad utia'al jump'éel meyaj ku límite ti' le taak'in ts'o'ok a pagaj utia'al le meyaj, je'el bix ku páajtal le ley. Le ma' ku mejental a derechos ku kanáantik le ley."
+     ]
+    },
+    {
+     "t": "9. Ley ku jo'olbesik",
+     "b": [
+      "Le términos je'ela' ku jo'olbesa'al tumen le leyes ti' le República ti' Indonesia. Wa yaan jump'éel conflicto, ku káajal k kaxtik u utschinta'al yéetel t'aan. Wa ma' ku ts'o'okol acuerdo, le conflicto ku utschinta'al tumen le tribunales competentes ti' Indonesia."
+     ]
+    },
+    {
+     "t": "10. K'exelo'ob yéetel contacto",
+     "b": [
+      "Le términos je'ela' kun páajtal u k'exel ti' k'iin yéetel k'iin; le k'iin ti' le ts'ook k'exel ku ye'esa'al tu jo'olbil ti' le ju'un. Le k'áatchi'ob ku páajtal a túuxtik tu'ux nocodingindonesia@gmail.com wa tu WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "U Politika ti' Cookies",
+   "description": "Le cookies yéetel kuuchil local ku meyajtik le sitio Nocoding, utia'al ba'ax, yéetel bix u kanáantik.",
+   "sections": [
+    {
+     "t": "1. Ba'ax cookies",
+     "b": [
+      "Le cookies ku jejeláasil ti' mejen archivos ku kuuchbil jump'éel sitio ich a navegador. Le almacenamiento local yéetel le almacenamiento ti' sesión ku meyajtik je'el bix ba'ax, ba'ale' ma' ku túuxta'al ti' servidor ti' u bejil. Ti' le ju'una je'ela', ku k t'aanik tuláakal cookies."
+     ]
+    },
+    {
+     "t": "2. Ba'ax k'a'abéet utia'al le sitio ka meyajtik",
+     "b": [
+      "Ku kuuchbil ich a navegador yéetel ma' ku túuxta'al ti' to'on servidores:",
+      "- nocoding-language yéetel nocoding-language-set: le t'aan ts'o'ok a jeelaj wa ku kaxta'al ti' a navegador.",
+      "- nocoding-pricing (sesión): le taak'in yéetel le tipo ti' cambio ku tukultal, utia'al ma' u beeta'al ti' túumben le precios ti' jujuntúul ju'un.",
+      "- Señas ti' artículos: wa ts'o'ok a tsikbalt, a wilik wa a much'ik jump'éel artículo, utia'al ma' u ka'a yaantal le yaan.",
+      "- Jump'éel seña ma' mu'uk' ti' tu'ux ku bin a scroll ken ku bin a xíimbal ti' le jejeláasil ti' le sitio."
+     ]
+    },
+    {
+     "t": "3. Analytics",
+     "b": [
+      "Ken ts'a'abak u meyajo'ob, ka'atúul servicios ti' analytics ku cargarte'ob ts'o'ok a meyajtik le ju'una' (scroll, tap wa ken a ch'a'ik jump'éel tecla):",
+      "- Google Analytics 4 (cookies je'el bix _ga yéetel _ga_*, ku meyajtiko'ob tak jun ka'a ja'ab): estadisticas ti' xak'alt.",
+      "- Microsoft Clarity (cookies je'el bix _clck, _clsk, CLID yéetel MUID, ku meyajtiko'ob tak jun ja'ab): mapas ti' calor yéetel grabaciones ma' tu k'aaba' ti' bix ku meyajtik.",
+      "Le yaan ku ts'aik CDN yéetel seguridad kun páajtal u ts'aiko'ob cookies técnicas utia'al u kanáantik le sitio ti' tráfico ma' utsil."
+     ]
+    },
+    {
+     "t": "4. Bix a kanáantik le cookies",
+     "b": [
+      "Kun páajtal a jóoysik wa a ts'aik ti' a navegador. Kun páajtal xan a ts'aik le complemento oficial ti' Google utia'al ma' u meyajtik Google Analytics. Wa ku ts'aa'abal le cookies ti' analytics, le sitio ku meyajtik; wa ku jóoysa'al le almacenamiento local, a t'aan ku suut ti' le ti' káajbal."
+     ]
+    },
+    {
+     "t": "5. K'áatchi'ob",
+     "b": [
+      "Utia'al k'áatchi'ob ti' le política je'ela', k'ajoltik nocodingindonesia@gmail.com. Bix ku meyajtik a datos personal ku k'a'ajsa'al ti' U Politika ti' Privacidad. Wa le t'aanob ku jejeláasil ti' u tuukulil, le versión ti' Indonesia ku meyajtik."
+     ]
+    }
+   ]
+  }
+ }
+}

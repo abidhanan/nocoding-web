@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Qhipürut machaqar tukuyata",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Imañ amtawi",
+   "description": "Nocoding ukax kuna datonaksa apthapi, kunatsa apnaqatäki, khitis uka datonak irnaqaña, ukat juman jaqi datonakamat kuna derechonaktï utjki ukanakata.",
+   "sections": [
+    {
+     "t": "1. Jiwasax khitisa",
+     "b": [
+      "Nocoding (nocoding.web.id) ukax Indonesia markanx Abid Hanan Wicaksono ukan irnaqata web uñstayaña, app, yatiqañ sistema ukat automatización yanapt'awa. Aka amtawix qhanañchi kunjamsa jumax aka uñstayañ uñjir sarasax jan ukax jiwasamp aruskipasax jaqi datonakamat apnaqaskta uka.",
+      "Aka amtawimp chikt'at jiskt'anakax nocodingindonesia@gmail.com ukar jan ukax WhatsApp +62 853-2651-3324 ukar apayasispawa."
+     ]
+    },
+    {
+     "t": "2. Kuna datonaksa apthapiñani",
+     "b": [
+      "- Jumax churkistaxa uka datonaka: sutimaxa, WhatsApp jakhumaxa, correo electrónico ukat proyectomamp chikt'at qhanañchäwi, jumax WhatsApp jan ukax correo tuqiw jiwasamp aruskipasax. Aka uñstayañanx jan utjiri apnaqirinakan cuentanakapa jan ukax qillqt'añ formularionakapa.",
+      "- Pachpa irnaqata técnico datonaka: IP chiqa, apparato ukat navegador laya, ukat jumax jist'arkta uka p'iqinchirinaka. Jiwasan alojamiento ukat CDN uttayirinakax uka datonaka irnaqapxi, uñstayañ yanapt'añataki ukat jan walt'ayaña ukata jark'aqañataki.",
+      "- Mä juk'a markakipa: alinaka jumaan phisqha qullqimpi uñacht'ayañataki, markamax CDN yatiyäwit jan ukax navegador arumat amuyatawa. Jiwasax janiw servidoranakasanx imañäni.",
+      "- Analítica datonaka: Google Analytics 4 ukat Microsoft Clarity (jiskt'ayata jilsuxa) ukanakax apnaqäwi estadística apthapipxi, kunjamsa jist'aratayata p'iqinchirinaka, uñjañ pacha, apparato laya, ukat jan sutini mayachasiñ grabaciones ukanaka. Jumax p'iqinchirimp mayachasiñ qhipatwa uka apthapitaxa.",
+      "- Navegador imaña: arump ajllita, mä qillqat nayra layku munata, uñjata jan ukax jaljtata uka chimpunaka, ukat mä pachpa alina amuyuwi. Qhanañchäwix Cookie amtawinwa utji.",
+      "- Qillqatanakan uñjata, munata ukat jaljtata jakhunakax mayachata jakhunakjam imatawa, jan uñjirin ch'amapa."
+     ]
+    },
+    {
+     "t": "3. Datonakax kunatsa apnaqataxa",
+     "b": [
+      "- Jiskt'anakamar jaysañataki, cotización wakichañataki ukat proyectomar phuqhañataki.",
+      "- Uñstayañ uñacht'ayañataki, jark'aqañataki ukat jank'aki saräwipar uttayañataki.",
+      "- Kunjamsa uñstayañax apnaqatäki ukax amuyañataki, ukhamat jiwasax juk'amp suma lurañataki.",
+      "- Ley ukan wakisiñanakar phuqhañataki.",
+      "Jiwasax janiw jumaan jaqi datonakamarux alxatkti."
+     ]
+    },
+    {
+     "t": "4. Mayachasirinaka kimsïr jaqinaka",
+     "b": [
+      "- Vercel: uñstayañ alojamiento ukat uñacht'ayaña.",
+      "- Cloudflare: CDN ukat jark'aqaña.",
+      "- Google (Google Analytics 4) ukat Microsoft (Clarity): uñstayañ apnaqäwi estadística.",
+      "- Meta (WhatsApp) ukat Google (Gmail): jumax aka uñstayañan WhatsApp jan ukax correo enlacenak tuqiw jiwasamp aruskipasax.",
+      "- Qullqi mayjt'awi yatiyiri: jiwasan servidorat kunjamsa mayjt'i uka mayiwinak sapakiw katuqi, janiw uñjirinakan datonakapsa.",
+      "Aka uttayirinakax Indonesia markat anqäxan datonaka irnaqapxaspawa, jupanakan amtawinakaparjama."
+     ]
+    },
+    {
+     "t": "5. Kunqhachañas datonakax imatäni",
+     "b": [
+      "Aruskipäwinaka ukat proyecto yänaka imatawa kunqhatixa yanapt'awi phuqhañataki, yanapt'añataki ukat ley ukan wakisiñanakar phuqhañataki wakisi ukakama, ukatxa pichhatawa jan ukax jan yatiñ tukuyatawa. Analítica datonakax uttayirin imañ amtanakaparjamawa. Navegadorman datonakax jumax jaqhuntkama uka pachakamaw qhiphunti."
+     ]
+    },
+    {
+     "t": "6. Jumaan derechonakamaxa",
+     "b": [
+      "Indonesia markan 2022 maran 27 jakhun Jaqi Datonaka Jark'aqañ Leyipatxa, jumax aka derechonakaw utji:",
+      "- jumat kuna jaqi datonaks jiwasax imktan uk yatiñataki ukat copia katuqañataki;",
+      "- pantjata datonak chiqanchayañataki mayiñataki;",
+      "- datonakamar chhaqtayañataki mayiñataki jan ukax ukar munañ churatam kutt'ayañataki;",
+      "- kunayman irnaqäwinakar jan munañataki.",
+      "Mayiwimax nocodingindonesia@gmail.com ukar apayam. Jiwasax suma pachanakanwa jaysaññani."
+     ]
+    },
+    {
+     "t": "7. Jark'aqaña ukat wawanaka",
+     "b": [
+      "Aka uñstayañax HTTPS apnaqi, ukat proyecto datonakar mantañax juk'ampiw jark'ata. Janiw kuna datonak apayañ jan ukax imañ amtax juch'usa jan yanqhachasaw utjkiti, ukatwa janiw jiwasax phuqhat jark'aqañ chiqapar sapxsma.",
+      "Jiwasan yanapt'awinakasax 18 maranit jila jaqinakatakiw lurataxa. Jiwasax janiw yatisaw wawanakan jaqi datonakap apthapktanti."
+     ]
+    },
+    {
+     "t": "8. Aka amtawin mayjt'awinaka",
+     "b": [
+      "Aka amtawix pachat pachaw machaqar tukuyatäspa. Qhipa machaqar tukuyäwi uruxa panka alayan uñacht'ayataw. Arunakax amuyuparjam mayj ukhaxa, indonesiy aru versionaw wali."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Chikt'asïwi ukat sartawinaka",
+   "description": "Nocoding uñstayañ ukat yanapt'awinak apnaqañ kamachinaka: paquetenaka, alinaka, kunjamsa irnaqäwix lurasi, amuyu pachpa ukat jan walt'äwin jarkt'awinaka.",
+   "sections": [
+    {
+     "t": "1. Aka sartawinak katuqaña",
+     "b": [
+      "Aka uñstayañ jist'arasa jan ukax Nocoding yanapt'awinakap apnaqasaxa, jumax aka chikt'asïwinakampi ukat sartawinakampiw jaysta. Jumax jan jaysktaxa, aka uñstayañ jan ukax yanapt'awinak jan apnaqamti."
+     ]
+    },
+    {
+     "t": "2. Yanapt'awinaka",
+     "b": [
+      "Nocoding ukax portafolio jan ukax CV web uñstayanaka, landing página ukat empresa perfilanaka, yatiyäwi ukat irnaqäwi sistemanaka, ukat negocio lurawinak automatización lurañ luri. Irnaqäwi jaljata, kunayman lurawinaka, pacha ukat qullqi irnaqäwi qalltañ nayrax WhatsApp jan ukax correo tuqiw jumamp chikt'atäpxi.",
+      "Iyawsäwix kunayskipansa jan qullqini, kunapachatix munkta ukkhaxa, ukat janiw jumar mä mayt'asiñ lurañar wajt'asktiti."
+     ]
+    },
+    {
+     "t": "3. Paquetenaka ukat alinaka",
+     "b": [
+      "- Jisk'a paquete: maraman Rp 500.000 ukata qalltasa, jan qullqini uñjaña ukat 1 mara dominio apt'asa.",
+      "- Jach'a paquete: maraman Rp 2.000.000 ukata qalltasa, jan qullqini uñjaña ukat 1 mara alojamiento apt'asa.",
+      "Uñstayañan uñacht'ayat alinakax qalltañ alinakawa. Tukuyir qullqix iyawsäwi qhipatxa, jumaan munañanakamarjama chikt'atäpxi. Indonesia markat anqäxan uñjirinakatakix alinakax markpach phisqha qullqin uñacht'ayatawa, urut uru mayjt'ayañ cambio qullqirjama, mä amuyuwjama; jiwasan chikt'atäki rupia qullqiw wali. Yaqha qullqi apt'awinaka, kunjamas yaqha lurawinaka jan ukax jan qullqini pacha tukuyatatx machaqar tukuyaña, irnaqäwi nayrax jumar yatiyatawa."
+     ]
+    },
+    {
+     "t": "4. Kunjamsa irnaqäwix lurasi ukat jumaan wakisiñanakamaxa",
+     "b": [
+      "Diseño ukax lurañ nayrax jumamp uñakipt'atawa ukat ajlliyatawa. Mayjt'ayañanakax chikt'atäpkaki ukhama lurasi.",
+      "Jumaw materialnaka (logo, qillqata, foto, datonaka) pachapar churañataki ukat apnaqañ derecho utjañataki wakisiñani. Materialanakan jan ukax yatiyäwin qhipharañax pacha tupuñ jan walt'ayaspawa."
+     ]
+    },
+    {
+     "t": "5. Uñjaña",
+     "b": [
+      "1 mara jan qullqini uñjañax irnaqäwisan pantjatanakar chiqanchañ ukat sapa jark'aqañ machaqar tukuyäwinak apt'i. Machaqa lurawinaka, jach'a diseño mayjt'ayawinaka ukat nayrïr chikt'asïwit anqäxan irnaqäwinakax sapaki qullqi apayasi."
+     ]
+    },
+    {
+     "t": "6. Amuyu pachpa",
+     "b": [
+      "Jumax churkistaxa uka materialanakax jumankaskakiwa. Tukuyat irnaqäwix chikt'atäki ukhama qullqi phuqhatatxa jumar katuyasiwa. Nocoding ukax jakaski irnaqäwinak portafoliopan uñacht'ayañatakix uñacht'ayaspawa, jumax qillqatampi jan uñacht'ayañ mayktaxa ukhaxa jan.",
+      "nocoding.web.id ukan diseño, qillqata ukat qillqatanakax Nocodingankiwa. Jumax jupanakan enlacenakap jaljtasispawa, ukampis jan permisoni copiasa negocio lurañataki apnaqkasmati. Qillqatanakan fotonakapax Unsplash ukat juti, ukat licencia ukarjama apnaqatawa; sapa foto manqhanx fuente uñt'ayatawa."
+     ]
+    },
+    {
+     "t": "7. Uñstayañan arunakapa",
+     "b": [
+      "Aka uñstayañax walja arunakanwa utji. Jaqichayanakax, juk'a arsurinakan arunakapatakix, janiw phuqhat sum lurataw utjkaspati. Amuyuparjam mayj ukhaxa, indonesiy aru versionaw wali. Aka ley p'iqinchirinakax indonesiy ukat inglés arunakanwa utji."
+     ]
+    },
+    {
+     "t": "8. Jan walt'äwin jarkt'awinaka",
+     "b": [
+      "Jiwasax suma phuqhawinak churañatakiw irnaqtanxa, ukampis janiw kunayman negocio sartawinakaxa jaysktanti, kunjamsa thaqhañan sayt'awi, uñjirinakan jakhupa jan ukax alxatäwinaka. Janiw jiwasax kimsïr jaqinakan jan walt'ayäwinakapatakixa, kunjamsa alojamiento, dominio jan ukax qullqi apayiri uttayirinaka, jan ukax jan chiqapa chhaqtayäwinakatakixa katuqktanti.",
+      "Mä yanapt'awitakix jiwasan katuqäwisaxa ukatakix jumax qullqi phuqhatamakikiw jarkt'ata, ley ukax jaysaña kamachixa ukakama. Ukax janiw leyin jark'aqata derechonakam juk'achkiti."
+     ]
+    },
+    {
+     "t": "9. Apnaqat ley",
+     "b": [
+      "Aka sartawinakax Indonesia Republika markan leyinakapampiw apnaqasi. Mä jan walt'äw utjchi ukhaxa, nayraxa arsuñ tuqiw askichañ yant'añani. Janiw chikt'atäxa ukhaxa, jan walt'äwix Indonesia markan wakiyat uchañ ch'amani tribunalanakampiw askichasi."
+     ]
+    },
+    {
+     "t": "10. Mayjt'awinaka ukat aruskipaña",
+     "b": [
+      "Aka sartawinakax pachat pachaw machaqar tukuyatäspa; qhipa machaqar tukuyäwi uruxa panka alayan uñacht'ayataw. Jiskt'anakax nocodingindonesia@gmail.com ukar jan ukax WhatsApp +62 853-2651-3324 ukar apayasispawa."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Cookie amtawi",
+   "description": "Nocoding uñstayañax kuna cookienaka ukat local imañ apnaqi, kunatak apnaqataxa, ukat kunjamsa apnaqaña.",
+   "sections": [
+    {
+     "t": "1. Cookienakax kunataxa",
+     "b": [
+      "Cookienakax jisk'a archivonakawa, mä uñstayañax navegadorman imaski ukanaka. Local imañ ukat sesión imañax ukham saraskakiwa, ukampis janiw pachpa servidorar apayatäkiti. Aka panka alayanx taqiniruw cookie sasin sutichtanxa."
+     ]
+    },
+    {
+     "t": "2. Uñstayañax irnaqañatakix kuna munasi",
+     "b": [
+      "Navegadorman imatawa ukat janiw servidoranakasar apayatäkiti:",
+      "- nocoding-language ukat nocoding-language-set: jumax ajllkta uka aru jan ukax navegadorat uñt'at aru.",
+      "- nocoding-pricing (sesión): amuyat qullqi ukat cambio, ukhamat alinakax sapa p'iqinchiran jan machaqar jakthapiñataki.",
+      "- Qillqat chimpunaka: mä qillqat nayra munata, uñjata jan ukax jaljtata ukhaxa, ukhamat jakhunakax jan pä kuti jakthapiñataki.",
+      "- Uñstayañan mayni chiqapat mayniru saraskir kutiqt'añ chiqan mä pachpa chimpu."
+     ]
+    },
+    {
+     "t": "3. Analítica",
+     "b": [
+      "Jist'ayata jilsuxa, pä analítica yanapt'awix p'iqinchirimp mayachasiñ qhipatwa apsuñ yatiyi (kutiqt'aña, llamkt'aña jan ukax mä tecla t'ijuña):",
+      "- Google Analytics 4 (_ga ukat _ga_* ukham cookienaka, 2 mara jak'ankama waliwa): uñjañ estadística.",
+      "- Microsoft Clarity (_clck, _clsk, CLID ukat MUID ukham cookienaka, 1 mara jak'ankama waliwa): calor mapanaka ukat jan sutini mayachasiñ grabaciones.",
+      "CDN ukat jark'aqañ uttayirinakax técnico cookienak uchasispawa, uñstayañ jan walt'ayir tráfico ukata jark'aqañataki."
+     ]
+    },
+    {
+     "t": "4. Kunjamsa cookienak apnaqaña",
+     "b": [
+      "Jumax navegadorman ajllinakapanx cookienak chhaqtayasma jan ukax jark'asma. Google Analytics ukatakix Google ukan oficial jaytawi complementop uchasma. Analítica cookienakax jark'atäxa ukhaxa, uñstayañax irnaqaskakiwa; local imañ q'umachatäxa ukhaxa, arump ajllitax nayra uttayat arur kutt'i."
+     ]
+    },
+    {
+     "t": "5. Jiskt'anaka",
+     "b": [
+      "Aka amtawimp chikt'at jiskt'anakatakix nocodingindonesia@gmail.com ukar aruskipt'asma. Kunjamsa jaqi datonakax apnaqatäki ukax Imañ amtawin juk'amp qhanañchatawa. Arunakax amuyuparjam mayj ukhaxa, indonesiy aru versionaw wali."
+     ]
+    }
+   ]
+  }
+ }
+}

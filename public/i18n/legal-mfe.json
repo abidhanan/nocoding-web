@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Dernié mizajou",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Politik Konfidansialité",
+   "description": "Ki done Nocoding rasanble, pou ki servi, kisannla ki trat sa bann done la, ek ou bann drwa lor ou done personel.",
+   "sections": [
+    {
+     "t": "1. Ki nou été",
+     "b": [
+      "Nocoding (nocoding.web.id) enn sit web, aplikasion, sistem lenformasion ek servis otomatizasion ki Abid Hanan Wicaksono dirize dan Endonezi. Sa politik la explik couma nou trat ou done personel kan ou vizit sa sit la ou kontakte nou.",
+      "Ou kapav avoy ou bann kestion lor sa politik la lor nocodingindonesia@gmail.com ou lor WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Bann done ki nou rasanble",
+     "b": [
+      "- Done ki ou donn nou: ou nom, ou numero WhatsApp, ou email ek enn deskripsion ou proze kan ou kontakte nou par WhatsApp ou par email. Sa sit la pena kont itilizater ni formilér linskripsion.",
+      "- Done teknik ki trete otomatikman: adres IP, tip aparey ek navigater, ek bann paz ki ou ouver. Nou bann fournisser lebergman ek CDN trat sa pou fer sit la fonksione ek pou protez li kont labiz.",
+      "- Pei aproksimatif: pou ki bann pri montre dan ou lamonai, nou estim ou pei grasa lenformasion CDN ou lalang ou navigater. Nou pa konserv li lor nou bann server.",
+      "- Done analitik: Google Analytics 4 ek Microsoft Clarity (kan zot activé) rasanble bann statistik lisaz couma bann paz ouver, lapar enn vizit, tip aparey ek bann anrezistreman anonim linteraksion. Zot sarze selman apre ki ou interaz ek paz la.",
+      "- Stokaz dan navigater: ou lasoi lalang, bann marke montre ki ou finn lik, war ou partaz enn zartik, ek enn estimasion pri tanporer. Detay dan Politik Cookies.",
+      "- Bann konte vizyonaz, lik ek partaz zartik konserve couma bann nonb gruppé, san lidantité vizitér."
+     ]
+    },
+    {
+     "t": "3. Pou ki done servi",
+     "b": [
+      "- Pou reponn ou bann kestion, prépar bann devi ek realiz ou proze.",
+      "- Pou fer sit la fonksione, sekirize li ek gard li rapid.",
+      "- Pou konpran couma sit la servi pou nou kapav amelior li.",
+      "- Pou respekté bann obligasion legal.",
+      "Nou pa vann ou done personel."
+     ]
+    },
+    {
+     "t": "4. Bann tierse partie ki enplike",
+     "b": [
+      "- Vercel: lebergman ek servi sit la.",
+      "- Cloudflare: CDN ek sekirite.",
+      "- Google (Google Analytics 4) ek Microsoft (Clarity): statistik lisaz sit la.",
+      "- Meta (WhatsApp) ek Google (Gmail): kan ou kontakte nou grasa bann lien WhatsApp ou email lor sa sit la.",
+      "- Fournisser lotoks lamonai: selman resevwar bann demann lotoks depi nou servér, pa bann done vizitér.",
+      "Sa bann fournisser la kapav trat done deor Endonezi swivan zot prop politik."
+     ]
+    },
+    {
+     "t": "5. Konbien lontan done gardé",
+     "b": [
+      "Bann konversasion ek materyel proze gardé osi lontan ki neseser pou fer servis la marsé, donn sipor ek respekté bann obligasion legal, apre sa zot efasé ou anonimizé. Bann done analitik swiv bann parametr retansion zot fournisser. Bann done dan ou navigater reste ziska ki ou efas zot."
+     ]
+    },
+    {
+     "t": "6. Ou bann drwa",
+     "b": [
+      "Dapre Lalwa No. 27 2022 Endonezi lor Protekson Done Personel, ou ena drwa pou:",
+      "- konn ek gagn enn kopi ou done personel ki nou ena lor ou;",
+      "- demann pou korize bann done ki pa korek;",
+      "- demann pou efas ou done ou retir ou konsantman;",
+      "- oppoz a sertin tretman.",
+      "Avoy ou demann lor nocodingindonesia@gmail.com. Nou pou reponn dan enn delai rezonab."
+     ]
+    },
+    {
+     "t": "7. Sekirite ek zanfan",
+     "b": [
+      "Sa sit la servi HTTPS ek lakse ar bann done proze limite. Okenn metod pou transmet ou stok done pa konplettman san risk, donk nou pa kapav garanti enn sekirite absolu.",
+      "Nou bann servis fer pou bann dimoun ki ena 18 an ou plis. Nou pa rasanble ekspre bann done personel zanfan."
+     ]
+    },
+    {
+     "t": "8. Bann sanzman dan sa politik la",
+     "b": [
+      "Sa politik la kapav mizajou de tan an tan. Lédat dernié mizajou montre an o lapaz. Si bann lalang diferan dan zot sens, version endonezien la aplik."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Termes ek Kondision",
+   "description": "Bann reg pou servi sit ek servis Nocoding: pake, pri, couma travay fer, proprieté intelektuel ek limit responsabilité.",
+   "sections": [
+    {
+     "t": "1. Aksepte bann term la",
+     "b": [
+      "Kan ou ouver sa sit la ou servi bann servis Nocoding, ou dakor ar sa bann term ek kondision la. Si ou pa dakor, souple pa servi nou sit ou nou servis."
+     ]
+    },
+    {
+     "t": "2. Bann servis",
+     "b": [
+      "Nocoding konstri bann sit web portfolio ou CV, landing page ek profil konpani, sistem lenformasion ek operasion, ek otomatizasion prosesis biznes. Létendi travay, bann fonksionalité, kalandriye ek koute fini dakor ar ou par WhatsApp ou par email avan travay koumans.",
+      "Konsiltasion touzour gratis, kan ou bizin li, ek li pa obliz ou pou komann."
+     ]
+    },
+    {
+     "t": "3. Pake ek pri",
+     "b": [
+      "- Ti pake: depi Rp 500,000 par an, avek mentenans gratis ek enn domenn pou 1 an.",
+      "- Gran pake: depi Rp 2,000,000 par an, avek mentenans gratis ek lebergman pou 1 an.",
+      "Bann pri lor sit la pri depar. Lamonte final fini dakor apre enn konsiltasion, dapre ou bann bezwin. Pou bann vizitér deor Endonezi, bann pri montre dan lamonai lokal couma enn estimasion baze lor lotoks lesanz zour la; lamonte an ripi ki nou finn dakor la ki aplik. Bann koute extra, couma bann fonksionalité adisyonel ou renouvelman apre perio gratis la fini, dir ou avan travay fer."
+     ]
+    },
+    {
+     "t": "4. Couma travay fer ek ou bann responsabilité",
+     "b": [
+      "Dezin la revize ek aprouve avek ou avan prodiksion. Bann revizion fer couma dakor.",
+      "Ou responsab pou donn bann materyel (logo, tèks, foto, done) alorla ek pou ena drwa pou servi zot. Retar dan materyel ou feedback kapav afekte kalandriye la."
+     ]
+    },
+    {
+     "t": "5. Mentenans",
+     "b": [
+      "Mentenans gratis pou 1 an kouver korekson bann erer dan nou travay ek bann mizajou sekirite debaz. Nouvo fonksionalité, gran sanzman dezin ek travay deor lakor orizinal peye separeman."
+     ]
+    },
+    {
+     "t": "6. Proprieté intelektuel",
+     "b": [
+      "Bann materyel ki ou donn res pou ou. Travay fini donn ou kan paiman couma dakor fini. Nocoding kapav montre bann travay vivan couma egzanp dan so portfolio, sauf si ou demann par ekri pou pa montre.",
+      "Dezin, tèks ek zartik lor nocoding.web.id pou Nocoding. Ou kapav partaz bann lien, me ou pa kapav kopye ek servi zot komersialman san permisyon. Bann foto zartik sorti lor Unsplash ek swiv so lisans; lasours kredité anba sak foto."
+     ]
+    },
+    {
+     "t": "7. Lalang sit la",
+     "b": [
+      "Sa sit la disponib dan boukou lalang. Bann tradiksion, spesyalman pou bann lalang ki ena mwin lokitér, kapav pa parfe. Si zot diferan dan zot sens, version endonezien la aplik. Sa bann paz legal la disponib an endonezien ek an anglé."
+     ]
+    },
+    {
+     "t": "8. Limit responsabilité",
+     "b": [
+      "Nou travay pou donn bon rézilta, me nou pa promet rézilta biznes spesifik couma klasman dan rersers, nonb vizitér ou lavant. Nou pa responsab pou bann pertirbasion ki sorti bann tierse partie couma fournisser lebergman, domenn ou paiman, ni pou bann pert endirek.",
+      "Nou responsabilité pou enn servis limite a lamonte ki ou finn peye pou sa servis la, dan lalimit ki lalwa permet. Sa pa redwir bann drwa ki ou ena ki lalwa protez."
+     ]
+    },
+    {
+     "t": "9. Lalwa aplikab",
+     "b": [
+      "Sa bann term la gouverne par bann lalwa Repiblik Endonezi. Si enn diskord ariv, nou prémié esey regle li par diskision. Si pena akor, diskord la regle par bann tribinal konpeten dan Endonezi."
+     ]
+    },
+    {
+     "t": "10. Sanzman ek kontak",
+     "b": [
+      "Sa bann term la kapav mizajou de tan an tan; lédat dernié mizajou montre an o lapaz. Bann kestion kapav avoye lor nocodingindonesia@gmail.com ou lor WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Politik Cookies",
+   "description": "Bann cookies ek stokaz lokal ki sit Nocoding servi, pou ki zot servi, ek couma gere zot.",
+   "sections": [
+    {
+     "t": "1. Ki cookies ete",
+     "b": [
+      "Cookies ete ti fisye ki enn sit stok dan ou navigater. Stokaz lokal ek stokaz sesion marse parey me zot pa avoye otomatikman bay enn servér. Lor sa paz la nou apel zot tou cookies."
+     ]
+    },
+    {
+     "t": "2. Ki sit la bizin pou marse",
+     "b": [
+      "Stoke dan ou navigater ek pa avoye lor nou bann servér:",
+      "- nocoding-language ek nocoding-language-set: lalang ki ou finn swazir ou ki finn detekte depi ou navigater.",
+      "- nocoding-pricing (sesion): lamonai ek lotoks estimé, pou pri pa kalkile ankor lor sak paz.",
+      "- Bann marke zartik: si ou finn dza lik, war ou partaz enn zartik, pou bann konte pa double.",
+      "- Enn marke tanporer pozision defileman kan ou deplas ant bann parti sit la."
+     ]
+    },
+    {
+     "t": "3. Analitik",
+     "b": [
+      "Kan zot activé, de servis analitik sarze apre ki ou interaz ar paz la (defile, tape ou pous enn touch):",
+      "- Google Analytics 4 (cookies couma _ga ek _ga_*, valab ziska anviron 2 an): statistik vizit.",
+      "- Microsoft Clarity (cookies couma _clck, _clsk, CLID ek MUID, valab ziska anviron 1 an): heatmap ek anrezistreman anonim linteraksion.",
+      "Bann fournisser CDN ek sekirite kapav osi met bann cookies teknik pou protez sit la kont trafik danzere."
+     ]
+    },
+    {
+     "t": "4. Couma gere cookies",
+     "b": [
+      "Ou kapav efas ou blok cookies dan parametr ou navigater. Ou kapav osi instal adon ofisyel Google pou refiz Google Analytics. Si cookies analitik blokké, sit la marse kanmem; si stokaz lokal efasé, ou lasoi lalang retourn a defo."
+     ]
+    },
+    {
+     "t": "5. Kestion",
+     "b": [
+      "Pou bann kestion lor sa politik la, kontakte nocodingindonesia@gmail.com. Couma done personel servi explike plis dan Politik Konfidansialité. Si bann lalang diferan dan zot sens, version endonezien la aplik."
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Ultimo aktualisashon",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Reglamento di privasidat",
+   "description": "Ki datos Nocoding ta kolektá, pa ki motibo nan ta usa nan, ken ta prosesá nan, i ki derechonan bo tin riba bo datos personal.",
+   "sections": [
+    {
+     "t": "1. Ken nos ta",
+     "b": [
+      "Nocoding (nocoding.web.id) ta un servisio pa traha website, aplikashon, sistema di informashon i outomatisashon, manehá pa Abid Hanan Wicaksono na Indonesia. E reglamento aki ta splika kon nos ta trata bo datos personal ora bo visitá e página aki òf ora bo kontaktá nos.",
+      "Pregunta tokante e reglamento aki por wòrdu manda pa nocodingindonesia@gmail.com òf pa WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Datos ku nos ta kolektá",
+     "b": [
+      "- Datos ku bo mes ta duna nos: bo nòmber, número di WhatsApp, email i un deskripshon di bo proyekto ora bo kontaktá nos pa WhatsApp òf email. E página aki no tin kuenta di usuario ni formulario pa registrá.",
+      "- Datos tékniko ku ta wòrdu prosesá outomátikamente: adrès IP, tipo di aparato i di browser, i e páginanan ku bo habri. Nos proveedornan di hosting i CDN ta prosesá nan pa mustra e página i protehé dje kontra abuso.",
+      "- Pais aproximá: pa por mustra preis den bo moneda, nos ta estimá bo pais for di informashon di CDN òf for di e idioma di bo browser. Nos no ta warda esaki riba nos servidor.",
+      "- Datos di análisis: Google Analytics 4 i Microsoft Clarity (ora nan ta aktivá) ta kolektá estadístika di uso manera páginanan habrí, durashon di vishita, tipo di aparato i grabashon anónimo di interakshon. Nan ta karga so despues ku bo interaktuá ku e página.",
+      "- Almasenahe den browser: bo eskoho di idioma, marka ku ta indiká ku bo a gusta, mira òf kompartí un artíkulo kaba, i un estimashon temporal di preis. Detahe ta den e Reglamento di cookies.",
+      "- E kantidatnan di bista, di gusta i di kompartí di artíkulonan ta wòrdu warda komo número kombiná, sin identidat di bisitante."
+     ]
+    },
+    {
+     "t": "3. Pa ki motibo nan ta usa e datos",
+     "b": [
+      "- Kontestá bo preguntanan, prepará ofertanan i ehekutá bo proyekto.",
+      "- Mustra, asegurá i mantené e página rápido.",
+      "- Komprondé kon e página ta wòrdu usá pa nos por mehorá e.",
+      "- Kumpli ku obligashonnan legal.",
+      "Nos no ta bende bo datos personal."
+     ]
+    },
+    {
+     "t": "4. Terseronan envolví",
+     "b": [
+      "- Vercel: hosting i mustra di e página.",
+      "- Cloudflare: CDN i siguridat.",
+      "- Google (Google Analytics 4) i Microsoft (Clarity): estadístika di uso di e página.",
+      "- Meta (WhatsApp) i Google (Gmail): ora bo kontaktá nos pa medio di e links di WhatsApp òf email riba e página aki.",
+      "- Proveedor di kambio di moneda: ta risibí so petishon di kambio for di nos servidor, no datos di bisitante.",
+      "E proveedornan aki por prosesá datos for di Indonesia segun nan mes reglamento."
+     ]
+    },
+    {
+     "t": "5. Kuantu tempu e datos ta wòrdu warda",
+     "b": [
+      "Konversashonnan i material di proyekto ta wòrdu warda mientras ku ta nesesario pa manehá e servisio, duna apoyo i kumpli ku obligashonnan legal, i despues nan ta wòrdu eliminá òf hasi anónimo. Datos di análisis ta sigui e konfigurashon di retenshon di nan proveedor. Datos den bo browser ta keda te ora bo eliminá nan."
+     ]
+    },
+    {
+     "t": "6. Bo derechonan",
+     "b": [
+      "Segun Lei No. 27 di 2022 di Indonesia tokante protekshon di datos personal, bo tin derecho pa:",
+      "- sa i risibí un kopia di e datos personal ku nos tin di bo;",
+      "- pidi pa korigí datos inkorekto;",
+      "- pidi pa eliminá bo datos òf retirá bo konsentimentu;",
+      "- obheta ku sierto prosesamentu.",
+      "Manda bo petishon pa nocodingindonesia@gmail.com. Nos lo kontestá den un tempu rasonabel."
+     ]
+    },
+    {
+     "t": "7. Siguridat i mucha",
+     "b": [
+      "E página aki ta usa HTTPS i akseso na datos di proyekto ta limitá. Ningun método pa manda òf warda datos no ta kompletamente libre di riesgo, pa e motibo ei nos no por garantisá siguridat absoluto.",
+      "Nos servisionan ta pa hende di 18 aña pa ariba. Nos no ta kolektá deliberadamente datos personal di mucha."
+     ]
+    },
+    {
+     "t": "8. Kambionan na e reglamento aki",
+     "b": [
+      "E reglamento aki por wòrdu aktualisá di tempu na tempu. E fecha di e ultimo aktualisashon ta wòrdu mustrá na tope di e página. Si idiomanan difer den signifikado, e versho na indonesio ta aplikabel."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Términonan i kondishonnan",
+   "description": "E reglanan pa usa e página i e servisionan di Nocoding: paketenan, preisnan, kon e trabou ta wòrdu hasí, propiedat intelektual i limitenan di responsabilidat.",
+   "sections": [
+    {
+     "t": "1. Aseptá e términonan aki",
+     "b": [
+      "Ora bo habri e página aki òf usa e servisionan di Nocoding, bo ta di akuerdo ku e términonan i kondishonnan aki. Si bo no ta di akuerdo, por fabor no usa nos página ni nos servisionan."
+     ]
+    },
+    {
+     "t": "2. E servisionan",
+     "b": [
+      "Nocoding ta traha website di portafolio òf CV, landing page i perfil di kompania, sistema di informashon i di operashon, i outomatisashon di proseso di negoshi. E alkanse di trabou, funshonnan, kalendario i kosto ta wòrdu aserká huntu ku bo pa WhatsApp òf email promé ku e trabou kuminsá.",
+      "Konsulta ta semper gratis, ora ku bo nesesitá e, i e no ta obligá bo pa hasi un orden."
+     ]
+    },
+    {
+     "t": "3. Paketenan i preisnan",
+     "b": [
+      "- Pakete chikí: for di Rp 500.000 pa aña, inkluyendo mantenimentu gratis i un dominio pa 1 aña.",
+      "- Pakete grandi: for di Rp 2.000.000 pa aña, inkluyendo mantenimentu gratis i hosting pa 1 aña.",
+      "E preisnan riba e página ta preis di kuminsamentu. E suma final ta wòrdu aserká despues di un konsulta, segun bo nesesidat. Pa bisitantenan for di Indonesia, e preisnan ta wòrdu mustrá den moneda lokal komo estimashon basá riba e tarifa di kambio diario; e suma den rupia ku nos aserká ta esun ku ta vigente. Kostonan adishonal, manera funshonnan ekstra òf renovashon despues ku e periodo gratis kaba, ta wòrdu informá na bo promé ku e trabou wòrdu hasí."
+     ]
+    },
+    {
+     "t": "4. Kon e trabou ta wòrdu hasí i bo responsabilidatnan",
+     "b": [
+      "E diseño ta wòrdu revisá i aprobá huntu ku bo promé ku produkshon. Revishonnan ta wòrdu hasí segun akordá.",
+      "Bo ta responsabel pa entregá e materialnan (logo, teksto, potret, datos) na tempu i pa tin derecho pa usa nan. Retraso den materialnan òf feedback por afektá e kalendario."
+     ]
+    },
+    {
+     "t": "5. Mantenimentu",
+     "b": [
+      "Mantenimentu gratis pa 1 aña ta kubri koreksion di fayonan den nos trabou i aktualisashonnan básiko di siguridat. Funshonnan nobo, kambionan grandi di diseño i trabou for di e akuerdo original ta wòrdu kobrá aparte."
+     ]
+    },
+    {
+     "t": "6. Propiedat intelektual",
+     "b": [
+      "E materialnan ku bo entregá ta keda bo propiedat. E trabou terminá ta wòrdu entregá na bo ora e pago segun akordá ta kompleto. Nocoding por mustra trabou ku ta na bista komo ehèmpel den su portafolio, a menos ku bo pidi pa skrito pa no mustra e.",
+      "E diseño, teksto i artíkulonan riba nocoding.web.id ta pertenesé na Nocoding. Bo por kompartí links na nan, ma bo no por kopia nan i usa nan komersialmente sin pèrmit. E potretnan di artíkulo ta bin di Unsplash i ta sigui su lisensia; e fuente ta menshoná bou di kada potret."
+     ]
+    },
+    {
+     "t": "7. Idiomanan di e página",
+     "b": [
+      "E página aki ta disponibel den hopi idioma. Tradukshonnan, spesialmente pa idiomanan ku menos hablante, por no ta perfekto. Si nan difer den signifikado, e versho na indonesio ta aplikabel. E páginanan legal aki ta disponibel na indonesio i ingles."
+     ]
+    },
+    {
+     "t": "8. Limitenan di responsabilidat",
+     "b": [
+      "Nos ta traha pa entregá bon resultado, ma nos no ta primintí resultadonan spesífiko di negoshi manera posishon den buskadó, kantidat di bisitante òf benta. Nos no ta responsabel pa interupshonnan di terseronan manera proveedornan di hosting, dominio òf pago, ni pa pèrdida indirekto.",
+      "Nos responsabilidat pa un servisio ta limitá na e suma ku bo a paga pa e servisio ei, te kaminda lei permitié. Esaki no ta redusí derechonan ku bo tin ku lei ta protehé."
+     ]
+    },
+    {
+     "t": "9. Lei aplikabel",
+     "b": [
+      "E términonan aki ta wòrdu goberná pa e leinan di Repúblika di Indonesia. Si un disputa surgi, nos ta purba resolvé e promé ku diskushon. Si no ta yega na akuerdo, e disputa ta wòrdu resolvé pa e korthonan kompetente na Indonesia."
+     ]
+    },
+    {
+     "t": "10. Kambionan i kontakto",
+     "b": [
+      "E términonan aki por wòrdu aktualisá di tempu na tempu; e fecha di e ultimo aktualisashon ta wòrdu mustrá na tope di e página. Pregunta por wòrdu manda pa nocodingindonesia@gmail.com òf pa WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Reglamento di cookies",
+   "description": "E cookies i almasenahe lokal ku e página di Nocoding ta usa, pa kiko nan ta, i kon pa manehá nan.",
+   "sections": [
+    {
+     "t": "1. Kiko cookies ta",
+     "b": [
+      "Cookies ta archivonan chikí ku un página ta warda den bo browser. Almasenahe lokal (local storage) i almasenahe di sesion (session storage) ta traha di manera similar ma nan no ta wòrdu manda outomátikamente pa un servidor. Riba e página aki nos ta yama tur nan cookies."
+     ]
+    },
+    {
+     "t": "2. Kiko e página mester pa funshoná",
+     "b": [
+      "Warda den bo browser i no manda pa nos servidor:",
+      "- nocoding-language i nocoding-language-set: e idioma ku bo skohe òf ku a wòrdu detektá for di bo browser.",
+      "- nocoding-pricing (sesion): e moneda i tarifa estimá, pa e preisnan no wòrdu kalkulá di nobo riba kada página.",
+      "- Marka di artíkulo: si bo a gusta, mira òf kompartí un artíkulo kaba, pa e kantidatnan no dobla.",
+      "- Un marka temporal di posishon di scroll ora bo move entre partinan di e página."
+     ]
+    },
+    {
+     "t": "3. Análisis",
+     "b": [
+      "Ora aktivá, dos servisio di análisis ta karga despues ku bo interaktuá ku e página (scroll, tap òf primi un tekla):",
+      "- Google Analytics 4 (cookies manera _ga i _ga_*, balido te ariba mas o menos 2 aña): estadístika di vishita.",
+      "- Microsoft Clarity (cookies manera _clck, _clsk, CLID i MUID, balido te ariba mas o menos 1 aña): heatmaps i grabashon anónimo di interakshon.",
+      "Proveedornan di CDN i siguridat tambe por pone cookies tékniko pa protehé e página kontra tráfiko danjino."
+     ]
+    },
+    {
+     "t": "4. Kon pa manehá cookies",
+     "b": [
+      "Bo por eliminá òf blòkia cookies den e konfigurashon di bo browser. Bo por instalá tambe e add-on ofisial di Google pa opt-out di Google Analytics. Si cookies di análisis ta blòkia, e página ta sigui funshoná; si local storage ta wòrdu limpiá, bo eskoho di idioma ta bolbe na e balor original."
+     ]
+    },
+    {
+     "t": "5. Preguntanan",
+     "b": [
+      "Pa preguntanan tokante e reglamento aki, kontaktá nocodingindonesia@gmail.com. Kon datos personal ta wòrdu usá ta splikashon mas den e Reglamento di privasidat. Si idiomanan difer den signifikado, e versho na indonesio ta aplikabel."
+     ]
+    }
+   ]
+  }
+ }
+}

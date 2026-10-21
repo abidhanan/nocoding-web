@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Las taim we i kisim nupela senis",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Lo bilong Haitim Infomesen",
+   "description": "Wanem data Nocoding i kisim, bilong wanem em i save yusim, husat i save wokim, na wanem raits yu gat long data bilong yu yet.",
+   "sections": [
+    {
+     "t": "1. Mipela husat",
+     "b": [
+      "Nocoding (nocoding.web.id) em i wanpela wok bilong websait, app, sistem bilong infomesen na ottomesen we Abid Hanan Wicaksono i bosim long Indonesia. Dispela lo i stori long wanem pasin mipela i bihainim long data bilong yu yet taim yu go lukim dispela sait o toktok wantaim mipela.",
+      "Yu ken salim askim bilong dispela lo i go long nocodingindonesia@gmail.com o WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data mipela i kisim",
+     "b": [
+      "- Data yu givim long mipela: nem bilong yu, namba WhatsApp, imel na stori long projek bilong yu taim yu toktok wantaim mipela long WhatsApp o imel. Dispela sait i no gat akaun bilong yusa o fom bilong rejistesen.",
+      "- Data bilong teknik we i wok yet long wanpela taim: IP adres, kain divais na brausa, na ol pes yu opim. Ol kampani bilong hosting na CDN bilong mipela i save wokim long givim sait na tanim i stap sef long ol i save mekim nogut.",
+      "- Kantri long gesim: long soim ol prais long mani bilong yu, kantri bilong yu i kisim gesim long infomesen bilong CDN o tokples bilong brausa bilong yu. Mipela i no save putim long ol server bilong mipela.",
+      "- Data bilong analitiks: Google Analytics 4 na Microsoft Clarity (taim ol i op) i kisim stetistik bilong yus olsem ol pes i op, longpela bilong visit, kain divais na ol rekot bilong wok yu mekim we i no soim yu husat. Ol i save lod bihain tasol long yu wokim sampela samting long pes.",
+      "- Stoa long brausa: tokples yu makim, ol mak i soim olsem yu laikim pinis, lukim pinis o serim pinis wanpela atikol, na gesim prais bilong sotpela taim. Ol moa tok i stap long Lo bilong Kuki.",
+      "- Namba bilong lukim, laikim na serim atikol i stap olsem wanpela namba bung, i no gat nem bilong ol man i kam."
+     ]
+    },
+    {
+     "t": "3. Data i go long wanem wok",
+     "b": [
+      "- Bekim askim bilong yu, redim kot na mekim projek bilong yu.",
+      "- Givim sait, tanim i stap sef na mekim i ran kwik.",
+      "- Save olsem wanem ol i yusim sait long mekim i kamap gutpela.",
+      "- Bihainim ol wok bilong lo.",
+      "Mipela i no save salim data bilong yu yet."
+     ]
+    },
+    {
+     "t": "4. Ol arapela lain i insait",
+     "b": [
+      "- Vercel: hostim na givim sait.",
+      "- Cloudflare: CDN na sefti.",
+      "- Google (Google Analytics 4) na Microsoft (Clarity): stetistik bilong yus bilong sait.",
+      "- Meta (WhatsApp) na Google (Gmail): taim yu toktok wantaim mipela long ol link bilong WhatsApp o imel long dispela sait.",
+      "- Kampani bilong ret bilong mani: i kisim tasol askim bilong ret long server bilong mipela, i no kisim data bilong ol man i kam.",
+      "Ol dispela kampani i ken wokim data i stap ausait long Indonesia long bihainim lo bilong ol yet."
+     ]
+    },
+    {
+     "t": "5. Data i stap inap hamas taim",
+     "b": [
+      "Ol toktok na ol pepa bilong projek i stap inap long taim ol i mas stap long ran bilong wok, givim halivim na bihainim lo, na bihain ol i go lus o ol i rausim nem. Data bilong analitiks i bihainim ol setin bilong holim data bilong kampani bilong en. Data long brausa bilong yu i stap inap yu rausim."
+     ]
+    },
+    {
+     "t": "6. Ol raits bilong yu",
+     "b": [
+      "Anda long Lo Namba 27 bilong yia 2022 bilong Indonesia long Sefti bilong Data bilong Man yet, yu gat raits long:",
+      "- save na kisim kopi bilong data bilong yu yet we mipela i holim;",
+      "- askim long stretim data we i no stret;",
+      "- askim long rausim data bilong yu o kisim bek tok orait bilong yu;",
+      "- agensim sampela wok long data.",
+      "Salim askim bilong yu i go long nocodingindonesia@gmail.com. Mipela bai bekim long gutpela taim."
+     ]
+    },
+    {
+     "t": "7. Sefti na ol pikinini",
+     "b": [
+      "Dispela sait i yusim HTTPS na lukim data bilong projek i gat pasin bilong pasim. I no gat pasin bilong salim o holim data we i no gat wanpela resis tru, olsem na mipela i no inap tok promis long olgeta sefti.",
+      "Ol wok bilong mipela i bilong ol man i gat 18 yia o antap. Mipela i no save kisim data bilong ol pikinini long save."
+     ]
+    },
+    {
+     "t": "8. Senis long dispela lo",
+     "b": [
+      "Ken i gat taim mipela i senisim dispela lo. Dei bilong las senis i stap antap long pes. Sapos ol tokples i no wankain long minim, tok Indonesia i holim."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Ol Lo na Kondisen",
+   "description": "Ol lo bilong yusim sait na ol wok bilong Nocoding: ol pekis, ol prais, olsem wanem wok i kamap, prapati bilong tingting na ol limit bilong stap res.",
+   "sections": [
+    {
+     "t": "1. Orait long ol dispela lo",
+     "b": [
+      "Taim yu opim dispela sait o yusim ol wok bilong Nocoding, yu orait long ol dispela lo na kondisen. Sapos yu no orait, plis no yusim sait o ol wok bilong mipela."
+     ]
+    },
+    {
+     "t": "2. Ol wok",
+     "b": [
+      "Nocoding i wokim ol websait bilong portfolio o CV, ol lending pes na ol profail bilong kampani, ol sistem bilong infomesen na wok, na ottomesen bilong ol wok bilong bisnis. Hamas wok, ol fisa, taim na pe i kamap wantaim yu long WhatsApp o imel pastaim long wok i kirap.",
+      "Toktok bilong askim tingting i fri oltaim, long wanem taim yu nidim, na i no strong long yu long oda."
+     ]
+    },
+    {
+     "t": "3. Ol pekis na ol prais",
+     "b": [
+      "- Liklik pekis: stat long Rp 500.000 long wanpela yia, wantaim fri mentenens na domen long 1 yia.",
+      "- Bikpela pekis: stat long Rp 2.000.000 long wanpela yia, wantaim fri mentenens na hosting long 1 yia.",
+      "Ol prais long sait em ol prais bilong stat. Las namba i kamap bihain long toktok, long bihainim wanem yu nidim. Long ol man i kam i stap ausait long Indonesia, ol prais i kamap long mani bilong ples olsem gesim, bihainim ret bilong mani long olgeta dei; namba long rupia we mipela i orait long en em i holim. Ol ekstra pe, olsem ol ekstra fisa o stretim bek bihain long fri taim i pinis, mipela i tokim yu pastaim long wok i kamap."
+     ]
+    },
+    {
+     "t": "4. Olsem wanem wok i kamap na wok bilong yu",
+     "b": [
+      "Dizain i kisim lukluk na orait wantaim yu bipo long wokim. Ol stretim bek i kamap olsem mipela i orait.",
+      "Yu mas givim ol samting (logo, tok, piksa, data) long stret taim na yu mas gat raits long yusim ol. Taim ol samting o tok bilong yu i bihain, em i ken senisim taim bilong wok."
+     ]
+    },
+    {
+     "t": "5. Mentenens",
+     "b": [
+      "Fri mentenens long 1 yia i holim stretim ol rong long wok bilong mipela na ol bekim bilong sefti. Ol nupela fisa, ol bikpela senis bilong dizain na wok i ausait long namba wan tok orait i gat pe bilong en yet."
+     ]
+    },
+    {
+     "t": "6. Prapati bilong tingting",
+     "b": [
+      "Ol samting yu givim i stap bilong yu yet. Wok i pinis i go long yu taim pe i pinis olsem mipela i orait. Nocoding i ken soim ol wok i stap laip olsem eksampel long portfolio bilong en, sapos yu no askim long pepa long no ken soim.",
+      "Dizain, ol tok na ol atikol long nocoding.web.id i bilong Nocoding. Yu ken serim ol link bilong ol, tasol yu no ken kopim na yusim long bisnis sapos i no gat orait. Ol piksa bilong atikol i kam long Unsplash na i bihainim lo bilong en; ples ol i kam long en i stap anda long olgeta piksa."
+     ]
+    },
+    {
+     "t": "7. Tokples bilong sait",
+     "b": [
+      "Dispela sait i stap long planti tokples. Ol tanim tok, moa long ol tokples we liklik man i toktok long en, i no ken stret olgeta. Sapos ol i no wankain long minim, tok Indonesia i holim. Ol dispela pes bilong lo i stap long Indonesia na Inglis."
+     ]
+    },
+    {
+     "t": "8. Limit bilong stap res",
+     "b": [
+      "Mipela i wok hat long givim gutpela kamap, tasol mipela i no promis long wanpela kamap bilong bisnis olsem ples long sas, namba bilong ol man i kam o salim. Mipela i no stap res long ol bagarap i kam long ol arapela lain olsem kampani bilong hosting, domen o pe, o long ol lus we i no kam stret.",
+      "Stap res bilong mipela long wanpela wok i stap long hamas pe yu bin givim long dispela wok tasol, inap long wanem lo i larim. Dispela i no daunim ol raits bilong yu we lo i holimpas."
+     ]
+    },
+    {
+     "t": "9. Lo i holim",
+     "b": [
+      "Ol dispela lo i stap anda long ol lo bilong Republik bilong Indonesia. Sapos wanpela trabel i kamap, mipela i traim pastaim long stretim long toktok. Sapos i no gat wanpela tok orait, kot bilong Indonesia i gat namba long dispela trabel bai stretim."
+     ]
+    },
+    {
+     "t": "10. Ol senis na toktok",
+     "b": [
+      "Ken i gat taim mipela i senisim ol dispela lo; dei bilong las senis i stap antap long pes. Yu ken salim askim i go long nocodingindonesia@gmail.com o WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Lo bilong Kuki",
+   "description": "Ol kuki na lokal stoa dispela sait Nocoding i yusim, bilong wanem ol i stap, na olsem wanem long bosim ol.",
+   "sections": [
+    {
+     "t": "1. Kuki em wanem",
+     "b": [
+      "Ol kuki em ol liklik fail we wanpela sait i putim long brausa bilong yu. Lokal stoa na sesen stoa i wok wankain tasol ol i no save go long server long wanpela taim. Long dispela pes mipela i kolim olgeta kuki."
+     ]
+    },
+    {
+     "t": "2. Wanem samting sait i nidim long wok",
+     "b": [
+      "I stap long brausa bilong yu na i no go long ol server bilong mipela:",
+      "- nocoding-language na nocoding-language-set: tokples yu makim o ol i painim long brausa bilong yu.",
+      "- nocoding-pricing (sesen): mani na ret we ol i gesim, olsem na ol i no wokim bek ol prais long olgeta pes.",
+      "- Ol mak bilong atikol: yu laikim pinis, lukim pinis o serim pinis wanpela atikol, olsem na ol namba i no kamap tupela taim.",
+      "- Wanpela liklik mak bilong ples bilong skrol taim yu go long wanpela hap long sait i go long narapela."
+     ]
+    },
+    {
+     "t": "3. Analitiks",
+     "b": [
+      "Taim i op, tupela wok bilong analitiks i lod bihain long yu wokim sampela samting long pes (skrol, tatsim o presim wanpela ki):",
+      "- Google Analytics 4 (ol kuki olsem _ga na _ga_*, i stap inap long 2 yia): stetistik bilong visit.",
+      "- Microsoft Clarity (ol kuki olsem _clck, _clsk, CLID na MUID, i stap inap long 1 yia): ol hit map na ol rekot bilong wok yu mekim we i no soim yu husat.",
+      "Ol kampani bilong CDN na sefti i ken putim ol kuki bilong teknik tu long tanim sait i stap sef long ol nogut trafik."
+     ]
+    },
+    {
+     "t": "4. Olsem wanem long bosim ol kuki",
+     "b": [
+      "Yu ken rausim o pasim ol kuki long ol setin bilong brausa bilong yu. Yu ken putim tu ofisal ad-on bilong Google long no joinim Google Analytics. Sapos ol kuki bilong analitiks i pas, sait i wok yet; sapos lokal stoa i klin, tokples yu makim i go bek long dispela i stap pastaim."
+     ]
+    },
+    {
+     "t": "5. Ol askim",
+     "b": [
+      "Long ol askim bilong dispela lo, toktok long nocodingindonesia@gmail.com. Olsem wanem ol i yusim data bilong yu yet i stori moa long Lo bilong Haitim Infomesen. Sapos ol tokples i no wankain long minim, tok Indonesia i holim."
+     ]
+    }
+   ]
+  }
+ }
+}

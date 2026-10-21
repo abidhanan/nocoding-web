@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Ìgbà ìmúdójúìwọ̀n gbẹ̀yìn",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Ìlànà Àṣírí",
+   "description": "Àwọn dátà tí Nocoding ń kójọ, ohun tí a fi ń lò wọ́n, ẹni tí ń ṣe ìṣàkóso wọn, àti àwọn ẹ̀tọ́ rẹ lórí dátà ara ẹni rẹ.",
+   "sections": [
+    {
+     "t": "1. Ẹni tí a jẹ́",
+     "b": [
+      "Nocoding (nocoding.web.id) jẹ́ iṣẹ́ ìkọ́ ojú-òpó wẹ́ẹ̀bù, àpù, ètò ìwífún àti ìṣiṣẹ́ aládàáṣe tí Abid Hanan Wicaksono ń darí ní Indonesia. Ìlànà yìí ṣàlàyé bí a ṣe ń ṣe pẹ̀lú dátà ara ẹni rẹ nígbà tí o bá ṣèbẹ̀wò sí ojú-òpó yìí tàbí tí o bá kàn sí wa.",
+      "Ìbéèrè nípa ìlànà yìí ni a lè fi ránṣẹ́ sí nocodingindonesia@gmail.com tàbí lórí WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Dátà tí a ń kójọ",
+     "b": [
+      "- Dátà tí o fún wa: orúkọ rẹ, nọ́mbà WhatsApp rẹ, ímeèlì rẹ àti àpèjúwe iṣẹ́ àkànṣe rẹ nígbà tí o bá kàn sí wa lórí WhatsApp tàbí ímeèlì. Ojú-òpó yìí kò ní àkọọ́lẹ̀ olùlò tàbí fọ́ọ̀mù ìforúkọsílẹ̀.",
+      "- Dátà ìmọ̀-ẹ̀rọ tí a ń ṣe lọ́nà aládàáṣe: àdírẹ́sì IP, irú ẹ̀rọ àti aṣàwákiri, àti àwọn ojú-ìwé tí o ṣí. Àwọn olùpèsè àtìlẹ́yìn àti CDN wa ń ṣe é kí wọ́n lè gbé ojú-òpó náà jáde kí wọ́n sì dáàbò bò ó lọ́wọ́ ìlòkulò.",
+      "- Orílẹ̀-èdè ní àfojúdá: kí a lè fi owó àwọn ìdíyelé hàn ní owó rẹ, a ń fojú díwọ̀n orílẹ̀-èdè rẹ láti inú ìwífún CDN tàbí èdè aṣàwákiri rẹ. A kì í fi pamọ́ sórí àwọn olupin wa.",
+      "- Dátà ìtúpalẹ̀: Google Analytics 4 àti Microsoft Clarity (nígbà tí a bá tan wọ́n) ń kó àwọn ìṣirò lílò jọ bíi àwọn ojú-ìwé tí a ṣí, bí ìbẹ̀wò ṣe gùn tó, irú ẹ̀rọ àti àwọn àkọsílẹ̀ ìbáṣepọ̀ tí kò ní orúkọ. Wọ́n máa ń gbé jáde lẹ́yìn tí o bá ti bá ojú-ìwé náà ṣe nǹkan.",
+      "- Ibi ìpamọ́ aṣàwákiri: yíyàn èdè rẹ, àmì pé o ti fẹ́ràn, ti wo tàbí ti pín àpilẹ̀kọ kan, àti ìṣirò owó ìdíyelé fún ìgbà díẹ̀. Àwọn àlàyé wà nínú Ìlànà Kúkì.",
+      "- Iye ìwò, ìfẹ́ràn àti ìpínkiri àpilẹ̀kọ ni a ń pamọ́ gẹ́gẹ́ bí iye àpapọ̀, láìsí ìdánimọ̀ àlejò."
+     ]
+    },
+    {
+     "t": "3. Ohun tí a fi ń lo dátà náà",
+     "b": [
+      "- Dídáhùn àwọn ìbéèrè rẹ, ṣíṣe ìmúrasílẹ̀ àwọn ìdíyelé àti ṣíṣe iṣẹ́ àkànṣe rẹ.",
+      "- Gbígbé ojú-òpó jáde, dídáàbò bò ó àti mímú kí ó yára.",
+      "- Òye bí a ṣe ń lo ojú-òpó náà kí a lè mú un dára sí i.",
+      "- Mímú àwọn ojúṣe òfin ṣẹ.",
+      "A kì í ta dátà ara ẹni rẹ."
+     ]
+    },
+    {
+     "t": "4. Àwọn ẹgbẹ́ kẹta tí wọ́n kàn",
+     "b": [
+      "- Vercel: ṣíṣe àtìlẹ́yìn àti gbígbé ojú-òpó náà jáde.",
+      "- Cloudflare: CDN àti ààbò.",
+      "- Google (Google Analytics 4) àti Microsoft (Clarity): ìṣirò lílo ojú-òpó.",
+      "- Meta (WhatsApp) àti Google (Gmail): nígbà tí o bá kàn sí wa nípasẹ̀ àwọn ọ̀nà asopọ̀ WhatsApp tàbí ímeèlì lórí ojú-òpó yìí.",
+      "- Olùpèsè iye pàṣípààrọ̀ owó: ó ń gba ìbéèrè iye pàṣípààrọ̀ nìkan láti ọ̀dọ̀ olupin wa, kì í ṣe dátà àlejò.",
+      "Àwọn olùpèsè wọ̀nyí lè ṣe ìṣàkóso dátà ní ìta Indonesia gẹ́gẹ́ bí ìlànà tiwọn."
+     ]
+    },
+    {
+     "t": "5. Bí a ṣe ń tọ́jú dátà pẹ́ tó",
+     "b": [
+      "A ń tọ́jú àwọn ìbánisọ̀rọ̀ àti àwọn ohun èlò iṣẹ́ àkànṣe fún ìgbà tí ó bá yẹ láti ṣe iṣẹ́ náà, láti fúnni ní ìrànlọ́wọ́ àti láti mú àwọn ojúṣe òfin ṣẹ, lẹ́yìn náà a óò pa wọ́n rẹ́ tàbí a óò mú kí wọ́n di aláìlórúkọ. Dátà ìtúpalẹ̀ ń tẹ̀lé àwọn ètò ìpamọ́ olùpèsè rẹ̀. Dátà inú aṣàwákiri rẹ máa wà títí tí o fi pa á rẹ́."
+     ]
+    },
+    {
+     "t": "6. Àwọn ẹ̀tọ́ rẹ",
+     "b": [
+      "Lábẹ́ Òfin Nọ́mbà 27 ti ọdún 2022 ti Indonesia lórí Ààbò Dátà Ara Ẹni, o ní ẹ̀tọ́ láti:",
+      "- mọ̀ àti gba ẹ̀dà dátà ara ẹni tí a ní nípa rẹ;",
+      "- béèrè pé kí a tún dátà tí kò tọ̀nà ṣe;",
+      "- béèrè pé kí a pa dátà rẹ rẹ́ tàbí kí o yọ ìfọwọ́sí rẹ kúrò;",
+      "- takò àwọn ìṣàkóso kan.",
+      "Fi ìbéèrè rẹ ránṣẹ́ sí nocodingindonesia@gmail.com. A óò dáhùn láàrín àkókò tí ó bọ́gbọ́n mu."
+     ]
+    },
+    {
+     "t": "7. Ààbò àti àwọn ọmọdé",
+     "b": [
+      "Ojú-òpó yìí ń lo HTTPS, a sì ti dín ìráyè sí dátà iṣẹ́ àkànṣe kù. Kò sí ọ̀nà gbígbé tàbí fífi dátà pamọ́ tí kò ní ewu rárá, nítorí náà a kò lè ṣèlérí ààbò pípé.",
+      "Àwọn iṣẹ́ wa wà fún àwọn tí wọ́n jẹ́ ọmọ ọdún 18 àti jù bẹ́ẹ̀ lọ. A kì í mọ̀ọ́mọ̀ kó dátà ara ẹni àwọn ọmọdé jọ."
+     ]
+    },
+    {
+     "t": "8. Àwọn àyípadà sí ìlànà yìí",
+     "b": [
+      "A lè ṣe ìmúdójúìwọ̀n ìlànà yìí látìgbàdégbà. Ọjọ́ ìmúdójúìwọ̀n gbẹ̀yìn wà ní òkè ojú-ìwé náà. Tí àwọn èdè bá yàtọ̀ ní ìtumọ̀, ẹ̀dà èdè Indonesia ni ó wúlò."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Òfin àti Àdéhùn",
+   "description": "Àwọn òfin fún lílo ojú-òpó àti iṣẹ́ Nocoding: àwọn àpò iṣẹ́, iye owó, bí a ṣe ń ṣe iṣẹ́, ohun ìní ọgbọ́n orí àti ààlà ojúṣe.",
+   "sections": [
+    {
+     "t": "1. Gbígba àwọn òfin wọ̀nyí",
+     "b": [
+      "Nípa ṣíṣí ojú-òpó yìí tàbí lílo iṣẹ́ Nocoding, o fohùn sí àwọn òfin àti àdéhùn wọ̀nyí. Tí o kò bá fohùn, jọ̀wọ́ má ṣe lo ojú-òpó tàbí iṣẹ́ wa."
+     ]
+    },
+    {
+     "t": "2. Àwọn iṣẹ́",
+     "b": [
+      "Nocoding ń kọ́ àwọn ojú-òpó wẹ́ẹ̀bù pọ́tífólíò tàbí CV, àwọn ojú-ìwé ìlàǹdì àti àwọn àkọọ́lẹ̀ ilé-iṣẹ́, àwọn ètò ìwífún àti iṣẹ́ ṣíṣe, àti ìṣiṣẹ́ aládàáṣe fún àwọn ìlànà iṣẹ́ òwò. A óò jọ fohùn sí ìwọ̀n iṣẹ́ náà, àwọn ẹ̀yà rẹ̀, àkókò àti iye owó pẹ̀lú rẹ lórí WhatsApp tàbí ímeèlì kí iṣẹ́ tó bẹ̀rẹ̀.",
+      "Ìgbìmọ̀ràn jẹ́ ọ̀fẹ́ nígbà gbogbo, nígbàkúgbà tí o bá nílò rẹ̀, kò sì fi dandan lé ọ láti paṣẹ."
+     ]
+    },
+    {
+     "t": "3. Àwọn àpò iṣẹ́ àti iye owó",
+     "b": [
+      "- Àpò kékeré: láti Rp 500.000 lọ́dún, pẹ̀lú ìtọ́jú ọ̀fẹ́ àti dòmèènì fún ọdún 1.",
+      "- Àpò ńlá: láti Rp 2.000.000 lọ́dún, pẹ̀lú ìtọ́jú ọ̀fẹ́ àti àtìlẹ́yìn (hosting) fún ọdún 1.",
+      "Iye owó tí ó wà lórí ojú-òpó jẹ́ iye owó ìbẹ̀rẹ̀. A óò fohùn sí iye ìkẹyìn lẹ́yìn ìgbìmọ̀ràn, ní ìbámu pẹ̀lú àìní rẹ. Fún àwọn àlejò tí wọ́n wà ní ìta Indonesia, iye owó ni a ń fi hàn ní owó àdúgbò gẹ́gẹ́ bí ìfojúdíwọ̀n tí ó dá lórí iye pàṣípààrọ̀ ojoojúmọ́; iye owó rupiah tí a bá fohùn sí ni ó wúlò. Àwọn ìnáwó àfikún, bíi àwọn ẹ̀yà àfikún tàbí àtúnsọ lẹ́yìn tí àkókò ọ̀fẹ́ bá parí, ni a óò sọ fún ọ kí a tó ṣe iṣẹ́ náà."
+     ]
+    },
+    {
+     "t": "4. Bí a ṣe ń ṣe iṣẹ́ àti àwọn ojúṣe rẹ",
+     "b": [
+      "A óò ṣàyẹ̀wò ìṣẹ̀dá àwòrán náà, a óò sì fọwọ́ sí i pẹ̀lú rẹ kí a tó bẹ̀rẹ̀ iṣẹ́ gidi. A óò ṣe àtúnṣe gẹ́gẹ́ bí a ti fohùn sí.",
+      "Ìwọ ni o ni ojúṣe láti pèsè àwọn ohun èlò (àmì-ìdámọ̀, ọ̀rọ̀, fọ́tò, dátà) ní àkókò àti láti ní ẹ̀tọ́ láti lò wọ́n. Ìfalẹ̀ nínú àwọn ohun èlò tàbí èsì lè kan àkókò iṣẹ́ náà."
+     ]
+    },
+    {
+     "t": "5. Ìtọ́jú",
+     "b": [
+      "Ìtọ́jú ọ̀fẹ́ fún ọdún 1 bo àtúnṣe àṣìṣe nínú iṣẹ́ wa àti àwọn ìmúdójúìwọ̀n ààbò àkọ́kọ́. Àwọn ẹ̀yà tuntun, àwọn àyípadà ńlá sí ìṣẹ̀dá àwòrán àti iṣẹ́ tí ó kọjá àdéhùn àkọ́kọ́ ni a óò gba owó lé lọ́tọ̀ọ̀tọ̀."
+     ]
+    },
+    {
+     "t": "6. Ohun ìní ọgbọ́n orí",
+     "b": [
+      "Àwọn ohun èlò tí o pèsè jẹ́ tìrẹ. A óò fi iṣẹ́ tí a parí lé ọ lọ́wọ́ nígbà tí ìsanwó bí a ti fohùn sí bá parí. Nocoding lè fi iṣẹ́ tí ń ṣiṣẹ́ hàn gẹ́gẹ́ bí àpẹẹrẹ nínú pọ́tífólíò rẹ̀, àfi tí o bá béèrè ní kíkọ pé kí a má fi hàn.",
+      "Ìṣẹ̀dá àwòrán, ọ̀rọ̀ àti àwọn àpilẹ̀kọ lórí nocoding.web.id jẹ́ ti Nocoding. O lè pín àwọn ọ̀nà asopọ̀ wọn, ṣùgbọ́n o kò lè kọ wọ́n kí o sì lò wọ́n fún òwò láìsí ìyọ̀ọ̀da. Àwọn fọ́tò àpilẹ̀kọ wá láti Unsplash, wọ́n sì tẹ̀lé ìwé àṣẹ rẹ̀; a ti kọ orísun sí abẹ́ fọ́tò kọ̀ọ̀kan."
+     ]
+    },
+    {
+     "t": "7. Àwọn èdè ojú-òpó",
+     "b": [
+      "Ojú-òpó yìí wà ní ọ̀pọ̀ èdè. Àwọn ìtumọ̀, pàápàá fún àwọn èdè tí àwọn òǹsọ̀rọ̀ wọn kéré, lè má pé pérépéré. Tí wọ́n bá yàtọ̀ ní ìtumọ̀, ẹ̀dà èdè Indonesia ni ó wúlò. Àwọn ojú-ìwé òfin wọ̀nyí wà ní èdè Indonesia àti Gẹ̀ẹ́sì."
+     ]
+    },
+    {
+     "t": "8. Ààlà ojúṣe",
+     "b": [
+      "A ń ṣiṣẹ́ láti fi èsì rere jíṣẹ́, ṣùgbọ́n a kò ṣèlérí àwọn èsì òwò pàtó bíi ipò nínú àwárí, iye àlejò tàbí títà. A kò ní ojúṣe fún ìdààmú láti ọ̀dọ̀ àwọn ẹgbẹ́ kẹta bíi àwọn olùpèsè àtìlẹ́yìn, dòmèènì tàbí ìsanwó, tàbí fún àwọn àdánù aláìtọ́ka.",
+      "Ojúṣe wa fún iṣẹ́ kan wà ní ààlà sí iye tí o ti san fún iṣẹ́ náà, bí òfin ṣe gbà láàyè. Èyí kò dín àwọn ẹ̀tọ́ tí o ní tí òfin dáàbò bò kù."
+     ]
+    },
+    {
+     "t": "9. Òfin tí ó ń darí",
+     "b": [
+      "Àwọn òfin Orílẹ̀-èdè Olómìnira Indonesia ni ó ń darí àwọn àdéhùn wọ̀nyí. Tí ààwọ̀ bá ṣẹlẹ̀, a óò kọ́kọ́ gbìyànjú láti yanjú rẹ̀ nípa ìjíròrò. Tí a kò bá dé ibi ìfohùnṣọ̀kan, àwọn ilé-ẹjọ́ tí ó ní àṣẹ ní Indonesia ni yóò yanjú ààwọ̀ náà."
+     ]
+    },
+    {
+     "t": "10. Àwọn àyípadà àti ìbánisọ̀rọ̀",
+     "b": [
+      "A lè ṣe ìmúdójúìwọ̀n àwọn àdéhùn wọ̀nyí látìgbàdégbà; ọjọ́ ìmúdójúìwọ̀n gbẹ̀yìn wà ní òkè ojú-ìwé náà. Ìbéèrè ni a lè fi ránṣẹ́ sí nocodingindonesia@gmail.com tàbí lórí WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Ìlànà Kúkì",
+   "description": "Àwọn kúkì àti ibi ìpamọ́ àdúgbò tí ojú-òpó Nocoding ń lò, ohun tí wọ́n wà fún, àti bí a ṣe lè ṣàkóso wọn.",
+   "sections": [
+    {
+     "t": "1. Ohun tí kúkì jẹ́",
+     "b": [
+      "Kúkì jẹ́ àwọn fáìlì kéékèèké tí ojú-òpó kan ń fi pamọ́ sínú aṣàwákiri rẹ. Ibi ìpamọ́ àdúgbò àti ibi ìpamọ́ àkókò ń ṣiṣẹ́ ní ọ̀nà tí ó jọra ṣùgbọ́n a kì í fi wọ́n ránṣẹ́ sí olupin láìfọwọ́yí. Lórí ojú-ìwé yìí, a ń pe gbogbo wọn ní kúkì."
+     ]
+    },
+    {
+     "t": "2. Ohun tí ojú-òpó nílò láti ṣiṣẹ́",
+     "b": [
+      "A fi wọ́n pamọ́ sínú aṣàwákiri rẹ, a kò sì fi wọ́n ránṣẹ́ sí àwọn olupin wa:",
+      "- nocoding-language àti nocoding-language-set: èdè tí o yàn tàbí èyí tí a rí láti inú aṣàwákiri rẹ.",
+      "- nocoding-pricing (àkókò): owó àti iye pàṣípààrọ̀ tí a fojú díwọ̀n, kí a má ṣe ṣírò iye owó lẹ́ẹ̀kansí lórí ojú-ìwé kọ̀ọ̀kan.",
+      "- Àwọn àmì àpilẹ̀kọ: bóyá o ti fẹ́ràn, ti wo tàbí ti pín àpilẹ̀kọ kan, kí a má ṣe ka iye náà ní ìlọ́po méjì.",
+      "- Àmì fún ìgbà díẹ̀ fún ibi tí o yí ojú-ìwé dé nígbà tí o bá ń lọ láàrín àwọn apá ojú-òpó náà."
+     ]
+    },
+    {
+     "t": "3. Ìtúpalẹ̀",
+     "b": [
+      "Nígbà tí a bá tan wọ́n, àwọn iṣẹ́ ìtúpalẹ̀ méjì máa ń gbé jáde lẹ́yìn tí o bá bá ojú-ìwé ṣe nǹkan (yí ojú-ìwé, tẹ̀ tàbí tẹ bọ́tìnì kan):",
+      "- Google Analytics 4 (àwọn kúkì bíi _ga àti _ga_*, tí ó wúlò fún tó nǹkan bí ọdún 2): ìṣirò ìbẹ̀wò.",
+      "- Microsoft Clarity (àwọn kúkì bíi _clck, _clsk, CLID àti MUID, tí ó wúlò fún tó nǹkan bí ọdún 1): àwòrán ìgbóná àti àwọn àkọsílẹ̀ ìbáṣepọ̀ tí kò ní orúkọ.",
+      "Àwọn olùpèsè CDN àti ààbò lè tún fi àwọn kúkì ìmọ̀-ẹ̀rọ sílẹ̀ láti dáàbò bo ojú-òpó lọ́wọ́ ọkọ̀-ìrìn tí ó lè ṣe ìpalára."
+     ]
+    },
+    {
+     "t": "4. Bí a ṣe lè ṣàkóso kúkì",
+     "b": [
+      "O lè pa kúkì rẹ́ tàbí dí wọn lọ́nà nínú àwọn ètò aṣàwákiri rẹ. O tún lè fi àfikún ìkọ̀sílẹ̀ àṣẹ osise ti Google sílẹ̀ fún Google Analytics. Tí a bá dí àwọn kúkì ìtúpalẹ̀, ojú-òpó náà yóò tún máa ṣiṣẹ́; tí a bá pa ibi ìpamọ́ àdúgbò rẹ́, yíyàn èdè rẹ yóò padà sí ìbẹ̀rẹ̀."
+     ]
+    },
+    {
+     "t": "5. Àwọn ìbéèrè",
+     "b": [
+      "Fún ìbéèrè nípa ìlànà yìí, kàn sí nocodingindonesia@gmail.com. A ṣàlàyé síwájú sí i bí a ṣe ń lo dátà ara ẹni nínú Ìlànà Àṣírí. Tí àwọn èdè bá yàtọ̀ ní ìtumọ̀, ẹ̀dà èdè Indonesia ni ó wúlò."
+     ]
+    }
+   ]
+  }
+ }
+}

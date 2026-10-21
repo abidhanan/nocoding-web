@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Ostatnia aktualizacja",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Polityka prywatności",
+   "description": "Jakie dane zbiera Nocoding, do czego je wykorzystuje, kto je przetwarza oraz jakie prawa przysługują Ci w odniesieniu do Twoich danych osobowych.",
+   "sections": [
+    {
+     "t": "1. Kim jesteśmy",
+     "b": [
+      "Nocoding (nocoding.web.id) to usługa tworzenia stron internetowych, aplikacji, systemów informatycznych i automatyzacji, prowadzona przez Abida Hanana Wicaksono w Indonezji. Niniejsza polityka wyjaśnia, jak postępujemy z Twoimi danymi osobowymi, gdy odwiedzasz tę stronę lub się z nami kontaktujesz.",
+      "Pytania dotyczące tej polityki można wysyłać na adres nocodingindonesia@gmail.com lub przez WhatsApp pod numer +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Dane, które zbieramy",
+     "b": [
+      "- Dane, które nam przekazujesz: imię i nazwisko, numer WhatsApp, adres e-mail oraz opis Twojego projektu, gdy kontaktujesz się z nami przez WhatsApp lub e-mail. Ta strona nie ma kont użytkowników ani formularzy rejestracyjnych.",
+      "- Dane techniczne przetwarzane automatycznie: adres IP, rodzaj urządzenia i przeglądarki oraz otwierane strony. Przetwarzają je nasi dostawcy hostingu i sieci CDN, aby udostępniać stronę i chronić ją przed nadużyciami.",
+      "- Przybliżony kraj: aby ceny mogły być wyświetlane w Twojej walucie, kraj jest szacowany na podstawie informacji z sieci CDN lub języka przeglądarki. Nie zapisujemy go na naszych serwerach.",
+      "- Dane analityczne: Google Analytics 4 i Microsoft Clarity (jeśli są włączone) zbierają statystyki użytkowania, takie jak otwierane strony, czas wizyty, rodzaj urządzenia oraz anonimowe nagrania interakcji. Ładują się dopiero po tym, jak wejdziesz w interakcję ze stroną.",
+      "- Dane zapisane w przeglądarce: wybrany język, znaczniki informujące, że artykuł został już przez Ciebie polubiony, wyświetlony lub udostępniony, oraz tymczasowe oszacowanie ceny. Szczegóły znajdują się w Polityce plików cookie.",
+      "- Liczby wyświetleń, polubień i udostępnień artykułów są przechowywane jako sumy zbiorcze, bez tożsamości odwiedzających."
+     ]
+    },
+    {
+     "t": "3. Do czego wykorzystujemy dane",
+     "b": [
+      "- Odpowiadanie na Twoje pytania, przygotowywanie ofert i realizacja Twojego projektu.",
+      "- Udostępnianie strony, zapewnianie jej bezpieczeństwa i szybkości działania.",
+      "- Zrozumienie, jak strona jest używana, abyśmy mogli ją ulepszać.",
+      "- Wypełnianie obowiązków prawnych.",
+      "Nie sprzedajemy Twoich danych osobowych."
+     ]
+    },
+    {
+     "t": "4. Zaangażowane strony trzecie",
+     "b": [
+      "- Vercel: hosting i udostępnianie strony.",
+      "- Cloudflare: sieć CDN i bezpieczeństwo.",
+      "- Google (Google Analytics 4) i Microsoft (Clarity): statystyki użytkowania strony.",
+      "- Meta (WhatsApp) i Google (Gmail): gdy kontaktujesz się z nami za pomocą linków do WhatsApp lub e-maila na tej stronie.",
+      "- Dostawca kursów walut: otrzymuje z naszego serwera tylko zapytania o kursy, a nie dane odwiedzających.",
+      "Ci dostawcy mogą przetwarzać dane poza Indonezją zgodnie z własnymi politykami."
+     ]
+    },
+    {
+     "t": "5. Jak długo przechowujemy dane",
+     "b": [
+      "Rozmowy i materiały projektowe są przechowywane tak długo, jak jest to potrzebne do prowadzenia usługi, udzielania wsparcia i wypełniania obowiązków prawnych, a następnie usuwane lub anonimizowane. Dane analityczne podlegają ustawieniom okresu przechowywania ich dostawcy. Dane w Twojej przeglądarce pozostają tam, dopóki ich nie usuniesz."
+     ]
+    },
+    {
+     "t": "6. Twoje prawa",
+     "b": [
+      "Zgodnie z indonezyjską ustawą nr 27 z 2022 roku o ochronie danych osobowych masz prawo do:",
+      "- uzyskania informacji o przechowywanych przez nas danych osobowych na Twój temat oraz otrzymania ich kopii;",
+      "- żądania sprostowania nieprawidłowych danych;",
+      "- żądania usunięcia danych lub wycofania zgody;",
+      "- sprzeciwu wobec niektórych form przetwarzania.",
+      "Swoje żądanie wyślij na adres nocodingindonesia@gmail.com. Odpowiemy w rozsądnym terminie."
+     ]
+    },
+    {
+     "t": "7. Bezpieczeństwo i dzieci",
+     "b": [
+      "Ta strona korzysta z HTTPS, a dostęp do danych projektowych jest ograniczony. Żadna metoda przesyłania ani przechowywania danych nie jest całkowicie wolna od ryzyka, dlatego nie możemy zagwarantować absolutnego bezpieczeństwa.",
+      "Nasze usługi są przeznaczone dla osób w wieku 18 lat i starszych. Nie zbieramy świadomie danych osobowych dzieci."
+     ]
+    },
+    {
+     "t": "8. Zmiany w tej polityce",
+     "b": [
+      "Niniejsza polityka może być od czasu do czasu aktualizowana. Data ostatniej aktualizacji jest podana u góry strony. W razie rozbieżności znaczeniowych między wersjami językowymi obowiązuje wersja indonezyjska."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Regulamin",
+   "description": "Zasady korzystania ze strony i usług Nocoding: pakiety, ceny, sposób realizacji prac, własność intelektualna i ograniczenia odpowiedzialności.",
+   "sections": [
+    {
+     "t": "1. Akceptacja regulaminu",
+     "b": [
+      "Otwierając tę stronę lub korzystając z usług Nocoding, zgadzasz się na niniejszy regulamin. Jeśli się z nim nie zgadzasz, prosimy o niekorzystanie z naszej strony ani usług."
+     ]
+    },
+    {
+     "t": "2. Usługi",
+     "b": [
+      "Nocoding tworzy strony portfolio lub CV, strony docelowe (landing page) i profile firm, systemy informacyjne i operacyjne oraz automatyzację procesów biznesowych. Zakres prac, funkcje, harmonogram i koszty są ustalane z Tobą przez WhatsApp lub e-mail przed rozpoczęciem prac.",
+      "Konsultacja jest zawsze bezpłatna, kiedykolwiek jej potrzebujesz, i nie zobowiązuje Cię do złożenia zamówienia."
+     ]
+    },
+    {
+     "t": "3. Pakiety i ceny",
+     "b": [
+      "- Pakiet mały: od Rp 500.000 rocznie, w tym bezpłatna konserwacja i domena na 1 rok.",
+      "- Pakiet duży: od Rp 2.000.000 rocznie, w tym bezpłatna konserwacja i hosting na 1 rok.",
+      "Ceny na stronie są cenami wyjściowymi. Ostateczna kwota jest uzgadniana po konsultacji, zgodnie z Twoimi potrzebami. Dla odwiedzających spoza Indonezji ceny są wyświetlane w walucie lokalnej jako szacunek oparty na dziennym kursie wymiany; obowiązuje uzgodniona przez nas kwota w rupiach. Dodatkowe koszty, takie jak dodatkowe funkcje czy odnowienie po zakończeniu okresu bezpłatnego, są przekazywane Ci przed wykonaniem prac."
+     ]
+    },
+    {
+     "t": "4. Sposób realizacji prac i Twoje obowiązki",
+     "b": [
+      "Projekt jest omawiany i zatwierdzany z Tobą przed rozpoczęciem produkcji. Poprawki są wprowadzane zgodnie z ustaleniami.",
+      "Odpowiadasz za dostarczenie materiałów (logo, tekstów, zdjęć, danych) na czas oraz za to, że masz prawo z nich korzystać. Opóźnienia w dostarczeniu materiałów lub uwag mogą wpłynąć na harmonogram."
+     ]
+    },
+    {
+     "t": "5. Konserwacja",
+     "b": [
+      "Bezpłatna konserwacja przez 1 rok obejmuje usuwanie błędów w naszej pracy i podstawowe aktualizacje bezpieczeństwa. Nowe funkcje, duże zmiany w projekcie graficznym oraz prace wykraczające poza pierwotne ustalenia są rozliczane osobno."
+     ]
+    },
+    {
+     "t": "6. Własność intelektualna",
+     "b": [
+      "Materiały, które nam dostarczasz, pozostają Twoją własnością. Gotowa praca zostaje Ci przekazana po uregulowaniu płatności zgodnie z ustaleniami. Nocoding może prezentować działające realizacje jako przykłady w swoim portfolio, chyba że poprosisz na piśmie o ich niepokazywanie.",
+      "Projekt, teksty i artykuły na nocoding.web.id należą do Nocoding. Możesz udostępniać linki do nich, ale nie wolno Ci ich kopiować ani wykorzystywać komercyjnie bez zgody. Zdjęcia do artykułów pochodzą z Unsplash i podlegają jego licencji; źródło jest podane pod każdym zdjęciem."
+     ]
+    },
+    {
+     "t": "7. Języki strony",
+     "b": [
+      "Ta strona jest dostępna w wielu językach. Tłumaczenia, zwłaszcza na języki z mniejszą liczbą użytkowników, mogą nie być idealne. W razie rozbieżności znaczeniowych obowiązuje wersja indonezyjska. Te strony prawne są dostępne w języku indonezyjskim i angielskim."
+     ]
+    },
+    {
+     "t": "8. Ograniczenia odpowiedzialności",
+     "b": [
+      "Dokładamy starań, aby dostarczać dobre rezultaty, ale nie obiecujemy konkretnych wyników biznesowych, takich jak pozycje w wyszukiwarce, liczba odwiedzających czy sprzedaż. Nie odpowiadamy za zakłócenia ze strony podmiotów trzecich, takich jak dostawcy hostingu, domen lub płatności, ani za straty pośrednie.",
+      "Nasza odpowiedzialność za usługę jest ograniczona do kwoty, którą za nią zapłaciłeś(-aś), w zakresie dozwolonym przez prawo. Nie umniejsza to Twoich praw chronionych przepisami."
+     ]
+    },
+    {
+     "t": "9. Prawo właściwe",
+     "b": [
+      "Niniejszy regulamin podlega prawu Republiki Indonezji. W razie sporu najpierw staramy się go rozwiązać w drodze rozmów. Jeśli nie dojdzie do porozumienia, spór rozstrzygają właściwe sądy w Indonezji."
+     ]
+    },
+    {
+     "t": "10. Zmiany i kontakt",
+     "b": [
+      "Niniejszy regulamin może być od czasu do czasu aktualizowany; data ostatniej aktualizacji jest podana u góry strony. Pytania można wysyłać na adres nocodingindonesia@gmail.com lub przez WhatsApp pod numer +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Polityka plików cookie",
+   "description": "Pliki cookie i pamięć lokalna używane przez stronę Nocoding, do czego służą i jak nimi zarządzać.",
+   "sections": [
+    {
+     "t": "1. Czym są pliki cookie",
+     "b": [
+      "Pliki cookie to małe pliki, które strona zapisuje w Twojej przeglądarce. Pamięć lokalna (local storage) i pamięć sesji (session storage) działają podobnie, ale nie są automatycznie wysyłane na serwer. Na tej stronie nazywamy je wszystkie plikami cookie."
+     ]
+    },
+    {
+     "t": "2. Co jest potrzebne do działania strony",
+     "b": [
+      "Zapisywane w Twojej przeglądarce i niewysyłane na nasze serwery:",
+      "- nocoding-language i nocoding-language-set: język, który wybrałeś(-aś) lub który został wykryty na podstawie przeglądarki.",
+      "- nocoding-pricing (sesja): szacowana waluta i kurs, aby ceny nie były obliczane od nowa na każdej stronie.",
+      "- Znaczniki artykułów: czy artykuł został już przez Ciebie polubiony, wyświetlony lub udostępniony, aby liczby nie były podwajane.",
+      "- Tymczasowy znacznik pozycji przewijania podczas przechodzenia między częściami strony."
+     ]
+    },
+    {
+     "t": "3. Analityka",
+     "b": [
+      "Jeśli są włączone, dwie usługi analityczne ładują się po tym, jak wejdziesz w interakcję ze stroną (przewiniesz, dotkniesz ekranu lub naciśniesz klawisz):",
+      "- Google Analytics 4 (pliki cookie takie jak _ga i _ga_*, ważne do około 2 lat): statystyki wizyt.",
+      "- Microsoft Clarity (pliki cookie takie jak _clck, _clsk, CLID i MUID, ważne do około 1 roku): mapy cieplne i anonimowe nagrania interakcji.",
+      "Dostawcy sieci CDN i zabezpieczeń mogą również ustawiać techniczne pliki cookie, aby chronić stronę przed szkodliwym ruchem."
+     ]
+    },
+    {
+     "t": "4. Jak zarządzać plikami cookie",
+     "b": [
+      "Możesz usuwać lub blokować pliki cookie w ustawieniach przeglądarki. Możesz też zainstalować oficjalny dodatek Google umożliwiający rezygnację z Google Analytics. Jeśli analityczne pliki cookie zostaną zablokowane, strona nadal działa; jeśli pamięć lokalna zostanie wyczyszczona, wybór języka wróci do ustawienia domyślnego."
+     ]
+    },
+    {
+     "t": "5. Pytania",
+     "b": [
+      "W sprawie pytań dotyczących tej polityki skontaktuj się z nami pod adresem nocodingindonesia@gmail.com. Sposób wykorzystania danych osobowych jest szerzej opisany w Polityce prywatności. W razie rozbieżności znaczeniowych między wersjami językowymi obowiązuje wersja indonezyjska."
+     ]
+    }
+   ]
+  }
+ }
+}

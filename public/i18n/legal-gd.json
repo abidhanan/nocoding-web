@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Air ùrachadh mu dheireadh",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Poileasaidh Prìobhaideachd",
+   "description": "Dè an dàta a chruinnicheas Nocoding, dè mar a thathas ga chleachdadh, cò a làimhsicheas e, agus na còraichean a th' agad air an dàta pearsanta agad.",
+   "sections": [
+    {
+     "t": "1. Cò sinn",
+     "b": [
+      "'S e seirbheis a th' ann an Nocoding (nocoding.web.id) airson làraichean-lìn, aplacaidean, siostaman fiosrachaidh agus fèin-obrachadh a chruthachadh, air a ruith le Abid Hanan Wicaksono ann an Indonesia. Tha am poileasaidh seo ag mìneachadh mar a làimhsicheas sinn an dàta pearsanta agad nuair a thadhlas tu air an làrach seo no nuair a nì thu fios thugainn.",
+      "Faodar ceistean mun phoileasaidh seo a chur gu nocodingindonesia@gmail.com no air WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. An dàta a chruinnicheas sinn",
+     "b": [
+      "- Dàta a bheir thu fhèin dhuinn: d' ainm, do àireamh WhatsApp, do phost-d agus tuairisgeul air do phròiseact nuair a nì thu fios thugainn air WhatsApp no air post-d. Chan eil cunntasan cleachdaiche no foirmean clàraidh air an làrach seo.",
+      "- Dàta teicnigeach a thèid a làimhseachadh gu fèin-obrachail: seòladh IP, seòrsa uidheim is brabhsair, agus na duilleagan a dh'fhosglas tu. Bidh na solaraichean aoigheachd is CDN againn ga làimhseachadh gus an làrach a lìbhrigeadh agus a dhìon bho ana-cleachdadh.",
+      "- Dùthaich tuairmseach: gus prìsean a shealltainn san airgead agad, thèid do dhùthaich a thuairmse bho fhiosrachadh CDN no bho chànan a' bhrabhsair agad. Chan eil sinn ga stòradh air na frithealaichean againn.",
+      "- Dàta anailis: bidh Google Analytics 4 agus Microsoft Clarity (nuair a tha iad air an cuairteachadh) a' cruinneachadh staitistigean cleachdaidh leithid na duilleagan a dh'fhosglar, fad na cuairt, seòrsa uidheim agus clàran gun urra den eadar-obrachadh. Chan eil iad air an luchdadh ach às dèidh dhut eadar-obrachadh leis an duilleag.",
+      "- Stòradh sa bhrabhsair: do roghainn cànain, comharran gu bheil thu air artaigil a chòrdadh riut, fhaicinn no a cho-roinn mar-thà, agus tuairmse sealach air prìs. Tha mion-fhiosrachadh sa Phoileasaidh Cookie.",
+      "- Tha cunntas nan seallaidhean, nan like agus nan co-roinn air artaigil air a stòradh mar àireamhan còmhla, gun dearbh-aithne luchd-tadhail."
+     ]
+    },
+    {
+     "t": "3. Dè airson a thathar a' cleachdadh an dàta",
+     "b": [
+      "- Gus ceistean agad a fhreagairt, cùmhnantan a dhealbhadh agus do phròiseact a choileanadh.",
+      "- Gus an làrach a lìbhrigeadh, a dhèanamh sàbhailte agus a chumail luath.",
+      "- Gus tuigsinn mar a thathar a' cleachdadh na làraich airson a leasachadh.",
+      "- Gus cumail ri dleastanasan laghail.",
+      "Chan eil sinn a' reic an dàta pearsanta agad."
+     ]
+    },
+    {
+     "t": "4. Treas pàrtaidhean an sàs",
+     "b": [
+      "- Vercel: aoigheachd agus lìbhrigeadh na làraich.",
+      "- Cloudflare: CDN agus tèarainteachd.",
+      "- Google (Google Analytics 4) agus Microsoft (Clarity): staitistigean cleachdaidh na làraich.",
+      "- Meta (WhatsApp) agus Google (Gmail): nuair a nì thu fios thugainn tro cheanglaichean WhatsApp no post-d air an làrach seo.",
+      "- Solaraiche ìrean iomlaid airgid: chan fhaigh e ach iarrtasan airson ìrean bhon fhrithealaiche againn, chan e dàta luchd-tadhail.",
+      "Faodaidh na solaraichean seo dàta a làimhseachadh taobh a-muigh Indonesia a rèir am poileasaidhean fhèin."
+     ]
+    },
+    {
+     "t": "5. Cho fada 's a thèid an dàta a chumail",
+     "b": [
+      "Thèid còmhraidhean agus stuth pròiseict a chumail fhad 's a tha feum air gus an t-seirbheis a ruith, taic a thoirt seachad agus dleastanasan laghail a choileanadh, agus an uairsin an sguabadh às no a dhèanamh gun urra. Bidh dàta anailis a' leantainn roghainnean cumail an t-solaraiche aige. Fanaidh dàta sa bhrabhsair agad gus an sguab thu às e."
+     ]
+    },
+    {
+     "t": "6. Na còraichean agad",
+     "b": [
+      "Fo Achd Àir. 27 de 2022 Indonesia air Dìon Dàta Pearsanta, tha còir agad:",
+      "- fios a bhith agad air an dàta pearsanta a th' againn mud dheidhinn agus lethbhreac dheth fhaighinn;",
+      "- iarraidh gun tèid dàta ceàrr a cheartachadh;",
+      "- iarraidh gun tèid an dàta agad a sguabadh às no do cheadachadh a tharraing air ais;",
+      "- cur an aghaidh làimhseachadh sònraichte.",
+      "Cuir an t-iarrtas agad gu nocodingindonesia@gmail.com. Freagraidh sinn taobh a-staigh ùine reusanta."
+     ]
+    },
+    {
+     "t": "7. Tèarainteachd agus clann",
+     "b": [
+      "Bidh an làrach seo a' cleachdadh HTTPS agus tha cothrom air dàta pròiseict cuingealaichte. Chan eil dòigh sam bith air dàta a chur no a stòradh gun chunnart sam bith, mar sin chan urrainn dhuinn tèarainteachd iomlan a ghealltainn.",
+      "Tha na seirbheisean againn airson daoine 18 bliadhna a dh'aois no nas sine. Chan eil sinn a' cruinneachadh dàta pearsanta chloinne le fios."
+     ]
+    },
+    {
+     "t": "8. Atharrachaidhean air a' phoileasaidh seo",
+     "b": [
+      "Faodar am poileasaidh seo ùrachadh bho àm gu àm. Tha ceann-latha an ùrachaidh mu dheireadh air a shealltainn aig mullach na duilleige. Ma tha na cànanan eadar-dhealaichte ann am brìgh, bidh an tionndadh Indonesianais a' buntainn."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Teirmichean is Cumhaichean",
+   "description": "Na riaghailtean airson làrach is seirbheisean Nocoding a chleachdadh: pacaidean, prìsean, mar a thèid obair a dhèanamh, seilbh inntleachdail agus crìochan uallaich.",
+   "sections": [
+    {
+     "t": "1. A' gabhail ris na teirmichean seo",
+     "b": [
+      "Le bhith a' fosgladh na làraich seo no a' cleachdadh seirbheisean Nocoding, tha thu ag aontachadh leis na teirmichean is cumhaichean seo. Mura h-eil thu ag aontachadh, feuch nach cleachd thu an làrach no na seirbheisean againn."
+     ]
+    },
+    {
+     "t": "2. Na seirbheisean",
+     "b": [
+      "Bidh Nocoding a' togail làraichean-lìn pasgan-obrach no CV, duilleagan tuirlinn agus pròifilean companaidh, siostaman fiosrachaidh is obrachaidh, agus fèin-obrachadh phròiseasan gnìomhachais. Thèid farsaingeachd na h-obrach, na feartan, an clàr-ama agus a' chosgais aontachadh leat air WhatsApp no air post-d mus tòisich an obair.",
+      "Tha comhairleachadh an-asgaidh an-còmhnaidh, ge brith cuin a tha feum agad air, agus chan eil e gad cheangal gus òrdugh a dhèanamh."
+     ]
+    },
+    {
+     "t": "3. Pacaidean agus prìsean",
+     "b": [
+      "- Pasgan beag: bho Rp 500,000 sa bhliadhna, a' gabhail a-steach cumail suas an-asgaidh agus fearann airson 1 bhliadhna.",
+      "- Pasgan mòr: bho Rp 2,000,000 sa bhliadhna, a' gabhail a-steach cumail suas an-asgaidh agus aoigheachd airson 1 bhliadhna.",
+      "'S e prìsean tòiseachaidh a th' anns na prìsean air an làrach. Thèid an t-suim mu dheireadh aontachadh às dèidh comhairleachaidh, a rèir do dh'fheumalachdan. Do luchd-tadhail à taobh a-muigh Indonesia, thèid prìsean a shealltainn san airgead ionadail mar thuairmse stèidhichte air an ìre iomlaid làitheil; 's e an t-suim ann an rupiah a dh'aontaich sinn air a bhios an sàs. Thèid cosgaisean a bharrachd, leithid feartan a bharrachd no ath-nuadhachadh às dèidh don ùine an-asgaidh tighinn gu crìch, innse dhut mus tèid an obair a dhèanamh."
+     ]
+    },
+    {
+     "t": "4. Mar a thèid obair a dhèanamh agus na dleastanasan agad",
+     "b": [
+      "Thèid an dealbhadh a sgrùdadh agus aontachadh leat mus tòisich an dèanamh. Thèid ath-sgrùdaidhean a dhèanamh mar a chaidh aontachadh.",
+      "Tha thu an urra ri stuth (suaicheantas, teacsa, dealbhan, dàta) a thoirt seachad ann an deagh àm agus ri bhith na do chòir a chleachdadh. Faodaidh dàil air stuth no air fios-air-ais buaidh a thoirt air a' chlàr-ama."
+     ]
+    },
+    {
+     "t": "5. Cumail suas",
+     "b": [
+      "Tha cumail suas an-asgaidh airson 1 bhliadhna a' còmhdach ceartachadh mhearachdan san obair againn agus ùrachaidhean tèarainteachd bunaiteach. Thèid feartan ùra, atharrachaidhean mòra air an dealbhadh agus obair taobh a-muigh a' chiad aonta a chosg air leth."
+     ]
+    },
+    {
+     "t": "6. Seilbh inntleachdail",
+     "b": [
+      "Fanaidh an stuth a bheir thu dhuinn leatsa. Thèid an obair chrìochnaichte a thoirt dhut nuair a bhios pàigheadh mar a chaidh aontachadh coileanta. Faodaidh Nocoding obair bheò a shealltainn mar eisimpleirean anns a' phasgan-obrach aige, mura iarr thu gu sgrìobhte gun tèid a sealltainn.",
+      "Buinidh an dealbhadh, an teacsa agus na h-artaigilean air nocoding.web.id do Nocoding. Faodaidh tu ceanglaichean thuca a cho-roinn, ach chan fhaod thu an lethbhreacadh agus an cleachdadh gu malairteach gun chead. Thig dealbhan nan artaigilean bho Unsplash agus bidh iad a' leantainn a cheadachas; thèid an tùs aithris fo gach dealbh."
+     ]
+    },
+    {
+     "t": "7. Cànanan na làraich",
+     "b": [
+      "Tha an làrach seo ri fhaighinn ann an iomadh cànan. Chan fhaod eadar-theangachaidhean, gu sònraichte airson cànanan aig a bheil nas lugha de luchd-labhairt, a bhith foirfe. Ma tha iad eadar-dhealaichte ann am brìgh, bidh an tionndadh Indonesianais a' buntainn. Tha na duilleagan laghail seo ri fhaighinn ann an Indonesianais agus Beurla."
+     ]
+    },
+    {
+     "t": "8. Crìochan uallaich",
+     "b": [
+      "Bidh sinn ag obair gus deagh thoraidhean a lìbhrigeadh, ach chan eil sinn a' gealltainn builean gnìomhachais sònraichte leithid rangachadh luirg, àireamhan luchd-tadhail no reic. Chan eil sinn cunntachail airson briseadh bho threas phàrtaidhean leithid solaraichean aoigheachd, fearainn no pàighidh, no airson call neo-dhìreach.",
+      "Tha ar n-uallach airson seirbheis cuingealaichte ris an t-suim a phàigh thu airson na seirbheis sin, cho fada 's a cheadaicheas an lagh. Chan eil seo a' lùghdachadh chòraichean a th' agad a tha air an dìon le lagh."
+     ]
+    },
+    {
+     "t": "9. An lagh a tha an sàs",
+     "b": [
+      "Tha na teirmichean seo fo smachd laghan Poblachd Indonesia. Ma thig connspaid am bàrr, feuchaidh sinn an toiseach ri a rèiteach le còmhradh. Mura tèid aonta a ruigsinn, thèid a' chonnspaid a rèiteach leis na cùirtean comasach ann an Indonesia."
+     ]
+    },
+    {
+     "t": "10. Atharrachaidhean agus conaltradh",
+     "b": [
+      "Faodar na teirmichean seo ùrachadh bho àm gu àm; tha ceann-latha an ùrachaidh mu dheireadh air a shealltainn aig mullach na duilleige. Faodar ceistean a chur gu nocodingindonesia@gmail.com no air WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Poileasaidh Cookie",
+   "description": "Na cookies agus an stòradh ionadail a chleachdas làrach Nocoding, dè a tha iad airson, agus mar a làimhsicheas tu iad.",
+   "sections": [
+    {
+     "t": "1. Dè th' ann an cookies",
+     "b": [
+      "'S e faidhlichean beaga a th' ann an cookies a stòras làrach sa bhrabhsair agad. Bidh stòradh ionadail (local storage) agus stòradh seisean (session storage) ag obair san aon dòigh ach chan eil iad gan cur gu frithealaiche gu fèin-obrachail. Air an duilleag seo canaidh sinn cookies riutha uile."
+     ]
+    },
+    {
+     "t": "2. Na tha a dhìth gus an obraich an làrach",
+     "b": [
+      "Air a stòradh sa bhrabhsair agad agus gun a bhith air a chur chun nam frithealaichean againn:",
+      "- nocoding-language agus nocoding-language-set: a' chànan a thagh thu no a chaidh a lorg bhon bhrabhsair agad.",
+      "- nocoding-pricing (seisean): an t-airgead agus an ìre a chaidh a thuairmse, gus nach tèid prìsean obrachadh a-mach às ùr air gach duilleag.",
+      "- Comharran artaigil: a bheil thu air artaigil a chòrdadh riut, fhaicinn no a cho-roinn mar-thà, gus nach tèid cunntasan a dhùblachadh.",
+      "- Comharra sealach de dh'ionad sgroladh nuair a ghluaiseas tu eadar na pàirtean den làrach."
+     ]
+    },
+    {
+     "t": "3. Anailis",
+     "b": [
+      "Nuair a tha iad air an cuairteachadh, thèid dà sheirbheis anailis a luchdadh às dèidh dhut eadar-obrachadh leis an duilleag (sgrolaich, tap no brùth iuchair):",
+      "- Google Analytics 4 (cookies mar _ga agus _ga_*, dligheach suas ri mu 2 bhliadhna): staitistigean cuairt.",
+      "- Microsoft Clarity (cookies mar _clck, _clsk, CLID agus MUID, dligheach suas ri mu 1 bhliadhna): mapaichean teas agus clàran gun urra den eadar-obrachadh.",
+      "Faodaidh solaraichean CDN is tèarainteachd cookies teicnigeach a shuidheachadh cuideachd gus an làrach a dhìon bho trafaig dhochannach."
+     ]
+    },
+    {
+     "t": "4. Mar a làimhsicheas tu cookies",
+     "b": [
+      "Faodaidh tu cookies a sguabadh às no a bhacadh ann an roghainnean a' bhrabhsair agad. Faodaidh tu cuideachd an tuilleadan dì-roghnachaidh oifigeil aig Google airson Google Analytics a stàladh. Ma thèid cookies anailis a bhacadh, obraichidh an làrach fhathast; ma thèid an stòradh ionadail a ghlanadh, till do roghainn cànain chun na bun-roghainn."
+     ]
+    },
+    {
+     "t": "5. Ceistean",
+     "b": [
+      "Airson ceistean mun phoileasaidh seo, cuir fios gu nocodingindonesia@gmail.com. Tha mar a thathar a' cleachdadh dàta pearsanta air a mhìneachadh nas fhaide sa Phoileasaidh Prìobhaideachd. Ma tha na cànanan eadar-dhealaichte ann am brìgh, bidh an tionndadh Indonesianais a' buntainn."
+     ]
+    }
+   ]
+  }
+ }
+}

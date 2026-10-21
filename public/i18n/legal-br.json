@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Hizivadenn ziwezhañ",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Politikerezh buhez prevez",
+   "description": "Peseurt roadennoù a zastumo Nocoding, evit petra e vezont implijet, piv a ziviz ganto, hag ar gwirioù hoc'h eus war ho roadennoù personel.",
+   "sections": [
+    {
+     "t": "1. Piv omp ni",
+     "b": [
+      "Nocoding (nocoding.web.id) a zo ur servij evit al lec'hiennoù web, an arloadoù, ar reizhiadoù titouroù hag an emgefreekadur, renet gant Abid Hanan Wicaksono en Indonezia. Displegañ a ra ar politikerezh-mañ penaos e tiellomp ho roadennoù personel pa weladennit al lec'hienn-mañ pe pa gevreit ganeomp.",
+      "Ar goulennoù diwar-benn ar politikerezh-mañ a c'haller kas da nocodingindonesia@gmail.com pe dre WhatsApp da +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Ar roadennoù a zastumomp",
+     "b": [
+      "- Ar roadennoù a roit deomp: hoc'h anv, ho niverenn WhatsApp, ho postel ha deskrivadur ho raktres pa gevreit ganeomp dre WhatsApp pe dre bostel. N'eus kont implijer ebet nac stumm enskrivadur ebet el lec'hienn-mañ.",
+      "- Roadennoù teknikel tretet ent emgefre: chomlec'h IP, seurt trevnad ha merdeer, hag ar pajennoù a zigorit. Hon pourchaserien herberc'hiañ ha CDN a zivizont ganto evit servijout al lec'hienn hag he gwareziñ diouzh an implijoù fall.",
+      "- Bro dre ziouer: evit ma c'hallfe ar prizioù bezañ diskouezet en ho moneiz, ho pro a vez priziet diwar titouroù ar CDN pe diwar yezh ho merdeer. Ne enrollomp ket anezhi war hor servijerioù.",
+      "- Roadennoù dielfennañ: Google Analytics 4 ha Microsoft Clarity (pa vezont gweredekaet) a zastum ystadegoù implij evel ar pajennoù digoret, padelezh ar weladenn, seurt trevnad ha enrolladennoù dizanv eus an etreoberiañ. Kargañ a reont hepken goude ma kevreit gant ar bajenn.",
+      "- Mirdi er merdeer: ho dibab yezh, an arouezioù diskouez ho peus dija karet, lennet pe rannet ur pennad, hag ur prizadenn da c'hortoz. Munudoù a gaver er Politikerezh toazennoù.",
+      "- Niver a weladennoù, a plijadurioù ha a rannadennoù ur pennad a vez enrollet evel niveroù dastumet, hep anaoudegezh ar weladenner."
+     ]
+    },
+    {
+     "t": "3. Evit petra e vez implijet ar roadennoù",
+     "b": [
+      "- Respont d'ho goulennoù, kempenn kinnigoù ha kas ho raktres da benn.",
+      "- Servijout, gwareziñ ha derc'hel al lec'hienn buan.",
+      "- Kompren penaos e vez implijet al lec'hienn evit gallout he gwellaat.",
+      "- Doujañ d'ar rwymedoù lezennel.",
+      "Ne werzhomp ket ho roadennoù personel."
+     ]
+    },
+    {
+     "t": "4. Tiersed e darempred",
+     "b": [
+      "- Vercel: herberc'hiañ ha servijout al lec'hienn.",
+      "- Cloudflare: CDN ha surentez.",
+      "- Google (Google Analytics 4) ha Microsoft (Clarity): ystadegoù implij al lec'hienn.",
+      "- Meta (WhatsApp) ha Google (Gmail): pa gevreit ganeomp dre al liammoù WhatsApp pe bostel el lec'hienn-mañ.",
+      "- Pourchaser ar c'hoursioù moneiz: ne resev nemet goulennoù kours eus hor servijer, ket roadennoù ar weladennerien.",
+      "Ar pourchaserien-se a c'hall tretañ roadennoù er-maez eus Indonezia diouzh o politikerezhioù dezho."
+     ]
+    },
+    {
+     "t": "5. Pegeit e vez miret ar roadennoù",
+     "b": [
+      "Ar gaozeadennoù hag an danvez raktres a vez miret keit ha ma ez eus ezhomm evit ober tremen ar servij, reiñ skoazell ha doujañ d'ar rwymedoù lezennel, ha goude e vezont dilamet pe dizanvet. Roadennoù an dielfennañ a heuilh arventennoù miret o fourchaser. Ar roadennoù en ho merdeer a chom betek ma lamfec'h anezho."
+     ]
+    },
+    {
+     "t": "6. Ho gwirioù",
+     "b": [
+      "Dindan Lezenn niv. 27 eus 2022 Indonezia diwar-benn gwarez ar roadennoù personel (Nomor 27 Tahun 2022), ho peus ar gwir da:",
+      "- c'houzout ha kaout un eilad eus ar roadennoù personel hon eus diwar ho penn;",
+      "- goulenn kempenn ar roadennoù fall;",
+      "- goulenn dilemel ho roadennoù pe nulliñ ho asant;",
+      "- en em enebiñ ouzh un tretadenn zivoutin.",
+      "Kasit ho koulenn da nocodingindonesia@gmail.com. Respontet e vo ganeomp en un termen resonus."
+     ]
+    },
+    {
+     "t": "7. Surentez ha bugale",
+     "b": [
+      "Implijout a ra al lec'hienn-mañ HTTPS hag ar moned d'ar roadennoù raktres a zo bevennet. Ne vez ket hent ebet da gas pe da virout roadennoù hep riskl ebet, setu ne c'hallomp ket gwarantiñ ur surentez ziglok.",
+      "Hon servijoù a zo evit tud 18 vloaz pe ouzhpenn. Ne zastumomp ket a-ratoz roadennoù personel bugale."
+     ]
+    },
+    {
+     "t": "8. Kemmoù er politikerezh-mañ",
+     "b": [
+      "Posupl eo e vefe hizivaet ar politikerezh-mañ a-wechoù. Deiziad an hizivadenn ziwezhañ a vez diskouezet e laez ar bajenn. Mar disheñvel ar yezhoù en o ster, ar stumm indonezek a dalv."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Divizoù implij",
+   "description": "Reolennoù implij lec'hienn ha servijoù Nocoding: pakadoù, prizioù, doare labourat, perzhded spered ha bevennoù ar responsableded.",
+   "sections": [
+    {
+     "t": "1. Degemer an divizoù-mañ",
+     "b": [
+      "Dre zigeriñ al lec'hienn-mañ pe dre implijout servijoù Nocoding, e asantit d'an divizoù implij-mañ. Ma n'asantit ket, na implijit ket hor lec'hienn nag hor servijoù, mar plij."
+     ]
+    },
+    {
+     "t": "2. Ar servijoù",
+     "b": [
+      "Nocoding a sav lec'hiennoù web portfolio pe CV, pajennoù degemer ha profilioù embregerezh, reizhiadoù titouroù hag oberiañ, hag emgefreekadur argerzhioù kenwerzh. Ment al labour, an arc'hweladurioù, ar steuñv hag ar c'host a vez divizet ganeoc'h dre WhatsApp pe dre bostel a-raok kregiñ gant al labour.",
+      "Ar c'huzuliañ a zo digoust atav, pa ez eus ezhomm ganeoc'h, ha n'eo ket un dleour evit gourc'hemenn."
+     ]
+    },
+    {
+     "t": "3. Pakadoù ha prizioù",
+     "b": [
+      "- Pakad bihan: adalek Rp 500.000 bep bloaz, gant an trezalc'h digoust hag un anv-domani evit 1 bloaz.",
+      "- Pakad bras: adalek Rp 2.000.000 bep bloaz, gant an trezalc'h digoust hag an herberc'hiañ evit 1 bloaz.",
+      "Ar prizioù el lec'hienn a zo prizioù loc'hañ. Ar sammad diwezhañ a vez divizet goude ur c'huzuliadenn, diouzh ho ezhommoù. Evit ar weladennerien er-maez eus Indonezia, e vez diskouezet ar prizioù er moneiz lec'hel evel ur prizadenn diazezet war an dikour a-viskoazh pemdeziek; ar sammad e rupiah hon eus divizet a dalv. Ar c'hostoù ouzhpenn, evel arc'hweladurioù ouzhpenn pe adnevezadur goude fin ar prantad digoust, a vez lavaret deoc'h a-raok ober al labour."
+     ]
+    },
+    {
+     "t": "4. Penaos e vez graet al labour hag ho responsableded",
+     "b": [
+      "Ar c'hoazadur a vez adwelet ha lakaet da dalvezout ganeoc'h a-raok produiñ. Ar reizhadennoù a vez graet diouzh ar pezh a zo bet divizet.",
+      "Ho pezh eo pourchas an danvez (logo, testenn, luc'hskeudennoù, roadennoù) en eur mat ha kaout ar gwir d'o implijout. Ar warizi e danvez pe e adlavar a c'hall tizhout ar steuñv."
+     ]
+    },
+    {
+     "t": "5. Trezalc'h",
+     "b": [
+      "An trezalc'h digoust evit 1 bloaz a gontañ ar c'hemm fazioù en hor labour hag an hizivadennoù surentez diazez. Ar c'hlaskoù nevez, ar c'hemmoù bras er c'hoazadur hag al labour er-maez eus ar c'henemglev orin a vez dleet a-ziforc'h."
+     ]
+    },
+    {
+     "t": "6. Perzhded spered",
+     "b": [
+      "An danvez a bourchasit a chom deoc'h. Al labour echuet a vez roet deoc'h pa vez peet penn-da-benn diouzh ar pezh a zo bet divizet. Nocoding a c'hall diskouez labourioù bev evel skouerioù en e bortfolio, nemet ma c'houlennit e skrid arabat o diskouez.",
+      "Ar c'hoazadur, an destennoù hag ar pennadoù war nocoding.web.id a zo da Nocoding. Gallout a rit rannañ al liammoù outo, met ne c'hallit ket o eilañ hag o implijout evit kenwerzh hep aotre. Luc'hskeudennoù ar pennadoù a zeu eus Unsplash hag a heuilh e aotre implijout; ar vammenn a zo meneget dindan pep luc'hskeudenn."
+     ]
+    },
+    {
+     "t": "7. Yezhoù al lec'hienn",
+     "b": [
+      "Hegerz eo al lec'hienn-mañ e meur a yezh. An droidigezhioù, dreist-holl evit ar yezhoù gant nebeutoc'h a gomzerien, a c'hall bezañ n'int ket mat-tre. Mar disheñvel int en o ster, ar stumm indonezek a dalv. Ar pajennoù lezennel-mañ a zo hegerz e indonezeg ha e saozneg."
+     ]
+    },
+    {
+     "t": "8. Bevennoù ar responsableded",
+     "b": [
+      "Labourat a reomp evit reiñ disoc'hoù mat, met ne dalc'homp ket disoc'hoù kenwerzh resis evel renkadur ar c'hlask, niver ar weladennerien pe ar gwerzhioù. N'omp ket responsabl eus ar boulc'hadurioù a zeu eus tiersed evel pourchaserien herberc'hiañ, anv-domani pe baeañ, nag eus ar c'holloù diret.",
+      "Hor responsableded evit ur servij a zo bevennet d'ar sammad ho peus paet evit ar servij-se, betek ar pezh a aotre al lezenn. Kement-se ne zistrujañ ket ar gwirioù ho peus gwarezet gant al lezenn."
+     ]
+    },
+    {
+     "t": "9. Lezenn arloet",
+     "b": [
+      "An divizoù-mañ a zo rannet gant lezennoù Republik Indonezia. Mar c'hoarvez ur c'hoari, e klaskomp da gentañ e sevel dre gaozeadenn. Ma n'eus ket a gendivizad, e vez diskoulmet ar c'hoari gant ar barnerezhioù barrek en Indonezia."
+     ]
+    },
+    {
+     "t": "10. Kemmoù ha darempred",
+     "b": [
+      "An divizoù-mañ a c'hall bezañ hizivaet a-wechoù; deiziad an hizivadenn ziwezhañ a vez diskouezet e laez ar bajenn. Ar goulennoù a c'haller kas da nocodingindonesia@gmail.com pe dre WhatsApp da +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Politikerezh toazennoù",
+   "description": "An toazennoù hag ar c'hlask lec'hel implijet gant lec'hienn Nocoding, d'ar pezh a servijont, ha penaos o merañ.",
+   "sections": [
+    {
+     "t": "1. Petra eo an toazennoù",
+     "b": [
+      "An toazennoù (cookies) a zo restroù bihan a enrol ul lec'hienn en ho merdeer. Ar c'hlask lec'hel hag ar c'hlask estez a ya en-dro en un doare heñvel met n'int ket kaset da servijer ent emgefre. War ar bajenn-mañ e vez graet toazennoù eus an holl."
+     ]
+    },
+    {
+     "t": "2. Ar pezh a zo ezhomm evit ma'z aio al lec'hienn",
+     "b": [
+      "Enrollet en ho merdeer ha na vezont ket kaset d'hor servijerioù:",
+      "- nocoding-language ha nocoding-language-set: ar yezh ho peus dibabet pe a zo bet kavet diwar ho merdeer.",
+      "- nocoding-pricing (estez): ar moneiz priziet hag ar c'hours, evit na vefe ket jedet ar prizioù en-dro war bep pajenn.",
+      "- Arouezioù ar pennadoù: ha karet, lennet pe rannet ho peus dija ur pennad, evit na vefe ket daouebet an niveroù.",
+      "- Un arouez da c'hortoz evit lec'hiadur ar rollañ pa dremener eus ur rann eus al lec'hienn d'un all."
+     ]
+    },
+    {
+     "t": "3. Dielfennañ",
+     "b": [
+      "Pa vez gweredekaet, daou servij dielfennañ a gargont goude ma kevreit gant ar bajenn (rollañ, stokañ pe wasañ un alc'hwez):",
+      "- Google Analytics 4 (toazennoù evel _ga ha _ga_*, talvoudus betek war-dro 2 vloaz): ystadegoù ar weladennoù.",
+      "- Microsoft Clarity (toazennoù evel _clck, _clsk, CLID ha MUID, talvoudus betek war-dro 1 bloaz): kartennoù tomm ha enrolladennoù dizanv eus an etreoberiañ.",
+      "Pourchaserien CDN ha surentez a c'hall ivez lakaat toazennoù teknikel evit gwareziñ al lec'hienn diouzh an tremeniñ noazus."
+     ]
+    },
+    {
+     "t": "4. Penaos merañ an toazennoù",
+     "b": [
+      "Gallout a rit dilemel pe stankañ an toazennoù e arventennoù ho merdeer. Gallout a rit ivez staliañ astenn ofisiel Google evit nac'h Google Analytics. Ma vez stanket an toazennoù dielfennañ, al lec'hienn a ya en-dro memes tra; ma vez goullonderet ar c'hlask lec'hel, ho tibab yezh a zistro d'an dibab dre ziouer."
+     ]
+    },
+    {
+     "t": "5. Goulennoù",
+     "b": [
+      "Evit goulennoù diwar-benn ar politikerezh-mañ, kit e darempred gant nocodingindonesia@gmail.com. Penaos e vez implijet ar roadennoù personel a zo displeget muioc'h er Politikerezh buhez prevez. Mar disheñvel ar yezhoù en o ster, ar stumm indonezek a dalv."
+     ]
+    }
+   ]
+  }
+ }
+}

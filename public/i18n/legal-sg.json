@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Mbeni ti ndoli",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Lege ti bata sioni ti tënë ti mo",
+   "description": "Tënë nini la Nocoding amû, a sala ni na nini, zo wa asala ni, nga aye so mo yeke na ni ndali ti tënë ti mo ti zo.",
+   "sections": [
+    {
+     "t": "1. Zo wa la e yeke",
+     "b": [
+      "Nocoding (nocoding.web.id) ayeke kua ti sala site web, application, système ti tënë nga na automatisation, so Abid Hanan Wicaksono ayeke bata ni na Indonésie. Lege so afa tî mo lege so e yeke sala na tënë ti mo ti zo tongana mo gue na site so wala tongana mo sara tënë na e.",
+      "Mo lingbi ti tokua atënë ti lege so na nocodingindonesia@gmail.com wala na WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Tënë so e yeke bata",
+     "b": [
+      "- Tënë so mo yeke mû na e: iri ti mo, nimero ti WhatsApp ti mo, email nga na tënë ti projet ti mo tongana mo sara tënë na e na WhatsApp wala na email. Site so ayeke na compte ti zo ti sala kua wala formulaire ti inscription ape.",
+      "- Tënë ti technique so asala ni ten ten: adresse IP, lege ti appareil na ti navigateur, nga na atéré ti site so mo zi. Azo so ayeke mû hébergement na CDN ti e asala na tënë so ti mû site na ti bata ni na ndö ti sioni.",
+      "- Kodoro so a pensé: ti fa aprix na mbeni wari ti mo, a pensé kodoro ti mo na ndo tënë ti CDN wala na ndo yanga ti navigateur ti mo. E bata ni na serveur ti e ape.",
+      "- Tënë ti analyse: Google Analytics 4 na Microsoft Clarity (tongana a zi ni) abata statistique ti kua ti site tongana atéré so a zi, ngbaa ti gue, lege ti appareil nga na enregistrement ti kua ti mo so ayeke na iri ti zo ape. A zi ni gi na pekoni ti so mo sala mbeni kua na téré ni.",
+      "- Bata na navigateur: yanga so mo yeke sioni, atënë so mo bâ gï so mo ndoye, mo bâ wala mo tokua na mbeni article, nga na mbeni prix ti ngbaa kete. Mo lingbi ti bâ gbâ ti ni na Lege ti Cookie.",
+      "- Nombre ti azo so abâ, andoye nga na atokua mbeni article abata ni tongana mbeni nimero so a bungbi ni, a bata iri ti zo so asara ni ape."
+     ]
+    },
+    {
+     "t": "3. A sala na tënë so na nini",
+     "b": [
+      "- Ti kiri tënë na atënë ti mo, ti sara devis nga na ti sala projet ti mo.",
+      "- Ti mû site, ti bata ni nga na ti bata ni na ndö ti vitesse.",
+      "- Ti hinga lege so a sala kua na site ti si e lingbi ti sara ni nzoni.",
+      "- Ti sala na akpengba-tënë ti loi.",
+      "E yeke vo tënë ti mo ti zo ape."
+     ]
+    },
+    {
+     "t": "4. Azo ti oko-ota so ayeke na ndö ni",
+     "b": [
+      "- Vercel: hébergement na ti mû site.",
+      "- Cloudflare: CDN na securité.",
+      "- Google (Google Analytics 4) na Microsoft (Clarity): statistique ti kua ti site.",
+      "- Meta (WhatsApp) na Google (Gmail): tongana mo sara tënë na e na lege ti aliens ti WhatsApp wala ti email na site so.",
+      "- Zo so amû taux ti wari: a wara gi asara-bâ ti taux ti wari na serveur ti e, a wara tënë ti azo so ague na site ape.",
+      "Azo so alingbi ti sala na tënë na yongoro ti Indonésie, na lege ti akpengba-tënë ti ala."
+     ]
+    },
+    {
+     "t": "5. Ngbaa wa la a bata tënë",
+     "b": [
+      "A bata atënë ti sarango tënë nga na akua ti projet ti ngbaa so a lingbi ti sala kua ni, ti mû aide nga na ti sala na akpengba-tënë ti loi, na pekoni a zi ni wala a sala ni si a hinga zo so ape. Tënë ti analyse ayeke tî pekoni na lege ti bata ti zo so amû ni. Tënë so ayeke na navigateur ti mo ayeke ngbâ poro si mo zi ni."
+     ]
+    },
+    {
+     "t": "6. Aye so mo yeke na ni ndali ti tënë",
+     "b": [
+      "Na lege ti Loi Nimero 27 ti Ngu 2022 ti Indonésie na ndö ti Bata Tënë ti Zo, mo yeke na lege ti:",
+      "- hinga nga na wara mbeni copie ti tënë ti mo ti zo so e yeke bata;",
+      "- ti mande a leke tënë so ayeke ngangu ape;",
+      "- ti mande a zi tënë ti mo wala ti kiri yanga ti mo so mo mû;",
+      "- ti tene ape na ndö ti mbeni lege ti sala kua na tënë.",
+      "Tokua demande ti mo na nocodingindonesia@gmail.com. E yeke kiri tënë na ngbaa so ayeke lingbi."
+     ]
+    },
+    {
+     "t": "7. Securité na amolenge",
+     "b": [
+      "Site so asala na HTTPS nga a limite lege ti gue na tënë ti projet. Lege ti tokua wala ti bata tënë ayeke na ndö ti sioni ape ayeke na ni ape, tongaso e lingbi ti dë securité so ayeke ngangu ahon ape.",
+      "Akua ti e ayeke ti azo so ayeke na ngu 18 wala ahon ni. E bata na tënë ti zo ti amolenge na lege ti hinga ni ape."
+     ]
+    },
+    {
+     "t": "8. Changement ti lege so",
+     "b": [
+      "A lingbi ti sara nzoni lege so na ngbaa ti ngbaa. Lango ti nzoni ti ndoli ni asi na ndö ti page. Tongana yanga asi na mbeni lege ti tënë, version ti yanga ti Indonésie ayeke sala kua."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Lege na Aye ti Kua",
+   "description": "Lege ti sala kua na site nga na akua ti Nocoding: apaquet, aprix, lege ti sala kua, akpengba ti kpale ti aye ti kota-bê nga na limite ti responsabilité.",
+   "sections": [
+    {
+     "t": "1. Ti yeke na ndo ti alege so",
+     "b": [
+      "Tongana mo zi site so wala mo sala kua na akua ti Nocoding, mo yeke na ndo ti alege nga aye so. Tongana mo yeke na ndo ape, a mande na mo ti sala kua na site ti e wala na akua ti e ape."
+     ]
+    },
+    {
+     "t": "2. Akua",
+     "b": [
+      "Nocoding asala asite web ti portfolio wala CV, atéré ti landing na profil ti société, système ti tënë na ti kua, nga na automatisation ti akua ti commerce. Ndo ti kua, afonctionnalité, lango ti kua na prix ayeke a fa ni na mo na WhatsApp wala na email kozo ti si a mû lege ti kua.",
+      "Consultation ayeke gratuit tî lâ kue, tongana mo ye ni, nga ayeke mû ngangu na mo ti sala commande ape."
+     ]
+    },
+    {
+     "t": "3. Apaquet na aprix",
+     "b": [
+      "- Petite paquet: ti kozo na Rp 500.000 na ngu, na maintenance gratuit nga na domaine ti ngu 1.",
+      "- Grande paquet: ti kozo na Rp 2.000.000 na ngu, na maintenance gratuit nga na hébergement ti ngu 1.",
+      "Aprix so na site ayeke aprix ti kozo. A fa prix ti lakue pekoni ti consultation, na ndö ti aye so mo ye. Ti azo so ayeke na yongoro ti Indonésie, a fa aprix na wari ti kodoro ti ala tongana mbeni pensée so ayeke na ndö ti taux ti wari ti lâ kue; wari ti rupiah so e yeke na ndo ti ni la ayeke sala kua. Aprix ti kota so ayeke na ni, tongana afonctionnalité ti kota wala renouvellement pekoni ti lango ti gratuit asi, a fa ni na mo kozo ti sala kua ni."
+     ]
+    },
+    {
+     "t": "4. Lege ti sala kua na responsabilité ti mo",
+     "b": [
+      "A bâ nga a mû lege na design na mo kozo ti production. A sala arévision tongana e yeke na ndo ti ni.",
+      "Mo yeke responsable ti mû amatériel (logo, tënë, photo, tënë ti data) na ngbaa ti lingbi nga ti hinga so mo yeke na lege ti sala kua na ni. Ngbaa ti matériel wala ti avis alingbi ti sioni na lango ti kua."
+     ]
+    },
+    {
+     "t": "5. Maintenance",
+     "b": [
+      "Maintenance gratuit ti ngu 1 abata ti leke asioni na kua ti e nga na amise-à-jour ti securité ti kozo. Anouveauté, aséséngo ti kota ti design nga na kua so ayeke na ndö ti lege ti kozo a wara wari ti ni na lege oko oko."
+     ]
+    },
+    {
+     "t": "6. Aye ti kota-bê",
+     "b": [
+      "Matériel so mo mû ayeke ti mo ngbaa. Kua so a gbe ni asi na mo tongana a futa wari na lege ti kozo. Nocoding alingbi ti fa akua so asi na ndö ti portfolio ti lo tongana aexemple, mingi tongana mo mande na tënë ti gbe-tënë ti ape.",
+      "Design, tënë nga na aarticle na nocoding.web.id ayeke ti Nocoding. Mo lingbi ti tokua aliens ti ni, me mo lingbi ti kopie nga ti sala kua na ni ti commerce ape na permission. Aphoto ti article asi na Unsplash nga alege ti lo ti licence; a tene ndö ti ni na gbe ti photo oko oko."
+     ]
+    },
+    {
+     "t": "7. Ayanga ti site",
+     "b": [
+      "Site so ayeke na ayanga mingi. Atraduction, mingi mingi ti ayanga so azo kete asara ni, alingbi ti nzoni ape. Tongana a sara tënë ahon, version ti yanga ti Indonésie ayeke sala kua. Apage ti loi so ayeke na yanga ti Indonésie na yanga ti Anglais."
+     ]
+    },
+    {
+     "t": "8. Limite ti responsabilité",
+     "b": [
+      "E sala kua ti mû aye so ayeke nzoni, me e yeke fa ti ayé ti commerce ti bien ape tongana place ti recherche, nombre ti azo so ague na site wala avente. E yeke responsable ti akpale so asi na azo ti oko-ota tongana azo ti hébergement, ti domaine wala ti paiement ape, nga ti akpale so ayeke ti tuso ape.",
+      "Responsabilité ti e na ndö ti mbeni kua alimite na wari so mo futa ndali ti kua so, na ndo so loi amû lege. Tënë so ayeke zi aye so mo yeke na ni so loi abata ni ape."
+     ]
+    },
+    {
+     "t": "9. Loi so ayeke sala kua",
+     "b": [
+      "Alege so ayeke na ndö ti loi ti Republic ti Indonésie. Tongana mbeni kpale asi, e kozo ti sala ni na lege ti tënë. Tongana e yeke na ndo oko ape, kpale ni a mû ni na atribunal so alingbi na Indonésie."
+     ]
+    },
+    {
+     "t": "10. Changement na tënë",
+     "b": [
+      "A lingbi ti sara nzoni alege so na ngbaa ti ngbaa; lango ti nzoni ti ndoli ni asi na ndö ti page. Mo lingbi ti tokua atënë na nocodingindonesia@gmail.com wala na WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Lege ti Cookie",
+   "description": "Acookie na bata-tënë ti ndo so site ti Nocoding asala kua na ni, na nini, nga na lege ti sala na ni.",
+   "sections": [
+    {
+     "t": "1. Acookie ayeke nini",
+     "b": [
+      "Acookie ayeke akete fichier so site abata na navigateur ti mo. Local storage na session storage asala kua tongana ni me a tokua ni na serveur ten ten ape. Na page so e iri ni kue acookie."
+     ]
+    },
+    {
+     "t": "2. Aye so site ayeke na yâ ti kua ni",
+     "b": [
+      "A bata ni na navigateur ti mo nga a tokua ni na aserveur ti e ape:",
+      "- nocoding-language na nocoding-language-set: yanga so mo yeke sioni wala so a hinga na navigateur ti mo.",
+      "- nocoding-pricing (session): wari so a pensé na taux ni, ti si a sara aprix ti ni na yâ ti page oko oko ape.",
+      "- Amarqueur ti article: tongana mo bâ wala mo ndoye wala mo tokua mbeni article, ti si a sara nombre ti ni na mbage use ape.",
+      "- Mbeni marqueur ti ngbaa kete ti place ti défilement tongana mo gue na mbage ti site."
+     ]
+    },
+    {
+     "t": "3. Analyse",
+     "b": [
+      "Tongana a zi ni, use akua ti analyse a zi ni pekoni ti so mo sala mbeni kua na page (mo défiler, mo tape wala mo tape na mbeni touche):",
+      "- Google Analytics 4 (acookie tongana _ga na _ga_*, ayeke na ngangu ti si na ngu 2 so): statistique ti ague.",
+      "- Microsoft Clarity (acookie tongana _clck, _clsk, CLID na MUID, ayeke na ngangu ti si na ngu 1 so): heatmap na enregistrement ti kua so ayeke na iri ti zo ape.",
+      "Azo ti CDN na ti securité alingbi nga ti mû acookie ti technique ti bata site na ndö ti trafic so ayeke sioni."
+     ]
+    },
+    {
+     "t": "4. Lege ti bata acookie",
+     "b": [
+      "Mo lingbi ti zi wala ti kanga acookie na asetting ti navigateur ti mo. Mo lingbi nga ti zi add-on ti Google so ti ke Google Analytics. Tongana a kanga acookie ti analyse, site ayeke ngbâ ti sala kua; tongana a zi bata-tënë ti ndo, yanga so mo yeke sioni ayeke kiri na ti kozo."
+     ]
+    },
+    {
+     "t": "5. Atënë",
+     "b": [
+      "Ti atënë na ndö ti lege so, sara tënë na nocodingindonesia@gmail.com. Lege so a sala kua na tënë ti zo ti afa ni mingi na Lege ti bata sioni ti tënë ti mo. Tongana yanga asi na mbeni lege ti tënë, version ti yanga ti Indonésie ayeke sala kua."
+     ]
+    }
+   ]
+  }
+ }
+}

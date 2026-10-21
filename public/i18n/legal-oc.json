@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Darrièra actualizacion",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Politica de confidencialitat",
+   "description": "Quines donadas Nocoding collècta, per qué las utiliza, qual las tracta, e quins son vòstres dreches sus vòstras donadas personalas.",
+   "sections": [
+    {
+     "t": "1. Qual sèm",
+     "b": [
+      "Nocoding (nocoding.web.id) es un servici de sits web, aplicacions, sistèmas d'informacion e automatizacion gerit per Abid Hanan Wicaksono en Indonesia. Aquesta politica explica cossí tractam vòstras donadas personalas quand visitatz aqueste site o que nos contactatz.",
+      "Las questions sus aquesta politica pòdon èsser mandadas a nocodingindonesia@gmail.com o a WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Las donadas que collectam",
+     "b": [
+      "- Las donadas que nos balhatz vosautres meteisses: vòstre nom, numèro WhatsApp, corrièl e una descripcion de vòstre projècte quand nos contactatz per WhatsApp o per corrièl. Aqueste site a pas cap de compte d'utilizaire ni de formulari d'inscripcion.",
+      "- Las donadas tecnicas tractadas automaticament: adreça IP, tipe d'aparelh e de navegador, e las paginas que dobrissètz. Nòstres provesidors d'albergament e de CDN las tractan per servir lo site e lo protegir dels abusses.",
+      "- Lo país aproximatiu: per que los prètzes pòscan èsser mostrats dins vòstra moneda, vòstre país es estimat a partir d'informacions del CDN o de la lenga de vòstre navegador. Lo gardam pas sus nòstres servidors.",
+      "- Las donadas d'analisi: Google Analytics 4 e Microsoft Clarity (quand son activats) collèctan de estatisticas d'utilizacion coma las paginas dobèrtas, la durada de la visita, lo tipe d'aparelh e d'enregistraments anonims d'interaccions. Se cargan pas qu'aprèp que avètz interagit amb la pagina.",
+      "- Lo emmagazinatge dins lo navegador: vòstra causida de lenga, de marcas indicant qu'avètz ja aimat, agut vist o partejat un article, e una estimacion temporària dels prètzes. Los detalhs son dins la Politica de cookies.",
+      "- Lo nombre de vistas, d'aimats e de partatges dels articles es gardat jos forma de nombres agregats, sens l'identitat dels visitaires."
+     ]
+    },
+    {
+     "t": "3. Per qué las donadas son utilizadas",
+     "b": [
+      "- Respondre a vòstras questions, preparar de devises e realizar vòstre projècte.",
+      "- Servir, securizar e mantenir lo site rapid.",
+      "- Comprendre cossí lo site es utilizat per lo poder melhorar.",
+      "- Respectar las obligacions legalas.",
+      "Vendèm pas vòstras donadas personalas."
+     ]
+    },
+    {
+     "t": "4. Los tèrces implicats",
+     "b": [
+      "- Vercel: albergament e servici del site.",
+      "- Cloudflare: CDN e seguretat.",
+      "- Google (Google Analytics 4) e Microsoft (Clarity): estatisticas d'utilizacion del site.",
+      "- Meta (WhatsApp) e Google (Gmail): quand nos contactatz amb los ligams WhatsApp o corrièl d'aqueste site.",
+      "- Provesidor dels corses de cambi: recep sonque de demandas de cors de nòstre servidor, pas las donadas dels visitaires.",
+      "Aquestes provesidors pòdon tractar de donadas fòra d'Indonesia segon lors pròpris reglas."
+     ]
+    },
+    {
+     "t": "5. Quant de temps las donadas son gardadas",
+     "b": [
+      "Las conversacions e los documents de projècte son gardats tant qu'es necessari per far foncionar lo servici, balhar de supòrt e respectar las obligacions legalas, puèi son suprimits o anonimizats. Las donadas d'analisi seguisson los paramètres de conservacion de lor provesidor. Las donadas dins vòstre navegador demòran fins que las suprimissètz."
+     ]
+    },
+    {
+     "t": "6. Vòstres dreches",
+     "b": [
+      "Segon la lei indonesiana n° 27 de 2022 sus la proteccion de las donadas personalas (Law No. 27 of 2022), avètz lo drech de:",
+      "- saber e obténer una còpia de las donadas personalas que gardam sus vosautres;",
+      "- demandar la correccion de las donadas incorrèctas;",
+      "- demandar la supression de vòstras donadas o retirar vòstre consentiment;",
+      "- vos opausar a certans tractaments.",
+      "Mandatz vòstra demanda a nocodingindonesia@gmail.com. Respondrem dins un delai rasonable."
+     ]
+    },
+    {
+     "t": "7. Seguretat e enfants",
+     "b": [
+      "Aqueste site utiliza HTTPS e l'accès a las donadas dels projèctes es limitat. Cap de metòde de transmission o de gardatge de donadas es completament sens risc, doncas podèm pas garantir una seguretat absoluta.",
+      "Nòstres servicis son destinats a las personas de 18 ans e mai. Collectam pas a sabuda de donadas personalas d'enfants."
+     ]
+    },
+    {
+     "t": "8. Modificacions d'aquesta politica",
+     "b": [
+      "Aquesta politica pòt èsser actualizada de còp en quand. La data de la darrièra actualizacion es mostrada en naut de la pagina. Se las lengas diferisson de sens, la version indonesiana s'aplica."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Condicions generalas",
+   "description": "Las règlas d'utilizacion del site e dels servicis de Nocoding: paquets, prètzes, cossí lo trabalh es realizat, proprietat intellectuala e limitas de responsabilitat.",
+   "sections": [
+    {
+     "t": "1. Acceptacion de las condicions",
+     "b": [
+      "En dobrissent aqueste site o en utilizant los servicis de Nocoding, acceptatz aquestas condicions generalas. Se las acceptatz pas, vos pregam de pas utilizar nòstre site ni nòstres servicis."
+     ]
+    },
+    {
+     "t": "2. Los servicis",
+     "b": [
+      "Nocoding crèa de sits web de portfolio o de CV, de paginas d'aterratge e de perfils d'entrepresa, de sistèmas d'informacion e d'operacions, e l'automatizacion de processús d'afars. L'espandi del trabalh, las foncionalitats, lo calendièr e lo còst son convenguts amb vosautres per WhatsApp o per corrièl abans que lo trabalh comence.",
+      "Lo conselh es totjorn gratuit, quora que ne aguetz besonh, e vos oblija pas a comandar."
+     ]
+    },
+    {
+     "t": "3. Paquets e prètzes",
+     "b": [
+      "- Paquet pichon: a partir de Rp 500.000 per an, amb manteniment gratuit e un nom de domeni per 1 an.",
+      "- Paquet grand: a partir de Rp 2.000.000 per an, amb manteniment gratuit e albergament per 1 an.",
+      "Los prètzes del site son de prètzes de partida. Lo montant final es convengut aprèp una consultacion, segon vòstres besonhs. Pels visitaires fòra d'Indonesia, los prètzes son mostrats dins la moneda locala coma estimacion basada sul cors de cambi quotidian; es lo montant en rupias que convenèm que s'aplica. Los còsts suplementaris, coma de foncionalitats en mai o lo renovelament quand lo periòde gratuit s'acaba, vos son comunicats abans que lo trabalh siá fach."
+     ]
+    },
+    {
+     "t": "4. Cossí lo trabalh es fach e vòstras responsabilitats",
+     "b": [
+      "Lo design es revist e aprovat amb vosautres abans la produccion. Las revisions son fachas segon çò qu'es convengut.",
+      "Sètz responsable de balhar los documents (logò, tèxte, fòtos, donadas) a temps e d'aver lo drech de los utilizar. De retards dins los documents o los comentaris pòdon influir sul calendièr."
+     ]
+    },
+    {
+     "t": "5. Manteniment",
+     "b": [
+      "Lo manteniment gratuit de 1 an cobrís la correccion dels errors de nòstre trabalh e las actualizacions de seguretat de basa. Las foncionalitats novèlas, los cambiaments importants de design e lo trabalh defòra de l'acòrdi iniciau son facturats a despart."
+     ]
+    },
+    {
+     "t": "6. Proprietat intellectuala",
+     "b": [
+      "Los documents qu'ofrissètz demòran vòstres. Lo trabalh acabat vos es liurat un còp lo paga convengut completament efectuat. Nocoding pòt mostrar de trabalhs en linha coma exemples dins son portfolio, levat se demandatz per escrich que sián pas mostrats.",
+      "Lo design, los tèxtes e los articles de nocoding.web.id aparténon a Nocoding. Podètz partejar lors ligams, mas podètz pas los copiar e los utilizar comercialament sens permission. Las fòtos dels articles venon d'Unsplash e seguisson sa licéncia; la font es creditada jos cada fòto."
+     ]
+    },
+    {
+     "t": "7. Lengas del site",
+     "b": [
+      "Aqueste site es disponible en fòrça lengas. Las traduccions, en particular per las lengas amb mens de locutors, pòdon èsser pas perfèctas. Se diferisson de sens, la version indonesiana s'aplica. Aquestas paginas juridicas son disponiblas en indonesian e en anglés."
+     ]
+    },
+    {
+     "t": "8. Limitas de responsabilitat",
+     "b": [
+      "Trabalham per liurar de bons resultats, mas prometèm pas de resultats comerciaus precises coma un classament de recèrca, un nombre de visitaires o de venda. Sèm pas responsables de las perturbacions de tèrces coma los provesidors d'albergament, de domeni o de paga, ni de las pèrdas indirèctas.",
+      "Nòstra responsabilitat per un servici es limitada al montant que avètz pagat per aqueste servici, dins la mesura que la lei o permet. Aquò redusís pas los dreches que avètz e que son protegits per la lei."
+     ]
+    },
+    {
+     "t": "9. Drech aplicable",
+     "b": [
+      "Aquestas condicions son regidas per las leis de la Republica d'Indonesia. Se un litigi sorgís, assajam d'en primièr de lo reglar per discussion. S'arribam pas a un acòrdi, lo litigi es reglat pels tribunals competents d'Indonesia."
+     ]
+    },
+    {
+     "t": "10. Modificacions e contacte",
+     "b": [
+      "Aquestas condicions pòdon èsser actualizadas de còp en quand; la data de la darrièra actualizacion es mostrada en naut de la pagina. Las questions pòdon èsser mandadas a nocodingindonesia@gmail.com o a WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Politica de cookies",
+   "description": "Los cookies e l'emmagazinatge local qu'utiliza lo site de Nocoding, per qué servisson, e cossí los gerir.",
+   "sections": [
+    {
+     "t": "1. Qu'es un cookie",
+     "b": [
+      "Los cookies son de pichons fichièrs qu'un site grava dins vòstre navegador. L'emmagazinatge local e l'emmagazinatge de session fonciònan d'un biais similar mas son pas mandats automaticament a un servidor. Dins aquesta pagina, los apelam totes cookies."
+     ]
+    },
+    {
+     "t": "2. Çò que lo site a besonh per foncionar",
+     "b": [
+      "Gravat dins vòstre navegador e pas mandat a nòstres servidors:",
+      "- nocoding-language e nocoding-language-set: la lenga qu'avètz causida o qu'es estada detectada dempuèi vòstre navegador.",
+      "- nocoding-pricing (session): la moneda e lo cors estimats, per que los prètzes sián pas tornats calcular a cada pagina.",
+      "- Marcas d'articles: se avètz ja aimat, agut vist o partejat un article, per que los comptes sián pas doblats.",
+      "- Una marca temporària de posicion de desfilament quand vos desplaçatz entre las partidas del site."
+     ]
+    },
+    {
+     "t": "3. Analisi",
+     "b": [
+      "Quand son activats, dos servicis d'analisi se cargan aprèp que avètz interagit amb la pagina (desfilament, tocada o tòca butada):",
+      "- Google Analytics 4 (cookies coma _ga e _ga_*, valables jusqu'a environ 2 ans): estatisticas de visitas.",
+      "- Microsoft Clarity (cookies coma _clck, _clsk, CLID e MUID, valables jusqu'a environ 1 an): mapas de calor e enregistraments anonims d'interaccions.",
+      "Los provesidors de CDN e de seguretat pòdon tanben depausar de cookies tecnics per protegir lo site del trafic nosible."
+     ]
+    },
+    {
+     "t": "4. Cossí gerir los cookies",
+     "b": [
+      "Podètz suprimir o blocar los cookies dins los paramètres de vòstre navegador. Podètz tanben installar l'extension oficiala de refús de Google per Google Analytics. Se los cookies d'analisi son blocats, lo site foncionarà totjorn; se l'emmagazinatge local es escafat, vòstra causida de lenga tornarà a la valor per defaut."
+     ]
+    },
+    {
+     "t": "5. Questions",
+     "b": [
+      "Per de questions sus aquesta politica, contactatz nocodingindonesia@gmail.com. Cossí las donadas personalas son utilizadas es explicat mai en detalh dins la Politica de confidencialitat. Se las lengas diferisson de sens, la version indonesiana s'aplica."
+     ]
+    }
+   ]
+  }
+ }
+}

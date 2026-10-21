@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Vakadewataki ni mua",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Ivakaro ni Matanataki ni Itukutuku Vakatagane",
+   "description": "Na itukutuku e vakavuna o Nocoding, na cava e vakayagataki kina, o cei e cakacaka kina, kei na nomu dodonu ena nomu itukutuku vakatagane.",
+   "sections": [
+    {
+     "t": "1. O keimami cei",
+     "b": [
+      "Nocoding (nocoding.web.id) e dua na veiqaravi ni wepsaiti, na app, na ivakarau ni itukutuku kei na cakacaka vakaikoya e qarava o Abid Hanan Wicaksono e Idonisia. Na ivakaro oqo e vakamacalataka na ka keimami sa cakava ena nomu itukutuku vakatagane ni o a lako mai ena wepsaiti oqo se veitaratara kei keimami.",
+      "Na taro me baleta na ivakaro oqo e rawa ni vakauti ki na nocodingindonesia@gmail.com se WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Na itukutuku keimami vakavuna",
+     "b": [
+      "- Na itukutuku o solia vei keimami: na yaca, na naba ni WhatsApp, na imeli kei na vakamacala ni nomu poloseki ni o veitaratara kei keimami ena WhatsApp se imeli. Na wepsaiti oqo e sega ni tiko kina na akauti ni dau vakayagataka se na ivola ni lokiloki.",
+      "- Na itukutuku vakatekinolaji e cakacakataki vakaikoya: na IP address, na ivakarau ni iyaya kei na browser, kei na peceji o dola. Na kena veiqaravi ni hosting kei na CDN e cakacaka kina me vakaraitaki na wepsaiti ka maroroi mai na vakayagataki ca.",
+      "- Na vanua e vakarautaki: me rawa ni vakaraitaki na nodra isau ena nomu ilavo, e vakatataki na vanua o tiko kina mai na itukutuku ni CDN se na vosa ni nomu browser. Keimami sega ni maroroya ena noda server.",
+      "- Na itukutuku ni analytics: na Google Analytics 4 kei na Microsoft Clarity (ke tarogi) e vakavuna na ivakatakilakila ni vakayagataki me vaka na peceji e dola, na balavu ni lakolako, na ivakarau ni iyaya kei na ivola ni veitaratara e sega ni kilai na tamata. E laga ga ni o sa cakacaka ena peceji.",
+      "- Na maroroi ena browser: na nomu digitaki ni vosa, na ivakatakilakila ni o a lai taleitaka, raica se wasea e dua na ulutaga, kei na isau lalai e vakarautaki. Na vakamacala vakamatailalai e tiko ena Ivakaro ni Cookie.",
+      "- Na iwiliwili ni raici, taleitaki kei na wasei ni ulutaga e maroroi me iwiliwili vata, ka sega ni tukuna na vakaiyalayala ni tamata e lako mai."
+     ]
+    },
+    {
+     "t": "3. Na cava e vakayagataki kina na itukutuku",
+     "b": [
+      "- Me sauma na nomu taro, me vakarautaka na isau kei na cakacaka ena nomu poloseki.",
+      "- Me vakaraitaka, me taqomaka ka me vakusakusataka na wepsaiti.",
+      "- Me kila na ivakarau ni vakayagataki ni wepsaiti me rawa ni keimami vakavinakataka.",
+      "- Me rawa ni keimami vakayacori na ituvatuva ni lawa.",
+      "Keimami sega ni volitaka na nomu itukutuku vakatagane."
+     ]
+    },
+    {
+     "t": "4. Na ilala ni ketetolu e curu mai",
+     "b": [
+      "- Vercel: na hosting kei na vakaraitaki ni wepsaiti.",
+      "- Cloudflare: na CDN kei na taqomaki.",
+      "- Google (Google Analytics 4) kei Microsoft (Clarity): na ivakatakilakila ni vakayagataki ni wepsaiti.",
+      "- Meta (WhatsApp) kei Google (Gmail): ni o veitaratara kei keimami ena WhatsApp se imeli ena wepsaiti oqo.",
+      "- Na dau solia na isau ni ilavo: e rawa ga ni taroga na isau mai na noda server, ka sega ni kunea na itukutuku ni tamata e lako mai.",
+      "Na dau veiqaravi oqo e rawa ni cakacakataka na itukutuku e taudaku ni Idonisia ena nodra ivakaro."
+     ]
+    },
+    {
+     "t": "5. Na balavu ni maroroi ni itukutuku",
+     "b": [
+      "Na veivosaki kei na iyaya ni poloseki e maroroi ka yacova ni gadreva me qarava na veiqaravi, me solia na veivuke kei na vakayacori ni ituvatuva ni lawa, ka muri e vakacacani se vakasegai na vakamatataki. Na itukutuku ni analytics e muria na ivakarau ni maroroi ni dau solia. Na itukutuku ena nomu browser e tiko ga ka yacova ni o vakasegata."
+     ]
+    },
+    {
+     "t": "6. Na nomu dodonu",
+     "b": [
+      "Ena Lawa Naba 27 ni Yabaki 2022 ni Idonisia me baleta na Taqomaki ni Itukutuku Vakatagane, e tiko vei iko na dodonu me:",
+      "- kila ka rawa ni tiko vei iko e dua na kopi ni itukutuku vakatagane keimami maroroya me baleta iko;",
+      "- tarogi me vakavinakataki na itukutuku e cala;",
+      "- tarogi me vakasegai na nomu itukutuku se tarova na nomu vakadonuya;",
+      "- sega ni rawa ena so na cakacakataki.",
+      "Vakauta na nomu kerekere ki na nocodingindonesia@gmail.com. Keimami na sauma ena dua na gauna e vakadonu."
+     ]
+    },
+    {
+     "t": "7. Na vakatarotaro ni maroroi kei na gone",
+     "b": [
+      "Na wepsaiti oqo e vakayagataka na HTTPS ka vakayagataki rawa ga na itukutuku ni poloseki ena so na tamata. Sega na ivakarau ni vakauta se maroroi itukutuku e sega ni tiko kina na rerevaki, o koya e sega ni rawa ni keimami vakadeitaka na maroroi taucoko.",
+      "Na noda veiqaravi e vakarautaki ki na tamata sa yabaki 18 se cake. Keimami sega ni vakavuna ena kila na itukutuku vakatagane ni gone."
+     ]
+    },
+    {
+     "t": "8. Na veisau ena ivakaro oqo",
+     "b": [
+      "Na ivakaro oqo e rawa ni vakadewataki ena so na gauna. Na siga ni vakadewataki ni mua e vakaraitaki ena ulu ni peceji. Ke duidui na ibalebale ena vosa, na ivakamacala vaka-Idonisia e vakayagataki."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Na Ivakaro kei na Ivakatagedegede",
+   "description": "Na ivakaro ni vakayagataki ni wepsaiti kei na veiqaravi ni Nocoding: na peceji, na isau, na ivakarau ni cakacaka, na dodonu ni vakasama kei na ivakatakilakila ni ulutaga.",
+   "sections": [
+    {
+     "t": "1. Na vakadonuya ni ivakaro oqo",
+     "b": [
+      "Ni o dola na wepsaiti oqo se vakayagataka na veiqaravi ni Nocoding, o vakadonuya na ivakaro kei na ivakatagedegede oqo. Ke o sega ni vakadonuya, vinaka mo kua ni vakayagataka na noda wepsaiti se veiqaravi."
+     ]
+    },
+    {
+     "t": "2. Na veiqaravi",
+     "b": [
+      "Na Nocoding e tara na wepsaiti ni portfolio se CV, na landing page kei na profile ni kampani, na ivakarau ni itukutuku kei na cakacaka, kei na cakacaka vakaikoya ni ivakarau ni bisinisi. Na rorogo ni cakacaka, na ivakaraitaki, na gauna kei na isau e veivosakitaki kei iko ena WhatsApp se imeli ni se bera ni tekivu na cakacaka.",
+      "Na veivuke ni vakasama e sega ni saumi ena veigauna kece, ni gadreva, ka sega ni dikevi me o tarogi me oka."
+     ]
+    },
+    {
+     "t": "3. Na peceji kei na isau",
+     "b": [
+      "- Peceji lailai: mai na Rp 500,000 ena dua na yabaki, e okati kina na vakavinakataki sega ni saumi kei na domain ena 1 na yabaki.",
+      "- Peceji levu: mai na Rp 2,000,000 ena dua na yabaki, e okati kina na vakavinakataki sega ni saumi kei na hosting ena 1 na yabaki.",
+      "Na isau ena wepsaiti oqo e isau ni tekivu. Na iwiliwili e muri e veivosakitaki ni muri na veivosaki ni vakasama, e vakatau ena nomu gadrevi. Vei ira na tamata e lako mai e taudaku ni Idonisia, na isau e vakaraitaki ena ilavo ni vanua ka vakatataki ga, e vakatau ena ivakatagedegede ni ilavo ena veisiga; na iwiliwili ena rupiah keimami veivosakitaki e vakayagataki. Na isau levu, me vaka na ivakaraitaki ni vakasama se vakavoutataki ni muri na gauna sega ni saumi, e tukuni vei iko ni se bera ni cakacaka."
+     ]
+    },
+    {
+     "t": "4. Na ivakarau ni cakacaka kei na nomu itavi",
+     "b": [
+      "Na ivakaraitaki e raici ka vakadonuya kei iko ni se bera ni tekivu na cakacaka. Na veisau e cakacaka me vaka e veivosakitaki.",
+      "O ikoya e tavi mo solia na iyaya (logo, vosa, iyaloyalo, itukutuku) ena gauna e vakarautaki ka mo tiko kina na dodonu mo vakayagataki. Na veiganiti ni iyaya se ni isau ni vosa e rawa ni vakacacani na ituvatuva ni gauna."
+     ]
+    },
+    {
+     "t": "5. Na vakavinakataki",
+     "b": [
+      "Na vakavinakataki sega ni saumi ena 1 na yabaki e okati kina na vakadeitaki ni cala ena noda cakacaka kei na vakavoutataki ni taqomaki taumada. Na ka vou, na veisau levu ni ivakaraitaki kei na cakacaka e taudaku ni veivosaki taumada e saumi vakaduadua."
+     ]
+    },
+    {
+     "t": "6. Na dodonu ni vakasama",
+     "b": [
+      "Na iyaya o solia e tiko ga vei iko. Na cakacaka sa mai oti e solia vei iko ni sa oti na isau me vaka e veivosakitaki. Na Nocoding e rawa ni vakaraitaka na cakacaka bula me ivakaraitaki ena nona portfolio, ke o sega ni kerea ena vola me kua ni vakaraitaki.",
+      "Na ivakaraitaki, na vosa kei na ulutaga ena nocoding.web.id e nodrai Nocoding. O rawa ni wasea na link kina, ia o sega ni rawa ni kopitaka ka vakayagataka ena volivoli ke sega na veivosoti. Na iyaloyalo ni ulutaga e lako mai ena Unsplash ka muri na nona ivakaro ni veivosoti; na vanua e kune kina e tukuni ena ra ni iyaloyalo ia."
+     ]
+    },
+    {
+     "t": "7. Na vosa ni wepsaiti",
+     "b": [
+      "Na wepsaiti oqo e tiko ena vosa vuqa. Na vakadewa, vakabibi ena vosa e lailai na tamata e vosataka, e rawa ni sega ni kena ivakarau vinaka sara. Ke duidui na ibalebale, na ivakamacala vaka-Idonisia e vakayagataki. Na peceji ni lawa oqo e tiko ena vosa vaka-Idonisia kei na vosa vaka-Igiliki."
+     ]
+    },
+    {
+     "t": "8. Na ivakatakilakila ni ivakaraitaki",
+     "b": [
+      "Keimami cakacaka me solia na iwiliwili vinaka, ia keimami sega ni yalataka na iwiliwili ni bisinisi me vaka na tikotiko ni vakasaqarai, na iwiliwili ni tamata e lako mai se volitaki. Keimami sega ni ciqomi ena veivakatarotaro mai vei ira na ketetolu me vaka na dau veiqaravi ni hosting, domain se ni isau, se ni vakaleqai e sega ni yaco vakadodonu.",
+      "Na noda ivakaraitaki ni veiqaravi e vakatabakidua ena iwiliwili o saumi tu me baleta na veiqaravi ia, me yacova na rawa ni lawa. Oqo e sega ni vakalailaitaka na dodonu o taukena e taqomaki ena lawa."
+     ]
+    },
+    {
+     "t": "9. Na lawa e vakayagataki",
+     "b": [
+      "Na ivakaro oqo e vakatautaki ena lawa ni Matanitu Tugalala o Idonisia. Ke tubu e dua na veivakaduiduitaki, keimami na tekivu ena vakatulewa ena veivosaki. Ke sega na veimaliwai, na veivakaduiduitaki e vakatulewataki ena veivakavuvuli ni lawa ena Idonisia e tiko kina na dodonu."
+     ]
+    },
+    {
+     "t": "10. Na veisau kei na veitaratara",
+     "b": [
+      "Na ivakaro oqo e rawa ni vakadewataki ena so na gauna; na siga ni vakadewataki ni mua e vakaraitaki ena ulu ni peceji. Na taro e rawa ni vakauti ki na nocodingindonesia@gmail.com se WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Ivakaro ni Cookie",
+   "description": "Na cookie kei na maroroi ena iyaya e vakayagataka na wepsaiti ni Nocoding, na cava e vakayagataki kina, kei na ivakarau ni vakarautaki.",
+   "sections": [
+    {
+     "t": "1. Na cava na cookie",
+     "b": [
+      "Na cookie e lalai na faile e maroroi ena nomu browser e dua na wepsaiti. Na maroroi ena iyaya kei na maroroi ni gauna e cakacaka vakakina ia e sega ni vakauti vakaikoya ki na server. Ena peceji oqo keimami kaya kece me cookie."
+     ]
+    },
+    {
+     "t": "2. Na ka e gadreva na wepsaiti me cakacaka",
+     "b": [
+      "Maroroi ena nomu browser ka sega ni vakauti ki na noda server:",
+      "- nocoding-language kei nocoding-language-set: na vosa o digitaka se kunei mai ena nomu browser.",
+      "- nocoding-pricing (gauna): na ilavo vakatataki kei na ivakatagedegede, me kua ni vakaiwiliwilitaki tale na isau ena peceji yadua.",
+      "- Na ivakatakilakila ni ulutaga: ke o a taleitaka, raica se wasea e dua na ulutaga, me kua ni vakarua na iwiliwili.",
+      "- Dua na ivakatakilakila lailai ni vanua ni tabaki ni veisau mai na so na tabana ni wepsaiti."
+     ]
+    },
+    {
+     "t": "3. Na analytics",
+     "b": [
+      "Ke tarogi, e rua na veiqaravi ni analytics e laga ni o sa cakacaka ena peceji (tabaka, tara se tara e dua na ki):",
+      "- Google Analytics 4 (na cookie me vaka na _ga kei na _ga_*, e tiko me yacova e rua na yabaki vakavuqa): na ivakatakilakila ni lakolako.",
+      "- Microsoft Clarity (na cookie me vaka na _clck, _clsk, CLID kei na MUID, e tiko me yacova e dua na yabaki vakavuqa): na mape ni katakata kei na ivola ni veitaratara e sega ni kilai na tamata.",
+      "Na dau veiqaravi ni CDN kei na taqomaki e rawa ni tauri na cookie vakatekinolaji me taqomaka na wepsaiti mai na lako ca."
+     ]
+    },
+    {
+     "t": "4. Na ivakarau ni vakarautaki ni cookie",
+     "b": [
+      "O rawa ni vakasegai se tarova na cookie ena ivakarau ni nomu browser. O rawa talega ni vakacurumi na ivakacuruma ni tarova ni Google ena Google Analytics. Ke tarovi na cookie ni analytics, na wepsaiti e cakacaka tiko ga; ke vakasegai na maroroi ena iyaya, na nomu digitaki ni vosa e lesu ki na ka e tauri tiko."
+     ]
+    },
+    {
+     "t": "5. Na taro",
+     "b": [
+      "Me baleta na taro ena ivakaro oqo, veitaratara kei nocodingindonesia@gmail.com. Na ivakarau ni vakayagataki ni itukutuku vakatagane e vakamacalataki vakamatailalai ena Ivakaro ni Matanataki ni Itukutuku Vakatagane. Ke duidui na ibalebale ena vosa, na ivakamacala vaka-Idonisia e vakayagataki."
+     ]
+    }
+   ]
+  }
+ }
+}

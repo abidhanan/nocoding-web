@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Ilisasishwa mwisho",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Sera ya Faragha",
+   "description": "Ni data gani Nocoding hukusanya, inatumiwa kwa nini, nani anaichakata, na haki zako juu ya data yako binafsi.",
+   "sections": [
+    {
+     "t": "1. Sisi ni nani",
+     "b": [
+      "Nocoding (nocoding.web.id) ni huduma ya tovuti, programu, mifumo ya taarifa na uendeshaji wa kiotomatiki inayoendeshwa na Abid Hanan Wicaksono nchini Indonesia. Sera hii inaeleza jinsi tunavyoshughulikia data yako binafsi unapotembelea tovuti hii au kuwasiliana nasi.",
+      "Maswali kuhusu sera hii yanaweza kutumwa kwa nocodingindonesia@gmail.com au WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data tunayokusanya",
+     "b": [
+      "- Data unayotupa: jina lako, namba yako ya WhatsApp, barua pepe na maelezo ya mradi wako unapowasiliana nasi kwa WhatsApp au barua pepe. Tovuti hii haina akaunti za watumiaji wala fomu za kujisajili.",
+      "- Data ya kiufundi inayochakatwa kiotomatiki: anwani ya IP, aina ya kifaa na kivinjari, na kurasa unazofungua. Watoa huduma wetu wa mwenyeji na CDN huichakata ili kuwasilisha tovuti na kuilinda dhidi ya matumizi mabaya.",
+      "- Nchi kwa makadirio: ili bei ziweze kuonyeshwa kwa sarafu yako, nchi yako hukadiriwa kutokana na taarifa za CDN au lugha ya kivinjari chako. Hatuihifadhi kwenye seva zetu.",
+      "- Data ya uchanganuzi: Google Analytics 4 na Microsoft Clarity (zikiwashwa) hukusanya takwimu za matumizi kama vile kurasa zilizofunguliwa, muda wa ziara, aina ya kifaa na rekodi zisizo na utambulisho za mwingiliano. Hupakiwa tu baada ya wewe kuingiliana na ukurasa.",
+      "- Hifadhi ya kivinjari: chaguo lako la lugha, alama zinazoonyesha kuwa tayari umependa, umetazama au umeshiriki makala, na makadirio ya muda ya bei. Maelezo yako katika Sera ya Vidakuzi.",
+      "- Idadi ya mitazamo, upendaji na ushirikishaji wa makala huhifadhiwa kama namba za jumla, bila utambulisho wa mgeni."
+     ]
+    },
+    {
+     "t": "3. Data inatumiwa kwa ajili gani",
+     "b": [
+      "- Kujibu maswali yako, kuandaa bei za makadirio na kutekeleza mradi wako.",
+      "- Kuwasilisha tovuti, kuilinda na kuifanya iwe ya haraka.",
+      "- Kuelewa jinsi tovuti inavyotumiwa ili tuiboreshe.",
+      "- Kutimiza wajibu wa kisheria.",
+      "Hatuuzi data yako binafsi."
+     ]
+    },
+    {
+     "t": "4. Wahusika wengine wanaohusika",
+     "b": [
+      "- Vercel: kuhifadhi na kuwasilisha tovuti.",
+      "- Cloudflare: CDN na usalama.",
+      "- Google (Google Analytics 4) na Microsoft (Clarity): takwimu za matumizi ya tovuti.",
+      "- Meta (WhatsApp) na Google (Gmail): unapowasiliana nasi kupitia viungo vya WhatsApp au barua pepe vilivyo kwenye tovuti hii.",
+      "- Mtoa huduma wa viwango vya sarafu: hupokea maombi ya viwango kutoka kwenye seva yetu tu, si data ya wageni.",
+      "Watoa huduma hawa wanaweza kuchakata data nje ya Indonesia kwa mujibu wa sera zao wenyewe."
+     ]
+    },
+    {
+     "t": "5. Data huhifadhiwa kwa muda gani",
+     "b": [
+      "Mazungumzo na vifaa vya mradi huhifadhiwa kwa muda unaohitajika kuendesha huduma, kutoa msaada na kutimiza wajibu wa kisheria, kisha hufutwa au kufanywa isiyotambulisha. Data ya uchanganuzi hufuata mipangilio ya uhifadhi ya mtoa huduma wake. Data iliyo kwenye kivinjari chako hubaki hadi uifute."
+     ]
+    },
+    {
+     "t": "6. Haki zako",
+     "b": [
+      "Chini ya Sheria Na. 27 ya Mwaka 2022 ya Indonesia kuhusu Ulinzi wa Data Binafsi, una haki ya:",
+      "- kujua na kupata nakala ya data binafsi tunayoshikilia kukuhusu;",
+      "- kuomba data isiyo sahihi irekebishwe;",
+      "- kuomba data yako ifutwe au kuondoa ridhaa yako;",
+      "- kupinga uchakataji fulani.",
+      "Tuma ombi lako kwa nocodingindonesia@gmail.com. Tutajibu ndani ya muda unaofaa."
+     ]
+    },
+    {
+     "t": "7. Usalama na watoto",
+     "b": [
+      "Tovuti hii hutumia HTTPS na ufikiaji wa data ya mradi umezuiwa. Hakuna njia ya kutuma au kuhifadhi data isiyo na hatari kabisa, kwa hiyo hatuwezi kuahidi usalama kamili.",
+      "Huduma zetu zimekusudiwa watu wenye umri wa miaka 18 na zaidi. Hatukusanyi kwa kujua data binafsi za watoto."
+     ]
+    },
+    {
+     "t": "8. Mabadiliko ya sera hii",
+     "b": [
+      "Sera hii inaweza kusasishwa mara kwa mara. Tarehe ya sasisho la mwisho inaonyeshwa juu ya ukurasa. Ikiwa lugha zinatofautiana kimaana, toleo la Kiindonesia ndilo litakalotumika."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Masharti na Vigezo",
+   "description": "Kanuni za kutumia tovuti na huduma za Nocoding: vifurushi, bei, jinsi kazi inavyofanywa, haki miliki na mipaka ya dhima.",
+   "sections": [
+    {
+     "t": "1. Kukubali masharti haya",
+     "b": [
+      "Kwa kufungua tovuti hii au kutumia huduma za Nocoding, unakubali masharti na vigezo hivi. Ikiwa hukubali, tafadhali usitumie tovuti au huduma zetu."
+     ]
+    },
+    {
+     "t": "2. Huduma",
+     "b": [
+      "Nocoding hujenga tovuti za portfolio au wasifu (CV), kurasa za kutua na wasifu wa kampuni, mifumo ya taarifa na uendeshaji, pamoja na uendeshaji wa kiotomatiki wa michakato ya biashara. Wigo wa kazi, vipengele, ratiba na gharama hukubaliwa nawe kupitia WhatsApp au barua pepe kabla kazi haijaanza.",
+      "Ushauri ni bure daima, wakati wowote unapouhitaji, na haukulazimishi kuagiza."
+     ]
+    },
+    {
+     "t": "3. Vifurushi na bei",
+     "b": [
+      "- Kifurushi kidogo: kuanzia Rp 500.000 kwa mwaka, ikijumuisha matengenezo ya bure na kikoa kwa mwaka 1.",
+      "- Kifurushi kikubwa: kuanzia Rp 2.000.000 kwa mwaka, ikijumuisha matengenezo ya bure na mwenyeji (hosting) kwa mwaka 1.",
+      "Bei zilizo kwenye tovuti ni bei za kuanzia. Kiasi cha mwisho hukubaliwa baada ya ushauri, kulingana na mahitaji yako. Kwa wageni walio nje ya Indonesia, bei huonyeshwa kwa sarafu ya eneo kama makadirio kulingana na kiwango cha ubadilishaji cha kila siku; kiasi cha rupiah tutakachokubaliana ndicho kinachotumika. Gharama za ziada, kama vile vipengele vya ziada au upyaishaji baada ya kipindi cha bure kuisha, utaambiwa kabla kazi haijafanywa."
+     ]
+    },
+    {
+     "t": "4. Jinsi kazi inavyofanywa na majukumu yako",
+     "b": [
+      "Muundo hukaguliwa na kuidhinishwa nawe kabla ya utengenezaji. Marekebisho hufanywa kama ilivyokubaliwa.",
+      "Una wajibu wa kutoa vifaa (nembo, maandishi, picha, data) kwa wakati na kuwa na haki ya kuvitumia. Ucheleweshaji wa vifaa au maoni unaweza kuathiri ratiba."
+     ]
+    },
+    {
+     "t": "5. Matengenezo",
+     "b": [
+      "Matengenezo ya bure kwa mwaka 1 yanajumuisha kurekebisha makosa katika kazi yetu na masasisho ya msingi ya usalama. Vipengele vipya, mabadiliko makubwa ya muundo na kazi nje ya makubaliano ya awali hutozwa kando."
+     ]
+    },
+    {
+     "t": "6. Haki miliki",
+     "b": [
+      "Vifaa unavyotoa hubaki vyako. Kazi iliyokamilika hukabidhiwa kwako pindi malipo kama yalivyokubaliwa yatakapokamilika. Nocoding inaweza kuonyesha kazi zilizo hewani kama mifano katika portfolio yake, isipokuwa utuombe kwa maandishi zisionyeshwe.",
+      "Muundo, maandishi na makala kwenye nocoding.web.id ni mali ya Nocoding. Unaweza kushiriki viungo vyake, lakini huruhusiwi kuvinakili na kuvitumia kibiashara bila ruhusa. Picha za makala zinatoka Unsplash na zinafuata leseni yake; chanzo kinatajwa chini ya kila picha."
+     ]
+    },
+    {
+     "t": "7. Lugha za tovuti",
+     "b": [
+      "Tovuti hii inapatikana kwa lugha nyingi. Tafsiri, hasa za lugha zenye wazungumzaji wachache, huenda zisiwe kamilifu. Zikitofautiana kimaana, toleo la Kiindonesia ndilo litakalotumika. Kurasa hizi za kisheria zinapatikana kwa Kiindonesia na Kiingereza."
+     ]
+    },
+    {
+     "t": "8. Mipaka ya dhima",
+     "b": [
+      "Tunafanya kazi ili kutoa matokeo mazuri, lakini hatuahidi matokeo mahususi ya biashara kama vile nafasi kwenye injini za utafutaji, idadi ya wageni au mauzo. Hatuwajibiki kwa usumbufu unaotokana na wahusika wengine kama watoa huduma wa mwenyeji, vikoa au malipo, wala kwa hasara zisizo za moja kwa moja.",
+      "Dhima yetu kwa huduma imepunguzwa hadi kiasi ulicholipia huduma hiyo, kwa kadri sheria inavyoruhusu. Hili halipunguzi haki ulizonazo zinazolindwa na sheria."
+     ]
+    },
+    {
+     "t": "9. Sheria inayotawala",
+     "b": [
+      "Masharti haya yanatawaliwa na sheria za Jamhuri ya Indonesia. Likitokea mgogoro, kwanza tunajaribu kuutatua kwa mazungumzo. Ikiwa hakuna makubaliano yatakayofikiwa, mgogoro utatatuliwa na mahakama zenye mamlaka nchini Indonesia."
+     ]
+    },
+    {
+     "t": "10. Mabadiliko na mawasiliano",
+     "b": [
+      "Masharti haya yanaweza kusasishwa mara kwa mara; tarehe ya sasisho la mwisho inaonyeshwa juu ya ukurasa. Maswali yanaweza kutumwa kwa nocodingindonesia@gmail.com au WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Sera ya Vidakuzi",
+   "description": "Vidakuzi na hifadhi ya ndani ambavyo tovuti ya Nocoding hutumia, vinatumikia nini, na jinsi ya kuvidhibiti.",
+   "sections": [
+    {
+     "t": "1. Vidakuzi ni nini",
+     "b": [
+      "Vidakuzi (cookies) ni faili ndogo ambazo tovuti huhifadhi kwenye kivinjari chako. Hifadhi ya ndani na hifadhi ya kipindi hufanya kazi kwa njia inayofanana lakini hazitumwi kwa seva kiotomatiki. Katika ukurasa huu tunaviita vyote vidakuzi."
+     ]
+    },
+    {
+     "t": "2. Kinachohitajika ili tovuti ifanye kazi",
+     "b": [
+      "Huhifadhiwa kwenye kivinjari chako na hazitumwi kwa seva zetu:",
+      "- nocoding-language na nocoding-language-set: lugha uliyochagua au iliyogunduliwa kutoka kwenye kivinjari chako.",
+      "- nocoding-pricing (kipindi): sarafu na kiwango vilivyokadiriwa, ili bei zisikokotolewe upya kwenye kila ukurasa.",
+      "- Alama za makala: kama tayari umependa, umetazama au umeshiriki makala, ili idadi zisihesabiwe mara mbili.",
+      "- Alama ya muda ya nafasi ya kusogeza ukurasa unapohama kati ya sehemu za tovuti."
+     ]
+    },
+    {
+     "t": "3. Uchanganuzi",
+     "b": [
+      "Zikiwashwa, huduma mbili za uchanganuzi hupakiwa baada ya wewe kuingiliana na ukurasa (kusogeza, kugusa au kubonyeza kitufe):",
+      "- Google Analytics 4 (vidakuzi kama _ga na _ga_*, vinavyodumu hadi takriban miaka 2): takwimu za ziara.",
+      "- Microsoft Clarity (vidakuzi kama _clck, _clsk, CLID na MUID, vinavyodumu hadi takriban mwaka 1): ramani za joto na rekodi zisizo na utambulisho za mwingiliano.",
+      "Watoa huduma wa CDN na usalama wanaweza pia kuweka vidakuzi vya kiufundi ili kulinda tovuti dhidi ya trafiki hatari."
+     ]
+    },
+    {
+     "t": "4. Jinsi ya kudhibiti vidakuzi",
+     "b": [
+      "Unaweza kufuta au kuzuia vidakuzi kwenye mipangilio ya kivinjari chako. Unaweza pia kusakinisha kiendelezi rasmi cha Google cha kujiondoa kwenye Google Analytics. Vidakuzi vya uchanganuzi vikizuiwa, tovuti bado inafanya kazi; hifadhi ya ndani ikifutwa, chaguo lako la lugha hurudi kwenye chaguo-msingi."
+     ]
+    },
+    {
+     "t": "5. Maswali",
+     "b": [
+      "Kwa maswali kuhusu sera hii, wasiliana na nocodingindonesia@gmail.com. Jinsi data binafsi inavyotumiwa imeelezwa zaidi katika Sera ya Faragha. Ikiwa lugha zinatofautiana kimaana, toleo la Kiindonesia ndilo litakalotumika."
+     ]
+    }
+   ]
+  }
+ }
+}

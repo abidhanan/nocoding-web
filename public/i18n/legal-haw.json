@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Ke ʻano hou ʻia hope loa",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Kulekele Pilikino",
+   "description": "ʻO nā ʻikepili a Nocoding e hōʻiliʻili ai, ka mea e hoʻohana ʻia ai, ka mea nāna e hana iā lākou, a me kou mau pono i kāu ʻikepili pilikino.",
+   "sections": [
+    {
+     "t": "1. ʻO wai mākou",
+     "b": [
+      "ʻO Nocoding (nocoding.web.id) he lawelawe pūnaewele, polokalamu, ʻōnaehana ʻike a me ka hana aunoa i mālama ʻia e Abid Hanan Wicaksono ma ʻInitonesia. Ke wehewehe nei kēia kulekele i kā mākou mālama ʻana i kāu ʻikepili pilikino ke kipa ʻoe i kēia pūnaewele a i ʻole ke kamaʻilio mai ʻoe iā mākou.",
+      "Hiki ke hoʻouna ʻia nā nīnau e pili ana i kēia kulekele i nocodingindonesia@gmail.com a i ʻole ma WhatsApp ma +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Nā ʻikepili a mākou e hōʻiliʻili ai",
+     "b": [
+      "- Nā ʻikepili āu e hāʻawi mai ai: kou inoa, helu WhatsApp, leka uila a me ka wehewehe ʻana i kāu papahana ke kamaʻilio mai ʻoe iā mākou ma WhatsApp a i ʻole ma ka leka uila. ʻAʻohe moʻokāki mea hoʻohana a i ʻole palapala kākau inoa ma kēia pūnaewele.",
+      "- Nā ʻikepili ʻenehana i hana ʻia ma ka mīkini: ka helu IP, ke ʻano o ka mea hana a me ka polokalamu kele pūnaewele, a me nā ʻaoʻao āu i wehe ai. Na kā mākou mau mea lawelawe hoʻokipa a me CDN e hana iā lākou i mea e lawelawe ʻia ai ka pūnaewele a pale ʻia mai ka hoʻohana hewa ʻia.",
+      "- ʻO ka ʻāina i manaʻo ʻia: i hōʻike ʻia ai nā kumukūʻai ma kāu kālā, manaʻo ʻia kou ʻāina mai ka ʻike CDN a i ʻole ka ʻōlelo o kāu polokalamu kele pūnaewele. ʻAʻole mākou e mālama iā ia ma kā mākou mau kikowaena.",
+      "- Nā ʻikepili loiloi: ʻo Google Analytics 4 a me Microsoft Clarity (ke hoʻā ʻia) e hōʻiliʻili i nā helu hoʻohana e like me nā ʻaoʻao i wehe ʻia, ka lōʻihi o ke kipa ʻana, ke ʻano o ka mea hana a me nā hoʻopaʻa ʻana i ka launa pū ʻole ka inoa. Hoʻouka wale lākou ma hope o kou launa ʻana me ka ʻaoʻao.",
+      "- Waihona ma ka polokalamu kele pūnaewele: kāu koho ʻōlelo, nā hōʻailona ua pāpā ʻoe, ua nānā a ua hāʻawi i ka ʻatikala, a me ka manaʻo kumukūʻai manawa pōkole. Aia nā kikoʻī ma ke Kulekele Kuki.",
+      "- Mālama ʻia nā helu nānā, pāpā a hāʻawi ʻana o nā ʻatikala ma ke ʻano he helu hui pū ʻia, me ke ʻike ʻole ʻia o ka mea kipa."
+     ]
+    },
+    {
+     "t": "3. Ka mea e hoʻohana ʻia ai nā ʻikepili",
+     "b": [
+      "- E pane i kāu mau nīnau, e hoʻomākaukau i nā hōʻike kumukūʻai a e hoʻokō i kāu papahana.",
+      "- E lawelawe i ka pūnaewele, e mālama pono iā ia a e mālama i kona wikiwiki.",
+      "- E hoʻomaopopo i ka hoʻohana ʻia ʻana o ka pūnaewele i hiki iā mākou ke hoʻomaikaʻi iā ia.",
+      "- E hoʻokō i nā kuleana kānāwai.",
+      "ʻAʻole mākou e kūʻai aku i kāu ʻikepili pilikino."
+     ]
+    },
+    {
+     "t": "4. Nā ʻaoʻao ʻekolu e pili ana",
+     "b": [
+      "- Vercel: ka hoʻokipa a me ka lawelawe ʻana i ka pūnaewele.",
+      "- Cloudflare: CDN a me ka palekana.",
+      "- Google (Google Analytics 4) a me Microsoft (Clarity): nā helu hoʻohana pūnaewele.",
+      "- Meta (WhatsApp) a me Google (Gmail): ke kamaʻilio mai ʻoe iā mākou ma o nā loulou WhatsApp a i ʻole leka uila ma kēia pūnaewele.",
+      "- Ka mea hāʻawi i ka uku hoʻololi kālā: loaʻa wale nā noi uku mai kā mākou kikowaena, ʻaʻole nā ʻikepili o ka poʻe kipa.",
+      "Hiki i kēia mau mea lawelawe ke hana i nā ʻikepili ma waho o ʻInitonesia e like me kā lākou mau kulekele ponoʻī."
+     ]
+    },
+    {
+     "t": "5. Ka lōʻihi o ka mālama ʻana i nā ʻikepili",
+     "b": [
+      "Mālama ʻia nā kamaʻilio a me nā mea papahana a hiki i ka wā e pono ai no ka hana ʻana i ka lawelawe, ka hāʻawi ʻana i ke kākoʻo a me ka hoʻokō ʻana i nā kuleana kānāwai, a laila hoʻopau ʻia a i ʻole hana ʻia me ka inoa ʻole. Hahai nā ʻikepili loiloi i nā hoʻonohonoho mālama o ka mea hāʻawi. Noho nā ʻikepili ma kāu polokalamu kele pūnaewele a hiki i kou holoi ʻana iā lākou."
+     ]
+    },
+    {
+     "t": "6. Kou mau pono",
+     "b": [
+      "Ma lalo o ke Kānāwai ʻInitonesia Helu 27 o ka Makahiki 2022 no ka Pale ʻana i ka ʻIkepili Pilikino, he pono kou:",
+      "- e ʻike i ka ʻikepili pilikino a mākou e mālama ai e pili ana iā ʻoe a e loaʻa ka kope;",
+      "- e noi i ka hoʻoponopono ʻia o nā ʻikepili kuhi hewa;",
+      "- e noi i ka holoi ʻia o kāu ʻikepili a i ʻole e hoʻihoʻi i kou ʻae ʻana;",
+      "- e kūʻē i kekahi mau hana ʻana.",
+      "E hoʻouna i kāu noi i nocodingindonesia@gmail.com. E pane aku mākou i loko o kahi manawa kūpono."
+     ]
+    },
+    {
+     "t": "7. Ka palekana a me nā keiki",
+     "b": [
+      "Hoʻohana kēia pūnaewele i HTTPS a ua kaupalena ʻia ke komo ʻana i nā ʻikepili papahana. ʻAʻohe ʻano hoʻouna a mālama ʻikepili i ʻole ka pilikia loa, no laila ʻaʻole hiki iā mākou ke hōʻoiaʻiʻo i ka palekana piha loa.",
+      "Ua hana ʻia kā mākou mau lawelawe no ka poʻe he 18 makahiki a ʻoi aku. ʻAʻole mākou e hōʻiliʻili ʻike ʻole i ka ʻikepili pilikino o nā keiki."
+     ]
+    },
+    {
+     "t": "8. Nā loli i kēia kulekele",
+     "b": [
+      "Hiki ke hoʻomaka hou ʻia kēia kulekele i kēlā manawa i kēia manawa. Hōʻike ʻia ka lā o ka hōʻano hou hope loa ma luna o ka ʻaoʻao. Inā ʻokoʻa nā ʻōlelo ma ke ʻano, ʻo ka mana ʻInitonesia ka mea kūpono."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Nā Lula a me nā Kūlana",
+   "description": "Nā lula no ka hoʻohana ʻana i ka pūnaewele a me nā lawelawe o Nocoding: nā pūʻolo, nā kumukūʻai, ke ʻano o ka hana ʻana, ka waiwai noʻonoʻo a me nā palena kuleana.",
+   "sections": [
+    {
+     "t": "1. Ka ʻae ʻana i kēia mau kūlana",
+     "b": [
+      "Ma ka wehe ʻana i kēia pūnaewele a i ʻole ka hoʻohana ʻana i nā lawelawe a Nocoding, ʻae ʻoe i kēia mau lula a me nā kūlana. Inā ʻaʻole ʻoe ʻae, mai hoʻohana i kā mākou pūnaewele a i ʻole nā lawelawe."
+     ]
+    },
+    {
+     "t": "2. Nā lawelawe",
+     "b": [
+      "Kūkulu ʻo Nocoding i nā pūnaewele waihona hana a i ʻole CV, nā ʻaoʻao kau a me nā ʻike hui, nā ʻōnaehana ʻike a hana, a me ka hana aunoa ʻana i nā kaʻina ʻoihana. ʻAe pū ʻia me ʻoe ka laulā o ka hana, nā hiʻohiʻona, ka papa hana a me ke kumukūʻai ma WhatsApp a i ʻole ma ka leka uila ma mua o ka hoʻomaka ʻana o ka hana.",
+      "He manuahi mau ka hōʻike aʻo, i nā manawa a pau āu e makemake ai, ʻaʻole hoʻi e koi iā ʻoe e kau i kekahi kauoha."
+     ]
+    },
+    {
+     "t": "3. Nā pūʻolo a me nā kumukūʻai",
+     "b": [
+      "- Pūʻolo liʻiliʻi: mai Rp 500.000 i ka makahiki, me ka mālama manuahi a me kahi inoa kikoʻī no 1 makahiki.",
+      "- Pūʻolo nui: mai Rp 2.000.000 i ka makahiki, me ka mālama manuahi a me ka hoʻokipa no 1 makahiki.",
+      "ʻO nā kumukūʻai ma ka pūnaewele he mau kumukūʻai hoʻomaka. ʻAe pū ʻia ka nui hope ma hope o ka hōʻike aʻo, e like me kou mau pono. No ka poʻe kipa ma waho o ʻInitonesia, hōʻike ʻia nā kumukūʻai ma ke kālā kūloko ma ke ʻano he manaʻo e pili ana i ka uku hoʻololi kālā o kēlā lā kēia lā; ʻo ka nui rupiah a mākou i ʻae pū ai ka mea e kūpono. Haʻi ʻia aku iā ʻoe nā kumukūʻai hou, e like me nā hiʻohiʻona hou a i ʻole ka hōʻano hou ʻana ma hope o ka pau ʻana o ka manawa manuahi, ma mua o ka hana ʻia ʻana o ka hana."
+     ]
+    },
+    {
+     "t": "4. Ke ʻano o ka hana ʻana a me kou mau kuleana",
+     "b": [
+      "Nānā ʻia a ʻae ʻia ka hoʻolālā me ʻoe ma mua o ka hana ʻana. Hana ʻia nā hoʻoponopono e like me ka ʻae ʻia.",
+      "Nou ke kuleana e hāʻawi i nā mea (hōʻailona, kikokikona, kiʻi, ʻikepili) i ka manawa kūpono a e loaʻa iā ʻoe ke kuleana e hoʻohana iā lākou. Hiki i ka lohi o nā mea a i ʻole ka manaʻo hoʻihoʻi ke hoʻopilikia i ka papa hana."
+     ]
+    },
+    {
+     "t": "5. Ka mālama ʻana",
+     "b": [
+      "Ua uhi ka mālama manuahi no 1 makahiki i ka hoʻoponopono ʻana i nā hewa o kā mākou hana a me nā hōʻano hou palekana kumu. Uku ʻokoʻa ʻia nā hiʻohiʻona hou, nā loli nui o ka hoʻolālā a me ka hana ma waho o ka ʻaelike mua."
+     ]
+    },
+    {
+     "t": "6. Waiwai noʻonoʻo",
+     "b": [
+      "Nou mau nō nā mea āu e hāʻawi ai. Hāʻawi ʻia aku iā ʻoe ka hana i hoʻopau ʻia ke pau ka uku e like me ka ʻae ʻia. Hiki iā Nocoding ke hōʻike i nā hana ola ma ke ʻano he mau hiʻohiʻona ma kāna waihona hana, ke ʻole ʻoe e noi ma ke kākau ʻana i ʻole hōʻike ʻia.",
+      "No Nocoding ka hoʻolālā, ke kikokikona a me nā ʻatikala ma nocoding.web.id. Hiki iā ʻoe ke hāʻawi i nā loulou iā lākou, akā ʻaʻole hiki iā ʻoe ke kope a hoʻohana iā lākou no ke kālepa me ka ʻae ʻole. Mai Unsplash mai nā kiʻi ʻatikala a hahai i kāna laikini; hōʻike ʻia ke kumu ma lalo o kēlā me kēia kiʻi."
+     ]
+    },
+    {
+     "t": "7. Nā ʻōlelo o ka pūnaewele",
+     "b": [
+      "Loaʻa kēia pūnaewele ma nā ʻōlelo he nui. ʻAʻole paha i hemolele nā unuhi, ʻoi aku ka nui no nā ʻōlelo he liʻiliʻi nā mea ʻōlelo. Inā ʻokoʻa lākou ma ke ʻano, ʻo ka mana ʻInitonesia ka mea kūpono. Loaʻa kēia mau ʻaoʻao kānāwai ma ka ʻōlelo ʻInitonesia a me ka ʻōlelo Pelekānia."
+     ]
+    },
+    {
+     "t": "8. Nā palena kuleana",
+     "b": [
+      "Hana ikaika mākou e hāʻawi i nā hopena maikaʻi, akā ʻaʻole mākou e hoʻohiki i kekahi mau hopena ʻoihana e like me ke kūlana ʻimi, ka helu o ka poʻe kipa a i ʻole nā kūʻai. ʻAʻole mākou kuleana no nā hoʻopilikia mai nā ʻaoʻao ʻekolu e like me nā mea hāʻawi hoʻokipa, inoa kikoʻī a uku, a i ʻole no nā poho pili ʻole pololei.",
+      "Kaupalena ʻia kā mākou kuleana no kekahi lawelawe i ka nui āu i uku ai no ia lawelawe, a hiki i kahi i ʻae ʻia e ke kānāwai. ʻAʻole kēia e hōʻemi i kou mau pono i pale ʻia e ke kānāwai."
+     ]
+    },
+    {
+     "t": "9. Ke kānāwai e hoʻokele ana",
+     "b": [
+      "Hoʻokele ʻia kēia mau kūlana e nā kānāwai o ka Repubalika o ʻInitonesia. Inā puka mai kekahi hoʻopaʻapaʻa, hoʻāʻo mua mākou e hoʻoponopono ma ke kūkākūkā. Inā ʻaʻole loaʻa ka ʻaelike, hoʻoponopono ʻia ka hoʻopaʻapaʻa e nā ʻaha kānāwai kūpono ma ʻInitonesia."
+     ]
+    },
+    {
+     "t": "10. Nā loli a me ka launa ʻana",
+     "b": [
+      "Hiki ke hōʻano hou ʻia kēia mau kūlana i kēlā manawa i kēia manawa; hōʻike ʻia ka lā o ka hōʻano hou hope loa ma luna o ka ʻaoʻao. Hiki ke hoʻouna ʻia nā nīnau i nocodingindonesia@gmail.com a i ʻole ma WhatsApp ma +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Kulekele Kuki",
+   "description": "Nā kuki a me ka waihona kūloko a ka pūnaewele Nocoding e hoʻohana ai, ka mea e hoʻohana ʻia ai lākou, a me ke ʻano o ka hoʻokele ʻana iā lākou.",
+   "sections": [
+    {
+     "t": "1. He aha nā kuki",
+     "b": [
+      "ʻO nā kuki he mau waihona liʻiliʻi a kekahi pūnaewele e mālama ai ma kāu polokalamu kele pūnaewele. Like ka hana ʻana o ka waihona kūloko (local storage) a me ka waihona kau (session storage), akā ʻaʻole hoʻouna ʻia i kekahi kikowaena ma ka mīkini. Ma kēia ʻaoʻao, kapa mākou iā lākou a pau he kuki."
+     ]
+    },
+    {
+     "t": "2. ʻO ka mea e pono ai ka pūnaewele e hana",
+     "b": [
+      "Mālama ʻia ma kāu polokalamu kele pūnaewele a ʻaʻole hoʻouna ʻia i kā mākou mau kikowaena:",
+      "- nocoding-language a me nocoding-language-set: ka ʻōlelo āu i koho ai a i ʻole i ʻike ʻia mai kāu polokalamu kele pūnaewele.",
+      "- nocoding-pricing (kau): ke kālā a me ka uku hoʻololi i manaʻo ʻia, i ʻole helu hou ʻia nā kumukūʻai ma kēlā me kēia ʻaoʻao.",
+      "- Nā hōʻailona ʻatikala: ua pāpā, nānā a hāʻawi paha ʻoe i ka ʻatikala, i ʻole helu pālua ʻia nā helu.",
+      "- He hōʻailona manawa pōkole o ke kūlana ʻoniʻoni ke neʻe ʻoe ma waena o nā ʻāpana o ka pūnaewele."
+     ]
+    },
+    {
+     "t": "3. Loiloi",
+     "b": [
+      "Ke hoʻā ʻia, hoʻouka nā lawelawe loiloi ʻelua ma hope o kou launa ʻana me ka ʻaoʻao (ʻoniʻoni, pā a kaomi paha i kahi kī):",
+      "- Google Analytics 4 (nā kuki e like me _ga a me _ga_*, kūpono a hiki i kahi o 2 makahiki): nā helu kipa.",
+      "- Microsoft Clarity (nā kuki e like me _clck, _clsk, CLID a me MUID, kūpono a hiki i kahi o 1 makahiki): nā palapala ʻāina wela a me nā hoʻopaʻa ʻana i ka launa pū ʻole ka inoa.",
+      "Hiki i nā mea hāʻawi CDN a me ka palekana ke hoʻonoho i nā kuki ʻenehana e pale i ka pūnaewele mai ka pāloka pōʻino."
+     ]
+    },
+    {
+     "t": "4. Ke ʻano o ka hoʻokele ʻana i nā kuki",
+     "b": [
+      "Hiki iā ʻoe ke holoi a pale i nā kuki ma nā hoʻonohonoho o kāu polokalamu kele pūnaewele. Hiki nō hoʻi iā ʻoe ke hoʻokomo i ka hoʻohui hoʻopau kūhelu a Google no Google Analytics. Inā pale ʻia nā kuki loiloi, hana mau ka pūnaewele; inā holoi ʻia ka waihona kūloko, hoʻi kāu koho ʻōlelo i ka mea paʻamau."
+     ]
+    },
+    {
+     "t": "5. Nā nīnau",
+     "b": [
+      "No nā nīnau e pili ana i kēia kulekele, e kamaʻilio iā nocodingindonesia@gmail.com. Ua wehewehe hou ʻia ka hoʻohana ʻia ʻana o ka ʻikepili pilikino ma ke Kulekele Pilikino. Inā ʻokoʻa nā ʻōlelo ma ke ʻano, ʻo ka mana ʻInitonesia ka mea kūpono."
+     ]
+    }
+   ]
+  }
+ }
+}

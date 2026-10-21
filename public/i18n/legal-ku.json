@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Cara dawî nûvekirin",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Siyaseta Nepenîtiyê",
+   "description": "Nocoding çi daneyan kom dike, ew ji bo çi tên bikaranîn, kî wan pêvajoyê dike û tu li ser daneyên xwe yên şexsî çi mafan hene.",
+   "sections": [
+    {
+     "t": "1. Em kî ne",
+     "b": [
+      "Nocoding (nocoding.web.id) malper, sepan, pergalên agahiyê û karûbarê otomasyonê ye ku Abid Hanan Wicaksono li Endonezyayê birêve dibe. Ev siyaset rave dike ku gava tu serdana vê malperê dikî an bi me re têkilî datînî, em daneyên te yên şexsî çawa digirin dest.",
+      "Pirsên derbarê vê siyasetê de dikarin ji nocodingindonesia@gmail.com an ji WhatsApp +62 853-2651-3324 re bêne şandin."
+     ]
+    },
+    {
+     "t": "2. Daneyên ku em kom dikin",
+     "b": [
+      "- Daneyên ku tu didî me: navê te, hejmara te ya WhatsApp, e-name û danasîna projeya te gava tu bi WhatsApp an e-nameyê bi me re têkilî datînî. Di vê malperê de hesabên bikarhêneran an formên qeydkirinê tune ne.",
+      "- Daneyên teknîkî yên ku bi xwe tên pêvajoyê: navnîşana IP, cureyê cîhaz û geroka te, û rûpelên ku tu vedikî. Pêşkêşkarên me yên hostingê û CDN wan pêvajoyê dikin da ku malper bixebite û ji xerabkariyê were parastin.",
+      "- Welatê texmînî: da ku bahayên li gorî diravê te werin nîşandan, welatê te ji agahiyên CDN an ji zimanê geroka te tê texmînkirin. Em wî li ser serverên xwe tomar nakin.",
+      "- Daneyên analîzê: Google Analytics 4 û Microsoft Clarity (gava çalak bin) statîstîkên bikaranînê kom dikin, wekî rûpelên vekirî, dirêjahiya serdanê, cureyê cîhazê û tomarkirinên danûstendinê yên bênav. Ew tenê piştî ku tu li ser rûpelê tiştekî bikî dest bi barkirinê dikin.",
+      "- Hilanîna geroka te: zimanê ku te hilbijart, nîşanên ku te gotarek jixwe tercîh kiriye, dîtiye an parve kiriye, û texmînkirineke demkî ya bahayê. Hûrgilî di Siyaseta Cookie de ne.",
+      "- Hejmarên dîtin, tercîh û parvekirinên gotaran wekî hejmarên hevbeş têne hilanîn, bêyî nasnameya serdankeran."
+     ]
+    },
+    {
+     "t": "3. Daneyan ji bo çi tên bikaranîn",
+     "b": [
+      "- Bersivdana pirsên te, amadekirina pêşniyaran û meşandina projeya te.",
+      "- Pêşkêşkirin, parastin û lezgîn hiştina malperê.",
+      "- Fêmkirina awayê bikaranîna malperê da ku em wê çêtir bikin.",
+      "- Cîhanîna erkên qanûnî.",
+      "Em daneyên te yên şexsî nafroşin."
+     ]
+    },
+    {
+     "t": "4. Aliyên sêyem ên beşdar",
+     "b": [
+      "- Vercel: hostin û pêşkêşkirina malperê.",
+      "- Cloudflare: CDN û ewlehî.",
+      "- Google (Google Analytics 4) û Microsoft (Clarity): statîstîkên bikaranîna malperê.",
+      "- Meta (WhatsApp) û Google (Gmail): gava tu bi lînkên WhatsApp an e-nameyê yên li ser vê malperê bi me re têkilî datînî.",
+      "- Pêşkêşkarê rêjeyên diravî: tenê daxwazên rêjeyan ji servera me distîne, ne daneyên serdankeran.",
+      "Ev pêşkêşkar dikarin li gorî siyasetên xwe daneyan li derveyî Endonezyayê pêvajoyê bikin."
+     ]
+    },
+    {
+     "t": "5. Daneyan çiqas dirêj tên hilanîn",
+     "b": [
+      "Axaftin û materyalên projeyê heya ku ji bo meşandina karûbarê, dayîna piştgiriyê û cîhanîna erkên qanûnî pêwîst be tên hilanîn, paşê tên jêbirin an bênav tên kirin. Daneyên analîzê li gorî mîhengên hilanînê yên pêşkêşkarê xwe ne. Daneyên di geroka te de heya ku tu wan jê nebî dimînin."
+     ]
+    },
+    {
+     "t": "6. Mafên te",
+     "b": [
+      "Li gorî Qanûna Endonezyayê ya Hejmar 27 a sala 2022 li ser Parastina Daneyên Şexsî, mafê te heye ku:",
+      "- daneyên te yên şexsî yên ku li cem me ne bizanî û kopiyek ji wan bistînî;",
+      "- daxwaz bikî ku daneyên şaş werin rastkirin;",
+      "- daxwaz bikî ku daneyên te werin jêbirin an razîbûna xwe paş bikşînî;",
+      "- li hin cureyên pêvajoyê îtiraz bikî.",
+      "Daxwaza xwe ji nocodingindonesia@gmail.com re bişîne. Em ê di dema maqûl de bersiv bidin."
+     ]
+    },
+    {
+     "t": "7. Ewlehî û zarok",
+     "b": [
+      "Ev malper HTTPS bi kar tîne û gihîştina daneyên projeyê sînordar e. Tu rêbaza şandin an hilanîna daneyan bi temamî bê xetere nîne, ji ber vê yekê em nikarin ewlehiya mutleq garantî bikin.",
+      "Karûbarên me ji bo kesên 18 salî û jorî hatine çêkirin. Em bi zanebûn daneyên şexsî yên zarokan kom nakin."
+     ]
+    },
+    {
+     "t": "8. Guhertinên vê siyasetê",
+     "b": [
+      "Dibe ku ev siyaset ji demekê bi demekê were nûvekirin. Dîroka nûvekirina dawî li serê rûpelê tê nîşandan. Ger zimanan di wateyê de ji hev cuda bin, guhertoya Endonezyayî derbasdar e."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Merc û Şert",
+   "description": "Qaîdeyên bikaranîna malpera Nocoding û karûbaran: pakêt, biha, awayê meşandina kar, milkiyeta rewşenbîrî û sînorên berpirsiyariyê.",
+   "sections": [
+    {
+     "t": "1. Pejirandina van mercan",
+     "b": [
+      "Bi vekirina vê malperê an bikaranîna karûbarên Nocoding, tu van merc û şertan dipejirînî. Ger tu napejirînî, ji kerema xwe malpera me an karûbarên me bi kar neynin."
+     ]
+    },
+    {
+     "t": "2. Karûbar",
+     "b": [
+      "Nocoding malperên portfolio an CV, rûpelên landing û profîlên şirketan, pergalên agahiyê û xebatê, û otomasyona pêvajoyên karsaziyê çêdike. Berfirehiya kar, taybetmendî, bernameya demê û lêçûn berî destpêkirina kar bi WhatsApp an e-nameyê bi te re têne lihevkirin.",
+      "Şêwirmendî her dem bê pere ye, her gava ku tu pê hewce bî, û te naçar nake ku tu ferman bidî."
+     ]
+    },
+    {
+     "t": "3. Pakêt û biha",
+     "b": [
+      "- Pakêta biçûk: ji Rp 500,000 salê dest pê dike, bi lênêrîna bê pere û domaînekê ji bo 1 salê.",
+      "- Pakêta mezin: ji Rp 2,000,000 salê dest pê dike, bi lênêrîna bê pere û hostingekê ji bo 1 salê.",
+      "Bihayên li ser malperê bihayên destpêkê ne. Mîqdara dawî piştî şêwirmendiyê, li gorî pêdiviyên te, tê lihevkirin. Ji bo serdankerên li derveyî Endonezyayê, biha bi diravê herêmî wekî texmîn li gorî rêjeya danûstendinê ya rojane têne nîşandan; mîqdara bi rûpiyan ku em li hev dikin derbasdar e. Lêçûnên zêde, wekî taybetmendiyên zêde an nûkirina piştî ku dema bê pere diqede, berî ku kar were kirin ji te re têne gotin."
+     ]
+    },
+    {
+     "t": "4. Awayê meşandina kar û berpirsiyariyên te",
+     "b": [
+      "Sêwiran berî çêkirinê bi te re tê nirxandin û pejirandin. Vekirin û guherandin li gorî lihevkirinê têne kirin.",
+      "Berpirsiyariya dayîna materyalan (logo, nivîs, wêne, dane) di wextê xwe de û heqê te yê bikaranîna wan bi te ve ye. Dereng dayîna materyal an bersivan dikare bernameya demê biguherîne."
+     ]
+    },
+    {
+     "t": "5. Lênêrîn",
+     "b": [
+      "Lênêrîna bê pere ya 1 salê rastkirina şaşiyên di karê me de û nûvekirinên ewlehiyê yên bingehîn digire nav xwe. Taybetmendiyên nû, guhertinên mezin ên sêwiranê û karê li derveyî lihevkirina eslî bi cuda têne hesabkirin."
+     ]
+    },
+    {
+     "t": "6. Milkiyeta rewşenbîrî",
+     "b": [
+      "Materyalên ku tu didî ya te dimînin. Karê qediyayî piştî ku dayîna li gorî lihevkirinê temam bibe ji te re tê teslîmkirin. Nocoding dikare karên zindî wekî mînak di portfolioya xwe de nîşan bide, heya ku tu bi nivîskî nexwazî ku neyên nîşandan.",
+      "Sêwiran, nivîs û gotarên li ser nocoding.web.id yên Nocoding in. Tu dikarî lînkên wan parve bikî, lê tu nikarî bêyî destûr wan kopî bikî û bi mebesta bazirganî bi kar bînî. Wêneyên gotaran ji Unsplash têne û li gorî lîsansa wê ne; çavkanî li binê her wêneyî tê nîşandan."
+     ]
+    },
+    {
+     "t": "7. Zimanên malperê",
+     "b": [
+      "Ev malper bi gelek zimanan heye. Wergerên, bi taybetî ji bo zimanên ku kesên kêmtir pê diaxivin, dibe ku bêkêmasî nebin. Ger di wateyê de ji hev cuda bin, guhertoya Endonezyayî derbasdar e. Ev rûpelên qanûnî bi Endonezyayî û Îngilîzî hene."
+     ]
+    },
+    {
+     "t": "8. Sînorên berpirsiyariyê",
+     "b": [
+      "Em dixebitin ku encamên baş bidin, lê em soza encamên karsaziyê yên taybet nadin, wekî rêzkirina li lêgerînê, hejmara serdankeran an firotan. Em ji sekinîn û astengiyên ku ji aliyên sêyem, wekî pêşkêşkarên hostingê, domaînê an dayînê, derdikevin, an ji zirarên nerasterast berpirsiyar nînin.",
+      "Berpirsiyariya me ji bo karûbarekê bi mîqdara ku te ji bo wî karûbarî daye sînordar e, heya astê ku qanûn destûrê dide. Ev mafên te yên ku ji hêla qanûnê ve têne parastin kêm nake."
+     ]
+    },
+    {
+     "t": "9. Qanûna ku derbas dibe",
+     "b": [
+      "Van mercan qanûnên Komara Endonezyayê birêve dibin. Ger nakokî derkeve, em pêşî hewl didin ku bi axaftinê çareser bikin. Ger lihevkirin çênebe, nakokî ji aliyê dadgehên bi selahiyet ên li Endonezyayê ve tê çareserkirin."
+     ]
+    },
+    {
+     "t": "10. Guherîn û têkilî",
+     "b": [
+      "Dibe ku ev merc ji demekê bi demekê werin nûvekirin; dîroka nûvekirina dawî li serê rûpelê tê nîşandan. Pirs dikarin ji nocodingindonesia@gmail.com an ji WhatsApp +62 853-2651-3324 re bêne şandin."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Siyaseta Cookie",
+   "description": "Cookie û hilanîna herêmî ya ku malpera Nocoding bi kar tîne, ji bo çi ne û çawa bêne rêvebirin.",
+   "sections": [
+    {
+     "t": "1. Cookie çi ne",
+     "b": [
+      "Cookie pelên biçûk in ku malper di geroka te de hilîne. Hilanîna herêmî (local storage) û hilanîna danişînê (session storage) bi heman rengî dixebitin lê bi xwe nayên şandin serverê. Di vê rûpelê de em wan hemûyan cookie dibêjin."
+     ]
+    },
+    {
+     "t": "2. Çi ji bo xebata malperê pêwîst e",
+     "b": [
+      "Di geroka te de têne hilanîn û ji serverên me re nayên şandin:",
+      "- nocoding-language û nocoding-language-set: zimanê ku te hilbijart an ku ji geroka te hat tespîtkirin.",
+      "- nocoding-pricing (danişîn): diravê texmînî û rêje, da ku biha li ser her rûpelê dîsa neyên hesabkirin.",
+      "- Nîşanên gotaran: ka te gotarek jixwe tercîh kiriye, dîtiye an parve kiriye, da ku hejmar du caran neyên hesabkirin.",
+      "- Nîşana demkî ya cihê skrolê gava tu di navbera beşên malperê de digerî."
+     ]
+    },
+    {
+     "t": "3. Analîz",
+     "b": [
+      "Gava çalak bin, du karûbarên analîzê piştî ku tu li ser rûpelê tiştekî bikî (skrol, tap an pêlkirina tuşekê) têne barkirin:",
+      "- Google Analytics 4 (cookie wekî _ga û _ga_*, heya nêzîkî 2 salan derbasdar in): statîstîkên serdanê.",
+      "- Microsoft Clarity (cookie wekî _clck, _clsk, CLID û MUID, heya nêzîkî 1 salê derbasdar in): nexşeyên germê û tomarkirinên danûstendinê yên bênav.",
+      "Pêşkêşkarên CDN û ewlehiyê jî dikarin cookieyên teknîkî saz bikin da ku malperê ji trafîka zirarê biparêzin."
+     ]
+    },
+    {
+     "t": "4. Çawa cookie bêne rêvebirin",
+     "b": [
+      "Tu dikarî cookieyan di mîhengên geroka xwe de jê bibî an asteng bikî. Her wiha tu dikarî pêvekeke fermî ya Google ji bo derketina ji Google Analytics saz bikî. Ger cookieyên analîzê werin astengkirin, malper dîsa dixebite; ger hilanîna herêmî were paqijkirin, hilbijartina zimanê te vedigere ya bingehîn."
+     ]
+    },
+    {
+     "t": "5. Pirs",
+     "b": [
+      "Ji bo pirsên derbarê vê siyasetê de, bi nocodingindonesia@gmail.com re têkilî deynin. Awayê bikaranîna daneyên şexsî di Siyaseta Nepenîtiyê de bi berfirehî tê ravekirin. Ger zimanan di wateyê de ji hev cuda bin, guhertoya Endonezyayî derbasdar e."
+     ]
+    }
+   ]
+  }
+ }
+}

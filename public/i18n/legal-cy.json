@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Diweddarwyd ddiwethaf",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Polisi Preifatrwydd",
+   "description": "Pa ddata y mae Nocoding yn ei gasglu, at ba ddiben y caiff ei ddefnyddio, pwy sy'n ei brosesu, a'ch hawliau dros eich data personol.",
+   "sections": [
+    {
+     "t": "1. Pwy ydym ni",
+     "b": [
+      "Mae Nocoding (nocoding.web.id) yn wasanaeth gwefannau, apiau, systemau gwybodaeth ac awtomeiddio a redir gan Abid Hanan Wicaksono yn Indonesia. Mae'r polisi hwn yn egluro sut rydym yn trin eich data personol pan fyddwch yn ymweld â'r wefan hon neu'n cysylltu â ni.",
+      "Gellir anfon cwestiynau am y polisi hwn i nocodingindonesia@gmail.com neu drwy WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Y data a gasglwn",
+     "b": [
+      "- Data a roddwch i ni: eich enw, eich rhif WhatsApp, eich e-bost a disgrifiad o'ch prosiect pan fyddwch yn cysylltu â ni drwy WhatsApp neu e-bost. Nid oes gan y wefan hon gyfrifon defnyddwyr na ffurflenni cofrestru.",
+      "- Data technegol a brosesir yn awtomatig: cyfeiriad IP, math o ddyfais a phorwr, a'r tudalennau y byddwch yn eu hagor. Mae ein darparwyr gwesteio a CDN yn ei brosesu i ddarparu'r wefan a'i diogelu rhag camddefnydd.",
+      "- Gwlad fras: er mwyn dangos prisiau yn eich arian cyfred, amcangyfrifir eich gwlad o wybodaeth y CDN neu iaith eich porwr. Nid ydym yn ei storio ar ein gweinyddion.",
+      "- Data dadansoddeg: mae Google Analytics 4 a Microsoft Clarity (pan fyddant wedi'u galluogi) yn casglu ystadegau defnydd megis y tudalennau a agorwyd, hyd yr ymweliad, math o ddyfais a recordiadau dienw o ryngweithio. Dim ond ar ôl i chi ryngweithio â'r dudalen y maent yn llwytho.",
+      "- Storfa'r porwr: eich dewis iaith, marcwyr eich bod eisoes wedi hoffi, gweld neu rannu erthygl, ac amcangyfrif pris dros dro. Mae'r manylion yn y Polisi Cwcis.",
+      "- Caiff nifer y golygon, yr hoffiadau a'r rhannu ar erthyglau eu storio fel cyfansymiau, heb hunaniaeth yr ymwelydd."
+     ]
+    },
+    {
+     "t": "3. At ba ddiben y defnyddir y data",
+     "b": [
+      "- Ateb eich cwestiynau, paratoi dyfynbrisiau a chyflawni eich prosiect.",
+      "- Darparu a diogelu'r wefan a'i chadw'n gyflym.",
+      "- Deall sut y defnyddir y wefan fel y gallwn ei gwella.",
+      "- Cyflawni rhwymedigaethau cyfreithiol.",
+      "Nid ydym yn gwerthu eich data personol."
+     ]
+    },
+    {
+     "t": "4. Trydydd partïon dan sylw",
+     "b": [
+      "- Vercel: gwesteio a darparu'r wefan.",
+      "- Cloudflare: CDN a diogelwch.",
+      "- Google (Google Analytics 4) a Microsoft (Clarity): ystadegau defnydd y wefan.",
+      "- Meta (WhatsApp) a Google (Gmail): pan fyddwch yn cysylltu â ni drwy'r dolenni WhatsApp neu e-bost ar y wefan hon.",
+      "- Darparwr cyfraddau cyfnewid: dim ond ceisiadau am gyfraddau gan ein gweinydd y mae'n eu derbyn, nid data ymwelwyr.",
+      "Gall y darparwyr hyn brosesu data y tu allan i Indonesia yn unol â'u polisïau eu hunain."
+     ]
+    },
+    {
+     "t": "5. Am ba hyd y cedwir data",
+     "b": [
+      "Cedwir sgyrsiau a deunyddiau prosiect cyhyd ag y bo angen i redeg y gwasanaeth, rhoi cymorth a chyflawni rhwymedigaethau cyfreithiol, ac yna cânt eu dileu neu eu gwneud yn ddienw. Mae data dadansoddeg yn dilyn gosodiadau cadw ei ddarparwr. Mae data yn eich porwr yn aros nes i chi ei ddileu."
+     ]
+    },
+    {
+     "t": "6. Eich hawliau",
+     "b": [
+      "O dan Gyfraith Rhif 27 o 2022 Indonesia ar Ddiogelu Data Personol, mae gennych yr hawl i:",
+      "- wybod a chael copi o'r data personol sydd gennym amdanoch;",
+      "- gofyn i ddata anghywir gael ei gywiro;",
+      "- gofyn i'ch data gael ei ddileu neu dynnu eich caniatâd yn ôl;",
+      "- gwrthwynebu prosesu penodol.",
+      "Anfonwch eich cais i nocodingindonesia@gmail.com. Byddwn yn ymateb o fewn amser rhesymol."
+     ]
+    },
+    {
+     "t": "7. Diogelwch a phlant",
+     "b": [
+      "Mae'r wefan hon yn defnyddio HTTPS ac mae mynediad at ddata prosiect wedi'i gyfyngu. Nid oes unrhyw ddull o drosglwyddo neu storio data yn gwbl ddi-risg, felly ni allwn warantu diogelwch llwyr.",
+      "Bwriedir ein gwasanaethau ar gyfer pobl 18 oed a throsodd. Nid ydym yn casglu data personol plant yn fwriadol."
+     ]
+    },
+    {
+     "t": "8. Newidiadau i'r polisi hwn",
+     "b": [
+      "Gellir diweddaru'r polisi hwn o bryd i'w gilydd. Dangosir dyddiad y diweddariad diwethaf ar frig y dudalen. Os bydd yr ieithoedd yn wahanol o ran ystyr, y fersiwn Indonesieg sy'n gymwys."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Telerau ac Amodau",
+   "description": "Y rheolau ar gyfer defnyddio gwefan a gwasanaethau Nocoding: pecynnau, prisiau, sut y gwneir y gwaith, eiddo deallusol a therfynau atebolrwydd.",
+   "sections": [
+    {
+     "t": "1. Derbyn y telerau hyn",
+     "b": [
+      "Drwy agor y wefan hon neu ddefnyddio gwasanaethau Nocoding, rydych yn cytuno i'r telerau ac amodau hyn. Os nad ydych yn cytuno, peidiwch â defnyddio ein gwefan na'n gwasanaethau."
+     ]
+    },
+    {
+     "t": "2. Y gwasanaethau",
+     "b": [
+      "Mae Nocoding yn adeiladu gwefannau portffolio neu CV, tudalennau glanio a phroffiliau cwmni, systemau gwybodaeth a gweithrediadau, ac awtomeiddio prosesau busnes. Cytunir ar gwmpas y gwaith, y nodweddion, yr amserlen a'r gost gyda chi drwy WhatsApp neu e-bost cyn i'r gwaith ddechrau.",
+      "Mae ymgynghoriad bob amser yn rhad ac am ddim, pryd bynnag y bydd ei angen arnoch, ac nid yw'n eich rhwymo i archebu."
+     ]
+    },
+    {
+     "t": "3. Pecynnau a phrisiau",
+     "b": [
+      "- Pecyn bach: o Rp 500.000 y flwyddyn, gan gynnwys cynnal a chadw am ddim a pharth am 1 flwyddyn.",
+      "- Pecyn mawr: o Rp 2.000.000 y flwyddyn, gan gynnwys cynnal a chadw am ddim a gwesteio am 1 flwyddyn.",
+      "Prisiau cychwynnol yw'r prisiau ar y wefan. Cytunir ar y swm terfynol ar ôl ymgynghoriad, yn seiliedig ar eich anghenion. I ymwelwyr y tu allan i Indonesia, dangosir prisiau yn yr arian lleol fel amcangyfrif yn seiliedig ar y gyfradd gyfnewid ddyddiol; y swm mewn rupiah y byddwn yn cytuno arno yw'r un sy'n gymwys. Dywedir wrthych am gostau ychwanegol, megis nodweddion ychwanegol neu adnewyddu ar ôl i'r cyfnod rhad ac am ddim ddod i ben, cyn gwneud y gwaith."
+     ]
+    },
+    {
+     "t": "4. Sut y gwneir y gwaith a'ch cyfrifoldebau",
+     "b": [
+      "Caiff y dyluniad ei adolygu a'i gymeradwyo gyda chi cyn y cynhyrchu. Gwneir diwygiadau fel y cytunwyd.",
+      "Chi sy'n gyfrifol am ddarparu deunyddiau (logo, testun, lluniau, data) mewn pryd ac am fod â'r hawl i'w defnyddio. Gall oedi gyda deunyddiau neu adborth effeithio ar yr amserlen."
+     ]
+    },
+    {
+     "t": "5. Cynnal a chadw",
+     "b": [
+      "Mae cynnal a chadw am ddim am 1 flwyddyn yn cwmpasu cywiro gwallau yn ein gwaith a diweddariadau diogelwch sylfaenol. Codir tâl ar wahân am nodweddion newydd, newidiadau dylunio mawr a gwaith y tu allan i'r cytundeb gwreiddiol."
+     ]
+    },
+    {
+     "t": "6. Eiddo deallusol",
+     "b": [
+      "Mae'r deunyddiau a ddarparwch yn parhau i fod yn eiddo i chi. Caiff y gwaith gorffenedig ei drosglwyddo i chi unwaith y bydd y taliad fel y cytunwyd wedi'i gwblhau. Caiff Nocoding ddangos gwaith byw fel enghreifftiau yn ei bortffolio, oni bai eich bod yn gofyn yn ysgrifenedig iddo beidio â chael ei ddangos.",
+      "Mae'r dyluniad, y testun a'r erthyglau ar nocoding.web.id yn eiddo i Nocoding. Gallwch rannu dolenni iddynt, ond ni chewch eu copïo a'u defnyddio'n fasnachol heb ganiatâd. Daw lluniau'r erthyglau o Unsplash ac maent yn dilyn ei drwydded; nodir y ffynhonnell o dan bob llun."
+     ]
+    },
+    {
+     "t": "7. Ieithoedd y wefan",
+     "b": [
+      "Mae'r wefan hon ar gael mewn llawer o ieithoedd. Efallai na fydd cyfieithiadau, yn enwedig ar gyfer ieithoedd sydd â llai o siaradwyr, yn berffaith. Os byddant yn wahanol o ran ystyr, y fersiwn Indonesieg sy'n gymwys. Mae'r tudalennau cyfreithiol hyn ar gael yn Indonesieg a Saesneg."
+     ]
+    },
+    {
+     "t": "8. Terfynau atebolrwydd",
+     "b": [
+      "Rydym yn gweithio i sicrhau canlyniadau da, ond nid ydym yn addo canlyniadau busnes penodol megis safleoedd chwilio, nifer yr ymwelwyr neu werthiannau. Nid ydym yn gyfrifol am amhariadau gan drydydd partïon megis darparwyr gwesteio, parthau neu daliadau, nac am golledion anuniongyrchol.",
+      "Mae ein hatebolrwydd am wasanaeth wedi'i gyfyngu i'r swm a dalwyd gennych am y gwasanaeth hwnnw, i'r graddau y mae'r gyfraith yn caniatáu. Nid yw hyn yn lleihau'r hawliau sydd gennych a warchodir gan y gyfraith."
+     ]
+    },
+    {
+     "t": "9. Cyfraith lywodraethol",
+     "b": [
+      "Llywodraethir y telerau hyn gan gyfreithiau Gweriniaeth Indonesia. Os bydd anghydfod yn codi, byddwn yn ceisio ei setlo yn gyntaf drwy drafodaeth. Os na cheir cytundeb, caiff yr anghydfod ei setlo gan y llysoedd cymwys yn Indonesia."
+     ]
+    },
+    {
+     "t": "10. Newidiadau a chysylltu",
+     "b": [
+      "Gellir diweddaru'r telerau hyn o bryd i'w gilydd; dangosir dyddiad y diweddariad diwethaf ar frig y dudalen. Gellir anfon cwestiynau i nocodingindonesia@gmail.com neu drwy WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Polisi Cwcis",
+   "description": "Y cwcis a'r storfa leol y mae gwefan Nocoding yn eu defnyddio, at ba ddiben, a sut i'w rheoli.",
+   "sections": [
+    {
+     "t": "1. Beth yw cwcis",
+     "b": [
+      "Ffeiliau bach yw cwcis y mae gwefan yn eu storio yn eich porwr. Mae storfa leol a storfa sesiwn yn gweithio mewn ffordd debyg ond nid ydynt yn cael eu hanfon i weinydd yn awtomatig. Ar y dudalen hon, rydym yn eu galw i gyd yn gwcis."
+     ]
+    },
+    {
+     "t": "2. Yr hyn sydd ei angen ar y wefan i weithio",
+     "b": [
+      "Wedi'u storio yn eich porwr ac heb eu hanfon i'n gweinyddion:",
+      "- nocoding-language a nocoding-language-set: yr iaith a ddewisoch neu a ganfuwyd o'ch porwr.",
+      "- nocoding-pricing (sesiwn): yr arian cyfred a'r gyfradd amcangyfrifedig, fel na chaiff prisiau eu cyfrifo eto ar bob tudalen.",
+      "- Marcwyr erthyglau: a ydych eisoes wedi hoffi, gweld neu rannu erthygl, fel na chaiff y cyfansymiau eu dyblu.",
+      "- Marciwr dros dro ar gyfer safle sgrolio wrth symud rhwng rhannau o'r wefan."
+     ]
+    },
+    {
+     "t": "3. Dadansoddeg",
+     "b": [
+      "Pan fyddant wedi'u galluogi, mae dau wasanaeth dadansoddeg yn llwytho ar ôl i chi ryngweithio â'r dudalen (sgrolio, tapio neu wasgu allwedd):",
+      "- Google Analytics 4 (cwcis megis _ga a _ga_*, yn ddilys am hyd at tua 2 flynedd): ystadegau ymweliadau.",
+      "- Microsoft Clarity (cwcis megis _clck, _clsk, CLID a MUID, yn ddilys am hyd at tua 1 flwyddyn): mapiau gwres a recordiadau dienw o ryngweithio.",
+      "Gall darparwyr CDN a diogelwch hefyd osod cwcis technegol i ddiogelu'r wefan rhag traffig niweidiol."
+     ]
+    },
+    {
+     "t": "4. Sut i reoli cwcis",
+     "b": [
+      "Gallwch ddileu neu rwystro cwcis yng ngosodiadau eich porwr. Gallwch hefyd osod ychwanegyn optio allan swyddogol Google ar gyfer Google Analytics. Os caiff cwcis dadansoddeg eu rhwystro, mae'r wefan yn dal i weithio; os caiff y storfa leol ei chlirio, mae eich dewis iaith yn dychwelyd i'r rhagosodiad."
+     ]
+    },
+    {
+     "t": "5. Cwestiynau",
+     "b": [
+      "Ar gyfer cwestiynau am y polisi hwn, cysylltwch â nocodingindonesia@gmail.com. Eglurir sut y defnyddir data personol ymhellach yn y Polisi Preifatrwydd. Os bydd yr ieithoedd yn wahanol o ran ystyr, y fersiwn Indonesieg sy'n gymwys."
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Navaozina farany",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Politikan'ny fiainana manokana",
+   "description": "Ny angona angonin'i Nocoding, ny anton'ny fampiasana azy, ny mikarakara azy ary ny zonanao momba ny angona manokana anao.",
+   "sections": [
+    {
+     "t": "1. Iza izahay",
+     "b": [
+      "Nocoding (nocoding.web.id) dia serivisy fanamboarana tranokala, rindranasa, rafi-pampahalalana ary automatika izay tantanan'i Abid Hanan Wicaksono any Indonezia. Ity politika ity dia manazava ny fomba itondrantsika ny angona manokana anao rehefa mitsidika ity tranonkala ity na mifandray aminay ianao.",
+      "Ny fanontaniana momba ity politika ity dia azo alefa any amin'ny nocodingindonesia@gmail.com na WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Ny angona angonin'izahay",
+     "b": [
+      "- Angona omenao ho anay: ny anaranao, ny laharan'i WhatsApp, ny mailaka ary ny famaritana ny tetikasanao rehefa mifandray aminay amin'ny WhatsApp na mailaka ianao. Tsy misy kaonty mpampiasa na taratasy fisoratana anarana ity tranonkala ity.",
+      "- Angona ara-teknika karakaraina ho azy: ny adiresy IP, ny karazana fitaovana sy navigateur, ary ny pejy sokafanao. Ny mpamatsy hosting sy CDN anay no mikarakara azy mba hampiseho ny tranonkala sy hiaro azy amin'ny fanararaotana.",
+      "- Firenena tombanana: mba hanehoana ny vidiny amin'ny vola ampiasainao, ny firenenao dia tombanana avy amin'ny fampahalalana CDN na ny fiteny amin'ny navigateur-nao. Tsy tehirizinay ao amin'ny serveranay izany.",
+      "- Angona fanadihadiana: Google Analytics 4 sy Microsoft Clarity (rehefa mavitrika) dia manangona statistika momba ny fampiasana toy ny pejy sokafana, ny faharetan'ny fitsidihana, ny karazana fitaovana ary ny firaketana tsy fantatra anarana momba ny fifandraisana. Tsy mipoitra izy ireo raha tsy efa nifandray tamin'ny pejy ianao.",
+      "- Fitehirizana ao amin'ny navigateur: ny fiteny nofidinao, ny marika fa efa nankafy, nijery na nizara lahatsoratra ianao, ary ny tombana vidiny vonjimaika. Ny antsipiriany dia ao amin'ny Politikan'ny cookie.",
+      "- Ny isan'ny fijerena, ny fankafizana ary ny fizarana lahatsoratra dia tehirizina ho isa nakambana, tsy misy ny anaran'ny mpitsidika."
+     ]
+    },
+    {
+     "t": "3. Ny anton'ny fampiasana ny angona",
+     "b": [
+      "- Famaliana ny fanontanianao, fanomanana tolotra ary fanatanterahana ny tetikasanao.",
+      "- Fampisehoana, fiarovana ary fitazonana ny hafainganan'ny tranonkala.",
+      "- Fahatakarana ny fomba fampiasana ny tranonkala mba hahafahanay manatsara azy.",
+      "- Fanarahana ny adidy ara-dalàna.",
+      "Tsy amidinay ny angona manokana anao."
+     ]
+    },
+    {
+     "t": "4. Ireo ampahatelo tafiditra",
+     "b": [
+      "- Vercel: hosting sy fampisehoana ny tranonkala.",
+      "- Cloudflare: CDN sy fiarovana.",
+      "- Google (Google Analytics 4) sy Microsoft (Clarity): statistika momba ny fampiasana ny tranonkala.",
+      "- Meta (WhatsApp) sy Google (Gmail): rehefa mifandray aminay amin'ny rohy WhatsApp na mailaka eto amin'ity tranonkala ity ianao.",
+      "- Mpamatsy ny taha fanakalozam-bola: mahazo fangatahana taha avy amin'ny serveranay ihany, fa tsy angon'ny mpitsidika.",
+      "Mety hikarakara angona any ivelan'i Indonezia araka ny politikany avy ireo mpamatsy ireo."
+     ]
+    },
+    {
+     "t": "5. Hafiriana no itehirizana ny angona",
+     "b": [
+      "Ny resaka sy ny fitaovana momba ny tetikasa dia tehirizina mandritra ny fotoana ilaina hampandehanana ny serivisy, hanomezana fanohanana ary hanarahana ny adidy ara-dalàna, avy eo foanana na atao tsy fantatra anarana. Ny angona fanadihadiana dia manaraka ny fanamafisana fitehirizana an'ny mpamatsy azy. Ny angona ao amin'ny navigateur-nao dia mijanona mandra-pamafisinao azy."
+     ]
+    },
+    {
+     "t": "6. Ny zonanao",
+     "b": [
+      "Araka ny Lalàna laharana faha-27 amin'ny taona 2022 any Indonezia momba ny Fiarovana ny Angona Manokana, manana zo ianao:",
+      "- hahalala sy hahazo kopia amin'ny angona manokana anao izay ao aminay;",
+      "- hangataka ny hanitsiana ny angona diso;",
+      "- hangataka ny hamafana ny angonao na hanala ny fanekenao;",
+      "- hanohitra ny fikarakarana sasany.",
+      "Alefaso any amin'ny nocodingindonesia@gmail.com ny fangatahanao. Hamaly anao izahay ao anatin'ny fotoana mety."
+     ]
+    },
+    {
+     "t": "7. Fiarovana sy ankizy",
+     "b": [
+      "Ity tranonkala ity dia mampiasa HTTPS ary voafetra ny fidirana amin'ny angona momba ny tetikasa. Tsy misy fomba fandefasana na fitehirizana angona tsy misy loza tanteraka, ka tsy afaka manome antoka ny fiarovana tanteraka izahay.",
+      "Natao ho an'ny olona 18 taona na mihoatra ny serivisinay. Tsy manangona an-tsitrapo angona manokana momba ny ankizy izahay."
+     ]
+    },
+    {
+     "t": "8. Fanovana ity politika ity",
+     "b": [
+      "Mety havaozina fotoana aman-potoana ity politika ity. Aseho eo an-tampon'ny pejy ny daty farany nanavaozana azy. Raha tsy mitovy ny dikan'ny fiteny samihafa, ny dikan-teny Indoneziana no manan-kery."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Fepetra sy fepetra fampiasana",
+   "description": "Ny fitsipika momba ny fampiasana ny tranonkala sy ny serivisin'i Nocoding: fonosana, vidiny, fomba fiasa, fananana ara-tsaina ary fetran'ny andraikitra.",
+   "sections": [
+    {
+     "t": "1. Fanekena ireo fepetra ireo",
+     "b": [
+      "Amin'ny fanokafana ity tranonkala ity na ny fampiasana ny serivisin'i Nocoding, manaiky ireo fepetra sy fepetra fampiasana ireo ianao. Raha tsy manaiky ianao, azafady aza mampiasa ny tranonkala sy ny serivisinay."
+     ]
+    },
+    {
+     "t": "2. Ireo serivisy",
+     "b": [
+      "Nocoding dia manamboatra tranonkala portfolio na CV, pejy fandrosoana (landing page) sy mombamomba ny orinasa, rafi-pampahalalana sy fiasana, ary automatika amin'ny dingan'ny orinasa. Ny sehatry ny asa, ny endri-javatra, ny fandaharam-potoana ary ny vidiny dia resahina miaraka aminao amin'ny WhatsApp na mailaka alohan'ny hanombohan'ny asa.",
+      "Maimaim-poana foana ny fandinihana, na oviana na oviana ilainao izany, ary tsy manery anao handefa baiko."
+     ]
+    },
+    {
+     "t": "3. Fonosana sy vidiny",
+     "b": [
+      "- Fonosana kely: manomboka amin'ny Rp 500.000 isan-taona, ao anatin'izany ny fikojakojana maimaim-poana sy ny domain mandritra ny 1 taona.",
+      "- Fonosana lehibe: manomboka amin'ny Rp 2.000.000 isan-taona, ao anatin'izany ny fikojakojana maimaim-poana sy ny hosting mandritra ny 1 taona.",
+      "Ny vidiny aseho ao amin'ny tranonkala dia vidiny fanombohana. Ny vola farany dia ekena aorian'ny fandinihana, araka ny filanao. Ho an'ny mpitsidika any ivelan'i Indonezia, aseho amin'ny vola eo an-toerana ny vidiny ho toy ny tombana mifototra amin'ny taha fanakalozam-bola isan'andro; ny vola amin'ny rupiah nekenay no manan-kery. Ny fandaniana fanampiny, toy ny endri-javatra fanampiny na ny fanavaozana aorian'ny fiafaran'ny vanim-potoana maimaim-poana, dia lazaina aminao alohan'ny hanaovana ny asa."
+     ]
+    },
+    {
+     "t": "4. Ny fomba fiasa sy ny andraikitrao",
+     "b": [
+      "Ny sary an-tsaina dia dinihina sy ekena miaraka aminao alohan'ny famokarana. Ny fanitsiana dia atao araka ny nekena.",
+      "Anao ny andraikitra amin'ny fanomezana ireo fitaovana (logo, lahatsoratra, sary, angona) ara-potoana sy amin'ny fananana ny zo hampiasa azy ireo. Ny fanemorana ny fitaovana na ny valim-pehezan-kevitra dia mety hisy fiantraikany amin'ny fandaharam-potoana."
+     ]
+    },
+    {
+     "t": "5. Fikojakojana",
+     "b": [
+      "Ny fikojakojana maimaim-poana mandritra ny 1 taona dia misy ny fanitsiana ny lesoka amin'ny asanay sy ny fanavaozana fiarovana fototra. Ny endri-javatra vaovao, ny fanovana lehibe amin'ny endrika ary ny asa ivelan'ny fifanarahana voalohany dia saran-dalana tsy mitovy."
+     ]
+    },
+    {
+     "t": "6. Fananana ara-tsaina",
+     "b": [
+      "Ireo fitaovana omenao dia mitoetra ho anao. Ny asa vita dia atolotra anao rehefa vita ny fandoavam-bola araka ny nekena. Afaka mampiseho asa efa mivantana ho ohatra ao amin'ny portfolio-ny i Nocoding, raha tsy mangataka an-tsoratra ianao mba tsy hasehoana azy.",
+      "Ny endrika, ny lahatsoratra ary ny lahatsoratra fampahalalam-baovao ao amin'ny nocoding.web.id dia an'i Nocoding. Azonao zaraina ny rohiny, nefa tsy azonao adika sy ampiasaina ara-barotra raha tsy misy alalana. Ny sarin'ny lahatsoratra dia avy amin'i Unsplash ary manaraka ny alalany; ny loharano dia voatanisa eo ambanin'ny sary tsirairay."
+     ]
+    },
+    {
+     "t": "7. Ny fiteny amin'ny tranonkala",
+     "b": [
+      "Misy amin'ny fiteny maro ity tranonkala ity. Mety tsy ho tonga lafatra ny fandikan-teny, indrindra ho an'ny fiteny tsy dia betsaka mpampiasa. Raha tsy mitovy ny dikany, ny dikan-teny Indoneziana no manan-kery. Ireo pejy ara-dalàna ireo dia misy amin'ny teny Indoneziana sy Anglisy."
+     ]
+    },
+    {
+     "t": "8. Fetran'ny andraikitra",
+     "b": [
+      "Miezaka manome vokatra tsara izahay, nefa tsy mampanantena vokatra ara-barotra manokana toy ny laharana amin'ny fikarohana, ny isan'ny mpitsidika na ny varotra. Tsy manana andraikitra amin'ny fanelingelenana avy amin'ny ampahatelo toy ny mpamatsy hosting, domain na fandoavam-bola izahay, na amin'ny fahavoazana tsy mivantana.",
+      "Ny andraikitray amin'ny serivisy iray dia voafetra amin'ny vola efa naloanao ho an'io serivisy io, araka ny faharetan'ny lalàna. Tsy manala ny zonanao arovan'ny lalàna izany."
+     ]
+    },
+    {
+     "t": "9. Lalàna manan-kery",
+     "b": [
+      "Ireo fepetra ireo dia tondroin'ny lalàn'ny Repoblikan'i Indonezia. Raha misy ady, andramanay voalohany ny hamaha azy amin'ny fifampiresahana. Raha tsy misy fifanarahana, ny ady dia vahan'ny fitsarana manana fahefana any Indonezia."
+     ]
+    },
+    {
+     "t": "10. Fanovana sy fifandraisana",
+     "b": [
+      "Ireo fepetra ireo dia mety havaozina fotoana aman-potoana; aseho eo an-tampon'ny pejy ny daty farany nanavaozana azy. Ny fanontaniana dia azo alefa any amin'ny nocodingindonesia@gmail.com na WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Politikan'ny cookie",
+   "description": "Ireo cookie sy fitehirizana eo an-toerana ampiasain'ny tranonkala Nocoding, ny anton'izany ary ny fomba fitantanana azy ireo.",
+   "sections": [
+    {
+     "t": "1. Inona no atao hoe cookie",
+     "b": [
+      "Ny cookie dia rakitra kely tehirizin'ny tranonkala ao amin'ny navigateur-nao. Ny local storage sy ny session storage dia miasa mitovy amin'izany nefa tsy alefa ho azy any amin'ny server. Ao amin'ity pejy ity dia antsoinay cookie izy rehetra."
+     ]
+    },
+    {
+     "t": "2. Ny ilain'ny tranonkala mba hiasa",
+     "b": [
+      "Tehirizina ao amin'ny navigateur-nao ary tsy alefa any amin'ny serveranay:",
+      "- nocoding-language sy nocoding-language-set: ny fiteny nofidinao na ilay hita avy amin'ny navigateur-nao.",
+      "- nocoding-pricing (session): ny vola tombanana sy ny taha, mba tsy hajanona indray ny vidiny isaky ny pejy.",
+      "- Marika lahatsoratra: raha efa nankafy, nijery na nizara lahatsoratra ianao, mba tsy hampitoviana indroa ny isa.",
+      "- Marika vonjimaika momba ny toerana nitaviana rehefa mifindra eo amin'ny ampahany amin'ny tranonkala."
+     ]
+    },
+    {
+     "t": "3. Fanadihadiana",
+     "b": [
+      "Rehefa mavitrika, serivisy fanadihadiana roa no mipoitra aorian'ny fifandraisanao amin'ny pejy (fanetsika, fikasihana na fanindriana bokotra):",
+      "- Google Analytics 4 (cookie toa _ga sy _ga_*, manan-kery hatramin'ny 2 taona eo ho eo): statistika momba ny fitsidihana.",
+      "- Microsoft Clarity (cookie toa _clck, _clsk, CLID ary MUID, manan-kery hatramin'ny 1 taona eo ho eo): sarintany hafanana sy firaketana tsy fantatra anarana momba ny fifandraisana.",
+      "Mety hametraka cookie ara-teknika koa ny mpamatsy CDN sy fiarovana mba hiaro ny tranonkala amin'ny fifamoivoizana mampidi-doza."
+     ]
+    },
+    {
+     "t": "4. Ny fomba fitantanana ny cookie",
+     "b": [
+      "Azonao fafana na sakanana ny cookie ao amin'ny fanamafisana ny navigateur-nao. Azonao apetraka koa ny add-on ofisialin'i Google hialana amin'ny Google Analytics. Raha voasakana ny cookie fanadihadiana, mbola miasa ny tranonkala; raha voafafa ny local storage, miverina amin'ny mahazatra ny fiteny nofidinao."
+     ]
+    },
+    {
+     "t": "5. Fanontaniana",
+     "b": [
+      "Ho an'ny fanontaniana momba ity politika ity, mifandraisa amin'ny nocodingindonesia@gmail.com. Ny fampiasana ny angona manokana dia dinihina bebe kokoa ao amin'ny Politikan'ny fiainana manokana. Raha tsy mitovy ny dikan'ny fiteny samihafa, ny dikan-teny Indoneziana no manan-kery."
+     ]
+    }
+   ]
+  }
+ }
+}

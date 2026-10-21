@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Pembaharuan si seh kal",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Kebijakan Privasi",
+   "description": "Data si lit si ikumpulken Nocoding, kai gunana, ise si ngolah, ras hak kam bas data pribadi kam.",
+   "sections": [
+    {
+     "t": "1. Ise kami",
+     "b": [
+      "Nocoding (nocoding.web.id) me layanan pembuaten website, aplikasi, sistem informasi, ras otomasi si iurus Abid Hanan Wicaksono i Indonesia. Kebijakan enda nerangken kai kami ngaturken data pribadi kam seh kam ngidah situs enda ntah ngenca-ngenca kami.",
+      "Pertanyen kerna kebijakan enda banci iirimken ku nocodingindonesia@gmail.com ntah WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data si ikumpulken kami",
+     "b": [
+      "- Data si ibereken kam surang: gelar, nomor WhatsApp, email, ras penerangen kerna proyek kam seh kam ngenca-ngenca kami banci WhatsApp ntah email. Situs enda la lit akun pemakai ntah formulir pendaftaren.",
+      "- Data teknis si iproses otomatis: alamat IP, jenis piranti ras browser, ras kaca-kaca si ibuka. Data enda iproses penyedia hosting ras CDN kami guna nampilken situs ras ngelindungi situs i penyalahgunaen.",
+      "- Perkiraan negara: guna nampilken hargo i mata uang kam, negara kam iperkirakenken i informasi CDN ntah pengaturen bahasa browser. Enda la isimpan kami i server.",
+      "- Data analitik: Google Analytics 4 ras Microsoft Clarity (adi aktif) ngumpulken statistik pemakeen bagepe kaca si ibuka, lamin kunjungen, jenis piranti, ras rekaman interaksi si la ersangkut gelar. Dua enda baru iisi kenca kam ersikap i kaca.",
+      "- Penyimpanen i browser: pilihen bahasa, tanda kerna kam nggo nggit, ngidah, ntah ibagi sada artikel, ras perkiraan hargo sementara. Perincianna lit i Kebijakan Cookie.",
+      "- Jumlah iidah, iaruh, ras ibagi i artikel isimpan bagi angka gabungen si la lit gelar pengunjung."
+     ]
+    },
+    {
+     "t": "3. Data enda guna kai",
+     "b": [
+      "- Ngenjabken pertanyen kam, ngaturken penawaren, ras ngerjaken proyek kam.",
+      "- Nampilken, ngelindungi, ras ngaturken situs seh cepat.",
+      "- Mehamat kai cara situs ipakeken guna banci kami perbaiki.",
+      "- Nggejap kewajiben hukum si berlaku.",
+      "Kami la ngadakenken data pribadi kam."
+     ]
+    },
+    {
+     "t": "4. Pihak ketiga si terlibat",
+     "b": [
+      "- Vercel: hosting ras penampilen situs.",
+      "- Cloudflare: CDN ras keamanen.",
+      "- Google (Google Analytics 4) ras Microsoft (Clarity): statistik pemakeen situs.",
+      "- Meta (WhatsApp) ras Google (Gmail): seh kam ngenca-ngenca kami banci tautan WhatsApp ntah email i situs enda.",
+      "- Penyedia kurs mata uang: tuhu nerima pengidoen kurs i server kami, la data pengunjung.",
+      "Penyedia enda banci ngolah data i bas Indonesia sesuai kebijakan masing-masing."
+     ]
+    },
+    {
+     "t": "5. Berapa lamin data isimpan",
+     "b": [
+      "Perbaban ras bahan proyek isimpan sampai si perlu guna ngerjaken layanan, ngenehken dukungen, ras nggejap kewajiben hukum, kenca e iabus ntah ikeri gelar. Data analitik nuruti pengaturen penyimpanen penyediana. Data i browser kam tetap lit sampai kam ngabus."
+     ]
+    },
+    {
+     "t": "6. Hak kam",
+     "b": [
+      "Nuruti Undang-Undang Nomor 27 Tahun 2022 kerna Pelindungen Data Pribadi i Indonesia, kam lit hak guna:",
+      "- ngataken ras ngidoken salinen data pribadi kam si isimpan kami;",
+      "- ngidoken perbaiken data si lalap;",
+      "- ngidoken pengabusen data ntah nggejap persetujuen kam;",
+      "- nulak pemrosesen tertentu.",
+      "Irimken pengidoen kam ku nocodingindonesia@gmail.com. Kami nggejap jabaten i wakatu si patut."
+     ]
+    },
+    {
+     "t": "7. Keamanen ras anak-anak",
+     "b": [
+      "Situs enda ngenca HTTPS ras akses ku data proyek ibatasi. La lit cara ngirimken ntah nyimpan data si la lit risikona, jadi kami la banci njamin keamanen si mutlak.",
+      "Layanan kami guna pemakai si berumur 18 tahun ntah lebih. Kami la ngumpulken data pribadi anak-anak i bas sengaja."
+     ]
+    },
+    {
+     "t": "8. Perubahen kebijakan",
+     "b": [
+      "Kebijakan enda banci ipebaru wakatu-wakatu. Tanggal pembaharuan si seh kal ibenaken i datas kaca. Adi lit bedana artina i bas bahasa, versi Bahasa Indonesia si berlaku."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Sarat ras Ketentuan",
+   "description": "Aturan pemakeen situs ras layanan Nocoding: paket, hargo, cara pengerjaan, hak kekayaan intelektual, ras batas tanggung jawab.",
+   "sections": [
+    {
+     "t": "1. Nerima sarat",
+     "b": [
+      "Kenca kam ngibuka situs enda ntah ngenca layanan Nocoding, kam nerima sarat ras ketentuan enda. Adi kam la sada, ola ngenca situs ras layanan kami."
+     ]
+    },
+    {
+     "t": "2. Layanan",
+     "b": [
+      "Nocoding ngerjaken website portofolio ntah CV, landing page ras profil perusahaan, sistem informasi ras operasional, ras otomasi proses bisnis. Cakupen kerja, fitur, jadwal, ras biaya iputusken ras kam banci WhatsApp ntah email sebelum kerja idahi.",
+      "Konsultasi lalap gratis, kapan pe kam perluken, ras la mewajibken kam ngataken pesanen."
+     ]
+    },
+    {
+     "t": "3. Paket ras hargo",
+     "b": [
+      "- Paket Kecil: mulai i Rp 500.000 sada tahun, termasuk maintenance gratis ras domain i bas 1 tahun.",
+      "- Paket Besar: mulai i Rp 2.000.000 sada tahun, termasuk maintenance gratis ras hosting i bas 1 tahun.",
+      "Hargo i situs me hargo awal. Nilai si seh kal isepakati kenca konsultasi nuruti si kam perluken. Guna pengunjung i luar Indonesia, hargo itampilken i mata uang setempat bagi perkiraen berdasar kurs harian; si berlaku me nilai rupiah si isepakati. Biaya tambahen, bagi fitur tambahen ntah perpanjangen kenca masa gratis seh, iberitahu ku kam sebelum ikerjaken."
+     ]
+    },
+    {
+     "t": "4. Cara pengerjaan ras tanggung jawab kam",
+     "b": [
+      "Rancangen ipelajari ras isetujui ras kam sebelum masuk produksi. Revisi ikerjaken nuruti kesepakaten.",
+      "Kam si bertanggung jawab nampilken bahan (logo, teks, foto, data) i wakatu si patut ras njamin kam lit hak ngenca bahan e. Keterlambaten bahan ntah masukan banci ngaruhi jadwal."
+     ]
+    },
+    {
+     "t": "5. Maintenance",
+     "b": [
+      "Maintenance gratis i bas 1 tahun nampung perbaiken kesalahen i hasil kerja kami ras pembaharuan keamanen dasar. Fitur baru, perubahen besar i desain, ras kerja i luar kesepakaten awal ihitung terpisah."
+     ]
+    },
+    {
+     "t": "6. Hak kekayaan intelektual",
+     "b": [
+      "Bahan si ibereken kam tetap me ndu kam. Hasil kerja iserahken ku kam kenca pembayaren nuruti kesepakaten lunas. Nocoding banci nampilken karya si nggo tayang bagi contoh i portofolio, kecuali kam ngidoken bas surat guna la itampilken.",
+      "Desain, teks, ras artikel i nocoding.web.id me ndu Nocoding. Kam banci ngebagi tautanna, tapi la banci nyalin ras ngenca secara komersial tanpa izin. Foto artikel nari i Unsplash ras nuruti lisensina; sumberna ibenaken i bas foto."
+     ]
+    },
+    {
+     "t": "7. Bahasa situs",
+     "b": [
+      "Situs enda lit i bas bahasa si mbue. Terjemahen, nandangken guna bahasa si sitik pengucapna, banci la sempurna. Adi lit bedana artina, versi Bahasa Indonesia si berlaku. Kaca hukum enda lit i bas Bahasa Indonesia ras Inggris."
+     ]
+    },
+    {
+     "t": "8. Batas tanggung jawab",
+     "b": [
+      "Kami ersitik-sitik ngenehken hasil si mehuli, tapi la njanjiken hasil bisnis tertentu bagi peringkat pencarian, jumlah pengunjung, ntah penjualen. Kami la bertanggung jawab kerna gangguen nari pihak ketiga bagi penyedia hosting, domain, ntah pembayaren, ntah kerugian si la langsung.",
+      "Tanggung jawab kami kerna sada layanan ibatasi sebesar nilai si nggo ibayar kam guna layanan e, sejauh iizinken hukum. Enda la ngurangi hak kam si ilindungi undang-undang."
+     ]
+    },
+    {
+     "t": "9. Hukum si berlaku",
+     "b": [
+      "Sarat enda tunduk ku hukum Republik Indonesia. Adi lit perselisihen, kami ersikap ndahi ngenca musyawarah. Adi la lit kesepakaten, perselisihen isalesaiken pengadilen si berwenang i Indonesia."
+     ]
+    },
+    {
+     "t": "10. Perubahen ras kontak",
+     "b": [
+      "Sarat enda banci ipebaru wakatu-wakatu; tanggal pembaharuan si seh kal ibenaken i datas kaca. Pertanyen banci iirimken ku nocodingindonesia@gmail.com ntah WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Kebijakan Cookie",
+   "description": "Cookie ras penyimpanen lokal si ipakei situs Nocoding, guna kai, ras cara ngaturna.",
+   "sections": [
+    {
+     "t": "1. Kai cookie",
+     "b": [
+      "Cookie me berkas si kecil si isimpan situs i browser kam. Penyimpanen lokal (local storage ras session storage) bekerja bagi e tapi la iirimken otomatis ku server. I kaca enda, kami ngelo ngataken kerina cookie."
+     ]
+    },
+    {
+     "t": "2. Si perlu guna situs bekerja",
+     "b": [
+      "Isimpan i browser kam ras la iirimken ku server kami:",
+      "- nocoding-language ras nocoding-language-set: bahasa si ipilih kam ntah si iteliti nari browser.",
+      "- nocoding-pricing (sesi): perkiraen mata uang ras kurs guna hargo la ihitung ulang i tep-tep kaca.",
+      "- Tanda artikel: kam nggo nggit, ngidah, ntah ibagi sada artikel, guna jumlah la dua kali.",
+      "- Tanda posisi gulir sementara seh pindah antara bagian situs."
+     ]
+    },
+    {
+     "t": "3. Analitik",
+     "b": [
+      "Adi iaktifken, dua layanan analitik iisi kenca kam ersikap i kaca (ngulir, ngentak, ntah ngenca tombol):",
+      "- Google Analytics 4 (cookie bagi _ga ras _ga_*, masa berlaku sampai kira-kira 2 tahun): statistik kunjungen.",
+      "- Microsoft Clarity (cookie bagi _clck, _clsk, CLID, ras MUID, masa berlaku sampai kira-kira 1 tahun): peta panas ras rekaman interaksi si la ersangkut gelar.",
+      "Penyedia CDN ras keamanen banci pe masang cookie teknis guna ngelindungi situs nari lalu lintas si jahat."
+     ]
+    },
+    {
+     "t": "4. Cara ngatur cookie",
+     "b": [
+      "Kam banci ngabus ntah mblok cookie i pengaturen browser. Kam banci pe masang add-on penolakan resmi nari Google guna Google Analytics. Adi cookie analitik iblok, situs tetap bekerja; adi penyimpanen lokal iabus, pilihen bahasa kam bali ku bentuk awal."
+     ]
+    },
+    {
+     "t": "5. Pertanyen",
+     "b": [
+      "Guna pertanyen kerna kebijakan enda, hubungi nocodingindonesia@gmail.com. Pemakeen data pribadi iterangken lebih lanjut i Kebijakan Privasi. Adi lit bedana artina i bas bahasa, versi Bahasa Indonesia si berlaku."
+     ]
+    }
+   ]
+  }
+ }
+}

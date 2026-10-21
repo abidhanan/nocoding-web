@@ -111,8 +111,8 @@ export function Footer() {
           </div>
         </div>
 
-        <div className="mt-7 flex min-h-[4.75rem] flex-col items-center justify-center gap-2 border-t border-white/10 py-4 text-center text-[0.72rem] text-slate-400">
-          <nav aria-label="Informasi legal" data-i18n-aria="aria.legal" className="flex flex-wrap items-center justify-center gap-x-5 gap-y-1">
+        <div className="mt-7 flex min-h-[4.75rem] flex-col items-center justify-center gap-4 border-t border-white/10 py-5 text-center text-[0.72rem] text-slate-400">
+          <nav aria-label="Informasi legal" data-i18n-aria="aria.legal" className="flex flex-wrap items-center justify-center gap-3">
             {[
               { href: "/kebijakan-privasi", id: "legal.privacy", label: "Kebijakan Privasi" },
               { href: "/syarat-ketentuan", id: "legal.terms", label: "Syarat dan Ketentuan" },
@@ -122,7 +122,7 @@ export function Footer() {
                 key={item.href}
                 prefetch={false}
                 href={item.href}
-                className="transition hover:text-brand-cyan focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-cyan"
+                className="inline-flex min-h-10 shrink-0 items-center justify-center rounded-full border border-white/20 px-5 py-2 text-sm font-bold text-white transition hover:border-brand-cyan hover:text-brand-cyan focus:outline-none focus:ring-2 focus:ring-brand-cyan"
               >
                 <LocalizedText id={item.id}>{item.label}</LocalizedText>
               </Link>

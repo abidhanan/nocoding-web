@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Përditësuar së fundi",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Politika e privatësisë",
+   "description": "Çfarë të dhënash mbledh Nocoding, për çfarë përdoren, kush i përpunon dhe cilat janë të drejtat tuaja mbi të dhënat tuaja personale.",
+   "sections": [
+    {
+     "t": "1. Kush jemi ne",
+     "b": [
+      "Nocoding (nocoding.web.id) është një shërbim për faqe interneti, aplikacione, sisteme informacioni dhe automatizim, i drejtuar nga Abid Hanan Wicaksono në Indonezi. Kjo politikë shpjegon se si i trajtojmë të dhënat tuaja personale kur vizitoni këtë faqe ose na kontaktoni.",
+      "Pyetjet rreth kësaj politike mund të dërgohen te nocodingindonesia@gmail.com ose në WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Të dhënat që mbledhim",
+     "b": [
+      "- Të dhënat që na jepni ju: emri juaj, numri i WhatsApp, emaili dhe një përshkrim i projektit tuaj kur na kontaktoni përmes WhatsApp ose emailit. Kjo faqe nuk ka llogari përdoruesish dhe as formularë regjistrimi.",
+      "- Të dhëna teknike të përpunuara automatikisht: adresa IP, lloji i pajisjes dhe i shfletuesit, si dhe faqet që hapni. Ofruesit tanë të hostimit dhe të CDN-së i përpunojnë për ta shërbyer faqen dhe për ta mbrojtur nga abuzimi.",
+      "- Vendi i përafërt: që çmimet të shfaqen në monedhën tuaj, vendi juaj vlerësohet nga informacioni i CDN-së ose nga gjuha e shfletuesit tuaj. Ne nuk e ruajmë në serverët tanë.",
+      "- Të dhëna analitike: Google Analytics 4 dhe Microsoft Clarity (kur janë të aktivizuara) mbledhin statistika përdorimi, si faqet e hapura, kohëzgjatja e vizitës, lloji i pajisjes dhe regjistrime anonime të ndërveprimit. Ngarkohen vetëm pasi të ndërveproni me faqen.",
+      "- Ruajtja në shfletues: zgjedhja e gjuhës, shenja që tregojnë se e keni pëlqyer, parë ose ndarë tashmë një artikull, dhe një vlerësim i përkohshëm i çmimit. Detajet gjenden te Politika e cookie-ve.",
+      "- Numrat e shikimeve, pëlqimeve dhe ndarjeve të artikujve ruhen si numra të përbashkët, pa identitetin e vizitorit."
+     ]
+    },
+    {
+     "t": "3. Për çfarë përdoren të dhënat",
+     "b": [
+      "- Për t'iu përgjigjur pyetjeve tuaja, për të përgatitur ofertat dhe për të kryer projektin tuaj.",
+      "- Për ta shërbyer, siguruar dhe mbajtur faqen të shpejtë.",
+      "- Për të kuptuar si përdoret faqja, që ta përmirësojmë.",
+      "- Për të përmbushur detyrimet ligjore.",
+      "Ne nuk i shesim të dhënat tuaja personale."
+     ]
+    },
+    {
+     "t": "4. Palët e treta të përfshira",
+     "b": [
+      "- Vercel: hostimi dhe shërbimi i faqes.",
+      "- Cloudflare: CDN dhe siguria.",
+      "- Google (Google Analytics 4) dhe Microsoft (Clarity): statistika të përdorimit të faqes.",
+      "- Meta (WhatsApp) dhe Google (Gmail): kur na kontaktoni përmes lidhjeve të WhatsApp ose emailit në këtë faqe.",
+      "- Ofruesi i kurseve të këmbimit: merr vetëm kërkesa për kurse nga serveri ynë, jo të dhëna të vizitorëve.",
+      "Këta ofrues mund t'i përpunojnë të dhënat jashtë Indonezisë sipas politikave të tyre."
+     ]
+    },
+    {
+     "t": "5. Sa kohë ruhen të dhënat",
+     "b": [
+      "Bisedat dhe materialet e projektit ruhen për aq kohë sa duhet për të ofruar shërbimin, për të dhënë mbështetje dhe për të përmbushur detyrimet ligjore, pastaj fshihen ose anonimizohen. Të dhënat analitike ndjekin cilësimet e ruajtjes të ofruesit të tyre. Të dhënat në shfletuesin tuaj qëndrojnë derisa t'i fshini."
+     ]
+    },
+    {
+     "t": "6. Të drejtat tuaja",
+     "b": [
+      "Sipas Ligjit nr. 27 të vitit 2022 të Indonezisë për Mbrojtjen e të Dhënave Personale, ju keni të drejtë:",
+      "- të dini dhe të merrni një kopje të të dhënave personale që mbajmë për ju;",
+      "- të kërkoni korrigjimin e të dhënave të pasakta;",
+      "- të kërkoni fshirjen e të dhënave tuaja ose të tërhiqni pëlqimin tuaj;",
+      "- të kundërshtoni disa përpunime.",
+      "Dërgojeni kërkesën tuaj te nocodingindonesia@gmail.com. Do t'ju përgjigjemi brenda një kohe të arsyeshme."
+     ]
+    },
+    {
+     "t": "7. Siguria dhe fëmijët",
+     "b": [
+      "Kjo faqe përdor HTTPS dhe qasja te të dhënat e projektit është e kufizuar. Asnjë metodë e transmetimit ose e ruajtjes së të dhënave nuk është plotësisht pa rrezik, ndaj nuk mund të garantojmë siguri absolute.",
+      "Shërbimet tona janë për persona 18 vjeç e lart. Ne nuk mbledhim me dijeni të dhëna personale të fëmijëve."
+     ]
+    },
+    {
+     "t": "8. Ndryshimet në këtë politikë",
+     "b": [
+      "Kjo politikë mund të përditësohet herë pas here. Data e përditësimit të fundit tregohet në krye të faqes. Nëse gjuhët ndryshojnë në kuptim, zbatohet versioni në gjuhën indoneziane."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Kushtet dhe afatet",
+   "description": "Rregullat për përdorimin e faqes dhe të shërbimeve të Nocoding: paketat, çmimet, mënyra si kryhet puna, pronësia intelektuale dhe kufizimet e përgjegjësisë.",
+   "sections": [
+    {
+     "t": "1. Pranimi i këtyre kushteve",
+     "b": [
+      "Duke hapur këtë faqe ose duke përdorur shërbimet e Nocoding, ju pranoni këto kushte dhe afate. Nëse nuk jeni dakord, ju lutemi mos e përdorni faqen ose shërbimet tona."
+     ]
+    },
+    {
+     "t": "2. Shërbimet",
+     "b": [
+      "Nocoding ndërton faqe portofoli ose CV, faqe uljeje (landing pages) dhe profile kompanish, sisteme informacioni dhe operacionesh, si dhe automatizim të proceseve të biznesit. Fusha e punës, veçoritë, afati kohor dhe kostoja bien dakord me ju përmes WhatsApp ose emailit përpara fillimit të punës.",
+      "Konsultimi është gjithmonë falas, sa herë që ju nevojitet, dhe nuk ju detyron të bëni porosi."
+     ]
+    },
+    {
+     "t": "3. Paketat dhe çmimet",
+     "b": [
+      "- Paketa e vogël: nga Rp 500.000 në vit, përfshirë mirëmbajtjen falas dhe një domen për 1 vit.",
+      "- Paketa e madhe: nga Rp 2.000.000 në vit, përfshirë mirëmbajtjen falas dhe hostimin për 1 vit.",
+      "Çmimet në faqe janë çmime fillestare. Shuma përfundimtare merret vesh pas një konsultimi, sipas nevojave tuaja. Për vizitorët jashtë Indonezisë, çmimet shfaqen në monedhën vendase si vlerësim, bazuar në kursin ditor të këmbimit; vlen shuma në rupia që kemi rënë dakord. Kostot shtesë, si veçoritë shtesë ose rinovimi pas përfundimit të periudhës falas, ju njoftohen para se të kryhet puna."
+     ]
+    },
+    {
+     "t": "4. Si kryhet puna dhe përgjegjësitë tuaja",
+     "b": [
+      "Dizajni shqyrtohet dhe miratohet me ju përpara prodhimit. Rishikimet bëhen siç është rënë dakord.",
+      "Ju jeni përgjegjës të jepni materialet (logo, tekst, foto, të dhëna) në kohë dhe të keni të drejtën t'i përdorni. Vonesat në materiale ose në komente mund të ndikojnë në afatin kohor."
+     ]
+    },
+    {
+     "t": "5. Mirëmbajtja",
+     "b": [
+      "Mirëmbajtja falas për 1 vit mbulon korrigjimin e gabimeve në punën tonë dhe përditësimet bazë të sigurisë. Veçoritë e reja, ndryshimet e mëdha të dizajnit dhe puna jashtë marrëveshjes fillestare paguhen veçmas."
+     ]
+    },
+    {
+     "t": "6. Pronësia intelektuale",
+     "b": [
+      "Materialet që jepni mbeten tuajat. Puna e përfunduar ju dorëzohet sapo pagesa të përfundojë siç është rënë dakord. Nocoding mund t'i shfaqë punët e gjalla si shembuj në portofolin e vet, përveç nëse kërkoni me shkrim që të mos shfaqen.",
+      "Dizajni, teksti dhe artikujt në nocoding.web.id i përkasin Nocoding. Mund të ndani lidhje drejt tyre, por nuk mund t'i kopjoni dhe t'i përdorni komercialisht pa leje. Fotot e artikujve vijnë nga Unsplash dhe ndjekin licencën e saj; burimi përmendet nën çdo foto."
+     ]
+    },
+    {
+     "t": "7. Gjuhët e faqes",
+     "b": [
+      "Kjo faqe është e disponueshme në shumë gjuhë. Përkthimet, sidomos për gjuhët me më pak folës, mund të mos jenë të përsosura. Nëse ndryshojnë në kuptim, zbatohet versioni në gjuhën indoneziane. Këto faqe ligjore janë të disponueshme në indonezisht dhe anglisht."
+     ]
+    },
+    {
+     "t": "8. Kufizimet e përgjegjësisë",
+     "b": [
+      "Ne punojmë për të ofruar rezultate të mira, por nuk premtojmë rezultate të caktuara biznesi, si renditja në kërkime, numri i vizitorëve ose shitjet. Nuk jemi përgjegjës për ndërprerjet nga palë të treta, si ofruesit e hostimit, të domenit ose të pagesave, as për humbjet indirekte.",
+      "Përgjegjësia jonë për një shërbim kufizohet në shumën që keni paguar për atë shërbim, deri në masën që e lejon ligji. Kjo nuk cenon të drejtat tuaja që mbrohen me ligj."
+     ]
+    },
+    {
+     "t": "9. Ligji në fuqi",
+     "b": [
+      "Këto kushte rregullohen nga ligjet e Republikës së Indonezisë. Nëse lind një mosmarrëveshje, fillimisht përpiqemi ta zgjidhim me diskutim. Nëse nuk arrihet marrëveshje, mosmarrëveshja zgjidhet nga gjykatat kompetente në Indonezi."
+     ]
+    },
+    {
+     "t": "10. Ndryshimet dhe kontakti",
+     "b": [
+      "Këto kushte mund të përditësohen herë pas here; data e përditësimit të fundit tregohet në krye të faqes. Pyetjet mund të dërgohen te nocodingindonesia@gmail.com ose në WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Politika e cookie-ve",
+   "description": "Cookie-t dhe ruajtja lokale që përdor faqja e Nocoding, për çfarë shërbejnë dhe si t'i menaxhoni.",
+   "sections": [
+    {
+     "t": "1. Çfarë janë cookie-t",
+     "b": [
+      "Cookie-t janë skedarë të vegjël që një faqe i ruan në shfletuesin tuaj. Ruajtja lokale dhe ruajtja e sesionit funksionojnë në mënyrë të ngjashme, por nuk dërgohen automatikisht në një server. Në këtë faqe i quajmë të gjitha cookie."
+     ]
+    },
+    {
+     "t": "2. Çfarë i nevojitet faqes për të funksionuar",
+     "b": [
+      "Ruhen në shfletuesin tuaj dhe nuk dërgohen te serverët tanë:",
+      "- nocoding-language dhe nocoding-language-set: gjuha që zgjodhët ose që u zbulua nga shfletuesi juaj.",
+      "- nocoding-pricing (sesion): monedha dhe kursi i vlerësuar, që çmimet të mos llogariten sërish në çdo faqe.",
+      "- Shenjat e artikujve: nëse e keni pëlqyer, parë ose ndarë tashmë një artikull, që numrat të mos dyfishohen.",
+      "- Një shenjë e përkohshme e pozicionit të lëvizjes kur kaloni nga një pjesë e faqes në tjetrën."
+     ]
+    },
+    {
+     "t": "3. Analitika",
+     "b": [
+      "Kur janë të aktivizuara, dy shërbime analitike ngarkohen pasi të ndërveproni me faqen (lëvizni, prekni ose shtypni një tast):",
+      "- Google Analytics 4 (cookie si _ga dhe _ga_*, të vlefshme deri në rreth 2 vjet): statistika vizitash.",
+      "- Microsoft Clarity (cookie si _clck, _clsk, CLID dhe MUID, të vlefshme deri në rreth 1 vit): harta nxehtësie dhe regjistrime anonime të ndërveprimit.",
+      "Ofruesit e CDN-së dhe të sigurisë mund të vendosin gjithashtu cookie teknike për ta mbrojtur faqen nga trafiku i dëmshëm."
+     ]
+    },
+    {
+     "t": "4. Si t'i menaxhoni cookie-t",
+     "b": [
+      "Mund t'i fshini ose t'i bllokoni cookie-t në cilësimet e shfletuesit tuaj. Mund të instaloni edhe shtesën zyrtare të Google për çaktivizimin e Google Analytics. Nëse cookie-t analitike bllokohen, faqja funksionon prapë; nëse ruajtja lokale pastrohet, zgjedhja juaj e gjuhës kthehet te e paracaktuara."
+     ]
+    },
+    {
+     "t": "5. Pyetje",
+     "b": [
+      "Për pyetje rreth kësaj politike, kontaktoni nocodingindonesia@gmail.com. Si përdoren të dhënat personale shpjegohet më tej te Politika e privatësisë. Nëse gjuhët ndryshojnë në kuptim, zbatohet versioni në gjuhën indoneziane."
+     ]
+    }
+   ]
+  }
+ }
+}

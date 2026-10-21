@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Yakagadziridzwa kekupedzisira",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Mutemo Wekuvanzika",
+   "description": "Dhata iyo Nocoding inounganidza, zvainoshandiswa, vanoiita basa, uye kodzero dzako pamusoro pedhata yako yega.",
+   "sections": [
+    {
+     "t": "1. Isu tiri ani",
+     "b": [
+      "Nocoding (nocoding.web.id) ibasa rekuvaka mawebhusaiti, maapp, masisitimu eruzivo nekuita mabasa pachawo (automation), rinotungamirirwa naAbid Hanan Wicaksono kuIndonesia. Mutemo uyu unotsanangura maitiro atinobata nawo dhata yako yega paunoshanyira webhusaiti iyi kana kutibata.",
+      "Mibvunzo pamusoro pemutemo uyu inogona kutumirwa ku nocodingindonesia@gmail.com kana WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Dhata yatinounganidza",
+     "b": [
+      "- Dhata yaunotipa iwe pachako: zita rako, nhamba yeWhatsApp, email uye tsananguro yeprojekiti yako paunotibata neWhatsApp kana email. Webhusaiti iyi haina maakaundi evashandisi kana mafomu ekunyoresa.",
+      "- Dhata yehunyanzvi inoitwa pachayo: kero yeIP, rudzi rwechishandiso nebrowser, uye mapeji aunovhura. Inoitwa nevatipa hosting neCDN kuti vape webhusaiti nekuidzivirira pakushandiswa zvisina kunaka.",
+      "- Nyika inofungidzirwa: kuti mitengo iratidzwe mumari yako, nyika yako inofungidzirwa kubva paruzivo rweCDN kana mutauro webrowser yako. Hatiichengeteti pamaseva edu.",
+      "- Dhata yekuongorora: Google Analytics 4 neMicrosoft Clarity (kana dzakasarudzwa) dzinounganidza huwandu hwekushandiswa senge mapeji akavhurwa, nguva yekushanyira, rudzi rwechishandiso nemarekodhi ekuita pasina kuzivikanwa kwemunhu. Dzinongotanga kutakurwa mushure mekunge wagadzirana nepeji.",
+      "- Chengetedzo yebrowser: sarudzo yako yemutauro, zviratidzo zvekuti wakatonakidzwa, wakatoona kana wakatoparadzira chinyorwa, nemutengo wekufungidzira wenguva pfupi. Ruzivo rwakazara runowanikwa muMutemo weMakuki.",
+      "- Huwandu hwekuonekwa, kufarirwa nekuparadzirwa kwezvinyorwa hunochengetwa semanhamba akabatanidzwa, pasina kuzivikanwa kwemushanyi."
+     ]
+    },
+    {
+     "t": "3. Zvinoshandiswa dhata",
+     "b": [
+      "- Kupindura mibvunzo yako, kugadzira mitengo nekuita projekiti yako.",
+      "- Kupa, kuchengetedza nekuramba webhusaiti ichikurumidza.",
+      "- Kunzwisisa maitiro anoshandiswa webhusaiti kuitira kuti tiivandudze.",
+      "- Kuzadzisa zvinodikanwa nemutemo.",
+      "Hatitengese dhata yako yega."
+     ]
+    },
+    {
+     "t": "4. Mapato echitatu anobatanidzwa",
+     "b": [
+      "- Vercel: hosting nekupa webhusaiti.",
+      "- Cloudflare: CDN nekuchengetedzwa.",
+      "- Google (Google Analytics 4) neMicrosoft (Clarity): huwandu hwekushandiswa kwewebhusaiti.",
+      "- Meta (WhatsApp) neGoogle (Gmail): paunotibata kuburikidza nemalink eWhatsApp kana email ari pawebhusaiti iyi.",
+      "- Anopa mitengo yemari: anongogamuchira zvikumbiro zvemitengo kubva kuseva yedu, kwete dhata yevashanyi.",
+      "Vanopa masevhisi ava vanogona kuita dhata kunze kweIndonesia maererano nemitemo yavo."
+     ]
+    },
+    {
+     "t": "5. Nguva yekuchengetwa kwedhata",
+     "b": [
+      "Hurukuro nezvinhu zveprojekiti zvinochengetwa kwenguva yaunodikanwa kuitira kushandisa basa, kupa rubatsiro nekuzadzisa zvinodikanwa nemutemo, wozobviswa kana kuchinjwa kuti zvisazivikanwe. Dhata yekuongorora inotevera marongero ekuchengetwa emupi wayo. Dhata iri mubrowser yako inogara kusvika waibvisa."
+     ]
+    },
+    {
+     "t": "6. Kodzero dzako",
+     "b": [
+      "Maererano neMutemo weIndonesia No. 27 wa2022 wekuchengetedza Dhata Yega, une kodzero yekuti:",
+      "- uzive uye uwane kopi yedhata yako yega yatinayo;",
+      "- kukumbira kuti dhata isiri iyo igadziriswe;",
+      "- kukumbira kuti dhata yako ibviswe kana kudzosa mvumo yako;",
+      "- kuramba kuitwa kwedhata mune dzimwe nzira.",
+      "Tumira chikumbiro chako ku nocodingindonesia@gmail.com. Tichapindura munguva inonzwisisika."
+     ]
+    },
+    {
+     "t": "7. Kuchengetedzwa nevana",
+     "b": [
+      "Webhusaiti iyi inoshandisa HTTPS uye kuwana dhata yeprojekiti kwakanyatsogumira. Hapana nzira yekutumira kana kuchengeta dhata isina njodzi zvachose, saka hatikwanise kuvimbisa kuchengeteka kwakakwana.",
+      "Masevhisi edu akagadzirirwa vanhu vane makore 18 nekuenda mberi. Hatiunganidzi dhata yega yevana tichizvidavirira."
+     ]
+    },
+    {
+     "t": "8. Shanduko mumutemo uyu",
+     "b": [
+      "Mutemo uyu unogona kugadziridzwa panguva nenguva. Zuva rekugadziridzwa kwekupedzisira rinoratidzwa kumusoro kwepeji. Kana mitauro ikasiyana mukureva, shanduro yechiIndonesia ndiyo inoshanda."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Mitemo Nemamiriro",
+   "description": "Mitemo yekushandisa webhusaiti nemasevhisi eNocoding: mapakeji, mitengo, maitiro ebasa, kodzero dzepfungwa nemiganhu yemutoro.",
+   "sections": [
+    {
+     "t": "1. Kugamuchira mitemo",
+     "b": [
+      "Nekuvhura webhusaiti iyi kana kushandisa masevhisi eNocoding, unobvumirana nemitemo nemamiriro aya. Kana usingabvumirani, ndapota usashandise webhusaiti nemasevhisi edu."
+     ]
+    },
+    {
+     "t": "2. Masevhisi",
+     "b": [
+      "Nocoding inovaka mawebhusaiti epotifoliyo kana CV, mapeji ekusvika nemaprofile emakambani, masisitimu eruzivo nemabasa, uye kuita hurongwa hwebhizinesi pachawo (automation). Huwandu hwebasa, maficha, chirongwa chenguva nemitengo zvinobvumiranwa newe neWhatsApp kana email basa risati ratanga.",
+      "Kurudziro inogara isina muripo, chero painodikanwa newe, uye hairovedzi kuti uodhe."
+     ]
+    },
+    {
+     "t": "3. Mapakeji nemitengo",
+     "b": [
+      "- Pakeji diki: kubva paRp 500.000 pagore, kusanganisira kuchengetwa kwemahara nedomain kwegore rimwe.",
+      "- Pakeji hombe: kubva paRp 2.000.000 pagore, kusanganisira kuchengetwa kwemahara nehosting kwegore rimwe.",
+      "Mitengo iri pawebhusaiti ndiyo yekutanga. Mari yekupedzisira inobvumiranwa mushure mekurudziro, zvichibva pane zvaunoda. Kune vashanyi vari kunze kweIndonesia, mitengo inoratidzwa mumari yemuno sekufungidzira zvichibva pamutengo wekuchinjana wezuva nezuva; mari yeRupiah yatabvumirana ndiyo inoshanda. Mitengo yekuwedzera, senge maficha ekuwedzera kana kuvandudza gare gare mushure mekunge nguva yemahara yapera, unoudzwa basa risati raitwa."
+     ]
+    },
+    {
+     "t": "4. Maitiro ebasa nemabasa ako",
+     "b": [
+      "Dhizaini inoongororwa nekubvumirwa newe kugadzirwa kusati kwaitwa. Zvinogadziridzwa zvinoitwa sezvakabvumiranwa.",
+      "Une basa rekupa zvinhu (logo, zvinyorwa, mafoto, dhata) panguva uye kuve nekodzero yekuzvishandisa. Kunonoka kwezvinhu kana mhinduro kunogona kukanganisa chirongwa chenguva."
+     ]
+    },
+    {
+     "t": "5. Kuchengeta",
+     "b": [
+      "Kuchengeta kwemahara kwegore rimwe kunosanganisira kugadzirisa zvikanganiso mubasa redu nekuvandudza kwakakosha kwekuchengetedza. Maficha matsva, shanduko huru dzedhizaini nebasa riri kunze kweibvumirano yekutanga zvinobhadharwa zvakasiyana."
+     ]
+    },
+    {
+     "t": "6. Kodzero dzepfungwa",
+     "b": [
+      "Zvinhu zvaunopa zvinoramba zviri zvako. Basa rakapedzwa rinopiwa iwe mushure mekunge mubhadharo wakabvumiranwa wapera. Nocoding inogona kuratidza basa riri kushanda sezvienzaniso mupotifoliyo yayo, kunze kwekunge wakukumbira nekunyora kuti risaratidzwe.",
+      "Dhizaini, zvinyorwa nezvinyorwa zvakareba zviri pa nocoding.web.id ndezveNocoding. Unogona kuparadzira malink azvo, asi haubvumirwi kuzvikopa nekuzvishandisa pakutengesa pasina mvumo. Mafoto ezvinyorwa anobva kuUnsplash uye anotevera rezinesi yayo; sosi inonyorwa pasi pefoto rimwe nerimwe."
+     ]
+    },
+    {
+     "t": "7. Mitauro yewebhusaiti",
+     "b": [
+      "Webhusaiti iyi inowanikwa mumitauro yakawanda. Shanduro, kunyanya dzemitauro ine vanotaura vashoma, dzinogona kusakwana. Kana dzikasiyana mukureva, shanduro yechiIndonesia ndiyo inoshanda. Mapeji emutemo aya anowanikwa muchiIndonesia nechiNgezi."
+     ]
+    },
+    {
+     "t": "8. Miganhu yemutoro",
+     "b": [
+      "Tinoshanda kuti tipe mhedzisiro yakanaka, asi hativimbisi mhedzisiro chaiyo yebhizinesi senge kuiswa mukutsvaga, huwandu hwevashanyi kana kutengesa. Hatitakure mutoro pamusoro pekukanganiswa kunobva kuvamwe vapati vemasevhisi senge vanopa hosting, domain kana mubhadharo, kana pamusoro pekurasikirwa kusiri kwakananga.",
+      "Mutoro wedu pamusoro pesevhisi hwunogumira kumari yawakabhadhara pasevhisi iyoyo, sezvinotenderwa nemutemo. Izvi hazvidzivisi kodzero dzako dzinochengetedzwa nemutemo."
+     ]
+    },
+    {
+     "t": "9. Mutemo unoshanda",
+     "b": [
+      "Mitemo iyi inotongwa nemitemo yeRepublic of Indonesia. Kana pakamuka kupokana, tinotanga kuyedza kuzvigadzirisa nekutaura. Kana kubvumirana kusingawanikwi, kupokana kunogadziriswa nematare ane masimba kuIndonesia."
+     ]
+    },
+    {
+     "t": "10. Shanduko nekubata",
+     "b": [
+      "Mitemo iyi inogona kugadziridzwa panguva nenguva; zuva rekugadziridzwa kwekupedzisira rinoratidzwa kumusoro kwepeji. Mibvunzo inogona kutumirwa ku nocodingindonesia@gmail.com kana WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Mutemo weMakuki",
+   "description": "Makuki nekuchengetedza kwemuno zvinoshandiswa newebhusaiti yeNocoding, zvinoshandiswa, uye maitiro ekuzvitungamirira.",
+   "sections": [
+    {
+     "t": "1. Makuki chii",
+     "b": [
+      "Makuki mafaera madiki anochengetwa newebhusaiti mubrowser yako. Kuchengetedza kwemuno (local storage) nekwesessiyoni (session storage) kunoshanda zvakafanana asi hazvitumirwi pachazvo kuseva. Papeji iyi tinozviti makuki."
+     ]
+    },
+    {
+     "t": "2. Zvinodikanwa kuti webhusaiti ishande",
+     "b": [
+      "Zvinochengetwa mubrowser yako uye hazvitumirwi kumaseva edu:",
+      "- nocoding-language ne nocoding-language-set: mutauro waunosarudza kana wakaonekwa kubva mubrowser yako.",
+      "- nocoding-pricing (sessiyoni): mari inofungidzirwa nemutengo wekuchinjana kuitira kuti mitengo isaverengwazve papeji rega rega.",
+      "- Zviratidzo zvechinyorwa: kuti wakatonakidzwa, wakatoona kana wakatoparadzira chinyorwa, kuitira kuti huwandu husapetwa.",
+      "- Chiratidzo chenguva pfupi chekwakasvika pakutsvedza paunoenda kune dzimwe nzvimbo dzewebhusaiti."
+     ]
+    },
+    {
+     "t": "3. Kuongorora",
+     "b": [
+      "Kana dzakasarudzwa, masevhisi maviri ekuongorora anotakurwa mushure mekunge wagadzirana nepeji (kutsvedza, kubata kana kudzvanya kiyi):",
+      "- Google Analytics 4 (makuki senge _ga ne _ga_*, anoshanda kusvika pamakore maviri): huwandu hwekushanyira.",
+      "- Microsoft Clarity (makuki senge _clck, _clsk, CLID ne MUID, anoshanda kusvika pagore rimwe): mapu eushushu nemarekodhi ekuita pasina kuzivikanwa kwemunhu.",
+      "Vanopa CDN nekuchengetedzwa vanogonawo kuisa makuki ehunyanzvi kuchengetedza webhusaiti pakufamba kunokuvadza."
+     ]
+    },
+    {
+     "t": "4. Maitiro ekutungamirira makuki",
+     "b": [
+      "Unogona kubvisa kana kuvharira makuki mumarongero ebrowser yako. Unogonawo kuisa add-on yepamutemo yeGoogle yekusabvuma kweGoogle Analytics. Kana makuki ekuongorora akavharirwa, webhusaiti inoramba ichishanda; kana kuchengetedza kwemuno kwabviswa, sarudzo yako yemutauro inodzokera kune yeyakajairika."
+     ]
+    },
+    {
+     "t": "5. Mibvunzo",
+     "b": [
+      "Pamibvunzo pamusoro pemutemo uyu, batai nocodingindonesia@gmail.com. Maitiro ekushandiswa kwedhata yega anotsanangurwa zvakare muMutemo Wekuvanzika. Kana mitauro ikasiyana mukureva, shanduro yechiIndonesia ndiyo inoshanda."
+     ]
+    }
+   ]
+  }
+ }
+}

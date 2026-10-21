@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Vyavuguruwe ubwa nyuma",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Politiki y'Ibanga",
+   "description": "Amakuru Nocoding ikusanya, icatumye akoreshwa, abayakoraho n'uburenganzira ufise ku makuru yawe bwite.",
+   "sections": [
+    {
+     "t": "1. Abo turi bo",
+     "b": [
+      "Nocoding (nocoding.web.id) ni serivisi y'imbuga, porogaramu, sisitemu z'amakuru na automatisation iyoborwa na Abid Hanan Wicaksono muri Indoneziya. Iyi politiki isigura uko dufata amakuru yawe bwite igihe usuye uru rubuga canke utwandikiye.",
+      "Ibibazo bijanye n'iyi politiki urashobora kubitumira kuri nocodingindonesia@gmail.com canke kuri WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Amakuru dukusanya",
+     "b": [
+      "- Amakuru uduha: izina ryawe, inomero ya WhatsApp, imeri n'ibisigura vy'umugambi wawe igihe utwandikiye kuri WhatsApp canke imeri. Uru rubuga nta konte z'abakoresha canke fomu zo kwiyandikisha rufise.",
+      "- Amakuru ya tekiniki akorwako mu buryo bwikora: aderese ya IP, ubwoko bw'igikoresho na navigateri, n'impapuro ufungura. Abatanga hosting na CDN barayakoraho kugira urubuga rukore kandi rurindwe ibikorwa bibi.",
+      "- Igihugu c'ikigereranyo: kugira ngo ibiciro bigaragare mu mafaranga y'iwanyu, igihugu cawe kigereranywa hakoreshejwe amakuru ya CDN canke ururimi rwa navigateri yawe. Ntitukibika kuri seriveri zacu.",
+      "- Amakuru y'ibarurishamibare: Google Analytics 4 na Microsoft Clarity (igihe vyashizweho) bikusanya imibare y'ukuntu urubuga rukoreshwa nk'impapuro zafunguwe, igihe umaze, ubwoko bw'igikoresho n'amajwi canke amashusho atagaragaza uwo uri we y'ukuntu ukoresha urubuga. Bitangura gukora gusa nyuma yo gukora ikintu ku rupapuro.",
+      "- Ububiko bwa navigateri: ururimi wahisemwo, ibimenyetso vy'uko umaze gukunda, kubona canke gusangiza inkuru, n'ikigereranyo c'igiciro c'igihe gitoyi. Ibisigura birambuye biri muri Politiki ya Cookie.",
+      "- Umubare w'abarebye, abakunze n'abasangije inkuru ubikwa nk'imibare rusangi, nta kimenyetso kigaragaza uwasuye."
+     ]
+    },
+    {
+     "t": "3. Icatumye amakuru akoreshwa",
+     "b": [
+      "- Gusubiza ibibazo vyawe, gutegura ibiciro no gukora umugambi wawe.",
+      "- Gutanga urubuga, kururinda no kurugumana umuvuduko.",
+      "- Gusobanukirwa ukuntu urubuga rukoreshwa kugira ngo turusheho kurutunganya.",
+      "- Kubahiriza ivyo amategeko adusaba.",
+      "Ntitugurisha amakuru yawe bwite."
+     ]
+    },
+    {
+     "t": "4. Abandi bagira uruhara",
+     "b": [
+      "- Vercel: hosting no gutanga urubuga.",
+      "- Cloudflare: CDN n'umutekano.",
+      "- Google (Google Analytics 4) na Microsoft (Clarity): imibare y'ukuntu urubuga rukoreshwa.",
+      "- Meta (WhatsApp) na Google (Gmail): igihe utwandikiye unyuze ku miyoboro ya WhatsApp canke imeri iri kuri uru rubuga.",
+      "- Utanga ibiciro vy'ivunjisha: yakira gusa ibisabwa vy'ibiciro biva kuri seriveri yacu, nta makuru y'abasuye.",
+      "Aba batanga serivisi bashobora gukora kuri ayo makuru hanze ya Indoneziya hakurikijwe politiki zabo."
+     ]
+    },
+    {
+     "t": "5. Igihe amakuru abikwa",
+     "b": [
+      "Ibiganiro n'inyandiko z'umugambi bibikwa igihe cose bikenewe kugira serivisi ikorwe, hatangwe ubufasha kandi hubahirizwe ivyo amategeko asaba, hanyuma bigasibwa canke bigahindurwa ku buryo nta n'umwe amenyekana. Amakuru y'ibarurishamibare akurikiza igihe c'ukubika cashizweho n'uyatanga. Amakuru ari muri navigateri yawe aguma aho gushika uyasibye."
+     ]
+    },
+    {
+     "t": "6. Uburenganzira bwawe",
+     "b": [
+      "Hakurikijwe Itegeko rya Indoneziya No. 27 ryo mu 2022 rijanye no Kurinda Amakuru Bwite, ufise uburenganzira bwo:",
+      "- kumenya no guhabwa kopi y'amakuru yawe bwite dufise;",
+      "- gusaba ko amakuru atariyo ashingurwa;",
+      "- gusaba ko amakuru yawe asibwa canke gukuraho uruhusha wari warahaye;",
+      "- kwanka ko amakuru akorwako mu buryo bumwebumwe.",
+      "Tuma icifuzo cawe kuri nocodingindonesia@gmail.com. Tuzogusubiza mu gihe gikwiye."
+     ]
+    },
+    {
+     "t": "7. Umutekano n'abana",
+     "b": [
+      "Uru rubuga rukoresha HTTPS kandi kugera ku makuru y'umugambi biragenzurwa. Nta buryo bwo kuvyohereza canke kubika amakuru butagira ingorane n'imwe, ku bw'ivyo ntidushobora kwemeza umutekano wuzuye.",
+      "Serivisi zacu zagenewe abantu bafise imyaka 18 canke irenga. Ntitugamije gukusanya amakuru bwite y'abana."
+     ]
+    },
+    {
+     "t": "8. Ivyahindutse kuri iyi politiki",
+     "b": [
+      "Iyi politiki irashobora kuvugururwa rimwe na rimwe. Itariki y'ivugurura rya nyuma iragaragara hejuru y'urupapuro. Igihe indimi zitandukanye mu bisigura, hakurikizwa verisiyo y'Ikinyendoneziya."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Amabwirizwa n'Amategeko",
+   "description": "Amabwirizwa yo gukoresha urubuga na serivisi za Nocoding: paki, ibiciro, ukuntu akazi gakorwa, umutungo wo mu bwenge n'imbibi z'inshingano.",
+   "sections": [
+    {
+     "t": "1. Kwemera ayo mabwirizwa",
+     "b": [
+      "Igihe ufunguye uru rubuga canke ukoresheje serivisi za Nocoding, uba wemeye ayo mabwirizwa n'amategeko. Nimba utayemera, ntukoreshe urubuga canke serivisi zacu."
+     ]
+    },
+    {
+     "t": "2. Serivisi",
+     "b": [
+      "Nocoding yubaka imbuga za portfolio canke CV, impapuro za landing page na profil z'ibigo, sisitemu z'amakuru n'imikorere, na automatisation y'imikorere y'ubucuruzi. Ivyo akazi gakubiyemwo, ibikoresho, gahunda n'ikiguzi vyumvikanwako nawe kuri WhatsApp canke imeri imbere y'uko akazi gatangura.",
+      "Inama ni ubuntu igihe cose, igihe uyikeneye, kandi ntikugomba gutumiza."
+     ]
+    },
+    {
+     "t": "3. Paki n'ibiciro",
+     "b": [
+      "- Paki nto: kuva kuri Rp 500,000 ku mwaka, harimwo kubungabunga ku buntu na domaine mu mwaka 1.",
+      "- Paki nini: kuva kuri Rp 2,000,000 ku mwaka, harimwo kubungabunga ku buntu na hosting mu mwaka 1.",
+      "Ibiciro biri ku rubuga ni ibiciro vy'itanguriro. Amafaranga ya nyuma yumvikanwako nyuma y'inama, hashingiwe ku vyo ukeneye. Ku basuye baturuka hanze ya Indoneziya, ibiciro bigaragazwa mu mafaranga y'iwabo nk'ikigereranyo gishingiye ku gipimo c'ivunjisha ca buri musi; amafaranga mu mirupiya twumvikanyeko ni yo akurikizwa. Ibiciro vy'inyongera, nko kongeraho ibindi bikoresho canke kuvugurura nyuma y'uko igihe c'ubuntu kirangiye, uramenyeshwa imbere y'uko akazi gakorwa."
+     ]
+    },
+    {
+     "t": "4. Ukuntu akazi gakorwa n'inshingano zawe",
+     "b": [
+      "Igishushanyo gisuzumwa kandi cemezwa nawe imbere yo gukora. Ivugurura rikorwa nk'uko twabivyumvikanyeko.",
+      "Ufise inshingano yo gutanga ibikoresho (ikirango, inyandiko, amafoto, amakuru) ku gihe no kuba ufise uburenganzira bwo kubikoresha. Gutinda gutanga ibikoresho canke ibitekerezo bishobora guhindura gahunda."
+     ]
+    },
+    {
+     "t": "5. Kubungabunga",
+     "b": [
+      "Kubungabunga ku buntu mu mwaka 1 bikubiyemwo gukosora amakosa y'akazi kacu n'ivugurura ry'ibanze ry'umutekano. Ibikoresho bishasha, impinduka nini z'igishushanyo n'akazi kari hanze y'amasezerano ya mbere vyishyurwa ukwavyo."
+     ]
+    },
+    {
+     "t": "6. Umutungo wo mu bwenge",
+     "b": [
+      "Ibikoresho utanga bikomeza kuba ivyawe. Akazi karangiye gahabwa nyuma yo kurangiza kwishura nk'uko twabivyumvikanyeko. Nocoding irashobora kwerekana imirimo yakoze nk'ingero muri portfolio yayo, keretse usavye mu nyandiko ko itagaragazwa.",
+      "Igishushanyo, inyandiko n'inkuru biri kuri nocoding.web.id ni ivya Nocoding. Urashobora gusangiza imiyoboro yazo, ariko ntushobora kuzigana ngo uzikoreshe mu bucuruzi nta ruhusha. Amafoto y'inkuru aturuka kuri Unsplash kandi akurikiza uruhusha rwayo; inkomoko yerekanwa munsi ya buri foto."
+     ]
+    },
+    {
+     "t": "7. Indimi z'urubuga",
+     "b": [
+      "Uru rubuga ruboneka mu ndimi nyinshi. Ivyahinduwe, cane cane mu ndimi zivugwa n'abantu bake, birashobora kutaba vyuzuye neza. Igihe bitandukanye mu bisigura, hakurikizwa verisiyo y'Ikinyendoneziya. Izi mpapuro z'amategeko ziboneka mu Kinyendoneziya no mu Congereza."
+     ]
+    },
+    {
+     "t": "8. Imbibi z'inshingano",
+     "b": [
+      "Turakora kugira dutange ibisubizo vyiza, ariko ntitwizeza ivyovamwo mu bucuruzi nk'umwanya ku mashakiro, umubare w'abasuye canke ivyagurishijwe. Ntidufise inshingano ku bibazo biturutse ku bandi nka hosting, domaine canke abatanga serivisi zo kwishura, canke ku bihombo bitaziguye.",
+      "Inshingano yacu kuri serivisi ntishobora kurenga amafaranga wishuye kuri iyo serivisi, ku rugero itegeko ryemera. Ibi ntibigabanya uburenganzira ufise burinzwe n'itegeko."
+     ]
+    },
+    {
+     "t": "9. Amategeko akurikizwa",
+     "b": [
+      "Ayo mabwirizwa agengwa n'amategeko ya Repubulika ya Indoneziya. Igihe hagiye habaho amakimbirane, mbere na mbere turagerageza kuyakemura mu biganiro. Igihe nta bwumvikane bwabonetse, amakimbirane akemurwa n'inkiko zibifitiye ububasha muri Indoneziya."
+     ]
+    },
+    {
+     "t": "10. Impinduka n'uburyo bwo kuduhamagara",
+     "b": [
+      "Ayo mabwirizwa arashobora kuvugururwa rimwe na rimwe; itariki y'ivugurura rya nyuma iragaragara hejuru y'urupapuro. Ibibazo urashobora kubitumira kuri nocodingindonesia@gmail.com canke kuri WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Politiki ya Cookie",
+   "description": "Cookie n'ububiko bwo ku gikoresho (local storage) urubuga rwa Nocoding rukoresha, ico bukora n'ukuntu wobuyobora.",
+   "sections": [
+    {
+     "t": "1. Cookie ni iki",
+     "b": [
+      "Cookie ni dosiye nto urubuga rubika muri navigateri yawe. Local storage na session storage bikora kimwe ariko ntibijanwa kuri seriveri mu buryo bwikora. Kuri uru rupapuro tubita vyose cookie."
+     ]
+    },
+    {
+     "t": "2. Ivyo urubuga rukeneye kugira rukore",
+     "b": [
+      "Bibikwa muri navigateri yawe kandi ntibijanwa kuri seriveri zacu:",
+      "- nocoding-language na nocoding-language-set: ururimi wahisemwo canke rwamenyekanye muri navigateri yawe.",
+      "- nocoding-pricing (session): ifaranga ryagereranijwe n'igipimo caryo, kugira ngo ibiciro bidakorwa buri gihe kuri buri rupapuro.",
+      "- Ibimenyetso vy'inkuru: nimba umaze gukunda, kubona canke gusangiza inkuru, kugira ngo imibare idakubwa kabiri.",
+      "- Ikimenyetso c'igihe gitoyi c'aho wari ugeze usoma igihe uva mu gice kimwe c'urubuga ujya mu kindi."
+     ]
+    },
+    {
+     "t": "3. Ibarurishamibare",
+     "b": [
+      "Igihe vyashizweho, serivisi zibiri z'ibarurishamibare zitangura gukora nyuma yo gukora ikintu ku rupapuro (kururuka, gukoraho canke gukanda urufunguzo):",
+      "- Google Analytics 4 (cookie nka _ga na _ga_*, zimara igihe gishika ku myaka 2): imibare y'ubusuzi.",
+      "- Microsoft Clarity (cookie nka _clck, _clsk, CLID na MUID, zimara igihe gishika ku mwaka 1): heatmap n'amajwi canke amashusho atagaragaza uwo uri we y'ukuntu ukoresha urubuga.",
+      "Abatanga CDN n'umutekano na bo bashobora gushiraho cookie za tekiniki zo kurinda urubuga urujya n'uruza rwononera."
+     ]
+    },
+    {
+     "t": "4. Ukuntu wobuyobora cookie",
+     "b": [
+      "Urashobora gusiba canke guhagarika cookie mu igenamiterere rya navigateri yawe. Urashobora kandi gushiraho add-on yemewe ya Google yo kwanka Google Analytics. Nimba cookie z'ibarurishamibare zahagaritswe, urubuga rukomeza gukora; nimba local storage yasibwe, ururimi wahisemwo ruzasubira ku rwa mbere."
+     ]
+    },
+    {
+     "t": "5. Ibibazo",
+     "b": [
+      "Ku bibazo bijanye n'iyi politiki, tuvugishe kuri nocodingindonesia@gmail.com. Ukuntu amakuru bwite akoreshwa visigurwa neza muri Politiki y'Ibanga. Igihe indimi zitandukanye mu bisigura, hakurikizwa verisiyo y'Ikinyendoneziya."
+     ]
+    }
+   ]
+  }
+ }
+}

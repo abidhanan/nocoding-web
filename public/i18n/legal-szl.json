@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Ostatnio zaktualizowane",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Polityka prywatności",
+   "description": "Jake dane zbiyro Nocoding, na co sie jich używo, kto je przetworzo i jake mosz prawa do swojich danych osobowych.",
+   "sections": [
+    {
+     "t": "1. Kim żeśmy",
+     "b": [
+      "Nocoding (nocoding.web.id) to usługa tworzynio stron internetowych, aplikacyji, systymów informacyjnych i automatyzacyji, kero prowadzi Abid Hanan Wicaksono w Indonezji. Ta polityka tłumaczy, jak postympujymy ze twojimi danymi osobowymi, gdy ôdwiydzosz tã strōnã abo sie ze nami kōntaktujesz.",
+      "Pytania ô tã politykã szło wysłać na nocodingindonesia@gmail.com abo na WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Dane, kere zbiyrymy",
+     "b": [
+      "- Dane, kere nōm podowosz sōm: miano, numer WhatsApp, e-mejl i ôpis twojigo projektu, gdy sie ze nami kōntaktujesz bez WhatsApp abo e-mejl. Ta strōna niy mŏ kōnt użytkowników ani formularzy rejestracyji.",
+      "- Dane techniczne przetwarzane automatycznie: adres IP, typ urzōndzynio i przeglōndarki ôraz ôtwarte strōny. Przetwarzajōm je nasze firmy od hostingu i CDN, coby ôbsługiwać strōnã i chrōnić jã przed nadużyciami.",
+      "- Przibliżony kraj: coby ceny były pokazowane we twojij walucie, twōj kraj je szacowany na zasadzie informacyji z CDN abo jynzyka twojij przeglōndarki. Niy zapisujymy go na naszych serwerach.",
+      "- Dane analityczne: Google Analytics 4 i Microsoft Clarity (jeżeli sōm włōnczōne) zbiyrajōm statystyki używanio, jak ôtwarte strōny, czas wizyty, typ urzōndzynio i anōnimowe nagrania interakcyji. Ładujōm sie dopiyro po tym, jak ze strōnōm wejdziesz w interakcyjã.",
+      "- Pamiyńć przeglōndarki: twōj wybōr jynzyka, znaczniki, że żeś już artykuł polajkowoł, ôbejrzoł abo udostympnił, i tymczasowo ôszacowanie ceny. Szczegōły sōm we Polityce plikōw cookie.",
+      "- Liczby ôbejrzyń, polajkowań i udostympnień artykułōw sōm zapisowane jako zbiorcze liczby, bez tożsamości ôdwiydzojōncego."
+     ]
+    },
+    {
+     "t": "3. Na co dane sōm używane",
+     "b": [
+      "- Ôdpowiadanie na twoje pytania, przigotowywanie ôfert i realizowanie twojigo projektu.",
+      "- Ôbsługiwanie, zabezpieczanie i utrzimowanie szybkości strōny.",
+      "- Rozumiynie, jak strōna je używano, coby jã poprawiać.",
+      "- Spełnianie obowiōnzkōw prawnych.",
+      "Niy sprzedowomy twojich danych osobowych."
+     ]
+    },
+    {
+     "t": "4. Strōny trzecie, kere sōm zaangażowane",
+     "b": [
+      "- Vercel: hosting i ôbsługa strōny.",
+      "- Cloudflare: CDN i bezpieczyństwo.",
+      "- Google (Google Analytics 4) i Microsoft (Clarity): statystyki używanio strōny.",
+      "- Meta (WhatsApp) i Google (Gmail): gdy sie ze nami kōntaktujesz bez linki do WhatsApp abo e-mejlu na tyj strōnie.",
+      "- Dostawca kursōw walut: dostowo ino zapytania ô kursy z naszego serwera, a niy dane ôdwiydzojōncych.",
+      "Ci dostawcy mogōm przetwarzać dane poza Indonezjōm podle swojich polityk."
+     ]
+    },
+    {
+     "t": "5. Jak dugo dane sōm przechowywane",
+     "b": [
+      "Rozmowy i materiały projektu sōm przechowywane tak dugo, jak je potrzeba do prowadzynio usługi, udzielanio wsparcio i spełnianio obowiōnzkōw prawnych, potym sōm kasowane abo anōnimizowane. Dane analityczne podlygajōm ustawiyniom przechowywanio ich dostawcy. Dane we twojij przeglōndarce ôstowajōm, dopōki ich niy skasujesz."
+     ]
+    },
+    {
+     "t": "6. Twoje prawa",
+     "b": [
+      "Na podstawie indōnezyjskij Ustawy nr 27 z 2022 roku ô ôchronie danych osobowych mosz prawo do:",
+      "- poznanio i ôtrzimanio kopije danych osobowych, kere ô tobie mamy;",
+      "- żōdanio sprostowanio niydokładnych danych;",
+      "- żōdanio usunyncio twojich danych abo ôdwołanio zgody;",
+      "- sprzeciwu wobec niykerego przetwarzanio.",
+      "Wyślij swojã prośbã na nocodingindonesia@gmail.com. Ôdpowiymy w rozsōndnym czasie."
+     ]
+    },
+    {
+     "t": "7. Bezpieczyństwo i dzieci",
+     "b": [
+      "Ta strōna używo HTTPS, a dostymp do danych projektu je ôgraniczōny. Żŏdyn sposōb przesyłanio abo przechowywanio danych niy je cołkiym bez ryzyka, dlatego niy możymy gwarantować absolutnego bezpieczyństwa.",
+      "Nasze usługi sōm przeznaczōne dlŏ ludzi we wieku 18 lat i wiyncyj. Niy zbiyrymy świadōmie danych osobowych dzieci."
+     ]
+    },
+    {
+     "t": "8. Zmiany we tyj polityce",
+     "b": [
+      "Ta polityka może być ôd czasu do czasu aktualizowano. Data ostatnij aktualizacyje je pokazano na samyj gōrze strōny. Jak jynzyki sie różniōm znaczyniym, ôbowiōnzuje wersyjo indōnezyjskŏ."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Regulamin",
+   "description": "Zasady używanio strōny i usług Nocoding: pakiety, ceny, sposōb pracy, własność intelektualno i ôgraniczynia ôdpowiedzialności.",
+   "sections": [
+    {
+     "t": "1. Przijyńcie warōnkōw",
+     "b": [
+      "Ôtwiyrajōnc tã strōnã abo korzystajōnc z usług Nocoding, zgodzosz sie na ten regulamin. Jak sie niy zgodzosz, prosimy niy używać naszyj strōny ani usług."
+     ]
+    },
+    {
+     "t": "2. Usługi",
+     "b": [
+      "Nocoding robi strōny portfolio abo CV, strōny docelowe i profile firmowe, systymy informacyjne i ôperacyjne ôraz automatyzacyjã procesōw biznesowych. Zakres prac, funkcyje, harmōnogram i koszty sōm uzgodnione ze tobōm bez WhatsApp abo e-mejl przed rozpoczyńciym prac.",
+      "Konsultacyjo je zawsze darmowo, kej jōm potrzebujesz, i niy zobowiōnzuje cie do zōmōwiynio."
+     ]
+    },
+    {
+     "t": "3. Pakiety i ceny",
+     "b": [
+      "- Mały pakiet: ôd Rp 500.000 na rok, w tym darmowe utrzimanie i domyna na 1 rok.",
+      "- Wielki pakiet: ôd Rp 2.000.000 na rok, w tym darmowe utrzimanie i hosting na 1 rok.",
+      "Ceny na strōnie sōm cenami wyjściowymi. Ôstateczno kwota je uzgodniano po konsultacyji, na podstawie twojich potrzeb. Dlŏ ôdwiydzojōncych spoza Indonezyji ceny sōm pokazowane we miyjscowyj walucie jako szacunek ôparty na dziynnym kursie wymiany; obowiōnzuje kwota we rupiach, kerŏ żeśmy uzgodnili. Dodatkowe koszty, jak dodatkowe funkcyje abo ôdnowiynie po zakōńczyniu darmowego ôkresu, sōm ôgłoszane ci przed wykōnaniym prac."
+     ]
+    },
+    {
+     "t": "4. Sposōb pracy i twoje ôbowiōnzki",
+     "b": [
+      "Projekt je ôceniany i zatwierdzany ze tobōm przed produkcyjōm. Poprawki sōm robione tak, jak uzgodniōne.",
+      "Ôdpowiadosz za dostarczynie materiałōw (logo, tekst, zdjyńcia, dane) na czas i za to, że mosz prawo je używać. Opōźniynia materiałōw abo uwag mogōm wpłynōńć na harmōnogram."
+     ]
+    },
+    {
+     "t": "5. Utrzimanie",
+     "b": [
+      "Darmowe utrzimanie na 1 rok ôbejmuje naprawã błyndōw we naszyj robocie i podstawowe aktualizacyje bezpieczyństwa. Nowe funkcyje, wiynkszy zmiany projektu i prace poza pierwotnōm umowōm sōm płatne ôsobno."
+     ]
+    },
+    {
+     "t": "6. Własność intelektualno",
+     "b": [
+      "Materiały, kere dostarczosz, ôstowajōm twoje. Gotowo praca je ci przekozano, gdy uzgodniono płatność je cołkym uiszczōno. Nocoding może pokazować działajōnce prace jako przikłady we swoim portfolio, chyba że poprosisz piśmiynnie ô ich niypokazowanie.",
+      "Projekt, teksty i artykuły na nocoding.web.id sōm własnościōm Nocoding. Możesz udostympniać linki do nich, ale niy wolno ci ich kopiować i używać komercyjnie bez zgody. Zdjyńcia do artykułōw pochodzōm z Unsplash i podlygajōm jego licencyji; źródło je podane pod kożdym zdjyńciym."
+     ]
+    },
+    {
+     "t": "7. Jynzyki strōny",
+     "b": [
+      "Ta strōna je dostympno we wielu jynzykach. Tłumaczynia, zwłaszcza na jynzyki ze mynij ôsōb, kere ich używajōm, mogōm niy być idealne. Jak sie różniōm znaczyniym, ôbowiōnzuje wersyjo indōnezyjskŏ. Te strōny prawne sōm dostympne po indōnezyjsku i angielsku."
+     ]
+    },
+    {
+     "t": "8. Ôgraniczynia ôdpowiedzialności",
+     "b": [
+      "Staromy sie dować dobre wyniki, ale niy ôbiecujymy konkretnych wynikōw biznesowych, jak pozycyje w wyszukiwarce, liczba ôdwiydzojōncych abo sprzedaż. Niy ôdpowiadomy za zakłōcynia ze strōny osōb trzecich, jak dostawcy hostingu, domyn abo płatności, ani za straty pośrednie.",
+      "Nasza ôdpowiedzialność za usługã je ôgraniczōno do kwoty, kerŏ żeś zapłaciōł za tã usługã, w zakresie dozwolōnym bez prawo. To niy ôgranicza twojich praw chrōnionych bez prawo."
+     ]
+    },
+    {
+     "t": "9. Prawo włōściwe",
+     "b": [
+      "Ten regulamin podlygo prawu Republiki Indonezyji. Jak powstanie spōr, nojpiyrw próbujymy go zołatwić w rozmowie. Jak niy dojdzie do porozumiynio, spōr rozstrzygajōm włōściwe sōndy w Indonezyji."
+     ]
+    },
+    {
+     "t": "10. Zmiany i kōntakt",
+     "b": [
+      "Ten regulamin może być ôd czasu do czasu aktualizowany; data ostatnij aktualizacyje je pokazano na samyj gōrze strōny. Pytania szło wysłać na nocodingindonesia@gmail.com abo na WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Polityka plikōw cookie",
+   "description": "Pliki cookie i pamiyńć lokalno, kere używo strōna Nocoding, na co sōm i jak nimi zarzōndzać.",
+   "sections": [
+    {
+     "t": "1. Czym sōm pliki cookie",
+     "b": [
+      "Cookie to małe pliki, kere strōna zapisuje we twojij przeglōndarce. Pamiyńć lokalno (local storage) i pamiyńć sesyje (session storage) działajōm podobnie, ale niy sōm automatycznie wysyłane na serwer. Na tyj strōnie nazywomy je wszyjskie cookie."
+     ]
+    },
+    {
+     "t": "2. Co je potrzebne, coby strōna działała",
+     "b": [
+      "Zapisowane we twojij przeglōndarce i niy wysyłane na nasze serwery:",
+      "- nocoding-language i nocoding-language-set: jynzyk, kery żeś wybrōł abo kery wykryto we twojij przeglōndarce.",
+      "- nocoding-pricing (sesyjo): ôszacowano waluta i kurs, coby ceny niy były liczōne ôd nowa na kożdyj strōnie.",
+      "- Znaczniki artykułōw: czy żeś już artykuł polajkowoł, ôbejrzoł abo udostympnił, coby liczby sie niy podwajoły.",
+      "- Tymczasowy znacznik pozycyje przewijanio przi przechodzyniu miyndzy czyńściami strōny."
+     ]
+    },
+    {
+     "t": "3. Analityka",
+     "b": [
+      "Jak sōm włōnczōne, dwie usługi analityczne ładujōm sie po tym, jak ze strōnōm wejdziesz w interakcyjã (przewiniesz, dotkniesz abo naciśniesz klawisz):",
+      "- Google Analytics 4 (cookie take jak _ga i _ga_*, ważne do ôkoło 2 lat): statystyki wizyt.",
+      "- Microsoft Clarity (cookie take jak _clck, _clsk, CLID i MUID, ważne do ôkoło 1 roku): mapy cieplne i anōnimowe nagrania interakcyji.",
+      "Dostawcy CDN i bezpieczyństwa mogōm tyż ustawiać cookie techniczne, coby chrōnić strōnã przed szkodliwym ruchym."
+     ]
+    },
+    {
+     "t": "4. Jak zarzōndzać cookie",
+     "b": [
+      "Cookie szło usuwać abo blokować we ustawiyniach przeglōndarki. Szło tyż zainstalować ôficjalny dodatek Google do wyłōnczynio Google Analytics. Jak cookie analityczne sōm zablokowane, strōna dalij działo; jak pamiyńć lokalno je wyczyszczōno, twōj wybōr jynzyka wraco do domyślnego."
+     ]
+    },
+    {
+     "t": "5. Pytania",
+     "b": [
+      "We sprawie pytań ô tã politykã skōntaktuj sie ze nocodingindonesia@gmail.com. To, jak dane osobowe sōm używane, je dalij wytłumaczōne we Polityce prywatności. Jak jynzyki sie różniōm znaczyniym, ôbowiōnzuje wersyjo indōnezyjskŏ."
+     ]
+    }
+   ]
+  }
+ }
+}

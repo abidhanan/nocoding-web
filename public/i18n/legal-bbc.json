@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Pambaruan na parpudi",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Kebijakan Privasi",
+   "description": "Data aha na dipungka Nocoding, di aha dipangke, tung ise na mangurus, dohot hak muna tu data pribadi muna.",
+   "sections": [
+    {
+     "t": "1. Ise hami",
+     "b": [
+      "Nocoding (nocoding.web.id) ima jasa pambahenan website, aplikasi, sistem informasi, dohot otomasi na diurus ni Abid Hanan Wicaksono di Indonesia. Kebijakan on patorangkon songon dia hami mangurus data pribadi muna tingki ro hamu tu situs on manang manghubungi hami.",
+      "Patugason tu kebijakan on boi dipatuduhon tu nocodingindonesia@gmail.com manang WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data na dipungka hami",
+     "b": [
+      "- Data na dibahen hamu surang: goar, nomor WhatsApp, email, dohot panurirangan ni proyek muna tingki manghubungi hami marhite WhatsApp manang email. Situs on dang adong akun pangguna manang formulir pandaftaran.",
+      "- Data teknis na diproses sacara otomatis: alamat IP, jenis piranti dohot browser, sahat tu alaman na dibuka. Data on diproses ni penyedia hosting dohot CDN nami laho patuduhon situs on dohot mangaramoti sian panyalahgunaan.",
+      "- Pamukkaan negara: asa tubu hata arga i mata uang muna, negara muna dipamukka sian informasi CDN manang pangaturan hata ni browser. Dang hami paboa i server nami.",
+      "- Data analitik: Google Analytics 4 dohot Microsoft Clarity (molo aktif) mamungka statistik pamakean songon alaman na dibuka, lambungna kunjungan, jenis piranti, dohot rekaman interaksi na dang marnama. Sada ibana hape dipasurat sahat dung ro hamu mangulahon interaksi tu alaman.",
+      "- Panyimpanan di browser: pilihan hata muna, tanda na adong be hamu manghamham, mamereng, manang mambagi sada artikel, dohot pamukkaan arga sementara. Panurirangan na lengkap adong di Kebijakan Cookie.",
+      "- Jumlah dipereng, dihamham, dohot dibagi di artikel disimpan songon angka na tarsiapon, dang marnama pangunjung."
+     ]
+    },
+    {
+     "t": "3. Data on di aha dipangke",
+     "b": [
+      "- Mangalusi patugason, mangaramoti penawaran, dohot mangulahon proyek muna.",
+      "- Patuduhon, mangaramoti, dohot paroha situs on asa mabaor.",
+      "- Mangantusi songon dia situs on dipangke asa boi hami paharaphon.",
+      "- Mangulahon kewajiban hukum na marlaku.",
+      "Hami dang manggadis data pribadi muna."
+     ]
+    },
+    {
+     "t": "4. Pihak katolu na manumpak",
+     "b": [
+      "- Vercel: hosting dohot panuduhan situs.",
+      "- Cloudflare: CDN dohot kaamanan.",
+      "- Google (Google Analytics 4) dohot Microsoft (Clarity): statistik pamakean situs.",
+      "- Meta (WhatsApp) dohot Google (Gmail): tingki manghubungi hami marhite tautan WhatsApp manang email di situs on.",
+      "- Penyedia kurs mata uang: laos manean pangidoan kurs sian server nami, dang data pangunjung.",
+      "Penyedia i boi mangurus data di luat Indonesia sada tu kebijakan ni dongan i."
+     ]
+    },
+    {
+     "t": "5. Sadia leleng data disimpan",
+     "b": [
+      "Pangkobasan dohot materi proyek disimpan sadia lelengna na porlu laho mangulahon layanan, mangalehon dukungan, dohot mangulahon kewajiban hukum, dung i dipusarhon manang dibahen dang marnama. Data analitik manuruti pangaturan panyimpanan ni penyedianai. Data i browser muna tong adong sahat hamu mamusarhon."
+     ]
+    },
+    {
+     "t": "6. Hak muna",
+     "b": [
+      "Manuruti Uhum Nomor 27 Taon 2022 taringot tu Pandaraman Data Pribadi di Indonesia, adong hak muna laho:",
+      "- mangantusi dohot mangido salinan data pribadi muna na disimpan hami;",
+      "- mangido asa data na lilu dipasombuon;",
+      "- mangido asa data muna dipusarhon manang mamunjung parsetujuon muna;",
+      "- mangalehon pandapotan tu parulahon na tertentu.",
+      "Pasangaphon pangidoan muna tu nocodingindonesia@gmail.com. Hami mangalusi di tingki na hot."
+     ]
+    },
+    {
+     "t": "7. Kaamanan dohot anak-anak",
+     "b": [
+      "Situs on mamangke HTTPS dohot akses tu data proyek dihatop. Dang adong cara mangirim manang manyimpan data na lungun dang adong risikona, gabe hami dang boi mangalehon jaminan kaamanan na lungun.",
+      "Layanan nami laho tu pangguna na marumur 18 taon manang na leban. Hami dang mamungka data pribadi ni anak-anak sacara sengaja."
+     ]
+    },
+    {
+     "t": "8. Parubahan kebijakan",
+     "b": [
+      "Kebijakan on boi dipabaru sian tingki tu tingki. Ari pambaruan na parpudi tarbaen di ginjang ni alaman. Molo adong na so pada di hata, versi Hata Indonesia do na marlaku."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Sarat dohot Ketentuan",
+   "description": "Uhum pamakean situs dohot layanan Nocoding: paket, arga, songon dia parulahon, hak kekayaan intelektual, dohot hatopan tanggung jawab.",
+   "sections": [
+    {
+     "t": "1. Marsangap tu sarat",
+     "b": [
+      "Marhite mambukka situs on manang mamangke layanan Nocoding, marsijaloan hamu tu sarat dohot ketentuan on. Molo dang sarujut hamu, mansai hurang ni uli ulang pangke situs dohot layanan nami."
+     ]
+    },
+    {
+     "t": "2. Layanan",
+     "b": [
+      "Nocoding mambahen website portofolio manang CV, landing page dohot profil perusahaan, sistem informasi dohot operasional, dohot otomasi proses bisnis. Pambaritaan ni parulahon, fitur, jadwal, dohot biaya ditentuhon dohot hamu marhite WhatsApp manang email sian na so dipungka parulahon.",
+      "Konsultasi satongkin gratis, kapan pe na porlu hamu, dohot dang mangwajibhon hamu mangido."
+     ]
+    },
+    {
+     "t": "3. Paket dohot arga",
+     "b": [
+      "- Paket Poso: sian Rp 500.000 sataon, tarmasuk maintenance gratis dohot domain salelengna 1 taon.",
+      "- Paket Balga: sian Rp 2.000.000 sataon, tarmasuk maintenance gratis dohot hosting salelengna 1 taon.",
+      "Arga di situs ima arga pangunjungan. Nilai na parpudi disarujuhon dung konsultasi manuruti na porlu muna. Tu pangunjung sian luar Indonesia, arga ditampilhon i mata uang ni luat i songon pamukkaan na marhubungan tu kurs arian; na marlaku ima nilai rupiah na disarujuhon. Biaya tambahan, songon fitur tambahan manang pamarbaruan dung sae masa gratis, dipaboa tu hamu sian na so diulahon."
+     ]
+    },
+    {
+     "t": "4. Parulahon dohot tanggung jawab muna",
+     "b": [
+      "Rancangan dipareng dohot disarujuhon dohot hamu sian na so masuk produksi. Revisi diulahon songon na disarujuhon.",
+      "Hamu do na marnampuna mangalehon materi (logo, tekstu, poto, data) i tingki na tigor dohot manjamin na adong hak muna mamangkena. Pangaloan materi manang pangapulan boi mangaruhi jadwal."
+     ]
+    },
+    {
+     "t": "5. Maintenance",
+     "b": [
+      "Maintenance gratis salelengna 1 taon mamampat parbaikan hailion di ulaon nami dohot pambaruan kaamanan dasar. Fitur baru, parubahan balga di desain, dohot ulaon na di luar parsarujuan mula ditariphon sorang-sorang."
+     ]
+    },
+    {
+     "t": "6. Hak kekayaan intelektual",
+     "b": [
+      "Materi na dilehon hamu tong ma hape ni hamu. Ulaon na dung sae dipasahat tu hamu dung lunas pamayaran songon na disarujuhon. Nocoding boi mamereng karya na dung tayang songon sampel di portofolio, manang hamu mangido marsurat asa ulang ditampilhon.",
+      "Desain, tekstu, dohot artikel di nocoding.web.id ima hepeng ni Nocoding. Boi hamu mambagi tautanna, alai dang boi manyalin dohot mamangke sacara komersial dang adong ijin. Poto artikel sian Unsplash dohot manuruti lisensina; sumberna ditarsurat di toru ni poto."
+     ]
+    },
+    {
+     "t": "7. Hata situs",
+     "b": [
+      "Situs on adong di godang hata. Terjemahan, tarlumobi tu hata na otik panuturna, boi dang sampurna. Molo adong na so pada di hata, versi Hata Indonesia do na marlaku. Alaman hukum on adong di Hata Indonesia dohot Inggris."
+     ]
+    },
+    {
+     "t": "8. Hatopan tanggung jawab",
+     "b": [
+      "Hami marsiusahaon mangalehon hasil na uli, alai dang manjanjihon hasil bisnis na tertentu songon peringkat pancarian, jumlah pangunjung, manang pamodalan. Hami dang marnampuna di gangguan sian pihak katolu songon penyedia hosting, domain, manang pambayaran, manang di karugian na dang langsung.",
+      "Tanggung jawab nami tu sada layanan dihatop sasuai nilai na dung dibayar hamu tu layanan i, sahat na dipaingot ni hukum. Parsarujuan on dang mangurangi hak muna na dilindungi ni hukum."
+     ]
+    },
+    {
+     "t": "9. Hukum na marlaku",
+     "b": [
+      "Sarat on manuruti hukum Republik Indonesia. Molo adong parsalisihan, hami mamukka pasabar marhite parpadanan. Molo dang tubu parsarujuan, parsalisihan i disaluhon marhite pangadilan na marhuasa di Indonesia."
+     ]
+    },
+    {
+     "t": "10. Parubahan dohot kontak",
+     "b": [
+      "Sarat on boi dipabaru sian tingki tu tingki; ari pambaruan na parpudi tarbaen di ginjang ni alaman. Patugason boi dipatuduhon tu nocodingindonesia@gmail.com manang WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Kebijakan Cookie",
+   "description": "Cookie dohot panyimpanan lokal na dipangke situs Nocoding, di aha dipangke, dohot songon dia mangaturna.",
+   "sections": [
+    {
+     "t": "1. Aha do cookie",
+     "b": [
+      "Cookie ima berkas na poso na disimpan ni situs i browser muna. Panyimpanan lokal (local storage dohot session storage) marulaon songon i alai dang dipaima otomatis tu server. I alaman on, sandiri i tabadia cookie."
+     ]
+    },
+    {
+     "t": "2. Na porlu asa situs marulaon",
+     "b": [
+      "Disimpan i browser muna dohot dang dipatuduhon tu server nami:",
+      "- nocoding-language dohot nocoding-language-set: hata na dipillit hamu manang na tarbaen sian browser.",
+      "- nocoding-pricing (sesi): pamukkaan mata uang dohot kurs asa arga ulang ditaringot muli i sasada alaman.",
+      "- Tanda artikel: na dung hamu manghamham, mamereng, manang mambagi sada artikel, asa jumlah ulang marduali.",
+      "- Tanda posisi gulir sementara tingki mardalan sian sada bagian ni situs tu bagian na asing."
+     ]
+    },
+    {
+     "t": "3. Analitik",
+     "b": [
+      "Molo diaktifhon, dua layanan analitik dipasurat dung ro hamu mangulahon interaksi tu alaman (manggulir, manoktok, manang mandorong tombol):",
+      "- Google Analytics 4 (cookie songon _ga dohot _ga_*, masa na marlaku sahat sakkali 2 taon): statistik kunjungan.",
+      "- Microsoft Clarity (cookie songon _clck, _clsk, CLID dohot MUID, masa na marlaku sahat sakkali 1 taon): peta panas dohot rekaman interaksi na dang marnama.",
+      "Penyedia CDN dohot kaamanan boi muse mamasang cookie teknis laho mangaramoti situs sian lalu lintas na mangaluat."
+     ]
+    },
+    {
+     "t": "4. Songon dia mangatur cookie",
+     "b": [
+      "Boi hamu mamusarhon manang mamblok cookie i pangaturan browser. Boi muse hamu mamasang add-on penolakan resmi sian Google tu Google Analytics. Molo cookie analitik diblok, situs tong marulaon; molo panyimpanan lokal dipusarhon, pilihan hata muna mulak tu na biasa."
+     ]
+    },
+    {
+     "t": "5. Patugason",
+     "b": [
+      "Laho patugason taringot tu kebijakan on, hubungi nocodingindonesia@gmail.com. Pamakean data pribadi dipatorang tu na lobi i Kebijakan Privasi. Molo adong na so pada di hata, versi Hata Indonesia do na marlaku."
+     ]
+    }
+   ]
+  }
+ }
+}

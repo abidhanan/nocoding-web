@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Ibuye kuvuselelwa",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Umgomo Wemfihlo",
+   "description": "Yini lenetinhlavu Nocoding iyibutsa, isetjentiselwa ini, ngubani lokuyicubungula, kanye nemalungelo akho ngetinhlavu takho temuntfu.",
+   "sections": [
+    {
+     "t": "1. Singuyiphi",
+     "b": [
+      "Nocoding (nocoding.web.id) isevisi yemawebhusayithi, ema-app, tinhlelo tolwazi kanye nekwenta tintfo ngokwayo lephethwe ngu-Abid Hanan Wicaksono e-Indonesia. Lomgomo uchaza kutsi sikuphatsa njani kuphepha kwetinhlavu takho temuntfu uma uvakashela lelewebhusayithi noma uthintana nathi.",
+      "Imibuto ngalomgomo ingatfunyelwa ku-nocodingindonesia@gmail.com noma ku-WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Tinhlavu lesitibutsako",
+     "b": [
+      "- Tinhlavu lotinikako: libito lakho, inombolo yakho ye-WhatsApp, i-imeyili kanye nencazelo yeprojekthi yakho uma uthintana nathi nge-WhatsApp noma nge-imeyili. Lelewebhusayithi ayinawo ema-akhawunti abasebentisi noma emafomu ekubhalisa.",
+      "- Tinhlavu tetekhnoloji leticutjungwa ngokwato: likheli le-IP, luhlobo lwedivayisi kanye nebhrawuza, kanye netikhasi lotivulako. Bahlinzeki betfu be-hosting ne-CDN bayicubungula kute bahlinzeke ngewebhusayithi futsi bayivikele ekusetjentisweni budlabha.",
+      "- Live lelicishe libe likhona: kute kukhonjiswe titfulu ngemali yakho, live lakho liyabalwa ngolwazi lwe-CDN noma ngelulwimi lwebhrawuza yakho. Asiligcini kuma-seva etfu.",
+      "- Tinhlavu tekuhlaziya: Google Analytics 4 kanye ne-Microsoft Clarity (uma tivuliwe) tibutsa tibalo tekusetjentiswa njengetikhasi letivuliwe, sikhatsi sekuvakasha, luhlobo lwedivayisi kanye nemarekhodi ekusebentisana angakhonjisi bobani. Tilayishwa kuphela ngemuva kwekutsi usebentisane nelikhasi.",
+      "- Sitoro sebhrawuza: kukhetsa kwakho lulwimi, tinkhomba tekutsi sewuvele wayithanda, wayibona noma wabelana ngelinye lisihloko, kanye nesilinganiso setitfulu sesikhashana. Imininingwane ikuMgomo Wamakhukhi.",
+      "- Inani lekubukwa, lokutsandwa kanye nekwabiwana kwetihloko ligcinwa njengetinombolo letihlanganisiwe, ngaphandle kwekuhlonyiswa kwemvakashi."
+     ]
+    },
+    {
+     "t": "3. Tinhlavu tisetjentiselwa ini",
+     "b": [
+      "- Kuphendvula imibuto yakho, kulungisa tilinganiso tetitfulu nekwenta iprojekthi yakho.",
+      "- Kuhlinzeka, kuvikela nekugcina lewebhusayithi isheshisa.",
+      "- Kuvisisa kutsi lewebhusayithi isetjentiswa njani kute siyentisise ngcono.",
+      "- Kugcwalisa tibopho tomtsetfo.",
+      "Asitsengisi tinhlavu takho temuntfu."
+     ]
+    },
+    {
+     "t": "4. Bantfu bangaphandle lababandzakanyekile",
+     "b": [
+      "- Vercel: kugcina nekuhlinzeka ngewebhusayithi.",
+      "- Cloudflare: i-CDN nekuphepha.",
+      "- Google (Google Analytics 4) ne-Microsoft (Clarity): tibalo tekusetjentiswa kwewebhusayithi.",
+      "- Meta (WhatsApp) ne-Google (Gmail): uma uthintana nathi ngetixhumanisi te-WhatsApp noma te-imeyili kulewebhusayithi.",
+      "- Umhlinzeki wetinga temali: wemukela kuphela ticelo tetinga lekuvela ku-seva yetfu, hhayi tinhlavu temvakashi.",
+      "Labahlinzeki bangacubungula tinhlavu ngephandle kwe-Indonesia ngekwemigomo yabo."
+     ]
+    },
+    {
+     "t": "5. Tinhlavu tigcinwa isikhatsi lesingakanani",
+     "b": [
+      "Tingcogco kanye netintfo tephrojekthi tigcinwa isikhatsi lesidzingekako kuphatsa isevisi, kunikela lusito nekugcwalisa tibopho tomtsetfo, bese tikhishwa noma tente tingahlonyiswa muntfu. Tinhlavu tekuhlaziya tilandzela kuhlelwa kwekugcinwa kwemhlinzeki wato. Tinhlavu lesebhrawuzeni yakho tihlala kuze wena uticedze."
+     ]
+    },
+    {
+     "t": "6. Emalungelo akho",
+     "b": [
+      "Ngaphasi kweMtsetfo Wenombolo 27 Wemnyaka we-2022 we-Indonesia ngeKuvikelwa Kwetinhlavu Temuntfu, unelilungelo lekuthi:",
+      "- wati futsi utfole ikhophi yetinhlavu temuntfu lesinato ngawe;",
+      "- ucele kutsi tinhlavu letiphutsile tilungiswe;",
+      "- ucele kutsi tinhlavu takho tikhishwe noma ubuyise imvume yakho;",
+      "- uphikisane nekucutjungwa lokuthile.",
+      "Tfumela sicelo sakho ku-nocodingindonesia@gmail.com. Sitawuphendvula ngesikhatsi lesifanele."
+     ]
+    },
+    {
+     "t": "7. Kuphepha nebantfwana",
+     "b": [
+      "Lewebhusayithi isebentisa i-HTTPS futsi kufinyelela etinhlavwini tephrojekthi kuvinjelwe. Akukho indlela yekutfumela noma yekugcina tinhlavu lengenabungoti ngalokuphelele, ngako asikwati kuvuma kuphepha lokuphelele.",
+      "Tisevisi tetfu tenzelwe bantfu labaneminyaka lengu-18 nangetulu. Asibutsi ngekwati tinhlavu temuntfu tebantfwana."
+     ]
+    },
+    {
+     "t": "8. Tinguquko kulomgomo",
+     "b": [
+      "Lomgomo ungavuselelwa ngaso sonkhe sikhatsi. Lusuku lwekuvuselela lwekugcina lukhonjiswa ngetulu kwelikhasi. Uma tilimi tehluka ngencazelo, inguqulo yeSi-Indonesia iyasebenta."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Imigomo Nemibandzela",
+   "description": "Imitsetfo yekusebentisa lewebhusayithi netisevisi te-Nocoding: emaphekhi, titfulu, kutsi umsebenti wentiwa njani, inchubomphahla yengcondvo kanye nemikhawulo yemtfwalo.",
+   "sections": [
+    {
+     "t": "1. Kwemukela lemigomo",
+     "b": [
+      "Ngekuvula lewebhusayithi noma ngekusebentisa tisevisi te-Nocoding, uyavuma kulemigomo nemibandzela. Uma ungavumi, sicela ungasebentisi lewebhusayithi yetfu noma tisevisi."
+     ]
+    },
+    {
+     "t": "2. Tisevisi",
+     "b": [
+      "I-Nocoding yakha emawebhusayithi ephothifoliyo noma e-CV, emakhasi ekufika kanye neprofayili yebhizinisi, tinhlelo tolwazi netekusebenta, kanye nekwenta tinhlelo tebhizinisi ngokwato. Umkhawulo wemsebenti, tici, lishedyuli nemali kuvunyelwana nawe nge-WhatsApp noma nge-imeyili ngaphambi kwekutsi umsebenti uqale.",
+      "Seluleko sihlala sitintsetse simahhala, noma nini lapho usidzinga, futsi asikubophi kutsi uvike."
+     ]
+    },
+    {
+     "t": "3. Emaphekhi netitfulu",
+     "b": [
+      "- Iphekhi lencane: kusuka ku-Rp 500.000 ngemnyaka, kufaka kunakekelwa kwesimahhala nedomeyini yemnyaka lomunye.",
+      "- Iphekhi lelikhulu: kusuka ku-Rp 2.000.000 ngemnyaka, kufaka kunakekelwa kwesimahhala ne-hosting yemnyaka lomunye.",
+      "Titfulu lekuwebhusayithi titfulu tekucala. Imali yekugcina kuvunyelwana ngayo ngemuva kweseluleko, ngekwetidzingo takho. Kubavakashi labangaphandle kwe-Indonesia, titfulu tikhonjiswa ngemali yalapho njengesilinganiso lesisekelwe esilinganisweni semalini yangaleliviki; imali ye-rupiah lesivumelana ngayo yiyo lesebentako. Tindleko letengetelekile, njengetici letingeziwe noma kuvuselelwa ngemuva kwekutsi sikhatsi sesimahhala siphele, uyatjelwa ngaphambi kwekutsi umsebenti wentiwe."
+     ]
+    },
+    {
+     "t": "4. Kutsi umsebenti wentiwa njani nemtfwalo wakho",
+     "b": [
+      "Lidizayini liyahlolwa futsi livunywe nawe ngaphambi kwekukhiqizwa. Kuchubekiswa kwentiwa njengobe kuvunyelwene.",
+      "Unemtfwalo wekuhlinzeka ngetintfo (ilogo, umbhalo, titfombe, tinhlavu) ngesikhatsi nekuba nelilungelo lekuyisebentisa. Kuphuza kwetintfo noma kwemphendvulo kungabanga kutsi lishedyuli litsintseke."
+     ]
+    },
+    {
+     "t": "5. Kunakekelwa",
+     "b": [
+      "Kunakekelwa kwesimahhala kwemnyaka lomunye kufaka kulungisa emaphutsa emsebentini wetfu kanye netibuyekezo tekuphepha letisisekelo. Tici letisha, tinguquko letinkhulu tedizayini nemsebenti ngephandle kwesivumelwano sekucala kukhokhelwa ngokwehlukana."
+     ]
+    },
+    {
+     "t": "6. Inchubomphahla yengcondvo",
+     "b": [
+      "Tintfo lotinikako tihlala tiyingcondvo yakho. Umsebenti losuphelele uyanikelwa kuwe uma kukhokha loku kuvunyelwene sekuphelele. I-Nocoding ingakhombisa imisebenti lesebentako njengemisebenti yekubukwa kuphothifoliyo yayo, ngaphandle kwekutsi ucele ngetibhalo kutsi ingakhonjiswa.",
+      "Lidizayini, imibhalo netihloko ku-nocoding.web.id tingewe-Nocoding. Ungabelana ngetixhumanisi tato, kodvwa ungatikopi futsi utisebentise ngekwebhizinisi ngaphandle kwemvume. Titfombe tetihloko tivela ku-Unsplash futsi tilandzela imvume yayo; umtfombo ubhalwa ngaphansi kwesitfombe ngasinye."
+     ]
+    },
+    {
+     "t": "7. Tilimi tewebhusayithi",
+     "b": [
+      "Lewebhusayithi itfolakala ngetilimi letinyenti. Kuhumushwa, ikakhulukati kwetilimi lesitfolakala kubantfu labambalwa, kungase kungabi ngulokuphelele. Uma kwehlukile ngencazelo, inguqulo yeSi-Indonesia iyasebenta. Lamakhasi emtsetfo atfolakala ngeSi-Indonesia nangeSiNgisi."
+     ]
+    },
+    {
+     "t": "8. Imikhawulo yemtfwalo",
+     "b": [
+      "Siyetama kuniketa umphumela lomuhle, kodvwa asithembisi imiphumela lethize yebhizinisi njengemazinga ekusesha, inombolo yebavakashi noma kutsengisa. Asinamtfwalo wekuphazamiseka lokuvela kubantfu bangaphandle njengebahlinzeki be-hosting, bedomeyini noma betinkhokhelo, noma wetilahlekelo letingakahlangene.",
+      "Umtfwalo wetfu wesevisi umkhawulelwe ekuphindzeni imali lokhokhe yona kuleyo sevisi, kuya ngekutsi umtsetfo uyakuvumela. Loku akunciphisi emalungelo lanawo lavikelwe ngumtsetfo."
+     ]
+    },
+    {
+     "t": "9. Umtsetfo losebentako",
+     "b": [
+      "Lemigomo ilawulwa timtsetfo teRiphabhulikhi yase-Indonesia. Uma kuvela umbango, kucala sitame kuwuphotsa ngekukhuluma. Uma kungatfolakali kuvumelana, umbango uphotswa tinkantolo letinemandla e-Indonesia."
+     ]
+    },
+    {
+     "t": "10. Tinguquko nekuthintana",
+     "b": [
+      "Lemigomo ingavuselelwa ngaso sonkhe sikhatsi; lusuku lwekuvuselela lwekugcina lukhonjiswa ngetulu kwelikhasi. Imibuto ingatfunyelwa ku-nocodingindonesia@gmail.com noma ku-WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Umgomo Wamakhukhi",
+   "description": "Emakhukhi nesitoro sasekhaya lekusebentisa lewebhusayithi ye-Nocoding, kutsi etselwani, nekutsi angaphatseka njani.",
+   "sections": [
+    {
+     "t": "1. Emakhukhi yini",
+     "b": [
+      "Emakhukhi emafayela lamancane lewebhusayithi ewagcina ebhrawuzeni yakho. Isitoro sasekhaya nesitoro sesikhatsi sekusebentisa kusebenta ngendlela lefanako kodvwa akutfunyelwa ku-seva ngokuzenzakalelako. Kulelikhasi siwabita onkhe ngekutsi emakhukhi."
+     ]
+    },
+    {
+     "t": "2. Lokudzingwa yiwebhusayithi kuze isebente",
+     "b": [
+      "Kugcinwa ebhrawuzeni yakho futsi akutfunyelwa kuma-seva etfu:",
+      "- nocoding-language ne-nocoding-language-set: lulwimi lolukhetsile noma lolutfolakale ebhrawuzeni yakho.",
+      "- nocoding-pricing (sikhatsi sekusebentisa): imali nesilinganiso lesibaliwe, kute titfulu tingabalwa kabusha ekhasini ngalinye.",
+      "- Tinkhomba tetihloko: kutsi sewuvele wayithanda, wayibona noma wabelana ngelisihloko, kute tinombolo tingaphindziswa kabili.",
+      "- Sikhomba sesikhashana sendzawo yekuskrola uma uya kwenye incenye yewebhusayithi."
+     ]
+    },
+    {
+     "t": "3. Kuhlaziya",
+     "b": [
+      "Uma tivuliwe, tisevisi letimbili tekuhlaziya tilayishwa ngemuva kwekutsi usebentisane nelikhasi (kuskrola, kutsintsa noma kucindzetela inkhinobho):",
+      "- Google Analytics 4 (emakhukhi anjenge-_ga ne-_ga_*, asebenta kuze kube yiminyaka lengu-2): tibalo tekuvakasha.",
+      "- Microsoft Clarity (emakhukhi anjenge-_clck, _clsk, CLID ne-MUID, asebenta kuze kube ngumnyaka lomunye): emamephu ekushisa nemarekhodi ekusebentisana angakhonjisi bobani.",
+      "Bahlinzeki be-CDN nebekuphepha bangaphindze babeke emakhukhi etekhnoloji kute bavikele lewebhusayithi etrafikini lelimbile."
+     ]
+    },
+    {
+     "t": "4. Kuphatsa emakhukhi njani",
+     "b": [
+      "Ungawasula noma uwavimbele emasethingini ebhrawuza yakho. Ungafaka futsi i-add-on semtsetfo yakwa-Google yekuphuma ku-Google Analytics. Uma emakhukhi ekuhlaziya avinjiwe, lewebhusayithi isasebenta; uma isitoro sasekhaya sihlanjululwe, kukhetsa kwakho lulwimi kubuyela kulokujwayelekile."
+     ]
+    },
+    {
+     "t": "5. Imibuto",
+     "b": [
+      "Ngemibuto ngalomgomo, thintana ne-nocodingindonesia@gmail.com. Kutsi tinhlavu temuntfu tisetjentiswa njani kuchazwe kabanti kuMgomo Wemfihlo. Uma tilimi tehluka ngencazelo, inguqulo yeSi-Indonesia iyasebenta."
+     ]
+    }
+   ]
+  }
+ }
+}

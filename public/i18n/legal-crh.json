@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Soñki yañartılğan tarih",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Gizlilik siyaseti",
+   "description": "Nocoding qaysı malümatlarnı toplay, olar ne içün qullanıla, kim olarnı işley ve şahsiy malümatlarıñız üzerinde qaysı aqlarıñız bar.",
+   "sections": [
+    {
+     "t": "1. Biz kimiz",
+     "b": [
+      "Nocoding (nocoding.web.id) - Indoneziyada Abid Hanan Wicaksono tarafından idare etilgen web-sayt, ilâve, malümat sistemi ve avtomatizasiya hızmetidir. Bu siyaset, bu saytqa kelgeniñizde yaki bizim ile alâqağa keçkeniñizde şahsiy malümatlarıñıznen nasıl muamele etkenimizni añlata.",
+      "Bu siyaset aqqında sualler nocodingindonesia@gmail.com adresine yaki WhatsApp +62 853-2651-3324 numerasına yollanabilir."
+     ]
+    },
+    {
+     "t": "2. Biz toplağan malümatlar",
+     "b": [
+      "- Özüñiz bergen malümatlar: adıñız, WhatsApp numerañız, e-poçta ve proyektiñizniñ tarifi, bizim ile WhatsApp yaki e-poçta ile alâqağa keçkeniñizde. Bu saytta qullanıcı hesapları yaki yazılma formaları yoq.",
+      "- Avtomatik işlengen tehnik malümatlar: IP adresi, cihaz ve brauzer türü, açqan sahifeleriñiz. Olarnı hosting ve CDN temin etkenlerimiz saytnı kösterüv ve onı suyiıstimaldan qorçalamaq içün işleyler.",
+      "- Taqriben memleket: fiyatlar siziñ pul birliginizde kösterilsin dep, memleketiñiz CDN malümatından yaki brauzer tilinden tahmin etile. Biz onı serverlerimizde saqlamaymız.",
+      "- Analitika malümatları: Google Analytics 4 ve Microsoft Clarity (açıq olğanda) açılğan sahifeler, ziyaret müddeti, cihaz türü ve adsız etkileşim yazılarını kibi qullanuv statistikasını toplaylar. Olar ancaq siz sahife ile etkileşkenden soñ yüklenile.",
+      "- Brauzerde saqlav: til saylavıñız, bir maqaleni evelden beğengeniñizni, kördigiñizni yaki paylaştığıñıznı köstergen işaretler ve vaqtlı fiyat tahmini. Tafsilâtı Cookie siyasetinde bar.",
+      "- Maqalelerniñ körülüv, beğenüv ve paylaşuv sayıları ziyaretçiniñ kimligisiz, bir araya cem etilgen sayılar olaraq saqlana."
+     ]
+    },
+    {
+     "t": "3. Malümatlar ne içün qullanıla",
+     "b": [
+      "- Sualleriñizge cevap bermek, teklifler azırlamaq ve proyektiñizni yapmaq içün.",
+      "- Saytnı kösterüv, onı qorçalamaq ve tez tutmaq içün.",
+      "- Saytnıñ nasıl qullanılğanını añlamaq, ki onı yahşılaştıra bilelim.",
+      "- Qanuniy mecburiyetlerni yerine ketirmek içün.",
+      "Biz şahsiy malümatlarıñıznı satmaymız."
+     ]
+    },
+    {
+     "t": "4. Alâqadar üçünci taraflar",
+     "b": [
+      "- Vercel: saytnıñ hostingi ve kösterilüvi.",
+      "- Cloudflare: CDN ve emniyet.",
+      "- Google (Google Analytics 4) ve Microsoft (Clarity): sayt qullanuv statistikası.",
+      "- Meta (WhatsApp) ve Google (Gmail): bu saytta WhatsApp yaki e-poçta bağlantıları ile bizim ile alâqağa keçkeniñizde.",
+      "- Pul kursı temin etkeni: ancaq serverimizden kurs soravlarını ala, ziyaretçi malümatlarını degil.",
+      "Bu temin etkenler malümatlarnı Indoneziyadan tışarıda öz siyasetlerine köre işley bilirler."
+     ]
+    },
+    {
+     "t": "5. Malümatlar ne qadar saqlana",
+     "b": [
+      "Söhbetler ve proyekt materialları hızmetni yürütmek, destek bermek ve qanuniy mecburiyetlerni yerine ketirmek içün kerek olğan müddet saqlana, soñra silinir yaki adsızlaştırıla. Analitika malümatları öz temin etkeniniñ saqlav ayarlarına uya. Brauzeriñizdeki malümatlar siz olarnı silgenge qadar qala."
+     ]
+    },
+    {
+     "t": "6. Aqlarıñız",
+     "b": [
+      "Indoneziyanıñ Şahsiy Malümatlarnıñ Qorçalanuvı aqqında 2022 senesi 27 numeralı Qanunına köre, siziñ aqqıñız bar:",
+      "- bizde saqlanğan şahsiy malümatlarıñıznı bilmege ve olarnıñ nusqasını almağa;",
+      "- yañlış malümatlarnıñ tüzetilmesini istemege;",
+      "- malümatlarıñıznıñ silinmesini istemege yaki razılığıñıznı keri almağa;",
+      "- belli bir işlevge itiraz etmege.",
+      "Talebiñizni nocodingindonesia@gmail.com adresine yollañız. Biz aqılğa uyğun müddet içinde cevap bereceğiz."
+     ]
+    },
+    {
+     "t": "7. Emniyet ve balalar",
+     "b": [
+      "Bu sayt HTTPS qullana ve proyekt malümatlarına kirüv sınırlıdır. Malümat ketirüv yaki saqlavnıñ hiç bir usulı tamamen riskten azat degil, bunıñ içün mutlaq emniyetni kafil ete bilmeymiz.",
+      "Hızmetlerimiz 18 yaş ve ondan büyük insanlar içün mülâccadır. Biz balalarnıñ şahsiy malümatlarını bile-bile toplamaymız."
+     ]
+    },
+    {
+     "t": "8. Bu siyasetniñ deñişüvleri",
+     "b": [
+      "Bu siyaset vaqıt-vaqıt yañartıla bile. Soñki yañartuv tarihi sahifeniñ yuqarısında kösterile. Tiller arasında manada ferq olsa, Indonez tilindeki versiya keçerlidir."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Şartlar ve qaideler",
+   "description": "Nocoding saytı ve hızmetlerini qullanuv qaideleri: paketler, fiyatlar, iş tertibi, fikriy mülk ve mesuliyet sınırları.",
+   "sections": [
+    {
+     "t": "1. Şartlarnı qabul etüv",
+     "b": [
+      "Bu saytnı açıp yaki Nocodingniñ hızmetlerinden faydalanıp, siz bu şartlar ve qaidelerge razı olasıñız. Razı olmasañız, lütfen saytımıznı ve hızmetlerimizni qullanmañız."
+     ]
+    },
+    {
+     "t": "2. Hızmetler",
+     "b": [
+      "Nocoding portfolio yaki CV web-saytlarını, landing sahifelerini ve şirket profillerini, malümat ve operatsiya sistemlerini, ayrıca iş cereyanlarınıñ avtomatizasiyasını yapa. İşniñ kenişligi, imkânlar, cedvel ve qıymet iş başlanmazdan evel siziñ ile WhatsApp yaki e-poçta vasıtasınen añlaşıla.",
+      "Maslahat daima parasızdır, kerek olğan her vaqıt, ve sizni sipariş bermege mecbur etmey."
+     ]
+    },
+    {
+     "t": "3. Paketler ve fiyatlar",
+     "b": [
+      "- Küçük paket: yılına Rp 500.000-den başlap, 1 yıl içün parasız saqlav ve domen dahildir.",
+      "- Büyük paket: yılına Rp 2.000.000-den başlap, 1 yıl içün parasız saqlav ve hosting dahildir.",
+      "Saytta köstergen fiyatlar başlanğıç fiyatlardır. Soñki miqdar maslahattan soñ ihtiyaclarıñızğa köre añlaşıla. Indoneziyadan tışarıdaki ziyaretçiler içün fiyatlar kündelik kurs esasında tahmin olaraq yerli pul birliginde kösterile; añlaşılğan rupiy miqdarı keçerlidir. Qoşma çıqımlar, meselâ ilâve imkânlar yaki parasız müddet bitkenden soñ uzatuv, iş yapılmazdan evel size bildirile."
+     ]
+    },
+    {
+     "t": "4. İşniñ yürütilüvi ve mesuliyetleriñiz",
+     "b": [
+      "Dizayn istihsalâtqa keçmezden evel siziñ ile közden keçirilir ve tasdıqlanır. Tüzetmeler añlaşılğanı kibi yapıla.",
+      "Materiallarnı (logotip, metin, fotoğraflar, malümat) vaqtında temin etmege ve olarnı qullanmağa aqqıñız olğanını kafil etmege siz mesulsiñiz. Materiallarnıñ yaki fikir-mülâhazanıñ keçikmesi cedvelge tesir etip bile."
+     ]
+    },
+    {
+     "t": "5. Saqlav",
+     "b": [
+      "1 yıllıq parasız saqlav bizim işimizdeki hatalarnı tüzetmekni ve esas emniyet yañartuvlarını ihtiva ete. Yañı imkânlar, dizayndaki büyük deñişüvler ve evelki añlaşuvdan tışarıdaki işler ayrıca töleme ile yapıla."
+     ]
+    },
+    {
+     "t": "6. Fikriy mülk",
+     "b": [
+      "Siz temin etken materiallar siziñ mülküñiz olıp qala. Tamamlanğan iş añlaşılğanı kibi tölem tamamen yapılğandan soñ size teslim etile. Nocoding yayınlanğan işlerni portfoliosında nümune olaraq köstere bile, yazılı şekilde olarnıñ kösterilmemesini talap etmegen olsañız.",
+      "nocoding.web.id saytındaki dizayn, metinler ve maqaleler Nocodingge aittir. Olarnıñ bağlantılarını paylaşıp olasıñız, amma izinsiz kopiyalap ticariy maqsatlarda qullanamazsıñız. Maqale fotoğrafları Unsplash saytından ala ve onıñ litsenziyasına uya; menba her fotoğrafnıñ astında kösterile."
+     ]
+    },
+    {
+     "t": "7. Saytnıñ tilleri",
+     "b": [
+      "Bu sayt çoq tilde mevcuttır. Tercimeler, bilhassa sayısı az olğan tiller içün, mükemmel olmayabilir. Manada ferq olsa, Indonez tilindeki versiya keçerlidir. Bu qanuniy sahifeler Indonez ve Ingliz tillerinde mevcuttır."
+     ]
+    },
+    {
+     "t": "8. Mesuliyet sınırları",
+     "b": [
+      "Biz yahşı netice bermek içün çalışamız, amma belli iş neticelerini, meselâ qıdırıv sırasını, ziyaretçi sayısını yaki satuvlarnı vaadetmeymiz. Hosting, domen yaki tölem temin etkenleri kibi üçünci taraflarnıñ aqsamalarından, ayrıca vasıtalı zararlardan mesul degilmiz.",
+      "Bir hızmet içün mesuliyetimiz, qanun yol bergen derecede, şu hızmet içün tölegen miqdarnen sınırlıdır. Bu, qanun ile qorçalanğan aqlarıñıznı azaltmay."
+     ]
+    },
+    {
+     "t": "9. Keçerli qanun",
+     "b": [
+      "Bu şartlar Indoneziya Cumhuriyetiniñ qanunlarına tabidir. Zıt fikir çıqsa, evel muzakere yolu ile çezmege çalışamız. Añlaşuvğa ketirilmese, ihtilâf Indoneziyadaki selâhiyetli mahkemeler tarafından çezile."
+     ]
+    },
+    {
+     "t": "10. Deñişüvler ve alâqa",
+     "b": [
+      "Bu şartlar vaqıt-vaqıt yañartıla bile; soñki yañartuv tarihi sahifeniñ yuqarısında kösterile. Sualler nocodingindonesia@gmail.com adresine yaki WhatsApp +62 853-2651-3324 numerasına yollanabilir."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Cookie siyaseti",
+   "description": "Nocoding saytınıñ qullanğan cookie dosyaları ve yerli saqlavı, olar ne içün kerek ve olarnı nasıl idare etmeli.",
+   "sections": [
+    {
+     "t": "1. Cookie dosyaları nedir",
+     "b": [
+      "Cookie dosyaları - sayt brauzeriñizde saqlağan kiçik dosyalardır. Yerli saqlav ve sessiya saqlavı oşağan şekilde çalışa, amma serverge avtomatik yollanmay. Bu sahifede olarnıñ hepsini cookie dep adlandıramız."
+     ]
+    },
+    {
+     "t": "2. Saytnıñ çalışması içün kerek olğanlar",
+     "b": [
+      "Brauzeriñizde saqlana ve serverlerimizge yollanmay:",
+      "- nocoding-language ve nocoding-language-set: siz saylağan yaki brauzeriñizden añlanğan til.",
+      "- nocoding-pricing (sessiya): tahmin etilgen pul birligi ve kurs, ki fiyatlar her sahifede tekrar esaplanmasın.",
+      "- Maqale işaretleri: bir maqaleni evelden beğengeniñizni, kördigiñizni yaki paylaştığıñıznı kösterir, ki sayılar eki kere sayılmasın.",
+      "- Saytnıñ qısımları arasında keçkende vaqtlı kaydırma mevqesi işareti."
+     ]
+    },
+    {
+     "t": "3. Analitika",
+     "b": [
+      "Açıq olğanda, siz sahife ile etkileşkenden soñ (kaydırğanda, tiyğende yaki tuşqa basqanda) eki analitika hızmeti yüklene:",
+      "- Google Analytics 4 (_ga ve _ga_* kibi cookie dosyaları, 2 yılğa yaqın müddetke qadar keçerli): ziyaret statistikası.",
+      "- Microsoft Clarity (_clck, _clsk, CLID ve MUID kibi cookie dosyaları, 1 yılğa yaqın müddetke qadar keçerli): issilik haritaları ve adsız etkileşim yazıları.",
+      "CDN ve emniyet temin etkenleri de saytnı zararlı trafikten qorçalamaq içün tehnik cookie dosyaları qoya bilirler."
+     ]
+    },
+    {
+     "t": "4. Cookie dosyalarını nasıl idare etmeli",
+     "b": [
+      "Cookie dosyalarını brauzer ayarlarında silip yaki bloklap olasıñız. Ayrıca Google Analytics içün Googleniñ resmiy ret etüv eklentisini qurıp olasıñız. Analitika cookie dosyaları blokqa alınsa, sayt yine de çalışa; yerli saqlav temizlense, til saylavıñız standart qıymetke qaytır."
+     ]
+    },
+    {
+     "t": "5. Sualler",
+     "b": [
+      "Bu siyaset aqqında sualler içün nocodingindonesia@gmail.com adresine yazıñız. Şahsiy malümatlarnıñ nasıl qullanılğanı Gizlilik siyasetinde daa tafsilâtlı añlatıla. Tiller arasında manada ferq olsa, Indonez tilindeki versiya keçerlidir."
+     ]
+    }
+   ]
+  }
+ }
+}

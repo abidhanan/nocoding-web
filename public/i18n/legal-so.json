@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Markii ugu dambeysay ee la cusboonaysiiyay",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Siyaasadda Asturnaanta",
+   "description": "Xogta Nocoding ay ururiso, waxa loo isticmaalo, cidda habaynaysa, iyo xuquuqdaada ku saabsan xogtaada gaarka ah.",
+   "sections": [
+    {
+     "t": "1. Waxaan nahay",
+     "b": [
+      "Nocoding (nocoding.web.id) waa adeeg bogga internetka, abka, nidaamyada macluumaadka iyo otomaatigga ah oo uu maamulo Abid Hanan Wicaksono dalka Indooniisiya. Siyaasaddani waxay sharxaysaa sida aan ula dhaqmayno xogtaada gaarka ah marka aad booqato boggan ama nala xiriirto.",
+      "Su'aalaha ku saabsan siyaasaddan waxaa loo diri karaa nocodingindonesia@gmail.com ama WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Xogta aan ururino",
+     "b": [
+      "- Xogta aad na siiso: magacaaga, lambarka WhatsApp, iimaylka iyo sharaxaad ku saabsan mashruucaaga marka aad nala xiriirto adigoo isticmaalaya WhatsApp ama iimayl. Boggan ma laha koonto isticmaalayaal ama foomam is-diiwaangelin.",
+      "- Xogta farsamo ee si toos ah loo habeeyo: cinwaanka IP, nooca qalabka iyo browserka, iyo bogagga aad furto. Bixiyeyaasheena martigelinta iyo CDN waxay habeeyaan si ay bogga u gaarsiiyaan oo uga ilaaliyaan xadgudub.",
+      "- Dalka qiyaasta ah: si qiimaha loogu muujiyo lacagtaada, dalkaaga waxaa laga qiyaasaa macluumaadka CDN ama luqadda browserkaaga. Kuma kaydinno serfarradeena.",
+      "- Xogta falanqaynta: Google Analytics 4 iyo Microsoft Clarity (marka la shido) waxay ururiyaan tirakoob isticmaal sida bogagga la furay, muddada booqashada, nooca qalabka iyo duubitaannada is-dhexgalka ee aan magac lahayn. Waxay shaqeeyaan kaliya ka dib markaad la falgasho bogga.",
+      "- Kaydinta browserka: luqadda aad dooratay, calaamado muujinaya inaad hore u jeclaatay, aragtay ama la wadaagtay maqaal, iyo qiyaas qiimo ah oo ku meel gaar ah. Faahfaahinta waxay ku jirtaa Siyaasadda Kukiyada.",
+      "- Tirada aragtida, jeclaanshaha iyo wadaagista maqaallada waxaa loo kaydiyaa tiro isku dhafan, iyada oo aan la muujin aqoonsiga booqdaha."
+     ]
+    },
+    {
+     "t": "3. Waxa xogta loogu isticmaalo",
+     "b": [
+      "- Ka jawaabidda su'aalahaaga, diyaarinta qiimeyn iyo fulinta mashruucaaga.",
+      "- Gaarsiinta, ammaanka iyo ilaalinta xawaarka bogga.",
+      "- Fahamka sida bogga loo isticmaalo si aan u horumarinno.",
+      "- Buuxinta waajibaadka sharciga.",
+      "Ma iibinno xogtaada gaarka ah."
+     ]
+    },
+    {
+     "t": "4. Dhinacyada saddexaad ee ku lugta leh",
+     "b": [
+      "- Vercel: martigelinta iyo gaarsiinta bogga.",
+      "- Cloudflare: CDN iyo ammaan.",
+      "- Google (Google Analytics 4) iyo Microsoft (Clarity): tirakoobka isticmaalka bogga.",
+      "- Meta (WhatsApp) iyo Google (Gmail): marka aad nala xiriirto adigoo isticmaalaya xiriirinta WhatsApp ama iimaylka ee boggan.",
+      "- Bixiyaha sicir-bararka lacagaha: wuxuu helaa codsiyada sicirka oo kaliya serferkeenna, ma helo xogta booqdayaasha.",
+      "Bixiyeyaashan waxay xogta ka habeyn karaan meel ka baxsan Indooniisiya iyagoo raacaya siyaasadahooda."
+     ]
+    },
+    {
+     "t": "5. Muddada xogta la hayo",
+     "b": [
+      "Wada-hadallada iyo agabka mashruuca waa la hayaa inta loo baahan yahay in adeegga lagu maareeyo, taageero lagu bixiyo iyo waajibaadka sharciga lagu buuxiyo, kadibna waa la tirtiraa ama waa la aqoonsi-furaa. Xogta falanqaynta waxay raacdaa dejinta kaydinta ee bixiyaheeda. Xogta ku jirta browserkaaga way ku sii jirtaa ilaa aad tirtirto."
+     ]
+    },
+    {
+     "t": "6. Xuquuqdaada",
+     "b": [
+      "Marka loo eego Sharciga Lambarka 27 ee Sannadka 2022 ee Indooniisiya ee Ilaalinta Xogta Gaarka ah, waxaad xaq u leedahay inaad:",
+      "- ogaato oo hesho nuqul xogta gaarka ah ee aan kaa haysanno;",
+      "- weydiisato in xogta khaldan la saxo;",
+      "- weydiisato in xogtaada la tirtiro ama aad laabato oggolaanshahaaga;",
+      "- ka biyo diido habaynta qaar ka mid ah.",
+      "U dir codsigaaga nocodingindonesia@gmail.com. Waxaan ka jawaabi doonaa muddo macquul ah gudaheeda."
+     ]
+    },
+    {
+     "t": "7. Amniga iyo carruurta",
+     "b": [
+      "Boggan wuxuu isticmaalaa HTTPS, helitaanka xogta mashruucana waa xaddidan yahay. Hab kasta oo xogta lagu gudbiyo ama lagu kaydiyo ma ahan mid khatar la'aan ah gebi ahaanba, sidaas darteed ma dammaanad qaadi karno amni dhammaystiran.",
+      "Adeegyadeenu waxay u socdaan dadka da'doodu tahay 18 sano iyo ka weyn. Ma ururino si ula kac ah xogta gaarka ah ee carruurta."
+     ]
+    },
+    {
+     "t": "8. Isbeddelada siyaasaddan",
+     "b": [
+      "Siyaasaddan waa la cusboonaysiin karaa mar walba. Taariikhda cusboonaysiinta ugu dambeysay waxay ka muuqataa sare bogga. Haddii luqadaha ay macne ahaan ku kala duwan yihiin, nuqulka Indooniisiyaanka ayaa khuseeya."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Shuruudaha iyo Xaaladaha",
+   "description": "Xeerarka isticmaalka bogga iyo adeegyada Nocoding: xidhmooyinka, qiimaha, sida shaqada loo qabto, hantida maskaxda iyo xadka mas'uuliyadda.",
+   "sections": [
+    {
+     "t": "1. Aqbalaadda shuruudahan",
+     "b": [
+      "Markaad furto boggan ama aad isticmaasho adeegyada Nocoding, waxaad ogolaatay shuruudahan iyo xaaladahan. Haddii aanad ogolayn, fadlan ha isticmaalin bogga ama adeegyadayada."
+     ]
+    },
+    {
+     "t": "2. Adeegyada",
+     "b": [
+      "Nocoding waxay dhisaa boggag portfolio ama CV ah, boggag soo-degitaan iyo astaan shirkadeed, nidaamyo macluumaad iyo hawlgal, iyo otomaatiggeynta nidaamyada ganacsiga. Baaxadda shaqada, sifooyinka, jadwalka iyo kharashka waxaa lagu heshiiyaa adiga adigoo isticmaalaya WhatsApp ama iimayl ka hor inta aan shaqada la bilaabin.",
+      "La-talintu had iyo jeer waa bilaash, mar kasta oo aad u baahato, mana kugu waajibinayso inaad dalbato."
+     ]
+    },
+    {
+     "t": "3. Xidhmooyinka iyo qiimaha",
+     "b": [
+      "- Xidhmada yar: laga bilaabo Rp 500.000 sanadkii, oo ay ku jiraan dayactir bilaash ah iyo domain 1 sano ah.",
+      "- Xidhmada weyn: laga bilaabo Rp 2.000.000 sanadkii, oo ay ku jiraan dayactir bilaash ah iyo martigelin 1 sano ah.",
+      "Qiimaha ku qoran bogga waa qiimo bilow ah. Lacagta ugu dambeysa waxaa lagu heshiiyaa ka dib la-talin, iyadoo loo eegayo baahiyahaaga. Booqdayaasha ka baxsan Indooniisiya, qiimaha waxaa lagu muujiyaa lacagta maxalliga ah sidii qiyaas ku salaysan sicirka beddelka ee maalinlaha ah; lacagta rupiah ee aan ku heshiino ayaa khuseeya. Kharashyada dheeraadka ah, sida sifooyin dheeraad ah ama cusboonaysiinta marka muddada bilaashka ah dhammaato, waa lagu war-gelinayaa ka hor intaan shaqada la qaban."
+     ]
+    },
+    {
+     "t": "4. Sida shaqada loo qabto iyo mas'uuliyaddaada",
+     "b": [
+      "Naqshadda waa la dib-eegaa waana lagu ansixiyaa adiga ka hor soo-saarka. Hagaajinnada waxaa loo sameeyaa sidii lagu heshiiyey.",
+      "Adigaa mas'uul ka ah inaad agabka (summad, qoraal, sawirro, xog) waqtigeeda ka bixiso iyo inaad xaq u leedahay inaad isticmaasho. Dib-u-dhaca agabka ama jawaab-celinta ayaa saameyn kara jadwalka."
+     ]
+    },
+    {
+     "t": "5. Dayactirka",
+     "b": [
+      "Dayactirka bilaashka ah ee 1 sano wuxuu ka kooban yahay saxidda khaladaadka shaqadeenna iyo cusboonaysiinta amniga ee aasaasiga ah. Sifooyinka cusub, isbeddelada waaweyn ee naqshadda iyo shaqada ka baxsan heshiiskii hore waxaa lagu qaadaa si gooni ah."
+     ]
+    },
+    {
+     "t": "6. Hantida maskaxda",
+     "b": [
+      "Agabka aad bixiso waa kuwaaga. Shaqada dhammaatay waa laguu gacan-gelinayaa marka lacag-bixinta sida lagu heshiiyey la dhammeeyo. Nocoding waxay muujin kartaa shaqooyin nool oo tusaale ah portfolio-geeda, haddii aanad qoraal ku weydiisan inaan la muujin.",
+      "Naqshadda, qoraallada iyo maqaallada nocoding.web.id waa ay ka tirsan yihiin Nocoding. Waad wadaagi kartaa xiriirintooda, laakiin looma oggola inaad nuqul ka qaadato oo ganacsi ahaan u isticmaasho idan la'aan. Sawirrada maqaallada waxay ka yimaadaan Unsplash waxayna raacaan shatigeeda; isha waxaa lagu qoraa sawir kasta hoostiisa."
+     ]
+    },
+    {
+     "t": "7. Luqadaha bogga",
+     "b": [
+      "Boggan wuxuu ku jiraa luqado badan. Tarjumaadaha, gaar ahaan luqadaha ay dad yar ku hadlaan, laga yaabo inaanay dhamaystirnayn. Haddii ay macne ahaan ku kala duwan yihiin, nuqulka Indooniisiyaanka ayaa khuseeya. Boggaggan sharciga ah waxay ku jiraan Indooniisiyaan iyo Ingiriisi."
+     ]
+    },
+    {
+     "t": "8. Xadka mas'uuliyadda",
+     "b": [
+      "Waxaan ka shaqaynaa inaan natiijooyin wanaagsan gaarsiino, laakiin ma ballanqaadno natiijooyin ganacsi oo gaar ah sida booska raadinta, tirada booqdayaasha ama iibka. Mas'uul ka ma nihin carqaladaha ka imaanaya dhinacyada saddexaad sida bixiyeyaasha martigelinta, domain-ka ama lacag-bixinta, ama khasaaraha dadban.",
+      "Mas'uuliyaddeenna adeeg waxay ku koobantahay lacagta aad ku bixisay adeeggaas, intii sharcigu oggol yahay. Tani ma dhimayso xuquuqda aad leedahay ee sharcigu ilaaliyo."
+     ]
+    },
+    {
+     "t": "9. Sharciga ku shaqeeya",
+     "b": [
+      "Shuruudahan waxaa maamula sharciyada Jamhuuriyadda Indooniisiya. Haddii khilaaf dhaco, marka hore waxaan isku dayi doonaa inaan ku xallino wada-hadal. Haddii aan heshiis la gaarin, khilaafka waxaa xallin doona maxkamadaha awooda leh ee Indooniisiya."
+     ]
+    },
+    {
+     "t": "10. Isbeddelada iyo xiriirka",
+     "b": [
+      "Shuruudahan waa la cusboonaysiin karaa mar walba; taariikhda cusboonaysiinta ugu dambeysay waxay ka muuqataa sare bogga. Su'aalaha waxaa loo diri karaa nocodingindonesia@gmail.com ama WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Siyaasadda Kukiyada",
+   "description": "Kukiyada iyo kaydinta maxalliga ah ee bogga Nocoding isticmaalo, waxa loogu talagalay, iyo sida loo maareeyo.",
+   "sections": [
+    {
+     "t": "1. Waa maxay kukiyada",
+     "b": [
+      "Kukiyadu waa feylal yar yar oo bogga ku kaydiyo browserkaaga. Kaydinta maxalliga ah iyo kaydinta kal-fadhiga waxay u shaqeeyaan si isku mid ah laakiin si toos ah looma dirin serfar. Boggan waxaan dhammaantood ugu yeernaa kukiyo."
+     ]
+    },
+    {
+     "t": "2. Waxa bogga u baahan yahay si uu u shaqeeyo",
+     "b": [
+      "Waxaa lagu kaydiyaa browserkaaga lagamana diro serfarradeena:",
+      "- nocoding-language iyo nocoding-language-set: luqadda aad dooratay ama laga ogaaday browserkaaga.",
+      "- nocoding-pricing (kal-fadhi): lacagta iyo sicirka la qiyaasay, si qiimaha dib loogu xisaabin bog kasta.",
+      "- Calaamadaha maqaallada: haddii aad hore u jeclaatay, aragtay ama la wadaagtay maqaal, si tirooyinka loogu laba jibaarin.",
+      "- Calaamad ku meel gaar ah oo goobta sare-hoosaadka ah marka aad ka gudubto qaybaha bogga."
+     ]
+    },
+    {
+     "t": "3. Falanqaynta",
+     "b": [
+      "Marka la shido, laba adeeg oo falanqayn ah ayaa shaqeeya ka dib markaad la falgasho bogga (sare-hoosayso, taabato ama riixdo fure):",
+      "- Google Analytics 4 (kukiyo sida _ga iyo _ga_*, ilaa qiyaastii 2 sano ku sii jira): tirakoobka booqashada.",
+      "- Microsoft Clarity (kukiyo sida _clck, _clsk, CLID iyo MUID, ilaa qiyaastii 1 sano ku sii jira): khariidado kulayl iyo duubitaanno is-dhexgal oo aan magac lahayn.",
+      "Bixiyeyaasha CDN iyo ammaanku waxay kaloo dejin karaan kukiyo farsamo si ay bogga uga ilaaliyaan taraafiko dhaawac leh."
+     ]
+    },
+    {
+     "t": "4. Sida loo maareeyo kukiyada",
+     "b": [
+      "Waxaad tirtiri kartaa ama xidhi kartaa kukiyada dejinta browserkaaga. Waxaad kaloo rakibi kartaa lifaaqa rasmiga ah ee Google ee ka-bixidda Google Analytics. Haddii kukiyada falanqaynta la xidho, bogga wuu shaqeynayaa; haddii kaydinta maxalliga ah la nadiifiyo, doorashada luqaddaadu waxay ku noqonaysaa tii asalka ahayd."
+     ]
+    },
+    {
+     "t": "5. Su'aalo",
+     "b": [
+      "Su'aalaha ku saabsan siyaasaddan, la xiriir nocodingindonesia@gmail.com. Sida xogta gaarka ah loo isticmaalo waxaa si dheeraad ah loogu sharxay Siyaasadda Asturnaanta. Haddii luqadaha ay macne ahaan ku kala duwan yihiin, nuqulka Indooniisiyaanka ayaa khuseeya."
+     ]
+    }
+   ]
+  }
+ }
+}

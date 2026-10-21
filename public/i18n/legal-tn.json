@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "E ntšhwafaditswe la bofelo",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Pholisi ya Poraefete",
+   "description": "Data e Nocoding e e kokoanyang, e e dirisetswang eng, ke mang yo o e dirisang, le ditshwanelo tsa gago mo go data ya gago ya botho.",
+   "sections": [
+    {
+     "t": "1. Re bomang",
+     "b": [
+      "Nocoding (nocoding.web.id) ke tirelo ya go dira webosaete, diapolikeshene, dithulaganyo tsa tshedimosetso le tsa go dira ditiro ka othomatiki, e e tsamaisiwang ke Abid Hanan Wicaksono kwa Indonesia. Pholisi eno e tlhalosa gore re tshwara data ya gago ya botho jang fa o etela setsha seno kgotsa fa o ikgolaganya le rona.",
+      "Dipotso ka ga pholisi eno di ka romelwa kwa nocodingindonesia@gmail.com kgotsa WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data e re e kokoanyang",
+     "b": [
+      "- Data e o re neelang yone: leina la gago, nomore ya WhatsApp, imeile le tlhaloso ya porojeke ya gago fa o ikgolaganya le rona ka WhatsApp kgotsa imeile. Setsha seno ga se na diakhaonto tsa badirisi kgotsa diforomo tsa go ikwadisa.",
+      "- Data ya botegeniki e e dirwang ka othomatiki: aterese ya IP, mofuta wa sedirisiwa le wa buraosara, le ditsebe tse o di bulang. E dirwa ke batlamedi ba rona ba hosting le CDN go isa setsha pele le go se sireletsa mo tshekelong e e sa siamang.",
+      "- Naga e e akanyeditsweng: gore ditlhwatlhwa di bontshiwe ka madi a gago, naga ya gago e akanngwa go tswa mo tshedimosetsong ya CDN kgotsa puo ya buraosara ya gago. Ga re e boloke mo dithulaganyong tsa rona.",
+      "- Data ya tlhatlhobo: Google Analytics 4 le Microsoft Clarity (fa di kgona) di kokoanya dipalopalo tsa tiriso jaaka ditsebe tse di bulegileng, nako ya ketelo, mofuta wa sedirisiwa le diriti tsa tirisano tse di sa bonwe leina la motho. Di tsenngwa fela morago ga fa o dirisana le tsebe.",
+      "- Polokelo ya buraosara: kgetho ya gago ya puo, matshwao a go bontsha gore o setse o rata, o bone kgotsa o abetse atikele, le tekanyetso ya nakwana ya tlhwatlhwa. Dintlha di mo go Pholisi ya Dikuki.",
+      "- Palo ya gore atikele e ile ya bonwa, ya ratiwa le go abelwana e bolokwa jaaka dinomore tse di kopaneng, kwantle ga boitshupo jwa moeteledi."
+     ]
+    },
+    {
+     "t": "3. Data e dirisetswa eng",
+     "b": [
+      "- Go araba dipotso tsa gago, go baakanya dikoutešene le go dira porojeke ya gago.",
+      "- Go tsenya setsha pele, go se sireletsa le go se tshwarela mo lebelong.",
+      "- Go tlhaloganya gore setsha se dirisiwa jang gore re kgone go se tokafatsa.",
+      "- Go diragatsa dikgang tsa semolao.",
+      "Ga re rekise data ya gago ya botho."
+     ]
+    },
+    {
+     "t": "4. Batho ba bangwe ba ba amegang",
+     "b": [
+      "- Vercel: hosting le go tsenya setsha pele.",
+      "- Cloudflare: CDN le tshireletso.",
+      "- Google (Google Analytics 4) le Microsoft (Clarity): dipalopalo tsa tiriso ya setsha.",
+      "- Meta (WhatsApp) le Google (Gmail): fa o ikgolaganya le rona ka dikhonekeshene tsa WhatsApp kgotsa tsa imeile tse di mo setsheng seno.",
+      "- Motlamedi wa mothamo wa madi: o amogela fela dikopo tsa mothamo go tswa kwa sekeng sa rona, e seng data ya baeteledi.",
+      "Batlamedi bano ba ka dira data kwa ntle ga Indonesia go ya ka dipholisi tsa bone."
+     ]
+    },
+    {
+     "t": "5. Data e bolokwa lobaka lo lo kae",
+     "b": [
+      "Dipuisano le didirisiwa tsa porojeke di bolokwa fa fela di tlhokega go tsamaisa tirelo, go neela tshegetso le go diragatsa dikgang tsa semolao, morago di phimolwa kgotsa go ntshiwa leina la mong. Data ya tlhatlhobo e latela ditlhophiso tsa polokelo tsa motlamedi wa yone. Data e e mo buraosareng ya gago e nna teng go fitlha o e phimola."
+     ]
+    },
+    {
+     "t": "6. Ditshwanelo tsa gago",
+     "b": [
+      "Go ya ka Molao wa Indonesia No. 27 wa 2022 ka ga Tshireletso ya Data ya Botho, o na le tshwanelo ya go:",
+      "- itse le go newa kopi ya data ya gago ya botho e re e e tshwereng;",
+      "- kopa gore data e e fosagetseng e baakanngwe;",
+      "- kopa gore data ya gago e phimolwe kgotsa o gogele kwa morago tumelelo ya gago;",
+      "- ganetsa go dira data mo dikgannyeng dingwe.",
+      "Romela kopo ya gago kwa nocodingindonesia@gmail.com. Re tla go araba mo nakong e e utlwalang."
+     ]
+    },
+    {
+     "t": "7. Tshireletso le bana",
+     "b": [
+      "Setsha seno se dirisa HTTPS mme phitlhelelo ya data ya porojeke e thibetswe. Ga go na mokgwa wa go romela kgotsa go boloka data o o se nang kotsi gotlhelele, ka jalo ga re kgone go tlhomamisa tshireletso e e feletseng.",
+      "Ditirelo tsa rona di reboletswe batho ba ba dingwaga di le 18 le go feta. Ga re kokoanye data ya botho ya bana ka go itse."
+     ]
+    },
+    {
+     "t": "8. Diphetogo mo pholising eno",
+     "b": [
+      "Pholisi eno e ka ntšhwafadiwa ka nako le nako. Letlha la ntšhwafatso ya bofelo le bontshiwa kwa godimo ga tsebe. Fa dipuo di sa lebane mo tlhalosong, go dirisiwa mofuta wa Seindonesia."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Dipeelo le Melawana",
+   "description": "Melao ya go dirisa setsha le ditirelo tsa Nocoding: dipakete, ditlhwatlhwa, tsela ya go dira tiro, dikgolo tsa kakanyo le meeno ya boikarabelo.",
+   "sections": [
+    {
+     "t": "1. Go amogela dipeelo",
+     "b": [
+      "Ka go bula setsha seno kgotsa go dirisa ditirelo tsa Nocoding, o dumela dipeelo le melawana eno. Fa o sa dumele, tswee-tswee o seka wa dirisa setsha le ditirelo tsa rona."
+     ]
+    },
+    {
+     "t": "2. Ditirelo",
+     "b": [
+      "Nocoding e aga webosaete ya potefolio kgotsa CV, ditsebe tsa go fitlhelela le diprofaele tsa kompone, dithulaganyo tsa tshedimosetso le tsa ditiro, le go dira ditiro tsa kgwebo ka othomatiki. Bogolo jwa tiro, dikarolo, lenaneo la nako le ditshenyegelo di dumalanwa le wena ka WhatsApp kgotsa imeile pele tiro e simolola.",
+      "Kgakololo e nna mahala nako le nako fa o e tlhoka, mme ga e go gapeletse go laela."
+     ]
+    },
+    {
+     "t": "3. Dipakete le ditlhwatlhwa",
+     "b": [
+      "- Pakete e potlana: go simolola ka Rp 500.000 ka ngwaga, go akaretsa tlhokomelo ya mahala le domain ya ngwaga o le 1.",
+      "- Pakete e kgolo: go simolola ka Rp 2.000.000 ka ngwaga, go akaretsa tlhokomelo ya mahala le hosting ya ngwaga o le 1.",
+      "Ditlhwatlhwa tse di mo setsheng ke ditlhwatlhwa tsa go simolola. Palo ya bofelo e dumalanwa morago ga kgakololo, go ya ka dilo tse o di tlhokang. Mo baeteledi ba ba kwa ntle ga Indonesia, ditlhwatlhwa di bontshiwa ka madi a selegae jaaka tekanyetso e e theilweng mo mothamong wa letsatsi le letsatsi wa phetiso; palo ya diroupia e re dumalanang ka yone ke eo e dirisiwang. Ditshenyegelo tse di oketsegileng, jaaka dikarolo tse di oketsegileng kgotsa go ntšhwafatsa fa nako ya mahala e fela, o a bolelelwa pele ga gore tiro e dirwe."
+     ]
+    },
+    {
+     "t": "4. Tsela ya go dira tiro le boikarabelo jwa gago",
+     "b": [
+      "Moralo o sekasekwa le go amogelwa le wena pele ga tlhagiso. Diphetoso di dirwa jaaka go dumalanwe.",
+      "O na le boikarabelo jwa go tlamela didirisiwa (logo, mokwalo, ditshwantsho, data) ka nako le go nna le tshwanelo ya go di dirisa. Go diega ga didirisiwa kgotsa maikutlo go ka ama lenaneo la nako."
+     ]
+    },
+    {
+     "t": "5. Tlhokomelo",
+     "b": [
+      "Tlhokomelo ya mahala ya ngwaga o le 1 e akaretsa go baakanya diphoso mo tirong ya rona le dintšhwafatso tsa motheo tsa tshireletso. Dikarolo tse dintšha, diphetogo tse dikgolo tsa moralo le tiro e e fa ntle ga tumalano ya ntlha di duelelwa kwa thoko."
+     ]
+    },
+    {
+     "t": "6. Dikgolo tsa kakanyo",
+     "b": [
+      "Didirisiwa tse o di tlamelang di tswelela di nna tsa gago. Tiro e e fedileng e neelwa wena fa tuelo e e dumalanweng e fedile. Nocoding e ka bontsha tiro e e tshelang jaaka dikai mo potefoliong ya yone, fa e se fa o kopa ka go kwala gore e seka ya bontshiwa.",
+      "Moralo, mokwalo le ditlhopha tsa nocoding.web.id ke tsa Nocoding. O ka abelana ka dikhonekeshene tsa tsone, mme ga o a letlelelwa go di kopa le go di dirisa ka tsa kgwebo kwantle ga tetla. Ditshwantsho tsa ditlhopha di tswa kwa Unsplash mme di latela laesense ya yone; mothopo o kwalwa fa tlase ga setshwantsho se sengwe le se sengwe."
+     ]
+    },
+    {
+     "t": "7. Dipuo tsa setsha",
+     "b": [
+      "Setsha seno se teng ka dipuo di le dintsi. Dipotlolo, bogolo jang tsa dipuo tse di nang le bathusi ba ba sa kang ba nna ba bantsi, di ka nna tsa se ka tsa lekana. Fa di sa lebane mo tlhalosong, go dirisiwa mofuta wa Seindonesia. Ditsebe tseno tsa semolao di teng ka Seindonesia le Sekgoa."
+     ]
+    },
+    {
+     "t": "8. Meeno ya boikarabelo",
+     "b": [
+      "Re dira ka natla go neela dipholo tse di siameng, mme ga re solofetse dipholo tse di rileng tsa kgwebo jaaka maemo a patlo, palo ya baeteledi kgotsa thekiso. Ga re ikarabele ka dikgoreletso tse di tswang go batho ba bangwe jaaka batlamedi ba hosting, ba domain kgotsa ba dituelo, kgotsa ka ditatlhegelo tse di sa tlhamaleng.",
+      "Boikarabelo jwa rona mo tirelong bo thibetswe go fitlha mo palong e o e duetseng mo tirelong eo, go ya kafa molao o letlang ka gone. Seno ga se fokotse ditshwanelo tsa gago tse di sireleditsweng ke molao."
+     ]
+    },
+    {
+     "t": "9. Molao o o dirisiwang",
+     "b": [
+      "Dipeelo tseno di laolwa ke melao ya Repaboliki ya Indonesia. Fa go tlhagelela kganetsano, re e leka go e rarabolola ka puisano pele. Fa go sa fitlhelelwe tumalano, kganetsano e rarabololwa ke makgotla a a nang le thata kwa Indonesia."
+     ]
+    },
+    {
+     "t": "10. Diphetogo le go ikgolaganya",
+     "b": [
+      "Dipeelo tseno di ka ntšhwafadiwa ka nako le nako; letlha la ntšhwafatso ya bofelo le bontshiwa kwa godimo ga tsebe. Dipotso di ka romelwa kwa nocodingindonesia@gmail.com kgotsa WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Pholisi ya Dikuki",
+   "description": "Dikuki le polokelo ya selegae tse setsha sa Nocoding se di dirisang, tse di dirisetswang eng, le tsela ya go di laola.",
+   "sections": [
+    {
+     "t": "1. Dikuki ke eng",
+     "b": [
+      "Dikuki ke difaele tse dinnye tse setsha se di bolokang mo buraosareng ya gago. Polokelo ya selegae le polokelo ya seshene di dira ka mokgwa o o tshwanang, mme ga di romelwe ka othomatiki kwa sekeng. Mo tsebeng eno re di bitsa tsotlhe dikuki."
+     ]
+    },
+    {
+     "t": "2. Se setsha se se tlhokang go dira",
+     "b": [
+      "Di bolokwa mo buraosareng ya gago mme ga di romelwe kwa dising tsa rona:",
+      "- nocoding-language le nocoding-language-set: puo e o e kgethileng kgotsa e e lemogilweng go tswa mo buraosareng ya gago.",
+      "- nocoding-pricing (seshene): tekanyetso ya madi le mothamo gore ditlhwatlhwa di se bale gape mo tsebeng nngwe le nngwe.",
+      "- Matshwao a atikele: gore a o setse o rata, o bone kgotsa o abetse atikele, gore dipalo di se ke tsa nna tse pedi.",
+      "- Letshwao la nakwana la maemo a go phuthulola fa o fetela mo dikarolong tse dingwe tsa setsha."
+     ]
+    },
+    {
+     "t": "3. Tlhatlhobo",
+     "b": [
+      "Fa di kgona, ditirelo tse pedi tsa tlhatlhobo di tsenngwa morago ga fa o dirisana le tsebe (go phuthulola, go ama kgotsa go otla konopo):",
+      "- Google Analytics 4 (dikuki jaaka _ga le _ga_*, di nna tsa tshwanelo go fitlha ka dingwaga di le 2 gongwe): dipalopalo tsa ketelo.",
+      "- Microsoft Clarity (dikuki jaaka _clck, _clsk, CLID le MUID, di nna tsa tshwanelo go fitlha ka ngwaga o le 1 gongwe): mapa a mogote le diriti tsa tirisano tse di sa bonwe leina la motho.",
+      "Batlamedi ba CDN le ba tshireletso le bone ba ka baya dikuki tsa botegeniki go sireletsa setsha mo tsamaong e e kotsi."
+     ]
+    },
+    {
+     "t": "4. Tsela ya go laola dikuki",
+     "b": [
+      "O ka phimola kgotsa wa thiba dikuki mo ditlhophisong tsa buraosara ya gago. O ka tsenya le add-on ya semmuso ya Google ya go ikgogela kwa ntle mo Google Analytics. Fa dikuki tsa tlhatlhobo di thibilwe, setsha se tswelela se dira; fa polokelo ya selegae e phimolwa, kgetho ya gago ya puo e boela kwa go e e tlwaelegileng."
+     ]
+    },
+    {
+     "t": "5. Dipotso",
+     "b": [
+      "Go botsa ka pholisi eno, ikgolaganye le nocodingindonesia@gmail.com. Tsela ya go dirisa data ya botho e tlhalosiwa go tswelela mo go Pholisi ya Poraefete. Fa dipuo di sa lebane mo tlhalosong, go dirisiwa mofuta wa Seindonesia."
+     ]
+    }
+   ]
+  }
+ }
+}

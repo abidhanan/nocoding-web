@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Última actualización",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Política de privacidade",
+   "description": "Que datos recolle Nocoding, para que se usan, quen os trata e os teus dereitos sobre os teus datos persoais.",
+   "sections": [
+    {
+     "t": "1. Quen somos",
+     "b": [
+      "Nocoding (nocoding.web.id) é un servizo de sitios web, aplicacións, sistemas de información e automatización xestionado por Abid Hanan Wicaksono en Indonesia. Esta política explica como tratamos os teus datos persoais cando visitas este sitio ou te pos en contacto connosco.",
+      "As preguntas sobre esta política pódense enviar a nocodingindonesia@gmail.com ou por WhatsApp ao +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Datos que recollemos",
+     "b": [
+      "- Datos que nos das ti: o teu nome, o número de WhatsApp, o correo electrónico e unha descrición do teu proxecto cando te pos en contacto connosco por WhatsApp ou correo electrónico. Este sitio non ten contas de usuario nin formularios de rexistro.",
+      "- Datos técnicos tratados automaticamente: enderezo IP, tipo de dispositivo e de navegador e as páxinas que abres. Os nosos provedores de aloxamento e de CDN trátanos para servir o sitio e protexelo contra abusos.",
+      "- País aproximado: para mostrar os prezos na túa moeda, o teu país estímase a partir da información da CDN ou do idioma do navegador. Non o gardamos nos nosos servidores.",
+      "- Datos analíticos: Google Analytics 4 e Microsoft Clarity (cando están activados) recollen estatísticas de uso como as páxinas abertas, a duración da visita, o tipo de dispositivo e gravacións anónimas de interacción. Só se cargan despois de que interactúes coa páxina.",
+      "- Almacenamento no navegador: a túa escolla de idioma, marcas de que xa lle deches a gústame, viches ou compartiches un artigo e unha estimación temporal de prezos. Os detalles están na Política de cookies.",
+      "- Os recontos de visualizacións, gústames e comparticións dos artigos gárdanse como números agregados, sen identidade do visitante."
+     ]
+    },
+    {
+     "t": "3. Para que se usan os datos",
+     "b": [
+      "- Responder ás túas preguntas, preparar orzamentos e levar a cabo o teu proxecto.",
+      "- Servir, protexer e manter rápido o sitio.",
+      "- Entender como se usa o sitio para poder melloralo.",
+      "- Cumprir as obrigas legais.",
+      "Non vendemos os teus datos persoais."
+     ]
+    },
+    {
+     "t": "4. Terceiros implicados",
+     "b": [
+      "- Vercel: aloxamento e servizo do sitio.",
+      "- Cloudflare: CDN e seguridade.",
+      "- Google (Google Analytics 4) e Microsoft (Clarity): estatísticas de uso do sitio.",
+      "- Meta (WhatsApp) e Google (Gmail): cando te pos en contacto connosco a través das ligazóns de WhatsApp ou de correo electrónico deste sitio.",
+      "- Provedor de tipos de cambio: só recibe solicitudes de tipos de cambio do noso servidor, non datos dos visitantes.",
+      "Estes provedores poden tratar datos fóra de Indonesia segundo as súas propias políticas."
+     ]
+    },
+    {
+     "t": "5. Canto tempo se conservan os datos",
+     "b": [
+      "As conversas e os materiais do proxecto consérvanse durante o tempo necesario para prestar o servizo, dar soporte e cumprir as obrigas legais, e despois elimínanse ou anonimízanse. Os datos analíticos seguen os axustes de conservación do seu provedor. Os datos do teu navegador permanecen ata que os elimines."
+     ]
+    },
+    {
+     "t": "6. Os teus dereitos",
+     "b": [
+      "Segundo a Lei n.º 27 de 2022 de Indonesia sobre protección de datos persoais, tes dereito a:",
+      "- coñecer e obter unha copia dos datos persoais que conservamos sobre ti;",
+      "- solicitar que se corrixan os datos incorrectos;",
+      "- solicitar que se eliminen os teus datos ou retirar o teu consentimento;",
+      "- opoñerte a certos tratamentos.",
+      "Envía a túa solicitude a nocodingindonesia@gmail.com. Responderemos nun prazo razoable."
+     ]
+    },
+    {
+     "t": "7. Seguridade e menores",
+     "b": [
+      "Este sitio usa HTTPS e o acceso aos datos dos proxectos está restrinxido. Ningún método de transmisión ou almacenamento de datos está totalmente libre de riscos, polo que non podemos garantir unha seguridade absoluta.",
+      "Os nosos servizos están pensados para persoas de 18 anos ou máis. Non recollemos de forma intencionada datos persoais de menores."
+     ]
+    },
+    {
+     "t": "8. Cambios nesta política",
+     "b": [
+      "Esta política pode actualizarse de cando en cando. A data da última actualización aparece na parte superior da páxina. Se hai diferenzas de significado entre idiomas, aplícase a versión en indonesio."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Termos e condicións",
+   "description": "As normas para usar o sitio e os servizos de Nocoding: paquetes, prezos, como se realiza o traballo, propiedade intelectual e límites de responsabilidade.",
+   "sections": [
+    {
+     "t": "1. Aceptación destes termos",
+     "b": [
+      "Ao abrir este sitio ou usar os servizos de Nocoding, aceptas estes termos e condicións. Se non estás de acordo, non uses o noso sitio nin os nosos servizos."
+     ]
+    },
+    {
+     "t": "2. Os servizos",
+     "b": [
+      "Nocoding crea sitios web de portfolio ou currículo, páxinas de aterraxe e perfís de empresa, sistemas de información e de operacións e automatización de procesos empresariais. O alcance do traballo, as funcións, o calendario e o custo acórdanse contigo por WhatsApp ou correo electrónico antes de comezar o traballo.",
+      "A consulta é sempre gratuíta, cando a necesites, e non te obriga a facer un pedido."
+     ]
+    },
+    {
+     "t": "3. Paquetes e prezos",
+     "b": [
+      "- Paquete pequeno: desde Rp 500.000 ao ano, con mantemento gratuíto e un dominio durante 1 ano.",
+      "- Paquete grande: desde Rp 2.000.000 ao ano, con mantemento gratuíto e aloxamento durante 1 ano.",
+      "Os prezos do sitio son prezos de partida. O importe final acórdase despois dunha consulta, segundo as túas necesidades. Para os visitantes de fóra de Indonesia, os prezos móstranse na moeda local como estimación baseada no tipo de cambio diario; o que se aplica é o importe en rupias que acordemos. Os custos adicionais, como funcións extra ou a renovación despois de que remate o período gratuíto, comunícanseche antes de facer o traballo."
+     ]
+    },
+    {
+     "t": "4. Como se fai o traballo e as túas responsabilidades",
+     "b": [
+      "O deseño revísase e apróbase contigo antes da produción. As revisións fanse segundo o acordado.",
+      "Es responsable de facilitar os materiais (logotipo, texto, fotos, datos) a tempo e de ter dereito a usalos. Os atrasos nos materiais ou nos comentarios poden afectar ao calendario."
+     ]
+    },
+    {
+     "t": "5. Mantemento",
+     "b": [
+      "O mantemento gratuíto durante 1 ano cobre a corrección de erros no noso traballo e as actualizacións básicas de seguridade. As funcións novas, os cambios importantes de deseño e o traballo alleo ao acordo orixinal cóbranse á parte."
+     ]
+    },
+    {
+     "t": "6. Propiedade intelectual",
+     "b": [
+      "Os materiais que nos facilitas seguen sendo teus. O traballo rematado entrégase unha vez completado o pagamento segundo o acordado. Nocoding pode amosar traballos publicados como exemplos no seu portfolio, a non ser que pidas por escrito que non se amosen.",
+      "O deseño, os textos e os artigos de nocoding.web.id pertencen a Nocoding. Podes compartir as ligazóns a eles, pero non podes copialos nin usalos comercialmente sen permiso. As fotos dos artigos proceden de Unsplash e seguen a súa licenza; a fonte indícase debaixo de cada foto."
+     ]
+    },
+    {
+     "t": "7. Idiomas do sitio",
+     "b": [
+      "Este sitio está dispoñible en moitos idiomas. As traducións, sobre todo as dos idiomas con menos falantes, poden non ser perfectas. Se hai diferenzas de significado, aplícase a versión en indonesio. Estas páxinas legais están dispoñibles en indonesio e en inglés."
+     ]
+    },
+    {
+     "t": "8. Límites de responsabilidade",
+     "b": [
+      "Esforzámonos por conseguir bos resultados, pero non prometemos resultados empresariais concretos como posicións nos buscadores, número de visitantes ou vendas. Non somos responsables das interrupcións causadas por terceiros, como os provedores de aloxamento, de dominios ou de pagamentos, nin das perdas indirectas.",
+      "A nosa responsabilidade por un servizo limítase ao importe que pagaches por ese servizo, na medida en que a lei o permita. Isto non reduce os dereitos que tes protexidos pola lei."
+     ]
+    },
+    {
+     "t": "9. Lei aplicable",
+     "b": [
+      "Estes termos réxense polas leis da República de Indonesia. Se xorde unha disputa, tentamos resolvela primeiro mediante o diálogo. Se non se chega a un acordo, a disputa resólvese nos tribunais competentes de Indonesia."
+     ]
+    },
+    {
+     "t": "10. Cambios e contacto",
+     "b": [
+      "Estes termos poden actualizarse de cando en cando; a data da última actualización aparece na parte superior da páxina. As preguntas pódense enviar a nocodingindonesia@gmail.com ou por WhatsApp ao +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Política de cookies",
+   "description": "As cookies e o almacenamento local que usa o sitio de Nocoding, para que serven e como xestionalos.",
+   "sections": [
+    {
+     "t": "1. Que son as cookies",
+     "b": [
+      "As cookies son pequenos ficheiros que un sitio garda no teu navegador. O almacenamento local e o almacenamento de sesión funcionan de xeito parecido, pero non se envían automaticamente a un servidor. Nesta páxina chamámolos a todos cookies."
+     ]
+    },
+    {
+     "t": "2. O que o sitio precisa para funcionar",
+     "b": [
+      "Gárdanse no teu navegador e non se envían aos nosos servidores:",
+      "- nocoding-language e nocoding-language-set: o idioma que escolleches ou que se detectou a partir do teu navegador.",
+      "- nocoding-pricing (sesión): a moeda e o tipo de cambio estimados, para que os prezos non se calculen de novo en cada páxina.",
+      "- Marcas de artigo: se xa lle deches a gústame, viches ou compartiches un artigo, para que os recontos non se dupliquen.",
+      "- Unha marca temporal da posición de desprazamento ao moverte entre partes do sitio."
+     ]
+    },
+    {
+     "t": "3. Analítica",
+     "b": [
+      "Cando están activados, dous servizos de analítica cárganse despois de que interactúes coa páxina (desprazar, tocar ou premer unha tecla):",
+      "- Google Analytics 4 (cookies como _ga e _ga_*, válidas ata uns 2 anos): estatísticas de visitas.",
+      "- Microsoft Clarity (cookies como _clck, _clsk, CLID e MUID, válidas ata uns 1 ano): mapas de calor e gravacións anónimas de interacción.",
+      "Os provedores de CDN e de seguridade tamén poden definir cookies técnicas para protexer o sitio do tráfico daniño."
+     ]
+    },
+    {
+     "t": "4. Como xestionar as cookies",
+     "b": [
+      "Podes eliminar ou bloquear as cookies na configuración do teu navegador. Tamén podes instalar o complemento oficial de exclusión de Google para Google Analytics. Se se bloquean as cookies de analítica, o sitio segue funcionando; se se borra o almacenamento local, a túa escolla de idioma volve ao valor predeterminado."
+     ]
+    },
+    {
+     "t": "5. Preguntas",
+     "b": [
+      "Para preguntas sobre esta política, contacta con nocodingindonesia@gmail.com. A forma en que se usan os datos persoais explícase con máis detalle na Política de privacidade. Se hai diferenzas de significado entre idiomas, aplícase a versión en indonesio."
+     ]
+    }
+   ]
+  }
+ }
+}

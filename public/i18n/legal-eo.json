@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Laste ĝisdatigita",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Privateca politiko",
+   "description": "Kiujn datumojn Nocoding kolektas, por kio ili estas uzataj, kiu traktas ilin, kaj kiujn rajtojn vi havas super viaj personaj datumoj.",
+   "sections": [
+    {
+     "t": "1. Kiu ni estas",
+     "b": [
+      "Nocoding (nocoding.web.id) estas servo pri retejoj, aplikaĵoj, informsistemoj kaj aŭtomatigo, funkciigata de Abid Hanan Wicaksono en Indonezio. Ĉi tiu politiko klarigas kiel ni traktas viajn personajn datumojn kiam vi vizitas ĉi tiun retejon aŭ kontaktas nin.",
+      "Demandojn pri ĉi tiu politiko oni povas sendi al nocodingindonesia@gmail.com aŭ per WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Datumoj kiujn ni kolektas",
+     "b": [
+      "- Datumoj kiujn vi mem donas: via nomo, WhatsApp-numero, retpoŝtadreso kaj priskribo de via projekto kiam vi kontaktas nin per WhatsApp aŭ retpoŝto. Ĉi tiu retejo ne havas uzantajn kontojn nek aliĝilojn.",
+      "- Teknikaj datumoj traktataj aŭtomate: IP-adreso, speco de aparato kaj retumilo, kaj la paĝoj kiujn vi malfermas. Niaj gastigaj kaj CDN-provizantoj traktas ilin por servi la retejon kaj protekti ĝin kontraŭ misuzo.",
+      "- Proksimuma lando: por ke prezoj povu esti montrataj en via valuto, via lando estas taksata laŭ CDN-informoj aŭ laŭ la lingvo de via retumilo. Ni ne konservas ĝin en niaj serviloj.",
+      "- Analizaj datumoj: Google Analytics 4 kaj Microsoft Clarity (kiam ili estas ŝaltitaj) kolektas uzstatistikojn kiel malfermitajn paĝojn, daŭron de vizito, specon de aparato kaj sennomajn registraĵojn de interagoj. Ili ŝargiĝas nur post kiam vi interagas kun la paĝo.",
+      "- Konservado en la retumilo: via lingva elekto, markoj ke vi jam ŝatis, vidis aŭ kunhavigis artikolon, kaj portempa prezotakso. Detaloj troviĝas en la Kuketa politiko.",
+      "- La nombroj de vidoj, ŝatoj kaj kunhavigoj de artikoloj estas konservataj kiel kunigitaj nombroj, sen identeco de vizitantoj."
+     ]
+    },
+    {
+     "t": "3. Por kio la datumoj estas uzataj",
+     "b": [
+      "- Respondi al viaj demandoj, prepari ofertojn kaj efektivigi vian projekton.",
+      "- Servi kaj sekurigi la retejon kaj teni ĝin rapida.",
+      "- Kompreni kiel la retejo estas uzata por ke ni povu plibonigi ĝin.",
+      "- Plenumi leĝajn devojn.",
+      "Ni ne vendas viajn personajn datumojn."
+     ]
+    },
+    {
+     "t": "4. Implikitaj triaj partoj",
+     "b": [
+      "- Vercel: gastigado kaj servado de la retejo.",
+      "- Cloudflare: CDN kaj sekureco.",
+      "- Google (Google Analytics 4) kaj Microsoft (Clarity): statistikoj pri uzo de la retejo.",
+      "- Meta (WhatsApp) kaj Google (Gmail): kiam vi kontaktas nin per la WhatsApp- aŭ retpoŝtaj ligiloj en ĉi tiu retejo.",
+      "- Provizanto de valutaj kursoj: ricevas nur kurspetojn de nia servilo, ne datumojn de vizitantoj.",
+      "Ĉi tiuj provizantoj povas trakti datumojn ekster Indonezio laŭ siaj propraj politikoj."
+     ]
+    },
+    {
+     "t": "5. Kiom longe datumoj estas konservataj",
+     "b": [
+      "Konversacioj kaj projektaj materialoj estas konservataj tiel longe kiel necesas por funkciigi la servon, doni subtenon kaj plenumi leĝajn devojn, poste ili estas forigataj aŭ anonimigataj. Analizaj datumoj sekvas la konservajn agordojn de sia provizanto. Datumoj en via retumilo restas ĝis vi forigas ilin."
+     ]
+    },
+    {
+     "t": "6. Viaj rajtoj",
+     "b": [
+      "Laŭ la Leĝo n-ro 27 de 2022 de Indonezio pri Protektado de Personaj Datumoj, vi rajtas:",
+      "- scii kaj ricevi kopion de la personaj datumoj kiujn ni havas pri vi;",
+      "- peti korekton de malĝustaj datumoj;",
+      "- peti forigon de viaj datumoj aŭ reti vian konsenton;",
+      "- kontraŭi certan traktadon.",
+      "Sendu vian peton al nocodingindonesia@gmail.com. Ni respondos ene de racia tempo."
+     ]
+    },
+    {
+     "t": "7. Sekureco kaj infanoj",
+     "b": [
+      "Ĉi tiu retejo uzas HTTPS kaj aliro al projektaj datumoj estas limigita. Neniu metodo de transsendo aŭ konservado de datumoj estas tute sen risko, tial ni ne povas garantii absolutan sekurecon.",
+      "Niaj servoj estas destinitaj al homoj je aĝo de 18 jaroj kaj pli. Ni ne scie kolektas personajn datumojn de infanoj."
+     ]
+    },
+    {
+     "t": "8. Ŝanĝoj de ĉi tiu politiko",
+     "b": [
+      "Ĉi tiu politiko povas esti ĝisdatigata de tempo al tempo. La dato de la lasta ĝisdatigo estas montrata supre en la paĝo. Se la lingvoj malsamas laŭ senco, validas la indonezia versio."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Kondiĉoj de uzo",
+   "description": "La reguloj por uzi la retejon kaj servojn de Nocoding: pakaĵoj, prezoj, laborprocezo, intelekta proprieto kaj limoj de respondeco.",
+   "sections": [
+    {
+     "t": "1. Akcepto de la kondiĉoj",
+     "b": [
+      "Malfermante ĉi tiun retejon aŭ uzante la servojn de Nocoding, vi konsentas pri ĉi tiuj kondiĉoj de uzo. Se vi ne konsentas, bonvolu ne uzi nian retejon aŭ servojn."
+     ]
+    },
+    {
+     "t": "2. La servoj",
+     "b": [
+      "Nocoding kreas portfoliajn aŭ CV-retejojn, alteriĝajn paĝojn kaj kompaniajn profilojn, informajn kaj operaciajn sistemojn, kaj aŭtomatigon de komercaj procezoj. La amplekso de la laboro, funkcioj, horaro kaj kosto estas interkonsentitaj kun vi per WhatsApp aŭ retpoŝto antaŭ ol la laboro komenciĝas.",
+      "Konsilado ĉiam estas senpaga, kiam ajn vi bezonas ĝin, kaj ne devigas vin mendi."
+     ]
+    },
+    {
+     "t": "3. Pakaĵoj kaj prezoj",
+     "b": [
+      "- Malgranda pakaĵo: ekde Rp 500 000 jare, inkluzive de senpaga prizorgado kaj domajno por 1 jaro.",
+      "- Granda pakaĵo: ekde Rp 2 000 000 jare, inkluzive de senpaga prizorgado kaj gastigado por 1 jaro.",
+      "La prezoj en la retejo estas komencaj prezoj. La fina sumo estas interkonsentita post konsilado, laŭ viaj bezonoj. Por vizitantoj ekster Indonezio, prezoj estas montrataj en la loka valuto kiel takso surbaze de la taga kurzo; validas la sumo en rupioj pri kiu ni interkonsentas. Pliaj kostoj, kiel aldonaj funkcioj aŭ renovigo post la fino de la senpaga periodo, estas komunikataj al vi antaŭ ol la laboro estas farata."
+     ]
+    },
+    {
+     "t": "4. Kiel la laboro estas farata kaj viaj respondecoj",
+     "b": [
+      "La dezajno estas reviziata kaj aprobata kun vi antaŭ la produktado. Revizioj estas faritaj laŭ interkonsento.",
+      "Vi respondecas pri tempa provizo de materialoj (emblemo, teksto, fotoj, datumoj) kaj pri tio, ke vi rajtas uzi ilin. Prokrasto de materialoj aŭ de reago povas influi la horaron."
+     ]
+    },
+    {
+     "t": "5. Prizorgado",
+     "b": [
+      "Senpaga prizorgado dum 1 jaro kovras la riparon de eraroj en nia laboro kaj bazajn sekurecajn ĝisdatigojn. Novaj funkcioj, gravaj ŝanĝoj de dezajno kaj laboro ekster la origina interkonsento estas pagendaj aparte."
+     ]
+    },
+    {
+     "t": "6. Intelekta proprieto",
+     "b": [
+      "La materialoj kiujn vi provizas restas viaj. La finita laboro estas transdonata al vi post kiam la pago laŭ interkonsento estas kompleta. Nocoding rajtas montri publikigitajn laborojn kiel ekzemplojn en sia portfolio, krom se vi skribe petas ke ili ne estu montrataj.",
+      "La dezajno, tekstoj kaj artikoloj en nocoding.web.id apartenas al Nocoding. Vi rajtas kunhavigi ligilojn al ili, sed vi ne rajtas kopii kaj uzi ilin komerce sen permeso. Artikolaj fotoj venas de Unsplash kaj sekvas ĝian licencon; la fonto estas menciita sub ĉiu foto."
+     ]
+    },
+    {
+     "t": "7. Lingvoj de la retejo",
+     "b": [
+      "Ĉi tiu retejo disponeblas en multaj lingvoj. Tradukoj, precipe por lingvoj kun malpli da parolantoj, eble ne estas perfektaj. Se ili malsamas laŭ senco, validas la indonezia versio. Ĉi tiuj leĝaj paĝoj disponeblas en la indonezia kaj la angla."
+     ]
+    },
+    {
+     "t": "8. Limoj de respondeco",
+     "b": [
+      "Ni laboras por liveri bonajn rezultojn, sed ni ne promesas specifajn komercajn rezultojn kiel serĉorangojn, nombron de vizitantoj aŭ vendojn. Ni ne respondecas pri perturboj de triaj partoj kiel gastigaj, domajnaj aŭ pagaj provizantoj, nek pri nerektaj perdoj.",
+      "Nia respondeco pri servo estas limigita al la sumo kiun vi pagis por tiu servo, laŭ la mezuro kiun la leĝo permesas. Tio ne malpliigas viajn rajtojn protektitajn de la leĝo."
+     ]
+    },
+    {
+     "t": "9. Aplikebla leĝo",
+     "b": [
+      "Ĉi tiuj kondiĉoj estas regataj de la leĝoj de la Respubliko Indonezio. Se disputo okazas, ni unue provas solvi ĝin per diskuto. Se neniu interkonsento estas atingita, la disputo estas solvata de la kompetentaj tribunaloj en Indonezio."
+     ]
+    },
+    {
+     "t": "10. Ŝanĝoj kaj kontakto",
+     "b": [
+      "Ĉi tiuj kondiĉoj povas esti ĝisdatigataj de tempo al tempo; la dato de la lasta ĝisdatigo estas montrata supre en la paĝo. Demandojn oni povas sendi al nocodingindonesia@gmail.com aŭ per WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Kuketa politiko",
+   "description": "La kuketoj kaj loka konservado kiujn la retejo de Nocoding uzas, por kio ili servas, kaj kiel administri ilin.",
+   "sections": [
+    {
+     "t": "1. Kio estas kuketoj",
+     "b": [
+      "Kuketoj estas malgrandaj dosieroj kiujn retejo konservas en via retumilo. Loka konservado kaj seanca konservado funkcias simile, sed ne estas aŭtomate sendataj al servilo. En ĉi tiu paĝo ni nomas ilin ĉiujn kuketoj."
+     ]
+    },
+    {
+     "t": "2. Kion la retejo bezonas por funkcii",
+     "b": [
+      "Konservitaj en via retumilo kaj ne senditaj al niaj serviloj:",
+      "- nocoding-language kaj nocoding-language-set: la lingvo kiun vi elektis aŭ kiu estis detektita de via retumilo.",
+      "- nocoding-pricing (seanco): la taksita valuto kaj kurzo, por ke prezoj ne estu kalkulataj denove en ĉiu paĝo.",
+      "- Artikolaj markoj: ĉu vi jam ŝatis, vidis aŭ kunhavigis artikolon, por ke nombroj ne duobliĝu.",
+      "- Portempa marko de rulumpozicio dum movado inter partoj de la retejo."
+     ]
+    },
+    {
+     "t": "3. Analizo",
+     "b": [
+      "Kiam ŝaltitaj, du analizaj servoj ŝargiĝas post kiam vi interagas kun la paĝo (rulumas, tuŝas aŭ premas klavon):",
+      "- Google Analytics 4 (kuketoj kiel _ga kaj _ga_*, validaj ĝis proksimume 2 jaroj): vizitaj statistikoj.",
+      "- Microsoft Clarity (kuketoj kiel _clck, _clsk, CLID kaj MUID, validaj ĝis proksimume 1 jaro): varmomapoj kaj sennomaj registraĵoj de interagoj.",
+      "CDN- kaj sekurecaj provizantoj ankaŭ povas meti teknikajn kuketojn por protekti la retejon kontraŭ damaĝa trafiko."
+     ]
+    },
+    {
+     "t": "4. Kiel administri kuketojn",
+     "b": [
+      "Vi povas forigi aŭ bloki kuketojn en la agordoj de via retumilo. Vi ankaŭ povas instali la oficialan aldonaĵon de Google por rifuzi Google Analytics. Se analizaj kuketoj estas blokitaj, la retejo daŭre funkcias; se loka konservado estas vakigita, via lingva elekto revenas al la defaŭlto."
+     ]
+    },
+    {
+     "t": "5. Demandoj",
+     "b": [
+      "Pri demandoj pri ĉi tiu politiko, kontaktu nocodingindonesia@gmail.com. Kiel personaj datumoj estas uzataj estas pli detale klarigita en la Privateca politiko. Se la lingvoj malsamas laŭ senco, validas la indonezia versio."
+     ]
+    }
+   ]
+  }
+ }
+}

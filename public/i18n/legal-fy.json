@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Lêst bywurke",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Privacybelied",
+   "description": "Hokker gegevens Nocoding sammelet, wêr't se foar brûkt wurde, wa't se ferwurket en hokker rjochten jo hawwe op jo persoanlike gegevens.",
+   "sections": [
+    {
+     "t": "1. Wa't wy binne",
+     "b": [
+      "Nocoding (nocoding.web.id) is in tsjinst foar websites, apps, ynformaasjesystemen en automatisearring dy't troch Abid Hanan Wicaksono yn Yndoneezje rûn wurdt. Dit belied lit sjen hoe't wy mei jo persoanlike gegevens omgean as jo dizze side besykje of kontakt mei ús opnimme.",
+      "Fragen oer dit belied kinne stjoerd wurde nei nocodingindonesia@gmail.com of WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Gegevens dy't wy sammelje",
+     "b": [
+      "- Gegevens dy't jo ús jouwe: jo namme, WhatsApp-nûmer, e-mail en in beskriuwing fan jo projekt as jo fia WhatsApp of e-mail kontakt mei ús opnimme. Dizze side hat gjin brûkersakkounts of ynskriuwformulieren.",
+      "- Technyske gegevens dy't automatysk ferwurke wurde: IP-adres, type apparaat en browser, en de siden dy't jo iepenje. Us hosting- en CDN-oanbieders ferwurkje se om de side te toanen en tsjin misbrûk te beskermjen.",
+      "- Rûch lân: om prizen yn jo falúta sjen te litten, wurdt jo lân ynskat op grûn fan CDN-ynformaasje of de taal fan jo browser. Wy bewarje it net op ús servers.",
+      "- Analysegegevens: Google Analytics 4 en Microsoft Clarity (as se ynskeakele binne) sammelje gebrûksstatistiken lykas iepene siden, lingte fan it besyk, type apparaat en anonime opnamen fan ynteraksje. Se wurde allinnich laden nei't jo mei de side wurke hawwe.",
+      "- Opslach yn de browser: jo taalkar, markearringen dat jo in artikel al leuk fûn, besjoen of dield hawwe, en in tydlike priisskatting. Details steane yn it Cookiebelied.",
+      "- It oantal werjeften, likes en dielingen fan artikels wurdt bewarre as optelde getallen, sûnder identiteit fan de besiker."
+     ]
+    },
+    {
+     "t": "3. Wêr't de gegevens foar brûkt wurde",
+     "b": [
+      "- It beäntwurdzjen fan jo fragen, it opstellen fan offertes en it útfieren fan jo projekt.",
+      "- It oanbieden, befeiligjen en rap hâlden fan de side.",
+      "- Begripe hoe't de side brûkt wurdt, sadat wy it better meitsje kinne.",
+      "- It neikommen fan wetlike ferplichtingen.",
+      "Wy ferkeapje jo persoanlike gegevens net."
+     ]
+    },
+    {
+     "t": "4. Belutsen tredden",
+     "b": [
+      "- Vercel: hosting en it oanbieden fan de side.",
+      "- Cloudflare: CDN en befeiliging.",
+      "- Google (Google Analytics 4) en Microsoft (Clarity): gebrûksstatistiken fan de side.",
+      "- Meta (WhatsApp) en Google (Gmail): as jo fia de WhatsApp- of e-mailkeppelings op dizze side kontakt mei ús opnimme.",
+      "- Oanbieder fan falútakoersen: krijt allinnich koersfersiken fan ús server, gjin gegevens fan besikers.",
+      "Dizze oanbieders kinne gegevens bûten Yndoneezje ferwurkje neffens har eigen belied."
+     ]
+    },
+    {
+     "t": "5. Hoe lang gegevens bewarre wurde",
+     "b": [
+      "Petearen en projektmaterialen wurde bewarre salang't dat nedich is om de tsjinst út te fieren, stipe te jaan en wetlike ferplichtingen neikomme te kinnen, en dan wiske of anonymisearre. Analysegegevens folgje de bewarringsynstellingen fan de oanbieder. Gegevens yn jo browser bliuwe stean oant jo se wiskje."
+     ]
+    },
+    {
+     "t": "6. Jo rjochten",
+     "b": [
+      "Neffens Yndoneezje Wet nr. 27 fan 2022 oer de beskerming fan persoanlike gegevens hawwe jo it rjocht om:",
+      "- te witten hokker persoanlike gegevens wy oer jo hawwe en dêr in kopy fan te krijen;",
+      "- te freegjen om ferkearde gegevens te korrizjearjen;",
+      "- te freegjen om jo gegevens te wiskjen of jo tastimming yn te lûken;",
+      "- beswier te meitsjen tsjin bepaalde ferwurking.",
+      "Stjoer jo fersyk nei nocodingindonesia@gmail.com. Wy reagearje binnen in ridlike termyn."
+     ]
+    },
+    {
+     "t": "7. Befeiliging en bern",
+     "b": [
+      "Dizze side brûkt HTTPS en tagong ta projektgegevens is beheind. Gjin inkele metoade fan oerdracht of opslach fan gegevens is folslein sûnder risiko, dus wy kinne gjin absolute befeiliging garandearje.",
+      "Us tsjinsten binne bedoeld foar minsken fan 18 jier en âlder. Wy sammelje bewust gjin persoanlike gegevens fan bern."
+     ]
+    },
+    {
+     "t": "8. Wizigingen yn dit belied",
+     "b": [
+      "Dit belied kin fan tiid ta tiid bywurke wurde. De datum fan de lêste bywurking stiet boppe oan de side. As de talen yn betsjutting ferskille, jildt de Yndoneezje ferzje."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Algemiene betingsten",
+   "description": "De regels foar it brûken fan de side en tsjinsten fan Nocoding: pakketten, prizen, hoe't it wurk dien wurdt, yntellektueel eigendom en grinzen oan oanspraaklikens.",
+   "sections": [
+    {
+     "t": "1. Akseptearjen fan dizze betingsten",
+     "b": [
+      "Troch dizze side te iepenjen of de tsjinsten fan Nocoding te brûken, geane jo akkoard mei dizze betingsten. As jo it net iens binne, brûk ús side of tsjinsten dan net."
+     ]
+    },
+    {
+     "t": "2. De tsjinsten",
+     "b": [
+      "Nocoding makket portfolio- of cv-websites, lâningssiden en bedriuwsprofilen, ynformaasje- en bestjoerssystemen, en automatisearring fan bedriuwsprosessen. De omfang fan it wurk, funksjes, planning en kosten wurde mei jo oerlein fia WhatsApp of e-mail foardat it wurk begjint.",
+      "Advys is altyd fergees, wannear't jo it nedich hawwe, en ferplichtet jo net om wat te bestellen."
+     ]
+    },
+    {
+     "t": "3. Pakketten en prizen",
+     "b": [
+      "- Lyts pakket: fan Rp 500.000 per jier, ynklusyf fergees ûnderhâld en in domein foar 1 jier.",
+      "- Grut pakket: fan Rp 2.000.000 per jier, ynklusyf fergees ûnderhâld en hosting foar 1 jier.",
+      "Prizen op de side binne startprizen. It definitive bedrach wurdt nei advys oerienkommen, op grûn fan jo behoeften. Foar besikers bûten Yndoneezje wurde prizen yn de pleatslike falúta toand as skatting op grûn fan de deistige wikselkoers; it bedrach yn rupiah dat wy ôfpraat hawwe, is dat dat jildt. Ekstra kosten, lykas ekstra funksjes of ferlinging nei it ein fan de fergese perioade, wurde jo meidield foardat it wurk dien wurdt."
+     ]
+    },
+    {
+     "t": "4. Hoe't it wurk dien wurdt en jo ferantwurdlikheden",
+     "b": [
+      "It ûntwerp wurdt mei jo besjoen en goedkard foar de produksje. Revyzjes wurde dien sa't ôfpraat is.",
+      "Jo binne ferantwurdlik foar it op tiid oanleverjen fan materiaal (logo, tekst, foto's, gegevens) en foar it hawwen fan it rjocht om it te brûken. Fertraging yn materiaal of feedback kin de planning beynfloedzje."
+     ]
+    },
+    {
+     "t": "5. Ûnderhâld",
+     "b": [
+      "Fergees ûnderhâld foar 1 jier omfettet it reparearjen fan flaters yn ús wurk en basale befeiligingsupdates. Nije funksjes, grutte ûntwerpwizigingen en wurk bûten de oarspronklike ôfspraak wurde apart yn rekken brocht."
+     ]
+    },
+    {
+     "t": "6. Yntellektueel eigendom",
+     "b": [
+      "It materiaal dat jo oanlevere, bliuwt fan jo. It klearkommen wurk wurdt jo oerdroegen as de betelling sa't ôfpraat folslein foldien is. Nocoding mei libbend wurk as foarbyld sjen litte yn syn portfolio, útsein as jo skriftlik freegje om it net sjen te litten.",
+      "It ûntwerp, de tekst en de artikels op nocoding.web.id binne fan Nocoding. Jo meie keppelings dêrnei diele, mar jo meie se net kopiearje en kommersjeel brûke sûnder tastimming. Artikelfoto's komme fan Unsplash en folgje de lisinsje dêrfan; de boarne wurdt ûnder elke foto neamd."
+     ]
+    },
+    {
+     "t": "7. Talen fan de side",
+     "b": [
+      "Dizze side is yn in protte talen beskikber. Oersettingen, benammen foar talen mei minder sprekkers, binne miskien net perfekt. As se yn betsjutting ferskille, jildt de Yndoneezje ferzje. Dizze juridyske siden binne beskikber yn it Yndoneezjsk en Ingelsk."
+     ]
+    },
+    {
+     "t": "8. Grinzen oan oanspraaklikens",
+     "b": [
+      "Wy wurkje om goede resultaten te leverjen, mar wy beloofje gjin bepaalde bedriuwsresultaten lykas sykposysjes, besikersoantallen of ferkeap. Wy binne net ferantwurdlik foar steuringen troch tredden lykas hosting-, domein- of betelleveransiers, of foar yndirekte skea.",
+      "Us oanspraaklikens foar in tsjinst is beheind ta it bedrach dat jo foar dy tsjinst betelle hawwe, foarsafier't de wet it talit. Dit ferminderet jo rjochten dy't by wet beskerme binne net."
+     ]
+    },
+    {
+     "t": "9. Fan tapassing wêzend rjocht",
+     "b": [
+      "Op dizze betingsten is it rjocht fan de Republyk Yndoneezje fan tapassing. As der in skeel ûntstiet, besykje wy dat earst op te lossen troch oerlis. As der gjin oerienkomst komt, wurdt it skeel beslist troch de befoege rjochters yn Yndoneezje."
+     ]
+    },
+    {
+     "t": "10. Wizigingen en kontakt",
+     "b": [
+      "Dizze betingsten kinne fan tiid ta tiid bywurke wurde; de datum fan de lêste bywurking stiet boppe oan de side. Fragen kinne stjoerd wurde nei nocodingindonesia@gmail.com of WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Cookiebelied",
+   "description": "De cookies en lokale opslach dy't de side fan Nocoding brûkt, wêr't se foar binne en hoe't jo se beheare kinne.",
+   "sections": [
+    {
+     "t": "1. Wat cookies binne",
+     "b": [
+      "Cookies binne lytse bestannen dy't in side yn jo browser opslacht. Lokale opslach en sesjeopslach wurkje op in ferlykbere wize, mar wurde net automatysk nei in server stjoerd. Op dizze side neame wy se allegear cookies."
+     ]
+    },
+    {
+     "t": "2. Wat de side nedich hat om te wurkjen",
+     "b": [
+      "Opslein yn jo browser en net nei ús servers stjoerd:",
+      "- nocoding-language en nocoding-language-set: de taal dy't jo keazen hawwe of dy't út jo browser ûntdutsen is.",
+      "- nocoding-pricing (sesje): de skatte falúta en koers, sadat prizen net op elke side opnij útrekkene wurde.",
+      "- Artikelmarkearringen: oft jo in artikel al leuk fûn, besjoen of dield hawwe, sadat oantallen net dûbeld telle.",
+      "- In tydlike markearring fan de skowposysje by it ferpleatsen tusken dielen fan de side."
+     ]
+    },
+    {
+     "t": "3. Analyse",
+     "b": [
+      "As se ynskeakele binne, wurde twa analysetsjinsten laden nei't jo mei de side wurke hawwe (skowe, tikje of in toets yndrukke):",
+      "- Google Analytics 4 (cookies lykas _ga en _ga_*, jildich oant sawat 2 jier): besyksstatistiken.",
+      "- Microsoft Clarity (cookies lykas _clck, _clsk, CLID en MUID, jildich oant sawat 1 jier): waarmtekaarten en anonime opnamen fan ynteraksje.",
+      "CDN- en befeiligingsoanbieders kinne ek technyske cookies pleatse om de side te beskermjen tsjin skealik ferkear."
+     ]
+    },
+    {
+     "t": "4. Hoe't jo cookies beheare",
+     "b": [
+      "Jo kinne cookies wiskje of blokkearje yn de ynstellingen fan jo browser. Jo kinne ek de offisjele opt-out-tafoeging fan Google foar Google Analytics ynstallearje. As analysecookies blokkearre wurde, wurket de side noch hieltyd; as de lokale opslach leechmakke wurdt, giet jo taalkar werom nei de standert."
+     ]
+    },
+    {
+     "t": "5. Fragen",
+     "b": [
+      "Foar fragen oer dit belied kinne jo kontakt opnimme mei nocodingindonesia@gmail.com. Hoe't persoanlike gegevens brûkt wurde, wurdt fierder útlein yn it Privacybelied. As de talen yn betsjutting ferskille, jildt de Yndoneezje ferzje."
+     ]
+    }
+   ]
+  }
+ }
+}

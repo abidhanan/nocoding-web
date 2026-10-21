@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Kubuyekezwe kokugcina",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Inqubomgomo Yobumfihlo",
+   "description": "Imininingwane iNocoding eyiqoqayo, esetshenziselwani, ubani oyilandelayo, namalungelo akho phezu kwemininingwane yakho siqu.",
+   "sections": [
+    {
+     "t": "1. Singobani",
+     "b": [
+      "I-Nocoding (nocoding.web.id) yinkonzo yamawebhusayithi, ama-app, amasistimu olwazi nokuzenzakalelayo eqhutshwa ngu-Abid Hanan Wicaksono e-Indonesia. Le nqubomgomo ichaza ukuthi siyiphatha kanjani imininingwane yakho siqu uma uvakashela le sayithi noma uxhumana nathi.",
+      "Imibuzo mayelana nale nqubomgomo ingathunyelwa ku-nocodingindonesia@gmail.com noma nge-WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Imininingwane esiyiqoqayo",
+     "b": [
+      "- Imininingwane osinika yona: igama lakho, inombolo yakho ye-WhatsApp, i-imeyili nencazelo yephrojekthi yakho uma uxhumana nathi nge-WhatsApp noma nge-imeyili. Le sayithi ayinawo ama-akhawunti abasebenzisi noma amafomu okubhalisa.",
+      "- Imininingwane yezobuchwepheshe elandelwa ngokuzenzakalelayo: ikheli le-IP, uhlobo lwedivayisi nelebhrawuza, namakhasi owavulayo. Abahlinzeki bethu bokusingatha nabe-CDN bayilandela ukuze basebenzise isayithi futhi bayivikele ekusetshenzisweni kabi.",
+      "- Izwe elilinganiselwe: ukuze amanani abonakaliswe ngemali yakho, izwe lakho liyabikezelwa ngolwazi lwe-CDN noma ulimi lwebhrawuza yakho. Asiligcini kuma-seva ethu.",
+      "- Imininingwane yokuhlaziya: i-Google Analytics 4 ne-Microsoft Clarity (uma kunikwe amandla) iqoqa izibalo zokusetshenziswa ezifana namakhasi avuliwe, ubude bokuvakasha, uhlobo lwedivayisi nokuqoshwa okungaziwa kokusebenzisana. Zilayisha kuphela ngemva kokuba usebenzisane nekhasi.",
+      "- Isitoreji sebhrawuza: ukukhetha kwakho ulimi, izimpawu zokuthi usuyithandile, usuyibonile noma usuyabelane ngendatshana, kanye nesilinganiso sentengo sesikhashana. Imininingwane iku-Nqubomgomo Yamakhukhi.",
+      "- Izinombolo zokubukwa, zokuthandwa nezokwabelwana ngezindatshana zigcinwa njengezinombolo ezihlanganisiwe, ngaphandle kobuwena womvakashi."
+     ]
+    },
+    {
+     "t": "3. Imininingwane isetshenziselwani",
+     "b": [
+      "- Ukuphendula imibuzo yakho, ukulungiselela izinkulumo-mali nokwenza iphrojekthi yakho.",
+      "- Ukusebenzisa, ukuvikela nokugcina isayithi isheshe.",
+      "- Ukuqonda ukuthi isayithi isetshenziswa kanjani ukuze siyithuthukise.",
+      "- Ukuhlangabezana nezibopho zomthetho.",
+      "Asiyithengisi imininingwane yakho siqu."
+     ]
+    },
+    {
+     "t": "4. Amaqembu wesithathu ahilelekile",
+     "b": [
+      "- Vercel: ukusingatha nokusebenzisa isayithi.",
+      "- Cloudflare: i-CDN nokuphepha.",
+      "- Google (Google Analytics 4) ne-Microsoft (Clarity): izibalo zokusetshenziswa kwesayithi.",
+      "- Meta (WhatsApp) ne-Google (Gmail): uma uxhumana nathi ngezixhumanisi ze-WhatsApp noma ze-imeyili kule sayithi.",
+      "- Umhlinzeki wamanani okushintshaniswa kwemali: uthola kuphela izicelo zamanani eseva yethu, hhayi imininingwane yezivakashi.",
+      "Laba bahlinzeki bangaqhubeka nemininingwane ngaphandle kwe-Indonesia ngokwezinqubomgomo zabo."
+     ]
+    },
+    {
+     "t": "5. Isikhathi imininingwane egcinwa ngaso",
+     "b": [
+      "Izingxoxo nezinto zephrojekthi zigcinwa isikhathi eside njengoba kudingeka ukuqhuba inkonzo, ukunikeza usizo nokuhlangabezana nezibopho zomthetho, bese zisulwa noma zenziwa zingaziwa. Imininingwane yokuhlaziya ilandela izilungiselelo zokugcina zomhlinzeki wayo. Imininingwane ebhrawuzeni yakho ihlala kuze kube yilapho uyisula."
+     ]
+    },
+    {
+     "t": "6. Amalungelo akho",
+     "b": [
+      "Ngaphansi koMthetho Wesi-27 wango-2022 wase-Indonesia Wokuvikelwa Kwemininingwane Siqu, unelungelo lokuthi:",
+      "- wazi futhi uthole ikhophi yemininingwane yakho siqu esinayo;",
+      "- ucele ukuthi imininingwane engalungile ilungiswe;",
+      "- ucele ukuthi imininingwane yakho isulwe noma uhoxise imvume yakho;",
+      "- ubhikishe ukucutshungulwa okuthile.",
+      "Thumela isicelo sakho ku-nocodingindonesia@gmail.com. Sizophendula ngesikhathi esifanele."
+     ]
+    },
+    {
+     "t": "7. Ukuphepha nezingane",
+     "b": [
+      "Le sayithi isebenzisa i-HTTPS futhi ukufinyelela emininingwaneni yephrojekthi kuvinjelwe. Akukho ndlela yokudlulisa noma yokugcina imininingwane engenabo nhlobo ubungozi, ngakho asikwazi ukuqinisekisa ukuphepha okuphelele.",
+      "Izinkonzo zethu zenzelwe abantu abaneminyaka engu-18 nangaphezulu. Asiqoqi ngamabomu imininingwane siqu yezingane."
+     ]
+    },
+    {
+     "t": "8. Izinguquko kule nqubomgomo",
+     "b": [
+      "Le nqubomgomo ingabuyekezwa ngezikhathi ezithile. Usuku lokubuyekezwa kokugcina lubonakala phezulu ekhasini. Uma izilimi zihluka ngencazelo, inguqulo yesi-Indonesia iyasebenza."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Imigomo Nezimo",
+   "description": "Imithetho yokusebenzisa isayithi nezinkonzo zeNocoding: amaphakheji, amanani, ukuthi umsebenzi wenziwa kanjani, impahla yobuhlakani nemikhawulo yemfanelo.",
+   "sections": [
+    {
+     "t": "1. Ukwamukela le migomo",
+     "b": [
+      "Ngokuvula le sayithi noma ngokusebenzisa izinkonzo zeNocoding, uyavuma kule migomo nezimo. Uma ungavumi, sicela ungasebenzisi isayithi noma izinkonzo zethu."
+     ]
+    },
+    {
+     "t": "2. Izinkonzo",
+     "b": [
+      "I-Nocoding yakha amawebhusayithi ephothifoliyo noma e-CV, amakhasi okufika namaphrofayili enkampani, amasistimu olwazi nawemisebenzi, kanye nokuzenzakalelayo kwezinqubo zebhizinisi. Ububanzi bomsebenzi, izici, uhlelo lwesikhathi nezindleko kuyavunyelwana nawe nge-WhatsApp noma nge-imeyili ngaphambi kokuba umsebenzi uqale.",
+      "Ukuxoxisana kuhlale kungenamali, noma nini lapho ukudinga, futhi akukuphoqi ukuthi uthumele i-oda."
+     ]
+    },
+    {
+     "t": "3. Amaphakheji namanani",
+     "b": [
+      "- Iphakheji elincane: kusuka ku-Rp 500.000 ngonyaka, kuhlanganise nokunakekelwa mahhala nedomeyini yonyaka o-1.",
+      "- Iphakheji elikhulu: kusuka ku-Rp 2.000.000 ngonyaka, kuhlanganise nokunakekelwa mahhala nokusingatha (hosting) konyaka o-1.",
+      "Amanani asesayithini angamanani aqalayo. Inani lokugcina livunyelwana ngemva kokuxoxisana, ngokwezidingo zakho. Ezivakashini ezingaphandle kwe-Indonesia, amanani abonakaliswa ngemali yasendaweni njengesilinganiso esisekelwe ezinganini zokushintshaniswa kwemali zansuku zonke; inani lamarupiya esivumelana ngalo yilona elisebenzayo. Izindleko ezengeziwe, ezifana nezici ezengeziwe noma ukuvuselela ngemva kokuphela kwesikhathi mahhala, uyatshelwa zona ngaphambi kokuba umsebenzi wenziwe."
+     ]
+    },
+    {
+     "t": "4. Indlela umsebenzi owenziwa ngayo nezibopho zakho",
+     "b": [
+      "Idizayini ibukezwa futhi igunyazwe nawe ngaphambi kokukhiqizwa. Ukubuyekezwa kwenziwa njengoba kuvunyelwene.",
+      "Unesibopho sokunikeza izinto (ilogo, umbhalo, izithombe, imininingwane) ngesikhathi nokuba nelungelo lokuzisebenzisa. Ukubambezeleka kwezinto noma kwempendulo kungathinta uhlelo lwesikhathi."
+     ]
+    },
+    {
+     "t": "5. Ukunakekelwa",
+     "b": [
+      "Ukunakekelwa mahhala konyaka o-1 kuhlanganisa ukulungisa amaphutha emsebenzini wethu nokubuyekezwa kokuphepha okuyisisekelo. Izici ezintsha, izinguquko ezinkulu zedizayini nomsebenzi ongaphandle kwesivumelwano sokuqala kukhokhelwa ngokwehlukile."
+     ]
+    },
+    {
+     "t": "6. Impahla yobuhlakani",
+     "b": [
+      "Izinto onikeza zona zihlala ziyizakho. Umsebenzi oqediwe unikezwa wena ngemva kokuba inkokhelo njengoba kuvunyelwene iqediwe. I-Nocoding ingabonisa umsebenzi ophilayo njengezibonelo kuphothifoliyo yayo, ngaphandle uma ucela ngokubhaliwe ukuthi ungabonisiwe.",
+      "Idizayini, umbhalo nezindatshana ku-nocoding.web.id kungezeNocoding. Ungabelana ngezixhumanisi zazo, kodwa awukwazi ukuzikopisha uzisebenzise ngokuhweba ngaphandle kwemvume. Izithombe zezindatshana zivela ku-Unsplash futhi zilandela ilayisense yayo; umthombo ushiwo ngaphansi kwesithombe ngasinye."
+     ]
+    },
+    {
+     "t": "7. Izilimi zesayithi",
+     "b": [
+      "Le sayithi iyatholakala ngezilimi eziningi. Ukuhumusha, ikakhulukazi ezilimini ezinezikhulumi ezimbalwa, kungase kungapheleli. Uma kuhluka ngencazelo, inguqulo yesi-Indonesia iyasebenza. Lawa makhasi omthetho atholakala ngesi-Indonesia nangesiNgisi."
+     ]
+    },
+    {
+     "t": "8. Imikhawulo yemfanelo",
+     "b": [
+      "Sisebenzela ukunikeza imiphumela emihle, kodwa asithembisi imiphumela ethile yebhizinisi efana namazinga okusesha, izinombolo zezivakashi noma ukuthengisa. Asinamthwalo ngokuphazamiseka okuvela emaqenjini wesithathu afana nabahlinzeki bokusingatha, bedomeyini noma bokukhokha, noma ngokulahlekelwa okungathandile ngqo.",
+      "Umthwalo wethu wenkonzo eyodwa umkhawulelwe enanini olikhokhile kuleyo nkonzo, ngokwezinga umthetho ovuma ngalo. Lokhu akunciphisi amalungelo onawo avikelwe ngumthetho."
+     ]
+    },
+    {
+     "t": "9. Umthetho obusayo",
+     "b": [
+      "Le migomo ibuswa yimithetho yeRiphabhulikhi yase-Indonesia. Uma kuphakama impikiswano, siqala ngokuzama ukuyixazulula ngezingxoxo. Uma kungafinyelelwa esivumelwaneni, impikiswano ixazululwa yizinkantolo ezinegunya e-Indonesia."
+     ]
+    },
+    {
+     "t": "10. Izinguquko nokuxhumana",
+     "b": [
+      "Le migomo ingabuyekezwa ngezikhathi ezithile; usuku lokubuyekezwa kokugcina lubonakala phezulu ekhasini. Imibuzo ingathunyelwa ku-nocodingindonesia@gmail.com noma nge-WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Inqubomgomo Yamakhukhi",
+   "description": "Amakhukhi nesitoreji sasendaweni esisetshenziswa yisayithi yeNocoding, ahlosiwe ukuthini, nokuthi ungawalawula kanjani.",
+   "sections": [
+    {
+     "t": "1. Ukuthi amakhukhi yini",
+     "b": [
+      "Amakhukhi yizifayela ezincane isayithi eziligcina kubhrawuza yakho. Isitoreji sasendaweni nesitoreji senkathi kusebenza ngendlela efanayo kodwa akuthunyelwa kuseva ngokuzenzakalelayo. Kuleli khasi, siwabiza wonke ngokuthi amakhukhi."
+     ]
+    },
+    {
+     "t": "2. Okudingwa yisayithi ukuze isebenze",
+     "b": [
+      "Agcinwa kubhrawuza yakho futhi awathunyelwa kuma-seva ethu:",
+      "- nocoding-language ne-nocoding-language-set: ulimi olukhethile noma olutholwe kubhrawuza yakho.",
+      "- nocoding-pricing (inkathi): imali nesilinganiso sokushintshaniswa kwemali elinganisiwe, ukuze amanani angabalwa kabusha ekhasini ngalinye.",
+      "- Izimpawu zezindatshana: ukuthi usuyithandile, usuyibonile noma usuyabelane ngendatshana, ukuze izinombolo zingaphindwa kabili.",
+      "- Uphawu lwesikhashana lwendawo yokushibilika uma uhamba phakathi kwezingxenye zesayithi."
+     ]
+    },
+    {
+     "t": "3. Ukuhlaziya",
+     "b": [
+      "Uma kunikwe amandla, izinkonzo ezimbili zokuhlaziya zilayisha ngemva kokuba usebenzisane nekhasi (ushibilika, uthinta noma ucindezela ukhiye):",
+      "- Google Analytics 4 (amakhukhi afana ne-_ga ne-_ga_*, asebenza kuze kube cishe iminyaka emi-2): izibalo zokuvakasha.",
+      "- Microsoft Clarity (amakhukhi afana ne-_clck, _clsk, CLID ne-MUID, asebenza kuze kube cishe unyaka o-1): amamephu okushisa nokuqoshwa okungaziwa kokusebenzisana.",
+      "Abahlinzeki be-CDN nabokuphepha bangase babeke namakhukhi ezobuchwepheshe ukuvikela isayithi ethrafikhi elimazayo."
+     ]
+    },
+    {
+     "t": "4. Indlela yokulawula amakhukhi",
+     "b": [
+      "Ungasula noma uvimbele amakhukhi kuzilungiselelo zebhrawuza yakho. Ungafaka futhi i-add-on esemthethweni yeGoogle yokuphuma ku-Google Analytics. Uma amakhukhi okuhlaziya evinjiwe, isayithi iyaqhubeka nokusebenza; uma isitoreji sasendaweni sisulwa, ukukhetha kwakho ulimi kubuyela kokuzenzakalelayo."
+     ]
+    },
+    {
+     "t": "5. Imibuzo",
+     "b": [
+      "Ngemibuzo mayelana nale nqubomgomo, xhumana ne-nocodingindonesia@gmail.com. Indlela imininingwane siqu esetshenziswa ngayo ichazwa kabanzi ku-Nqubomgomo Yobumfihlo. Uma izilimi zihluka ngencazelo, inguqulo yesi-Indonesia iyasebenza."
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Whakahoutia i te",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Kaupapahere Matatapu",
+   "description": "Ngā raraunga e kohikohia ana e Nocoding, hei aha, ko wai ka tukatuka, me ō mōtika ki ō raraunga whaiaro.",
+   "sections": [
+    {
+     "t": "1. Ko wai mātou",
+     "b": [
+      "Ko Nocoding (nocoding.web.id) he ratonga paetukutuku, taupānga, pūnaha mōhiohio me te automation e whakahaerehia ana e Abid Hanan Wicaksono i Initonīhia. Ko tēnei kaupapahere e whakamārama ana i tā mātou tiaki i ō raraunga whaiaro ina toro koe ki tēnei pae, ina whakapā mai rānei koe ki a mātou.",
+      "Ka taea te tuku pātai mō tēnei kaupapahere ki nocodingindonesia@gmail.com, ki WhatsApp +62 853-2651-3324 rānei."
+     ]
+    },
+    {
+     "t": "2. Ngā raraunga e kohikohia ana e mātou",
+     "b": [
+      "- Ngā raraunga e hoatu ana e koe ki a mātou: tō ingoa, tō nama WhatsApp, tō īmēra me te whakaahuatanga o tāu kaupapa ina whakapā mai koe mā WhatsApp, īmēra rānei. Kāore he pūkete kaiwhakamahi, he puka haina hoki i tēnei pae.",
+      "- Ngā raraunga hangarau e tukatukahia aunoa ana: te wāhitau IP, te momo pūrere me te pūtirotiro, me ngā whārangi e whakatuwheratia ana e koe. Ko ā mātou kaiwhakarato manaaki tūmau me CDN e tukatuka ana i te pae kia puta, kia tiakina hoki i te whakamahi kino.",
+      "- Te whenua tata: kia whakaaturia ngā utu ki tō moni, ka whakatauritea tō whenua mai i ngā mōhiohio CDN, i te reo rānei o tō pūtirotiro. Kāore mātou e penapena i tērā ki ō mātou tūmau.",
+      "- Ngā raraunga tātari: ko Google Analytics 4 me Microsoft Clarity (ina whakahohea) e kohikohi ana i ngā tatauranga whakamahi pēnei i ngā whārangi i tuwhera, te roa o te toronga, te momo pūrere me ngā rekoata whakawhitinga ingoakore. Ka utaina anake i muri i tō whakawhitiwhiti ki te whārangi.",
+      "- Te penapena pūtirotiro: tō kōwhiringa reo, ngā tohu kua pai, kua kite, kua tiri rānei koe i tētahi tuhinga, me tētahi whakatau utu rangitahi. Kei te Kaupapahere Cookie ngā taipitopito.",
+      "- Ko ngā tatauranga tirohanga, pai me te tiri o ngā tuhinga e penapenahia ana hei tau whakakotahi, kāore he tuakiri o te manuhiri."
+     ]
+    },
+    {
+     "t": "3. He aha te take e whakamahia ai ngā raraunga",
+     "b": [
+      "- Ki te whakautu i ō pātai, ki te whakarite kōrero utu me te whakahaere i tāu kaupapa.",
+      "- Ki te whakarato, ki te tiaki, ki te whakatere hoki i te pae.",
+      "- Ki te mārama ki te whakamahinga o te pae kia pai ake ai.",
+      "- Ki te whakatutuki i ngā herenga ā-ture.",
+      "Kāore mātou e hoko i ō raraunga whaiaro."
+     ]
+    },
+    {
+     "t": "4. Ngā tāngata tuatoru e whai wāhi ana",
+     "b": [
+      "- Vercel: te manaaki tūmau me te whakarato i te pae.",
+      "- Cloudflare: CDN me te haumarutanga.",
+      "- Google (Google Analytics 4) me Microsoft (Clarity): ngā tatauranga whakamahi pae.",
+      "- Meta (WhatsApp) me Google (Gmail): ina whakapā mai koe mā ngā hononga WhatsApp, īmēra rānei i tēnei pae.",
+      "- Kaiwhakarato reiti moni: ka whiwhi anake i ngā tono reiti mai i tā mātou tūmau, ehara i ngā raraunga manuhiri.",
+      "Tērā pea ka tukatuka ēnei kaiwhakarato i ngā raraunga ki waho o Initonīhia i raro i ā rātou ake kaupapahere."
+     ]
+    },
+    {
+     "t": "5. Te roa e mau ai ngā raraunga",
+     "b": [
+      "Ka mau ngā kōrero me ngā rauemi kaupapa i te roa e hiahiatia ana hei whakahaere i te ratonga, hei tuku tautoko, hei whakatutuki hoki i ngā herenga ā-ture, ka mutu ka mukua, ka whakaingoakore rānei. Ka whai ngā raraunga tātari i ngā tautuhinga pupuri a tōna kaiwhakarato. Ka noho ngā raraunga i tō pūtirotiro kia mukua e koe."
+     ]
+    },
+    {
+     "t": "6. Ō mōtika",
+     "b": [
+      "I raro i te Ture Nama 27 o te tau 2022 a Initonīhia mō te Whakahaumaru Raraunga Whaiaro, he mōtika tōu ki te:",
+      "- mōhio ki, me te tiki kape o ngā raraunga whaiaro kei a mātou mō koe;",
+      "- tono kia whakatikaina ngā raraunga hē;",
+      "- tono kia mukua ō raraunga, kia whakahokia mai rānei tō whakaaetanga;",
+      "- whakahē ki ētahi tukatuka.",
+      "Tukuna tō tono ki nocodingindonesia@gmail.com. Ka whakautu mātou i roto i te wā e tika ana."
+     ]
+    },
+    {
+     "t": "7. Te haumarutanga me ngā tamariki",
+     "b": [
+      "Ka whakamahi tēnei pae i HTTPS, ā, kua whakawhāitihia te uru ki ngā raraunga kaupapa. Kāore he tikanga tuku, penapena raraunga rānei e kore rawa e pāngia e te tūraru, nō reira kāore e taea e mātou te whakamana i te haumarutanga tino tika.",
+      "Mō ngā tāngata 18 tau te pakeke neke atu ā mātou ratonga. Kāore mātou e kohikohi mōhio i ngā raraunga whaiaro a ngā tamariki."
+     ]
+    },
+    {
+     "t": "8. Ngā panonitanga ki tēnei kaupapahere",
+     "b": [
+      "Tērā pea ka whakahoutia tēnei kaupapahere i ēnei wā, i ērā wā. Ko te rā o te whakahou whakamutunga kei te runga o te whārangi. Mēnā he rerekē te tikanga i waenga i ngā reo, ka mana te putanga reo Initonīhia."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Ngā Here me ngā Tikanga",
+   "description": "Ngā ture mō te whakamahi i te pae me ngā ratonga a Nocoding: ngā kete, ngā utu, te whakahaere mahi, te mana hinengaro me ngā tepe haepapa.",
+   "sections": [
+    {
+     "t": "1. Te whakaae ki ēnei here",
+     "b": [
+      "Mā te whakatuwhera i tēnei pae, mā te whakamahi rānei i ngā ratonga a Nocoding, ka whakaae koe ki ēnei here me ngā tikanga. Mēnā kāore koe e whakaae, kaua e whakamahi i tā mātou pae, i ā mātou ratonga rānei."
+     ]
+    },
+    {
+     "t": "2. Ngā ratonga",
+     "b": [
+      "Ka hanga e Nocoding ngā paetukutuku kōpaki mahi, CV rānei, ngā whārangi taunga, ngā kōtaha kamupene, ngā pūnaha mōhiohio me ngā mahi, me te automation tukanga pakihi. Ka whakaaetia te whānuitanga o te mahi, ngā āhuatanga, te wā me te utu ki a koe mā WhatsApp, īmēra rānei i mua i te tīmatanga o te mahi.",
+      "He kore utu tonu te kōrero tohutohu, ahakoa ahea e hiahiatia ana e koe, ā, kāore e herea koe ki te tono."
+     ]
+    },
+    {
+     "t": "3. Ngā kete me ngā utu",
+     "b": [
+      "- Kete iti: mai i Rp 500,000 ia tau, tae atu ki te tiaki kore utu me tētahi rohe tukutuku mō te 1 tau.",
+      "- Kete nui: mai i Rp 2,000,000 ia tau, tae atu ki te tiaki kore utu me te manaaki tūmau mō te 1 tau.",
+      "Ko ngā utu i runga i te pae he utu tīmatanga. Ka whakaaetia te moni whakamutunga i muri i te kōrero tohutohu, i runga i ō hiahia. Mō ngā manuhiri i waho o Initonīhia, ka whakaaturia ngā utu ki te moni o te rohe hei whakatau, i runga i te reiti whakawhitinga o ia rā; ko te moni rupiah i whakaaetia e mātou te mea e mana ana. Ka whakamōhiotia koe ki ngā utu tāpiri, pēnei i ngā āhuatanga anō, i te whakahou rānei i muri i te mutunga o te wā kore utu, i mua i te mahinga o te mahi."
+     ]
+    },
+    {
+     "t": "4. Te whakahaere mahi me ō haepapa",
+     "b": [
+      "Ka arotakehia, ka whakaaetia te hoahoa me koe i mua i te whakaputa. Ka mahia ngā whakatikatika i runga i te whakaaetanga.",
+      "Nōu te haepapa ki te tuku i ngā rauemi (tohu pakihi, kuputuhi, whakaahua, raraunga) i te wā tika, me te whai mana ki te whakamahi i aua mea. Ka pā pea ngā whakaroa i ngā rauemi, i ngā urupare rānei ki te wātaka."
+     ]
+    },
+    {
+     "t": "5. Te tiaki",
+     "b": [
+      "Ko te tiaki kore utu mō te 1 tau e kapi ana i te whakatika i ngā hē o tā mātou mahi me ngā whakahōu haumaru ā-tūāpapa. Ka utua motuhaketia ngā āhuatanga hou, ngā panonitanga hoahoa nunui me ngā mahi i waho o te whakaaetanga taketake."
+     ]
+    },
+    {
+     "t": "6. Te mana hinengaro",
+     "b": [
+      "Nōu tonu ngā rauemi e hoatu ana e koe. Ka tukuna atu te mahi oti ki a koe ina oti te utu i runga i te whakaaetanga. Ka taea e Nocoding te whakaatu i ngā mahi ora hei tauira i tāna kōpaki mahi, ki te kore koe e tono tuhi kia kaua e whakaaturia.",
+      "Nā Nocoding te hoahoa, te kuputuhi me ngā tuhinga i nocoding.web.id. Ka taea e koe te tiri hononga ki aua mea, engari kaua e kape, e whakamahi hoki hei hoko kore whakaaetanga. Mai i Unsplash ngā whakaahua tuhinga, ā, ka whai i tōna raihana; ka whakaingoatia te puna i raro i ia whakaahua."
+     ]
+    },
+    {
+     "t": "7. Ngā reo o te pae",
+     "b": [
+      "E waatea ana tēnei pae ki te maha o ngā reo. Tērā pea kāore ngā whakamāoritanga, otirā mō ngā reo he iti ngā kaikōrero, e tino tika. Mēnā he rerekē te tikanga, ka mana te putanga reo Initonīhia. E waatea ana ēnei whārangi ture ki te reo Initonīhia me te reo Ingarihi."
+     ]
+    },
+    {
+     "t": "8. Ngā tepe haepapa",
+     "b": [
+      "Ka mahi mātou kia pai ngā hua, engari kāore mātou e oati i ētahi hua pakihi motuhake pēnei i ngā tūnga rapunga, te maha o ngā manuhiri, ngā hokonga rānei. Kāore mātou e haepapa mō ngā raruraru i ngā tāngata tuatoru pēnei i ngā kaiwhakarato manaaki tūmau, rohe tukutuku, utu rānei, mō ngā mate autaki rānei.",
+      "Ko tō mātou haepapa mō tētahi ratonga e whakawhāitihia ana ki te moni kua utua e koe mō taua ratonga, ki te whānuitanga e whakaaetia ana e te ture. Kāore tēnei e whakaiti i ō mōtika kua tiakina e te ture."
+     ]
+    },
+    {
+     "t": "9. Te ture e whakahaere ana",
+     "b": [
+      "Ka whakahaerea ēnei here e ngā ture o te Repupiriki o Initonīhia. Mēnā ka puta he tautohetohe, ka ngana tuatahi mātou ki te whakatau mā te kōrero. Mēnā kāore he whakaaetanga, ka whakatauhia te tautohetohe e ngā kōti whai mana i Initonīhia."
+     ]
+    },
+    {
+     "t": "10. Ngā panonitanga me te whakapā mai",
+     "b": [
+      "Tērā pea ka whakahoutia ēnei here i ēnei wā, i ērā wā; ko te rā o te whakahou whakamutunga kei te runga o te whārangi. Ka taea te tuku pātai ki nocodingindonesia@gmail.com, ki WhatsApp +62 853-2651-3324 rānei."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Kaupapahere Cookie",
+   "description": "Ngā cookie me te penapena ā-rohe e whakamahia ana e te pae Nocoding, hei aha, me te whakahaere i a rātou.",
+   "sections": [
+    {
+     "t": "1. He aha ngā cookie",
+     "b": [
+      "He kōnae iti ngā cookie e penapenahia ana e tētahi pae ki tō pūtirotiro. He rite tonu te mahi a te penapena ā-rohe me te penapena wāhanga, engari kāore e tukuna aunoatia ki tētahi tūmau. I tēnei whārangi ka kīia e mātou he cookie katoa."
+     ]
+    },
+    {
+     "t": "2. Ngā mea e hiahiatia ana e te pae kia mahi ai",
+     "b": [
+      "Ka penapenahia ki tō pūtirotiro, kāore e tukuna ki ō mātou tūmau:",
+      "- nocoding-language me nocoding-language-set: te reo i kōwhiria e koe, i kitea rānei mai i tō pūtirotiro.",
+      "- nocoding-pricing (wāhanga): te moni me te reiti i whakatauria, kia kore ai e tātaihia anō ngā utu i ia whārangi.",
+      "- Ngā tohu tuhinga: mēnā kua pai, kua kite, kua tiri rānei koe i tētahi tuhinga, kia kore ai e rua ngā tatau.",
+      "- He tohu tūnga retireti rangitahi ina neke koe i waenga i ngā wāhanga o te pae."
+     ]
+    },
+    {
+     "t": "3. Te tātari",
+     "b": [
+      "Ina whakahohea, e rua ngā ratonga tātari ka utaina i muri i tō whakawhitiwhiti ki te whārangi (retireti, pat, pēhi pātuhi rānei):",
+      "- Google Analytics 4 (ngā cookie pēnei i te _ga me te _ga_*, mana mō te tata ki te 2 tau): ngā tatauranga toronga.",
+      "- Microsoft Clarity (ngā cookie pēnei i te _clck, _clsk, CLID me MUID, mana mō te tata ki te 1 tau): ngā mapi wera me ngā rekoata whakawhitinga ingoakore.",
+      "Tērā pea ka whakatakoto ngā kaiwhakarato CDN me te haumarutanga i ngā cookie hangarau hei tiaki i te pae i te waka kino."
+     ]
+    },
+    {
+     "t": "4. Te whakahaere i ngā cookie",
+     "b": [
+      "Ka taea e koe te muku, te aukati rānei i ngā cookie i ngā tautuhinga o tō pūtirotiro. Ka taea hoki e koe te tāuta i te tāpiritanga opt-out mana a Google mō Google Analytics. Mēnā ka aukatia ngā cookie tātari, ka mahi tonu te pae; mēnā ka mukua te penapena ā-rohe, ka hoki tō kōwhiringa reo ki te taunoa."
+     ]
+    },
+    {
+     "t": "5. Ngā pātai",
+     "b": [
+      "Mō ngā pātai e pā ana ki tēnei kaupapahere, whakapā atu ki nocodingindonesia@gmail.com. Kei te Kaupapahere Matatapu te whakamārama atu mō te whakamahinga o ngā raraunga whaiaro. Mēnā he rerekē te tikanga i waenga i ngā reo, ka mana te putanga reo Initonīhia."
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Síðast uppfært",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Persónuverndarstefna",
+   "description": "Hvaða gögnum Nocoding safnar, í hvað þau eru notuð, hverjir vinna úr þeim og hver réttindi þín eru yfir persónuupplýsingum þínum.",
+   "sections": [
+    {
+     "t": "1. Hver við erum",
+     "b": [
+      "Nocoding (nocoding.web.id) er vefsíðu-, forrita-, upplýsingakerfa- og sjálfvirknivæðingarþjónusta sem Abid Hanan Wicaksono rekur í Indónesíu. Þessi stefna útskýrir hvernig við meðhöndlum persónuupplýsingar þínar þegar þú heimsækir vefinn eða hefur samband við okkur.",
+      "Spurningar um þessa stefnu má senda á nocodingindonesia@gmail.com eða í gegnum WhatsApp í númerið +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Gögn sem við söfnum",
+     "b": [
+      "- Gögn sem þú gefur okkur: nafn þitt, WhatsApp-númer, netfang og lýsing á verkefni þínu þegar þú hefur samband við okkur í gegnum WhatsApp eða tölvupóst. Þessi vefur er ekki með notandareikninga eða skráningareyðublöð.",
+      "- Tæknileg gögn sem unnið er sjálfkrafa úr: IP-tala, gerð tækis og vafra og þær síður sem þú opnar. Hýsingar- og CDN-þjónustuaðilar okkar vinna úr þeim til að þjóna vefnum og vernda hann gegn misnotkun.",
+      "- Áætlað land: til að hægt sé að sýna verð í þinni mynt er land þitt áætlað út frá CDN-upplýsingum eða tungumáli vafrans. Við geymum það ekki á þjónum okkar.",
+      "- Greiningargögn: Google Analytics 4 og Microsoft Clarity (þegar kveikt er á þeim) safna notkunartölfræði, svo sem opnuðum síðum, lengd heimsóknar, gerð tækis og nafnlausum upptökum af samskiptum. Þau hlaðast aðeins eftir að þú hefur átt samskipti við síðuna.",
+      "- Geymsla í vafra: tungumálaval þitt, merkingar um að þú hafir þegar líkað við grein, skoðað hana eða deilt henni, og tímabundið verðmat. Nánari upplýsingar eru í vefkökustefnunni.",
+      "- Fjöldi skoðana, læka og deilinga á greinum er geymdur sem samanlagðar tölur, án auðkenningar gesta."
+     ]
+    },
+    {
+     "t": "3. Í hvað gögnin eru notuð",
+     "b": [
+      "- Til að svara spurningum þínum, útbúa tilboð og vinna verkefni þitt.",
+      "- Til að þjóna vefnum, tryggja öryggi hans og halda honum hröðum.",
+      "- Til að skilja hvernig vefurinn er notaður svo við getum bætt hann.",
+      "- Til að uppfylla lagalegar skyldur.",
+      "Við seljum ekki persónuupplýsingar þínar."
+     ]
+    },
+    {
+     "t": "4. Þriðju aðilar sem koma við sögu",
+     "b": [
+      "- Vercel: hýsing og þjónusta vefsins.",
+      "- Cloudflare: CDN og öryggi.",
+      "- Google (Google Analytics 4) og Microsoft (Clarity): notkunartölfræði vefsins.",
+      "- Meta (WhatsApp) og Google (Gmail): þegar þú hefur samband við okkur í gegnum WhatsApp- eða tölvupóstshlekkina á þessum vef.",
+      "- Gengisveita: fær aðeins gengisfyrirspurnir frá þjóni okkar, ekki gögn um gesti.",
+      "Þessir þjónustuaðilar kunna að vinna úr gögnum utan Indónesíu samkvæmt eigin stefnum."
+     ]
+    },
+    {
+     "t": "5. Hve lengi gögn eru geymd",
+     "b": [
+      "Samtöl og verkefnagögn eru geymd svo lengi sem þörf er á til að reka þjónustuna, veita aðstoð og uppfylla lagalegar skyldur, en síðan eytt eða gerð nafnlaus. Greiningargögn fylgja varðveislustillingum þjónustuaðila þeirra. Gögn í vafranum þínum haldast þar til þú eyðir þeim."
+     ]
+    },
+    {
+     "t": "6. Réttindi þín",
+     "b": [
+      "Samkvæmt indónesískum lögum nr. 27 frá 2022 um vernd persónuupplýsinga átt þú rétt á að:",
+      "- vita hvaða persónuupplýsingar við höfum um þig og fá afrit af þeim;",
+      "- fara fram á að rangar upplýsingar séu leiðréttar;",
+      "- fara fram á að gögnum þínum sé eytt eða afturkalla samþykki þitt;",
+      "- andmæla tiltekinni vinnslu.",
+      "Sendu beiðni þína á nocodingindonesia@gmail.com. Við svörum innan eðlilegs tíma."
+     ]
+    },
+    {
+     "t": "7. Öryggi og börn",
+     "b": [
+      "Þessi vefur notar HTTPS og aðgangur að verkefnagögnum er takmarkaður. Engin aðferð við sendingu eða geymslu gagna er alveg áhættulaus og því getum við ekki tryggt algert öryggi.",
+      "Þjónusta okkar er ætluð fólki 18 ára og eldra. Við söfnum ekki vísvitandi persónuupplýsingum barna."
+     ]
+    },
+    {
+     "t": "8. Breytingar á þessari stefnu",
+     "b": [
+      "Þessi stefna kann að vera uppfærð öðru hverju. Dagsetning síðustu uppfærslu er sýnd efst á síðunni. Ef merking er mismunandi milli tungumála gildir indónesíska útgáfan."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Skilmálar",
+   "description": "Reglurnar um notkun vefs og þjónustu Nocoding: pakka, verð, hvernig vinnan fer fram, hugverkarétt og takmarkanir á ábyrgð.",
+   "sections": [
+    {
+     "t": "1. Samþykki skilmálanna",
+     "b": [
+      "Með því að opna þennan vef eða nota þjónustu Nocoding samþykkir þú þessa skilmála. Ef þú ert ekki sammála biðjum við þig um að nota ekki vefinn okkar eða þjónustu."
+     ]
+    },
+    {
+     "t": "2. Þjónustan",
+     "b": [
+      "Nocoding smíðar eignasafns- eða ferilskrárvefsíður, lendingarsíður og fyrirtækjakynningar, upplýsinga- og rekstrarkerfi og sjálfvirknivæðingu viðskiptaferla. Umfang verksins, eiginleikar, tímaáætlun og kostnaður eru ákveðin í samráði við þig í gegnum WhatsApp eða tölvupóst áður en vinna hefst.",
+      "Ráðgjöf er alltaf ókeypis, hvenær sem þú þarft á henni að halda, og skuldbindur þig ekki til að panta."
+     ]
+    },
+    {
+     "t": "3. Pakkar og verð",
+     "b": [
+      "- Lítill pakki: frá Rp 500.000 á ári, með ókeypis viðhaldi og léni í 1 ár.",
+      "- Stór pakki: frá Rp 2.000.000 á ári, með ókeypis viðhaldi og hýsingu í 1 ár.",
+      "Verð á vefnum eru byrjunarverð. Endanleg upphæð er ákveðin eftir ráðgjöf, út frá þörfum þínum. Fyrir gesti utan Indónesíu er verð sýnt í staðbundinni mynt sem áætlun miðað við daglegt gengi; upphæðin í rúpíum sem við komum okkur saman um er sú sem gildir. Aukakostnaður, svo sem vegna viðbótareiginleika eða endurnýjunar þegar ókeypis tímabili lýkur, er tilkynntur þér áður en vinnan er unnin."
+     ]
+    },
+    {
+     "t": "4. Hvernig vinnan fer fram og ábyrgð þín",
+     "b": [
+      "Hönnunin er yfirfarin og samþykkt með þér áður en framleiðsla hefst. Breytingar eru gerðar eins og um var samið.",
+      "Þú berð ábyrgð á að leggja til efni (merki, texta, myndir, gögn) á réttum tíma og á að hafa rétt til að nota það. Tafir á efni eða endurgjöf geta haft áhrif á tímaáætlun."
+     ]
+    },
+    {
+     "t": "5. Viðhald",
+     "b": [
+      "Ókeypis viðhald í 1 ár nær yfir lagfæringu á villum í vinnu okkar og grunnöryggisuppfærslur. Nýir eiginleikar, miklar hönnunarbreytingar og vinna utan upphaflegs samkomulags eru gjaldfærð sérstaklega."
+     ]
+    },
+    {
+     "t": "6. Hugverkaréttur",
+     "b": [
+      "Efnið sem þú leggur til er áfram þitt. Fullbúið verk er afhent þér þegar greiðslu samkvæmt samkomulagi er lokið. Nocoding má sýna verk í notkun sem dæmi í eignasafni sínu nema þú óskir þess skriflega að þau séu ekki sýnd.",
+      "Hönnun, texti og greinar á nocoding.web.id tilheyra Nocoding. Þú mátt deila hlekkjum á þær en mátt ekki afrita þær og nota í viðskiptalegum tilgangi án leyfis. Myndir í greinum koma frá Unsplash og lúta leyfi hennar; heimildar er getið undir hverri mynd."
+     ]
+    },
+    {
+     "t": "7. Tungumál vefsins",
+     "b": [
+      "Þessi vefur er í boði á mörgum tungumálum. Þýðingar, einkum á tungumálum með færri málhafa, kunna að vera ófullkomnar. Ef merking er mismunandi gildir indónesíska útgáfan. Þessar lagasíður eru í boði á indónesísku og ensku."
+     ]
+    },
+    {
+     "t": "8. Takmarkanir á ábyrgð",
+     "b": [
+      "Við leggjum okkur fram um að skila góðum árangri en lofum ekki tilteknum viðskiptaárangri, svo sem leitarröðun, fjölda gesta eða sölu. Við berum ekki ábyrgð á truflunum af hálfu þriðju aðila, svo sem hýsingar-, léna- eða greiðsluþjónustuaðila, né á óbeinu tjóni.",
+      "Ábyrgð okkar á þjónustu takmarkast við þá upphæð sem þú hefur greitt fyrir þá þjónustu, að því marki sem lög leyfa. Þetta skerðir ekki réttindi þín sem lög vernda."
+     ]
+    },
+    {
+     "t": "9. Lög sem gilda",
+     "b": [
+      "Um þessa skilmála gilda lög Lýðveldisins Indónesíu. Ef ágreiningur kemur upp reynum við fyrst að leysa hann með viðræðum. Náist ekki samkomulag er ágreiningurinn leystur af þar til bærum dómstólum í Indónesíu."
+     ]
+    },
+    {
+     "t": "10. Breytingar og samband",
+     "b": [
+      "Þessir skilmálar kunna að vera uppfærðir öðru hverju; dagsetning síðustu uppfærslu er sýnd efst á síðunni. Spurningar má senda á nocodingindonesia@gmail.com eða í gegnum WhatsApp í númerið +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Vefkökustefna",
+   "description": "Vefkökurnar og staðbundna geymslan sem vefur Nocoding notar, til hvers þær eru og hvernig hægt er að stjórna þeim.",
+   "sections": [
+    {
+     "t": "1. Hvað vefkökur eru",
+     "b": [
+      "Vefkökur eru litlar skrár sem vefur geymir í vafranum þínum. Staðbundin geymsla (local storage) og lotugeymsla (session storage) virka á svipaðan hátt en eru ekki send sjálfkrafa til þjóns. Á þessari síðu köllum við þetta allt vefkökur."
+     ]
+    },
+    {
+     "t": "2. Það sem vefurinn þarf til að virka",
+     "b": [
+      "Geymt í vafranum þínum og ekki sent á þjóna okkar:",
+      "- nocoding-language og nocoding-language-set: tungumálið sem þú valdir eða greindist úr vafranum þínum.",
+      "- nocoding-pricing (lota): áætluð mynt og gengi, svo verð séu ekki reiknuð upp á nýtt á hverri síðu.",
+      "- Merkingar á greinum: hvort þú hafir þegar líkað við grein, skoðað hana eða deilt henni, svo tölur tvítalist ekki.",
+      "- Tímabundin merking á skrunstöðu þegar farið er á milli hluta vefsins."
+     ]
+    },
+    {
+     "t": "3. Greining",
+     "b": [
+      "Þegar kveikt er á þeim hlaðast tvær greiningarþjónustur eftir að þú átt samskipti við síðuna (skrunar, ýtir eða styður á takka):",
+      "- Google Analytics 4 (vefkökur eins og _ga og _ga_*, gildar í allt að um 2 ár): heimsóknartölfræði.",
+      "- Microsoft Clarity (vefkökur eins og _clck, _clsk, CLID og MUID, gildar í allt að um 1 ár): hitakort og nafnlausar upptökur af samskiptum.",
+      "CDN- og öryggisþjónustuaðilar kunna einnig að setja tæknilegar vefkökur til að vernda vefinn gegn skaðlegri umferð."
+     ]
+    },
+    {
+     "t": "4. Hvernig á að stjórna vefkökum",
+     "b": [
+      "Þú getur eytt eða lokað á vefkökur í stillingum vafrans. Þú getur einnig sett upp opinbera afþökkunarviðbót Google fyrir Google Analytics. Ef lokað er á greiningarvefkökur virkar vefurinn áfram; ef staðbundinni geymslu er eytt fer tungumálavalið þitt aftur í sjálfgefið."
+     ]
+    },
+    {
+     "t": "5. Spurningar",
+     "b": [
+      "Vegna spurninga um þessa stefnu skaltu hafa samband við nocodingindonesia@gmail.com. Nánar er útskýrt í persónuverndarstefnunni hvernig persónuupplýsingar eru notaðar. Ef merking er mismunandi milli tungumála gildir indónesíska útgáfan."
+     ]
+    }
+   ]
+  }
+ }
+}

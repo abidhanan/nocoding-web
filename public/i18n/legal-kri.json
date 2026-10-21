@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Las tɛm wi chenj am",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Prayvasi Polisi",
+   "description": "Di data we Nocoding de kolɛkt, wetin dɛn de yuz am fɔ, udat de wok pan am, ɛn di rayt dɛn we yu gɛt pan yu pɔsnal data.",
+   "sections": [
+    {
+     "t": "1. Udat wi bi",
+     "b": [
+      "Nocoding (nocoding.web.id) na websayt, ap, infomeshɔn sistem ɛn ɔtomeshɔn sav we Abid Hanan Wicaksono de ron na Indonishia. Dis polisi de eksplen aw wi de handul yu pɔsnal data we yu visit dis sayt o kɔntakt wi.",
+      "Yu kin sɛn kwɛshɔn dɛn bɔt dis polisi to nocodingindonesia@gmail.com o pan WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Di data we wi de kolɛkt",
+     "b": [
+      "- Data we yu gi wi: yu nem, yu WhatsApp nɔmba, imel ɛn dɛskripshɔn bɔt yu projɛkt we yu kɔntakt wi pan WhatsApp o imel. Dis sayt nɔ gɛt yuza akɔnt o sayn-ɔp fom.",
+      "- Tɛknikal data we de wok bay insɛf: IP adrɛs, di kayn divays ɛn brawza, ɛn di pej dɛn we yu opin. Wi hostin ɛn CDN pipul dɛn de wok pan am fɔ sav di sayt ɛn protɛkt am frɔm bad yuz.",
+      "- Apɔksimet kɔntri: so dat wi go ebul shaw prays dɛn pan yu moni, wi de gɛs yu kɔntri frɔm CDN infomeshɔn o frɔm di langwej pan yu brawza. Wi nɔ de kip am pan wi sava dɛn.",
+      "- Analitiks data: Google Analytics 4 ɛn Microsoft Clarity (we dɛn tɔn am ɔn) de kolɛkt yus statistiks lɛk di pej dɛn we dɛn opin, aw lɔng yu stay, di kayn divays ɛn rɛkɔdin dɛn we nɔ shaw udat yu bi. Dɛn kin lod nɔmɔ afta yu du sɔntin pan di pej.",
+      "- Brawza stɔrej: di langwej we yu pik, mak dɛn we shaw se yu don layk, si o shɛa wan atikul, ɛn tɛmpɔrɛri prays ɛstimet. Di fulɔp dɛtayl dɛn de na di Kuki Polisi.",
+      "- Di nɔmba dɛn fɔ aw mɔni pipul don si, layk ɛn shɛa atikul dɛn kin de kip as wan, wituot fɔ no udat bin visit."
+     ]
+    },
+    {
+     "t": "3. Wetin wi de yuz di data fɔ",
+     "b": [
+      "- Fɔ ansa yu kwɛshɔn dɛn, prɛpia kwot dɛn ɛn du yu projɛkt.",
+      "- Fɔ sav di sayt, protɛkt am ɛn kip am kwik.",
+      "- Fɔ andastand aw dɛn de yuz di sayt so dat wi go ebul mek am bɛtɛ.",
+      "- Fɔ du wetin di lɔ de aks wi.",
+      "Wi nɔ de sɛl yu pɔsnal data."
+     ]
+    },
+    {
+     "t": "4. Tɔd pati dɛn we de insay",
+     "b": [
+      "- Vercel: hostin ɛn sav di sayt.",
+      "- Cloudflare: CDN ɛn sikyuriti.",
+      "- Google (Google Analytics 4) ɛn Microsoft (Clarity): statistiks bɔt aw dɛn de yuz di sayt.",
+      "- Meta (WhatsApp) ɛn Google (Gmail): we yu kɔntakt wi tru di WhatsApp o imel link dɛn pan dis sayt.",
+      "- Moni rɛt prɔvayda: i de gɛt nɔmɔ rikwɛst fɔ rɛt dɛn frɔm wi sava, nɔto data bɔt di pipul dɛn we visit.",
+      "Dɛn prɔvayda ya kin wok pan data na ɔda kɔntri nɔto Indonishia ɔnda dɛn yon polisi dɛn."
+     ]
+    },
+    {
+     "t": "5. Aw lɔng wi de kip di data",
+     "b": [
+      "Wi kin kip kɔnvɛseshɔn dɛn ɛn projɛkt matɛrial dɛn lɔng lɔng as wi nid am fɔ ron di sav, gi sɔpɔt ɛn du wetin di lɔ de aks, dɔn dɛn dilit am o mek i nɔ gɛt nem. Analitiks data de falɔ di rikɔd stɛtin dɛn we di prɔvayda sɛt. Di data we de na yu brawza go stay te yu dilit am."
+     ]
+    },
+    {
+     "t": "6. Yu rayt dɛn",
+     "b": [
+      "Ɔnda Indonishia Lɔ Nɔmba 27 fɔ 2022 pan Pɔsnal Data Protɛkshɔn, yu gɛt di rayt fɔ:",
+      "- no ɛn gɛt kɔpi pan di pɔsnal data we wi gɛt bɔt yu;",
+      "- aks fɔ mek dɛn kɔrɛkt data we nɔ rayt;",
+      "- aks fɔ mek dɛn dilit yu data o pul yu pamishɔn;",
+      "- objɛkt to sɔm kayn we dɛn de wok pan di data.",
+      "Sɛn yu rikwɛst to nocodingindonesia@gmail.com. Wi go ansa yu insay rayt tɛm."
+     ]
+    },
+    {
+     "t": "7. Sikyuriti ɛn pikin dɛn",
+     "b": [
+      "Dis sayt de yuz HTTPS ɛn dɛn de limit aksɛs to projɛkt data. No wan we fɔ sɛn o kip data nɔ gɛt rɛsk at ɔl, so wi nɔ kin gi fɔl gyaranti fɔ sikyuriti.",
+      "Wi sav dɛn bin mek fɔ pipul dɛn we gɛt 18 ia ɛn ɔp. Wi nɔ de kolɛkt pikin dɛn pɔsnal data we wi no am."
+     ]
+    },
+    {
+     "t": "8. Chenj dɛn to dis polisi",
+     "b": [
+      "Dɛn kin apdet dis polisi fɔ tɛm to tɛm. Di det fɔ di las apdet de na di tɔp pan di pej. If di langwej dɛn nɔ min di sem tin, di Indonishian vashɔn na di wan we de wok."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Tɛm ɛn Kɔndishɔn dɛn",
+   "description": "Di rul dɛn fɔ yuz di Nocoding sayt ɛn sav dɛn: pakej dɛn, prays dɛn, aw dɛn de du di wok, intɛlɛktyuwal prɔpati ɛn di limit dɛn fɔ rispɔnsibiliti.",
+   "sections": [
+    {
+     "t": "1. Fɔ agri wit dɛn tɛm ya",
+     "b": [
+      "We yu opin dis sayt o yuz Nocoding sav dɛn, yu agri wit dɛn tɛm ɛn kɔndishɔn ya. If yu nɔ agri, duya nɔ yuz wi sayt o sav dɛn."
+     ]
+    },
+    {
+     "t": "2. Di sav dɛn",
+     "b": [
+      "Nocoding de bil pɔtfolio o CV websayt dɛn, landin pej dɛn ɛn kɔmpini prɔfayl dɛn, infomeshɔn ɛn ɔpareshɔn sistem dɛn, ɛn bizinɛs prosɛs ɔtomeshɔn. Wi de agri wit yu pan WhatsApp o imel bɔt di skɔp pan di wok, fichɛ dɛn, taymtebul ɛn kɔst bifo di wok bigin.",
+      "Kɔnsɔltɛshɔn de fri ɔltɛm, ɛnitɛm we yu nid am, ɛn i nɔ fos yu fɔ ɔda."
+     ]
+    },
+    {
+     "t": "3. Pakej dɛn ɛn prays dɛn",
+     "b": [
+      "- Smɔl pakej: frɔm Rp 500,000 pa ia, wit fri mentɛnans ɛn domen fɔ 1 ia.",
+      "- Big pakej: frɔm Rp 2,000,000 pa ia, wit fri mentɛnans ɛn hostin fɔ 1 ia.",
+      "Di prays dɛn pan di sayt na stat prays dɛn. Wi go agri pan di las mɔni afta kɔnsɔltɛshɔn, bay wetin yu nid. Fɔ pipul dɛn we visit frɔm ɔda kɔntri nɔto Indonishia, wi de shaw prays dɛn pan dɛn lokal moni as ɛstimet we dɛn bay pan di eksjɛn rɛt fɔ ɛvri dè; di mɔni pan rupiya we wi agri pan na di wan we de wok. Ɛkstra kɔst dɛn, lɛk mɔ fichɛ dɛn o rinyu afta di fri tɛm dɔn, wi go tɛl yu bifo wi du di wok."
+     ]
+    },
+    {
+     "t": "4. Aw wi de du di wok ɛn yu rispɔnsibiliti dɛn",
+     "b": [
+      "Wi de ripɔt ɛn gɛt agrimɛnt wit yu pan di dizayn bifo prodɔkshɔn. Dɛn de du rivishɔn dɛn as wi agri.",
+      "Yu gɛt rispɔnsibiliti fɔ gi matɛrial dɛn (logo, tɛks, foto dɛn, data) pan tɛm ɛn fɔ gɛt rayt fɔ yuz dɛn. If yu lɛt fɔ gi matɛrial o fidbak, i kin chenj di taymtebul."
+     ]
+    },
+    {
+     "t": "5. Mentɛnans",
+     "b": [
+      "Di fri mentɛnans fɔ 1 ia de kɔba fɔ fiks mistek dɛn pan wi wok ɛn bɛsik sikyuriti apdet dɛn. Nyu fichɛ dɛn, big dizayn chenj dɛn ɛn wok we nɔto pat pan di fɔs agrimɛnt, yu fɔ pe sɛpret."
+     ]
+    },
+    {
+     "t": "6. Intɛlɛktyuwal prɔpati",
+     "b": [
+      "Di matɛrial dɛn we yu gi stay yu yon. Wi go gi yu di wok we dɔn afta yu dɔn pe as wi agri. Nocoding kin shaw wok dɛn we de layv as ɛgzampul dɛn pan in pɔtfolio, ɔnles yu rayt aks se dɛn nɔ fɔ shaw am.",
+      "Di dizayn, tɛks ɛn atikul dɛn pan nocoding.web.id na Nocoding yon. Yu kin shɛa di link dɛn, bɔt yu nɔ kin kɔpi ɛn yuz dɛn fɔ bizinɛs wituot pamishɔn. Di atikul foto dɛn kɔm frɔm Unsplash ɛn dɛn falɔ in layzɛns; dɛn de gi di sɔs ɔnda ɛvri foto."
+     ]
+    },
+    {
+     "t": "7. Di langwej dɛn pan di sayt",
+     "b": [
+      "Dis sayt de na but langwej dɛn. Di transleshɔn dɛn, mɔ pan langwej dɛn we smɔl pipul de tɔk, kin nɔ pafɛkt. If dɛn nɔ min di sem tin, di Indonishian vashɔn na di wan we de wok. Dɛn lɛgal pej ya de na Indonishian ɛn Inglish."
+     ]
+    },
+    {
+     "t": "8. Di limit dɛn fɔ rispɔnsibiliti",
+     "b": [
+      "Wi de wok fɔ gi gud rizɔlt, bɔt wi nɔ de promis spɛshal bizinɛs rizɔlt dɛn lɛk sach rank dɛn, nɔmba pan pipul dɛn we visit o sɛl dɛn. Wi nɔ de rispɔnsibul fɔ prɔblɛm dɛn we kɔm frɔm tɔd pati dɛn lɛk hostin, domen o pe prɔvayda dɛn, o fɔ lɔs dɛn we nɔto dairɛkt.",
+      "Wi rispɔnsibiliti fɔ wan sav limit to di mɔni we yu dɔn pe fɔ da sav de, as fa di lɔ alaw am. Dis nɔ de smɔl di rayt dɛn we yu gɛt we di lɔ de protɛkt."
+     ]
+    },
+    {
+     "t": "9. Lɔ we de gavan",
+     "b": [
+      "Di lɔ dɛn fɔ di Ripɔblik fɔ Indonishia de gavan dɛn tɛm ya. If prɔblɛm kɔm, wi fɔs go tray fɔ sɔlv am bay tɔk. If wi nɔ agri, di kɔt dɛn we gɛt pawa na Indonishia go sɔlv di prɔblɛm."
+     ]
+    },
+    {
+     "t": "10. Chenj dɛn ɛn kɔntakt",
+     "b": [
+      "Dɛn kin apdet dɛn tɛm ya fɔ tɛm to tɛm; di det fɔ di las apdet de na di tɔp pan di pej. Yu kin sɛn kwɛshɔn dɛn to nocodingindonesia@gmail.com o pan WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Kuki Polisi",
+   "description": "Di kuki dɛn ɛn lokal stɔrej we di Nocoding sayt de yuz, wetin dɛn de fɔ, ɛn aw fɔ manej dɛn.",
+   "sections": [
+    {
+     "t": "1. Wetin kuki dɛn bi",
+     "b": [
+      "Kuki dɛn na smɔl fayl dɛn we wan sayt de kip na yu brawza. Lokal stɔrej ɛn sɛshɔn stɔrej de wok sem we bɔt dɛn nɔ de go to sava bay insɛf. Pan dis pej wi de kɔl dɛn ɔl kuki."
+     ]
+    },
+    {
+     "t": "2. Wetin di sayt nid fɔ wok",
+     "b": [
+      "Dɛn de kip am na yu brawza ɛn dɛn nɔ de go to wi sava dɛn:",
+      "- nocoding-language ɛn nocoding-language-set: di langwej we yu pik o we dɛn fɛn na yu brawza.",
+      "- nocoding-pricing (sɛshɔn): di ɛstimet moni ɛn rɛt, so dɛn nɔ go wok am ɔt gen pan ɛvri pej.",
+      "- Atikul mak dɛn: if yu don layk, si o shɛa wan atikul, so dɛn nɔ go kɔnt am tu tɛm.",
+      "- Wan tɛmpɔrɛri skrol pozishɔn mak we yu de muv bitwin pat dɛn pan di sayt."
+     ]
+    },
+    {
+     "t": "3. Analitiks",
+     "b": [
+      "We dɛn tɔn am ɔn, tu analitiks sav dɛn de lod afta yu du sɔntin pan di pej (skrol, tap o prɛs wan ki):",
+      "- Google Analytics 4 (kuki dɛn lɛk _ga ɛn _ga_*, we valid fɔ rawnd 2 ia): visit statistiks.",
+      "- Microsoft Clarity (kuki dɛn lɛk _clck, _clsk, CLID ɛn MUID, we valid fɔ rawnd 1 ia): hitmap ɛn rɛkɔdin dɛn we nɔ shaw udat yu bi.",
+      "CDN ɛn sikyuriti prɔvayda dɛn kin sɛt tɛknikal kuki dɛn tu fɔ protɛkt di sayt frɔm bad trafik."
+     ]
+    },
+    {
+     "t": "4. Aw fɔ manej kuki dɛn",
+     "b": [
+      "Yu kin dilit o blɔk kuki dɛn na yu brawza sɛtin dɛn. Yu kin ɔlsɔ instɔl Google ɔfisyal ɔpt-awt ad-ɔn fɔ Google Analytics. If dɛn blɔk analitiks kuki dɛn, di sayt stil de wok; if dɛn klia lokal stɔrej, yu langwej pik go go bak to di difɔlt."
+     ]
+    },
+    {
+     "t": "5. Kwɛshɔn dɛn",
+     "b": [
+      "Fɔ kwɛshɔn dɛn bɔt dis polisi, kɔntakt nocodingindonesia@gmail.com. Aw dɛn de yuz pɔsnal data dɛn de eksplen mɔ na di Prayvasi Polisi. If di langwej dɛn nɔ min di sem tin, di Indonishian vashɔn na di wan we de wok."
+     ]
+    }
+   ]
+  }
+ }
+}

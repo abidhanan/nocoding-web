@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Atualiza ikus iha",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Polítika Privasidade",
+   "description": "Dadus saida deit mak Nocoding halibur, ba saida mak uza, se mak prosesa, no ita-nia direitu sira kona-ba ita-nia dadus pesoál.",
+   "sections": [
+    {
+     "t": "1. Ami nain-sé",
+     "b": [
+      "Nocoding (nocoding.web.id) mak servisu ba website, aplikasaun, sistema informasaun no automatizasaun ne'ebé Abid Hanan Wicaksono jere iha Indonézia. Polítika ida-ne'e esplika oinsá ami trata ita-nia dadus pesoál bainhira ita vizita site ida-ne'e ka kontaktu ami.",
+      "Pergunta kona-ba polítika ida-ne'e bele haruka ba nocodingindonesia@gmail.com ka WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Dadus ne'ebé ami halibur",
+     "b": [
+      "- Dadus ne'ebé ita fó ba ami: ita-nia naran, númeru WhatsApp, emal no deskrisaun kona-ba ita-nia projetu bainhira ita kontaktu ami liuhosi WhatsApp ka emal. Site ida-ne'e la iha konta utilizadór ka formuláriu rejistu.",
+      "- Dadus téknika ne'ebé prosesa automatikamente: enderesu IP, tipu dispozitivu no browser, no pájina sira ne'ebé ita loke. Ami-nia provedór hosting no CDN prosesa dadus ne'e atu fó site ne'e no proteje husi abuzu.",
+      "- Nasaun aproximadu: atu folin sira bele hatudu iha ita-nia moeda, ita-nia nasaun estima husi informasaun CDN ka lian browser nian. Ami la rai iha ami-nia servidór.",
+      "- Dadus analítika: Google Analytics 4 no Microsoft Clarity (bainhira ativa) halibur estatístika uzu hanesan pájina loke, durasaun vizita, tipu dispozitivu no gravasaun interasaun anónimu. Sira karga de'it depois ita interaje ho pájina.",
+      "- Armazenamentu browser: ita-nia pilihan lian, sinál katak ita gosta ona, haree ona ka fahe ona artigu ida, no estimasaun folin temporáriu. Detallu sira iha Polítika Cookie.",
+      "- Númeru haree, gosta no fahe artigu rai nu'udar númeru hamutuk, la iha identidade vizitante."
+     ]
+    },
+    {
+     "t": "3. Dadus uza ba saida",
+     "b": [
+      "- Responde ita-nia pergunta sira, prepara proposta folin no kumpre ita-nia projetu.",
+      "- Fó, proteje no mantén site ne'e lais.",
+      "- Komprende oinsá uza site ne'e atu bele hadi'a.",
+      "- Kumpre obrigasaun legál sira.",
+      "Ami la faan ita-nia dadus pesoál."
+     ]
+    },
+    {
+     "t": "4. Terseiru ne'ebé involve",
+     "b": [
+      "- Vercel: hosting no fó site ne'e.",
+      "- Cloudflare: CDN no seguransa.",
+      "- Google (Google Analytics 4) no Microsoft (Clarity): estatístika uzu site nian.",
+      "- Meta (WhatsApp) no Google (Gmail): bainhira ita kontaktu ami liuhosi link WhatsApp ka emal iha site ida-ne'e.",
+      "- Provedór taxa moeda: simu de'it pedidu taxa husi ami-nia servidór, la simu dadus vizitante.",
+      "Provedór sira ne'e bele prosesa dadus iha liur husi Indonézia tuir sira-nia polítika rasik."
+     ]
+    },
+    {
+     "t": "5. Dadus rai to'o bainhira",
+     "b": [
+      "Konversa no materiál projetu rai to'o tempu ne'ebé presiza atu jere servisu, fó apoiu no kumpre obrigasaun legál, depois hamoos ka halo anónimu. Dadus analítika tuir konfigurasaun retensaun husi nia provedór. Dadus iha ita-nia browser sei hela to'o ita hamoos."
+     ]
+    },
+    {
+     "t": "6. Ita-nia direitu sira",
+     "b": [
+      "Tuir Lei Nú. 27 Tinan 2022 kona-ba Proteisaun Dadus Pesoál Indonézia nian, ita iha direitu atu:",
+      "- hatene no hetan kópia husi dadus pesoál ne'ebé ami iha kona-ba ita;",
+      "- husu atu koresaun dadus ne'ebé sala;",
+      "- husu atu hamoos ita-nia dadus ka hasai ita-nia konsentimentu;",
+      "- opoin ba prosesamentu balu.",
+      "Haruka ita-nia pedidu ba nocodingindonesia@gmail.com. Ami sei responde iha tempu razoavel."
+     ]
+    },
+    {
+     "t": "7. Seguransa no labarik sira",
+     "b": [
+      "Site ida-ne'e uza HTTPS no asesu ba dadus projetu limitadu. La iha métodu ida atu haruka ka rai dadus ne'ebé totalmente la iha risku, tan ne'e ami la bele garante seguransa absolutu.",
+      "Ami-nia servisu sira ba ema ho idade tinan 18 ba leten. Ami la halibur ho koñesimentu dadus pesoál labarik sira nian."
+     ]
+    },
+    {
+     "t": "8. Mudansa ba polítika ida-ne'e",
+     "b": [
+      "Polítika ida-ne'e bele atualiza dala ruma. Data atualizasaun ikus hatudu iha pájina leten. Se lian sira iha diferensa iha signifikadu, versaun Indonézia mak vale."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Termu no Kondisaun",
+   "description": "Regra atu uza site no servisu Nocoding nian: pakote, folin, oinsá servisu halo, propriedade intelektuál no limite responsabilidade.",
+   "sections": [
+    {
+     "t": "1. Simu termu sira ne'e",
+     "b": [
+      "Ho loke site ida-ne'e ka uza servisu Nocoding nian, ita konkorda ho termu no kondisaun sira ne'e. Se ita la konkorda, favór la uza ami-nia site ka servisu."
+     ]
+    },
+    {
+     "t": "2. Servisu sira",
+     "b": [
+      "Nocoding harii website portfóliu ka CV, pájina landing no perfíl kompañia, sistema informasaun no operasaun, no automatizasaun prosesu negósiu. Saida mak sei halo, funsionalidade, kronograma no kustu konkorda ho ita liuhosi WhatsApp ka emal molok servisu hahú.",
+      "Konsultasaun sempre gratuita, bainhira de'it ita presiza, no la obriga ita atu hatoo enkomenda."
+     ]
+    },
+    {
+     "t": "3. Pakote no folin",
+     "b": [
+      "- Pakote ki'ik: hahú husi Rp 500.000 kada tinan, inklui manutensaun gratuita no domíniu ba tinan 1.",
+      "- Pakote boot: hahú husi Rp 2.000.000 kada tinan, inklui manutensaun gratuita no hosting ba tinan 1.",
+      "Folin iha site mak folin hahú. Montante final konkorda depois konsultasaun, tuir ita-nia nesesidade. Ba vizitante husi liur Indonézia, folin hatudu iha moeda lokál nu'udar estimasaun bazeia ba taxa kámbiu loron-loron; montante iha rupia ne'ebé ita konkorda mak vale. Kustu adisionál, hanesan funsionalidade tan ka renovasaun depois períodu gratuitu remata, sei informa ita molok servisu halo."
+     ]
+    },
+    {
+     "t": "4. Oinsá servisu halo no ita-nia responsabilidade",
+     "b": [
+      "Dezeñu hetan revizaun no aprovasaun hamutuk ho ita molok produsaun. Revizaun sira halo tuir ne'ebé konkorda ona.",
+      "Ita iha responsabilidade atu fornese materiál (logo, testu, foto, dadus) iha tempu no iha direitu atu uza sira. Atraza iha materiál ka feedback bele afeta kronograma."
+     ]
+    },
+    {
+     "t": "5. Manutensaun",
+     "b": [
+      "Manutensaun gratuita ba tinan 1 kobre koresaun sala iha ami-nia servisu no atualizasaun seguransa báziku. Funsionalidade foun, mudansa boot iha dezeñu no servisu iha liur akordu inisiál kobra separadu."
+     ]
+    },
+    {
+     "t": "6. Propriedade intelektuál",
+     "b": [
+      "Materiál ne'ebé ita fornese sei hela nu'udar ita-nian. Servisu ne'ebé kompletu hato'o ba ita bainhira pagamentu tuir ne'ebé konkorda kompletu ona. Nocoding bele hatudu servisu ne'ebé hala'o ona nu'udar ezemplu iha nia portfóliu, exetu se ita husu hodi hakerek atu labele hatudu.",
+      "Dezeñu, testu no artigu iha nocoding.web.id pertense ba Nocoding. Ita bele fahe link ba sira, maibé la bele kopia no uza komersiál la ho lisensa. Foto artigu sira mai husi Unsplash no tuir nia lisensa; fonte hatudu iha kada foto okos."
+     ]
+    },
+    {
+     "t": "7. Lian site nian",
+     "b": [
+      "Site ida-ne'e disponivel iha lian barak. Tradusaun, liuliu ba lian ne'ebé ema uitoan mak ko'alia, bele la perfeitu. Se iha diferensa iha signifikadu, versaun Indonézia mak vale. Pájina legál sira ne'e disponivel iha lian Indonézia no Inglés."
+     ]
+    },
+    {
+     "t": "8. Limite responsabilidade",
+     "b": [
+      "Ami servisu atu entrega rezultadu diak, maibé ami la promete rezultadu negósiu espesífiku hanesan klasifikasaun iha buka, númeru vizitante ka faan. Ami la responsavel ba interrupsaun husi terseiru sira hanesan provedór hosting, domíniu ka pagamentu, ka ba lakon indireta.",
+      "Ami-nia responsabilidade ba servisu ida limitadu ba montante ne'ebé ita selu ona ba servisu ne'e, to'o nia lei permite. Ida-ne'e la hamenus direitu sira ne'ebé ita iha no lei proteje."
+     ]
+    },
+    {
+     "t": "9. Lei ne'ebé aplika",
+     "b": [
+      "Termu sira ne'e regula husi lei Repúblika Indonézia nian. Se iha disputa, uluk ami koko rezolve liuhosi diskusaun. Se la hetan akordu, disputa rezolve husi tribunál kompetente iha Indonézia."
+     ]
+    },
+    {
+     "t": "10. Mudansa no kontaktu",
+     "b": [
+      "Termu sira ne'e bele atualiza dala ruma; data atualizasaun ikus hatudu iha pájina leten. Pergunta bele haruka ba nocodingindonesia@gmail.com ka WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Polítika Cookie",
+   "description": "Cookie no local storage ne'ebé site Nocoding uza, ba saida mak sira, no oinsá atu jere sira.",
+   "sections": [
+    {
+     "t": "1. Cookie saida",
+     "b": [
+      "Cookie mak arkivu kiik ne'ebé site ida rai iha ita-nia browser. Local storage no session storage servisu hanesan, maibé la haruka automatikamente ba servidór. Iha pájina ida-ne'e ami bolu sira hotu cookie."
+     ]
+    },
+    {
+     "t": "2. Saida mak site presiza atu servisu",
+     "b": [
+      "Rai iha ita-nia browser no la haruka ba ami-nia servidór:",
+      "- nocoding-language no nocoding-language-set: lian ne'ebé ita hili ka deteta husi ita-nia browser.",
+      "- nocoding-pricing (sesaun): moeda no taxa estimadu, atu folin la kalkula fali iha kada pájina.",
+      "- Sinál artigu: ita gosta ona, haree ona ka fahe ona artigu ida, atu númeru la dobru.",
+      "- Sinál pozisaun scroll temporáriu bainhira muda husi parte ida ba parte seluk iha site."
+     ]
+    },
+    {
+     "t": "3. Analítika",
+     "b": [
+      "Bainhira ativa, servisu analítika rua karga depois ita interaje ho pájina (scroll, toka ka hakbesik tekla):",
+      "- Google Analytics 4 (cookie hanesan _ga no _ga_*, vale to'o tinan 2 resin): estatístika vizita.",
+      "- Microsoft Clarity (cookie hanesan _clck, _clsk, CLID no MUID, vale to'o tinan 1 resin): mapa bebeik no gravasaun interasaun anónimu.",
+      "Provedór CDN no seguransa mós bele hatuur cookie téknika atu proteje site husi tráfegu aat."
+     ]
+    },
+    {
+     "t": "4. Oinsá atu jere cookie",
+     "b": [
+      "Ita bele hamoos ka bloka cookie iha konfigurasaun browser. Ita mós bele instala add-on ofisiál Google nian atu la partisipa iha Google Analytics. Se cookie analítika blokeadu, site kontinua servisu; se local storage hamoos, ita-nia pilihan lian fila ba padraun."
+     ]
+    },
+    {
+     "t": "5. Pergunta",
+     "b": [
+      "Ba pergunta kona-ba polítika ida-ne'e, kontaktu nocodingindonesia@gmail.com. Oinsá dadus pesoál uza esplika liután iha Polítika Privasidade. Se lian sira iha diferensa iha signifikadu, versaun Indonézia mak vale."
+     ]
+    }
+   ]
+  }
+ }
+}

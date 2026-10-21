@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Zasinthidwa komaliza",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Mfundo Zachinsinsi",
+   "description": "Zomwe Nocoding imasonkhanitsa, cholinga chake, omwe amazigwiritsa ntchito, ndi ufulu wanu pa zambiri zanu.",
+   "sections": [
+    {
+     "t": "1. Ife ndife ndani",
+     "b": [
+      "Nocoding (nocoding.web.id) ndi ntchito ya mawebusayiti, mapulogalamu, machitidwe a zidziwitso ndi makina odzichitira okha yoyendetsedwa ndi Abid Hanan Wicaksono ku Indonesia. Mfundo izi zikufotokoza momwe timachitira ndi zambiri zanu mukamayendera webusayiti iyi kapena mukalankhula nafe.",
+      "Mafunso okhudza mfundo izi mutha kutumiza ku nocodingindonesia@gmail.com kapena pa WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Zambiri zomwe timasonkhanitsa",
+     "b": [
+      "- Zambiri zomwe mumatipatsa: dzina lanu, nambala ya WhatsApp, imelo ndi kufotokozera kwa polojekiti yanu mukalankhula nafe pa WhatsApp kapena imelo. Webusayiti iyi ilibe maakaunti a ogwiritsa ntchito kapena mafomu olembetsa.",
+      "- Zambiri zaukadaulo zomwe zimasamalidwa zokha: adilesi ya IP, mtundu wa chipangizo ndi wa msakatuli, ndi masamba omwe mumatsegula. Opereka malo osungira webusayiti ndi a CDN amazisamalira kuti webusayiti igwire ntchito komanso kuiteteza ku nkhanza.",
+      "- Dziko loyerekeza: kuti mitengo iwonetsedwe m'ndalama zanu, dziko lanu limayerekezedwa kuchokera ku zambiri za CDN kapena chilankhulo cha msakatuli wanu. Sitilisunga pa maseva athu.",
+      "- Zambiri za analytics: Google Analytics 4 ndi Microsoft Clarity (zikayatsidwa) zimasonkhanitsa ziwerengero za kagwiritsidwe ntchito monga masamba otsegulidwa, nthawi ya ulendo, mtundu wa chipangizo ndi zojambulidwa zosadziwika zakucheza ndi tsamba. Zimangoyamba kugwira ntchito mukakhudza kapena kucheza ndi tsamba.",
+      "- Malo osungira a msakatuli: chilankhulo chomwe mwasankha, zizindikiro zosonyeza kuti mwakonda, mwaonera kapena mwagawana nkhani, ndi kuyerekeza kwa mtengo kwakanthawi. Zambiri zilipo mu Mfundo za Ma Cookie.",
+      "- Chiwerengero cha anthu amene aonera, akonda ndi kugawana nkhani chimasungidwa ngati manambala ophatikizidwa, popanda kuzindikiritsa wochezera."
+     ]
+    },
+    {
+     "t": "3. Cholinga chogwiritsira ntchito zambiri",
+     "b": [
+      "- Kuyankha mafunso anu, kukonza mitengo yoperekedwa ndi kugwira ntchito ya polojekiti yanu.",
+      "- Kupereka, kuteteza ndi kusunga webusayiti kukhala yachangu.",
+      "- Kumvetsetsa momwe webusayiti imagwiritsidwira ntchito kuti tiyikonze.",
+      "- Kukwaniritsa zofunika za lamulo.",
+      "Sitigulitsa zambiri zanu."
+     ]
+    },
+    {
+     "t": "4. Anthu ena okhudzidwa",
+     "b": [
+      "- Vercel: kusunga ndi kupereka webusayiti.",
+      "- Cloudflare: CDN ndi chitetezo.",
+      "- Google (Google Analytics 4) ndi Microsoft (Clarity): ziwerengero za kagwiritsidwe ntchito ka webusayiti.",
+      "- Meta (WhatsApp) ndi Google (Gmail): mukalankhula nafe kudzera m'maulalo a WhatsApp kapena imelo pa webusayiti iyi.",
+      "- Wopereka mtengo wosinthira ndalama: amangolandira zopempha za mtengo kuchokera ku seva yathu, osati zambiri za ochezera.",
+      "Opereka awa atha kusamalira zambiri kunja kwa Indonesia motsatira mfundo zawo."
+     ]
+    },
+    {
+     "t": "5. Nthawi yosungira zambiri",
+     "b": [
+      "Makambirano ndi zipangizo za polojekiti zimasungidwa kwa nthawi yofunikira kuti ntchito igwire, kupereka thandizo ndi kukwaniritsa zofunika za lamulo, kenako zimachotsedwa kapena kubisa kuti zisadziwike. Zambiri za analytics zimatsatira zosintha zosungira za wopereka wake. Zambiri zomwe zili mu msakatuli wanu zimakhalapo mpaka mutazichotsa."
+     ]
+    },
+    {
+     "t": "6. Ufulu wanu",
+     "b": [
+      "Malinga ndi Lamulo Nambala 27 la Chaka cha 2022 la ku Indonesia loteteza Zambiri Zaumwini, muli ndi ufulu:",
+      "- kudziwa ndi kulandira kopi ya zambiri zanu zomwe tili nazo;",
+      "- kupempha kuti zambiri zolakwika zikonzedwe;",
+      "- kupempha kuti zambiri zanu zichotsedwe kapena kuchotsa chilolezo chanu;",
+      "- kutsutsa kusamalira kwina.",
+      "Tumizani pempho lanu ku nocodingindonesia@gmail.com. Tidzayankha mkati mwa nthawi yololera."
+     ]
+    },
+    {
+     "t": "7. Chitetezo ndi ana",
+     "b": [
+      "Webusayiti iyi imagwiritsa ntchito HTTPS ndipo kupeza zambiri za polojekiti kuli ndi malire. Palibe njira yotumizira kapena kusunga zambiri yopanda chiopsezo chilichonse, choncho sitingatsimikizire chitetezo changwiro.",
+      "Ntchito zathu zapangidwira anthu azaka 18 kapena kupitirira. Sitisonkhanitsa dala zambiri za ana."
+     ]
+    },
+    {
+     "t": "8. Kusintha kwa mfundo izi",
+     "b": [
+      "Mfundo izi zitha kusinthidwa nthawi ndi nthawi. Tsiku la kusintha komaliza likuwonetsedwa pamwamba pa tsamba. Ngati zilankhulo zikusiyana pa tanthauzo, mtundu wa Chiindonesia ndi umene ugwira ntchito."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Migwirizano ndi Zikhalidwe",
+   "description": "Malamulo ogwiritsira ntchito webusayiti ndi ntchito za Nocoding: mapaketi, mitengo, momwe ntchito imachitikira, katundu wa nzeru ndi malire a udindo.",
+   "sections": [
+    {
+     "t": "1. Kuvomereza migwirizano iyi",
+     "b": [
+      "Potsegula webusayiti iyi kapena kugwiritsa ntchito ntchito za Nocoding, mukuvomereza migwirizano ndi zikhalidwe izi. Ngati simukuvomereza, chonde musagwiritse ntchito webusayiti kapena ntchito zathu."
+     ]
+    },
+    {
+     "t": "2. Ntchito zathu",
+     "b": [
+      "Nocoding imapanga mawebusayiti a portfolio kapena CV, masamba olandirira alendo (landing page) ndi mbiri ya kampani, machitidwe a zidziwitso ndi a ntchito, ndi makina odzichitira okha a njira za bizinesi. Ntchito yake, zinthu zake, nthawi ndi mtengo zimagwirizanidwa nanu pa WhatsApp kapena imelo ntchito isanayambe.",
+      "Upangiri ndi waulere nthawi zonse, nthawi iliyonse yomwe mukuufuna, ndipo sukukakamizani kuyitanitsa."
+     ]
+    },
+    {
+     "t": "3. Mapaketi ndi mitengo",
+     "b": [
+      "- Paketi yaying'ono: kuyambira Rp 500,000 pachaka, kuphatikiza kukonza kwaulere ndi domain kwa chaka chimodzi.",
+      "- Paketi yayikulu: kuyambira Rp 2,000,000 pachaka, kuphatikiza kukonza kwaulere ndi hosting kwa chaka chimodzi.",
+      "Mitengo yomwe ili pa webusayiti ndi mitengo yoyambira. Ndalama yomaliza imagwirizanidwa pambuyo pa upangiri, malinga ndi zosowa zanu. Kwa alendo akunja kwa Indonesia, mitengo imawonetsedwa m'ndalama za kwawo ngati kuyerekeza kutengera mtengo wosinthira wa tsiku ndi tsiku; ndalama ya rupiah yomwe tagwirizana ndiyo imagwira ntchito. Ndalama zowonjezera, monga zinthu zina zowonjezera kapena kukonzanso nthawi yaulere ikatha, mudzauzidwa ntchito isanachitike."
+     ]
+    },
+    {
+     "t": "4. Momwe ntchito imachitikira ndi udindo wanu",
+     "b": [
+      "Kapangidwe kamawunikidwa ndi kuvomerezedwa nanu kupanga kusanayambe. Kusintha kumachitika monga tagwirizana.",
+      "Ndinu woyang'anira kupereka zipangizo (logo, mawu, zithunzi, zambiri) pa nthawi ndi kukhala ndi ufulu wozigwiritsa ntchito. Kuchedwa kwa zipangizo kapena mayankho kungakhudze nthawi ya ntchito."
+     ]
+    },
+    {
+     "t": "5. Kukonza",
+     "b": [
+      "Kukonza kwaulere kwa chaka chimodzi kumaphatikizapo kukonza zolakwika za ntchito yathu ndi zosintha zoyambira zachitetezo. Zinthu zatsopano, kusintha kwakukulu kwa kapangidwe ndi ntchito zosaphatikizidwa mu mgwirizano woyamba zimalipiritsidwa padera."
+     ]
+    },
+    {
+     "t": "6. Katundu wa nzeru",
+     "b": [
+      "Zipangizo zomwe mumapereka zimakhalabe zanu. Ntchito yomalizidwa imaperekedwa kwa inu ndalama zonse zitalipidwa monga tagwirizana. Nocoding ingasonyeze ntchito zomwe zili pa intaneti ngati zitsanzo mu portfolio yake, pokhapokha mutapempha polemba kuti zisasonyezedwe.",
+      "Kapangidwe, mawu ndi nkhani za pa nocoding.web.id ndi za Nocoding. Mutha kugawana maulalo ake, koma simungathe kuzikopera ndi kuzigwiritsa ntchito pa malonda popanda chilolezo. Zithunzi za nkhani zimachokera ku Unsplash ndipo zimatsatira chilolezo chake; gwero lake limatchulidwa pansi pa chithunzi chilichonse."
+     ]
+    },
+    {
+     "t": "7. Zilankhulo za webusayiti",
+     "b": [
+      "Webusayiti iyi ikupezeka m'zilankhulo zambiri. Matanthauzidwe, makamaka a zilankhulo zomwe zili ndi olankhula ochepa, mwina sangakhale angwiro. Ngati akusiyana pa tanthauzo, mtundu wa Chiindonesia ndi umene ugwira ntchito. Masamba azamalamulo awa akupezeka m'Chiindonesia ndi Chingerezi."
+     ]
+    },
+    {
+     "t": "8. Malire a udindo",
+     "b": [
+      "Timagwira ntchito kuti tipereke zotsatira zabwino, koma sitilonjeza zotsatira zenizeni za bizinesi monga malo pa kafukufuku, chiwerengero cha alendo kapena malonda. Sitili oyang'anira zosokoneza zochokera kwa anthu ena monga opereka hosting, domain kapena malipiro, kapena zotayika zosalunjika.",
+      "Udindo wathu pa ntchito imodzi umangokhala pa ndalama zomwe mwalipira pa ntchito imeneyo, malinga ndi momwe lamulo limalola. Izi sizichepetsa ufulu wanu woteteza ndi lamulo."
+     ]
+    },
+    {
+     "t": "9. Lamulo logwira ntchito",
+     "b": [
+      "Migwirizano iyi imayendetsedwa ndi malamulo a Republic of Indonesia. Ngati pabuka mkangano, timayamba tayesa kuthetsa pokambirana. Ngati sipanapezeke mgwirizano, mkanganowo umathetsedwa ndi makhothi ovomerezeka ku Indonesia."
+     ]
+    },
+    {
+     "t": "10. Kusintha ndi kulumikizana",
+     "b": [
+      "Migwirizano iyi ingasinthidwe nthawi ndi nthawi; tsiku la kusintha komaliza likuwonetsedwa pamwamba pa tsamba. Mafunso mutha kutumiza ku nocodingindonesia@gmail.com kapena pa WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Mfundo za Ma Cookie",
+   "description": "Ma cookie ndi malo osungira a m'chipangizo omwe webusayiti ya Nocoding imagwiritsa ntchito, cholinga chake, ndi momwe mungawayendetsere.",
+   "sections": [
+    {
+     "t": "1. Ma cookie ndi chiyani",
+     "b": [
+      "Ma cookie ndi mafayilo ang'onoang'ono omwe webusayiti imasunga mu msakatuli wanu. Local storage ndi session storage zimagwira ntchito mofanana koma sizimatumizidwa ku seva zokha. Pa tsamba ili, tikuziitana zonse kuti ma cookie."
+     ]
+    },
+    {
+     "t": "2. Zomwe webusayiti imafuna kuti igwire ntchito",
+     "b": [
+      "Zimasungidwa mu msakatuli wanu ndipo sizimatumizidwa ku maseva athu:",
+      "- nocoding-language ndi nocoding-language-set: chilankhulo chomwe mwasankha kapena chomwe chadziwika kuchokera ku msakatuli wanu.",
+      "- nocoding-pricing (session): ndalama ndi mtengo wosinthira woyerekezedwa, kuti mitengo isawerengedwenso patsamba lililonse.",
+      "- Zizindikiro za nkhani: ngati mwakonda, mwaonera kapena mwagawana nkhani kale, kuti manambala asawirikizidwe.",
+      "- Chizindikiro chakanthawi cha malo omwe mwafika popukusa mukamachoka gawo lina la webusayiti kupita lina."
+     ]
+    },
+    {
+     "t": "3. Analytics",
+     "b": [
+      "Zikayatsidwa, ntchito ziwiri za analytics zimayamba mukakhudza kapena kucheza ndi tsamba (kupukusa, kukhudza kapena kukanikiza kiyi):",
+      "- Google Analytics 4 (ma cookie monga _ga ndi _ga_*, ovomerezeka mpaka zaka pafupifupi 2): ziwerengero za maulendo.",
+      "- Microsoft Clarity (ma cookie monga _clck, _clsk, CLID ndi MUID, ovomerezeka mpaka chaka chimodzi): mamapu a kutentha (heatmap) ndi zojambulidwa zosadziwika zakucheza ndi tsamba.",
+      "Opereka CDN ndi chitetezo atha kuyika ma cookie aukadaulo kuteteza webusayiti ku magalimoto owononga."
+     ]
+    },
+    {
+     "t": "4. Momwe mungayendetsere ma cookie",
+     "b": [
+      "Mutha kufufuta kapena kuletsa ma cookie mu zosintha za msakatuli wanu. Mutha kuyikanso chowonjezera chovomerezeka cha Google chosiya Google Analytics. Ngati ma cookie a analytics aletsedwa, webusayiti imagwirabe ntchito; ngati local storage yachotsedwa, chilankhulo chanu chosankhidwa chimabwerera ku chosasinthika."
+     ]
+    },
+    {
+     "t": "5. Mafunso",
+     "b": [
+      "Pa mafunso okhudza mfundo izi, lemberani nocodingindonesia@gmail.com. Momwe zambiri zaumwini zimagwiritsidwira ntchito zafotokozedwa bwino mu Mfundo Zachinsinsi. Ngati zilankhulo zikusiyana pa tanthauzo, mtundu wa Chiindonesia ndi umene ugwira ntchito."
+     ]
+    }
+   ]
+  }
+ }
+}

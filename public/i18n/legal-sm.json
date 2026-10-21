@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Faafouina mulimuli",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Faataoto Faamaoni o Faamatalaga Patino",
+   "description": "O faamatalaga ia e aoina e Nocoding, o le faaaogaina o ia faamatalaga, o ai e faagaoioia, ma ou aia tatau i au faamatalaga patino.",
+   "sections": [
+    {
+     "t": "1. O ai i matou",
+     "b": [
+      "O Nocoding (nocoding.web.id) o se auaunaga o le fausiaina o upega tafa'ilagi, polokalame, faiga faamatalaga ma le otometi, e pulea e Abid Hanan Wicaksono i Initonesia. O lenei faataoto e faamatala ai le auala matou te taulimaina ai au faamatalaga patino pe a e asia lenei upega tafa'ilagi pe a e fesootai mai ia i matou.",
+      "E mafai ona auina atu fesili e uiga i lenei faataoto i nocodingindonesia@gmail.com po o le WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Faamatalaga matou te aoina",
+     "b": [
+      "- Faamatalaga e te tuuina mai: lou igoa, le numera o le WhatsApp, imeli ma se faamatalaga o lau poloketi pe a e fesootai mai ia i matou e ala i le WhatsApp po o le imeli. E leai ni tala o tagata faaaoga po o ni pepa resitala i lenei upega tafa'ilagi.",
+      "- Faamatalaga faatekonolosi e faagaoioia otometi: le tuatusi IP, le ituaiga o masini ma le suesue upega tafa'ilagi, ma itulau e e tatalaina. O matou tagata e tuuina atu le talimalo ma le CDN e faagaoioia ia faamatalaga ina ia tautuaina le upega tafa'ilagi ma puipuia mai le faaaogaina leaga.",
+      "- Le atunuu e tusa ai: ina ia faaalia tau i lau tupe, e fuafua lou atunuu mai faamatalaga a le CDN po o le gagana o lau suesue upega tafa'ilagi. Matou te le teuina i luga o a matou sapalai.",
+      "- Faamatalaga o suesuega: o le Google Analytics 4 ma le Microsoft Clarity (pe a faaaoga) e aoina ai fuainumera o le faaaogaina e pei o itulau ua tatalaina, le umi o le asiga, le ituaiga o masini ma pu'eina e le o iloa ai le tagata o fegalegaleaiga. E na'o le mae'a ona e fegalegaleai ma le itulau ona utaina lea.",
+      "- Teuina i le suesue upega tafa'ilagi: lau filifiliga o le gagana, faailoga ua uma ona e fiafia, vaai po o tufatufaina se tala, ma se fuafuaga le tumau o le tau. O faamatalaga atoa o loo i le Faataoto o Cookie.",
+      "- O le aofaiga o le vaaiga, fiafia ma le tufatufaina o se tala e teuina o se numera tuufaatasi, e aunoa ma le faailoa o le tagata asiasi."
+     ]
+    },
+    {
+     "t": "3. O le faaaogaina o faamatalaga",
+     "b": [
+      "- Tali atu i au fesili, saunia o tau ma faataunuuina lau poloketi.",
+      "- Tautuaina, puipuia ma faatumauina le televave o le upega tafa'ilagi.",
+      "- Malamalama i le auala e faaaoga ai le upega tafa'ilagi ina ia mafai ona matou faaleleia.",
+      "- Faataunuuina o tiute faale-tulafono e tusa ai ma le tulafono.",
+      "Matou te le faatauina atu au faamatalaga patino."
+     ]
+    },
+    {
+     "t": "4. Vaega lona tolu o loo aafia",
+     "b": [
+      "- Vercel: talimalo ma le tautuaina o le upega tafa'ilagi.",
+      "- Cloudflare: CDN ma le puipuiga.",
+      "- Google (Google Analytics 4) ma Microsoft (Clarity): fuainumera o le faaaogaina o le upega tafa'ilagi.",
+      "- Meta (WhatsApp) ma Google (Gmail): pe a e fesootai mai ia i matou e ala i sootaga o le WhatsApp po o le imeli i lenei upega tafa'ilagi.",
+      "- Le tagata e tuuina mai le fua o tupe: e na'o talosaga mo le fua e maua mai le matou sapalai, e le o faamatalaga o tagata asiasi.",
+      "E mafai e nei tagata ona faagaoioia faamatalaga i fafo atu o Initonesia e tusa ai ma a latou lava faataoto."
+     ]
+    },
+    {
+     "t": "5. Le umi o le teuina o faamatalaga",
+     "b": [
+      "O talanoaga ma mea o le poloketi e teuina i le umi e manaomia ai e faatino ai le auaunaga, tuuina atu le lagolago ma faataunuu tiute faale-tulafono, ona toe tape ai po o le faaleaogaina o le iloa o le tagata. O faamatalaga o suesuega e mulimuli i fuafuaga o le teuina a lē e tuuina mai. O faamatalaga i lau suesue upega tafa'ilagi e tumau seia e tape e oe."
+     ]
+    },
+    {
+     "t": "6. Ou aia tatau",
+     "b": [
+      "I lalo o le Tulafono Numera 27 o le Tausaga 2022 a Initonesia e uiga i le Puipuiga o Faamatalaga Patino, e iai lou aia tatau e:",
+      "- iloa ma maua se kopi o faamatalaga patino ua matou teuina e uiga ia te oe;",
+      "- talosagaina le faaleleia o faamatalaga sese;",
+      "- talosagaina le tapeina o au faamatalaga po o le teena o lau finagalo malie;",
+      "- tetee i nisi o gaoioiga o le faagaoioia.",
+      "Auina atu lau talosaga i nocodingindonesia@gmail.com. O le a matou tali atu i totonu o se taimi talafeagai."
+     ]
+    },
+    {
+     "t": "7. Le puipuiga ma tamaiti",
+     "b": [
+      "O lenei upega tafa'ilagi e faaaogaina ai le HTTPS ma o le avanoa i faamatalaga o poloketi e faatapulaaina. E leai se auala e tuuina atu pe teuina ai faamatalaga e aunoa ma se lamatiaga, o lea e le mafai ai ona matou faamaonia le puipuiga atoatoa.",
+      "O a matou auaunaga e mo tagata e 18 tausaga ma sili atu. Matou te le aoina ma le iloa faamatalaga patino o tamaiti."
+     ]
+    },
+    {
+     "t": "8. Suiga i lenei faataoto",
+     "b": [
+      "E mafai ona faafouina lenei faataoto i taimi taitasi. O le aso o le faafouga mulimuli o loo faaalia i le pito i luga o le itulau. Afai e eseese uiga i gagana, e faaaoga le lomiga o le gagana Initonesia."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Tulafono ma Aiaiga",
+   "description": "Tulafono mo le faaaogaina o le upega tafa'ilagi ma auaunaga a Nocoding: afifi, tau, le auala e faatinoina ai galuega, aia tatau faalemafaufau ma tapulaa o le tuuaiga.",
+   "sections": [
+    {
+     "t": "1. Taliaina o nei tulafono",
+     "b": [
+      "I le tatalaina o lenei upega tafa'ilagi po o le faaaogaina o auaunaga a Nocoding, e te malie ai i nei tulafono ma aiaiga. Afai e te le malie, aua le faaaogaina lo matou upega tafa'ilagi po o a matou auaunaga."
+     ]
+    },
+    {
+     "t": "2. Auaunaga",
+     "b": [
+      "E faia e Nocoding upega tafa'ilagi o pepa o galuega po o le CV, itulau e faafeiloai ma talaaga o kamupani, faiga faamatalaga ma faiga o galuega, ma le otometi o faiga o pisinisi. O le lautele o galuega, mea faigaluega, polokalame o taimi ma le tau e maliega ma oe e ala i le WhatsApp po o le imeli aʻo leʻi amata le galuega.",
+      "O talosaga mo fautuaga e leai se totogi i taimi uma, i soo se taimi e te manaomia ai, ma e le faamalosia ai oe e fai se poloaiga."
+     ]
+    },
+    {
+     "t": "3. Afifi ma tau",
+     "b": [
+      "- Afifi laiti: amata mai i le Rp 500.000 i le tausaga, e aofia ai le tausiga e leai se totogi ma se domeini mo le 1 tausaga.",
+      "- Afifi tele: amata mai i le Rp 2.000.000 i le tausaga, e aofia ai le tausiga e leai se totogi ma le talimalo mo le 1 tausaga.",
+      "O tau i luga o le upega tafa'ilagi o tau amata. O le aofaiga mulimuli e maliega pe a uma se fautuaga, e faavae i au manaoga. Mo tagata asiasi mai fafo atu o Initonesia, e faaalia tau i tupe a le atunuu o se fuafuaga e faavae i le fua o tupe i aso taitasi; o le aofaiga i rupia ua tatou maliega i ai e faaaogaina. O tau faaopoopo, e pei o galuega faaopoopo po o le toe faafouina pe a uma le vaitaimi e leai se totogi, e taʻu atu ia te oe aʻo leʻi faia le galuega."
+     ]
+    },
+    {
+     "t": "4. Le auala e faatino ai galuega ma au tiute",
+     "b": [
+      "O le mamanu e iloiloina ma faamaonia faatasi ma oe aʻo leʻi amata le gaosiga. O suiga e faia e tusa ai ma le maliega.",
+      "O oe e nafa ma le tuuina mai o mea (logo, tusitusiga, ata, faamatalaga) i le taimi talafeagai ma le iai o lou aia tatau e faaaoga ai. O le tuai o mea po o manatu e mafai ona afaina ai le polokalame o taimi."
+     ]
+    },
+    {
+     "t": "5. Tausiga",
+     "b": [
+      "O le tausiga e leai se totogi mo le 1 tausaga e aofia ai le faaleleia o mea sese i la matou galuega ma faafouga faavae o le puipuiga. O mea fou, suiga tetele o le mamanu ma galuega i fafo atu o le maliega muamua e totogi eseese."
+     ]
+    },
+    {
+     "t": "6. Aia tatau faalemafaufau",
+     "b": [
+      "O mea e te tuuina mai e tumau pea ia oe. O le galuega ua maea e tuuina atu ia te oe pe a uma ona totogi atoa e tusa ai ma le maliega. E mafai e Nocoding ona faaalia galuega ua ola o ni faataitaiga i lana pepa o galuega, vagana ua e talosagaina i se tusi ia aua nei faaalia.",
+      "O le mamanu, tusitusiga ma tala i luga o nocoding.web.id e a Nocoding. E mafai ona e tufatufaina ni sootaga ia i latou, ae e le mafai ona e kopiina ma faaaoga mo pisinisi e aunoa ma se faatagaga. O ata o tala e mai Unsplash ma mulimuli i lona laisene; o le puna e taʻua i lalo o ata taitasi."
+     ]
+    },
+    {
+     "t": "7. Gagana o le upega tafa'ilagi",
+     "b": [
+      "O lenei upega tafa'ilagi o loo maua i le tele o gagana. O faaliliuga, aemaise lava mo gagana e laiti tagata e tautala i ai, atonu e le atoatoa. Afai e eseese uiga, e faaaoga le lomiga o le gagana Initonesia. O nei itulau faale-tulafono o loo maua i le gagana Initonesia ma le gagana Peretania."
+     ]
+    },
+    {
+     "t": "8. Tapulaa o le tuuaiga",
+     "b": [
+      "Matou te galulue e tuuina atu ni taunuuga lelei, ae matou te le folafola ni taunuuga patino o pisinisi e pei o tulaga i suesuega, aofaiga o tagata asiasi po o fa'atauga. Matou te le nafa ma ni faalavelave mai vaega lona tolu e pei o tagata e tuuina atu le talimalo, domeini po o totogi, po o ni leiloa e le tuusao.",
+      "O le matou nafa mo se auaunaga e faatapulaaina i le aofaiga ua e totogi mo lena auaunaga, i le mea e faatagaina e le tulafono. E le faaitiitia ai ou aia tatau e puipuia e le tulafono."
+     ]
+    },
+    {
+     "t": "9. Tulafono e pulea",
+     "b": [
+      "O nei tulafono e pulea e tulafono a le Malo o Initonesia. Afai e tulai mai se finauga, matou te muamua taumafai e foia e ala i talanoaga. Afai e le maua se maliega, e foia le finauga e fagafao tulafono agavaa i Initonesia."
+     ]
+    },
+    {
+     "t": "10. Suiga ma fesootaiga",
+     "b": [
+      "E mafai ona faafouina nei tulafono i taimi taitasi; o le aso o le faafouga mulimuli o loo faaalia i le pito i luga o le itulau. E mafai ona auina atu fesili i nocodingindonesia@gmail.com po o le WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Faataoto o Cookie",
+   "description": "O cookie ma le teuina i le lotoifale e faaaoga e le upega tafa'ilagi o Nocoding, o le a le mea e faaaoga ai, ma le auala e pulea ai.",
+   "sections": [
+    {
+     "t": "1. O le a le cookie",
+     "b": [
+      "O cookie o faila laiti e teuina e se upega tafa'ilagi i lau suesue upega tafa'ilagi. O le teuina i le lotoifale (local storage) ma le teuina o le sesioni (session storage) e galue faapena ae e le auina otometi i se sapalai. I lenei itulau matou te taʻua uma o cookie."
+     ]
+    },
+    {
+     "t": "2. O mea e manaomia e le upega tafa'ilagi e galue ai",
+     "b": [
+      "Teuina i lau suesue upega tafa'ilagi ma e le auina i a matou sapalai:",
+      "- nocoding-language ma nocoding-language-set: le gagana na e filifilia po o le na iloa mai lau suesue upega tafa'ilagi.",
+      "- nocoding-pricing (sesioni): le tupe ma le fua ua fuafuaina, ina ia le toe fuafuaina tau i itulau uma.",
+      "- Faailoga o tala: pe ua uma ona e fiafia, vaai po o tufatufaina se tala, ina ia le faaluaina numera.",
+      "- Se faailoga le tumau o le tulaga o le tafe i luga pe a e alu i isi vaega o le upega tafa'ilagi."
+     ]
+    },
+    {
+     "t": "3. Suesuega",
+     "b": [
+      "Pe a faaaoga, e lua auaunaga o suesuega e utaina pe a uma ona e fegalegaleai ma le itulau (tafe i luga, pa po o le oomi se mama):",
+      "- Google Analytics 4 (cookie e pei o _ga ma _ga_*, e aoga e oo atu i le tusa ma le 2 tausaga): fuainumera o asiga.",
+      "- Microsoft Clarity (cookie e pei o _clck, _clsk, CLID ma MUID, e aoga e oo atu i le tusa ma le 1 tausaga): ata o vevela ma pu'eina e le o iloa ai le tagata o fegalegaleaiga.",
+      "O tagata e tuuina atu le CDN ma le puipuiga atonu foi e tuu ni cookie faatekonolosi e puipui ai le upega tafa'ilagi mai feoaiga afaina."
+     ]
+    },
+    {
+     "t": "4. Le auala e pulea ai cookie",
+     "b": [
+      "E mafai ona e tape po o poloka cookie i faatulagaga o lau suesue upega tafa'ilagi. E mafai foi ona e faatuina le faaopoopo aloaia a Google e teena ai le Google Analytics. Afai e poloka cookie o suesuega, e galue pea le upega tafa'ilagi; afai e tape le teuina i le lotoifale, e toe foi lau filifiliga o le gagana i le tulaga masani."
+     ]
+    },
+    {
+     "t": "5. Fesili",
+     "b": [
+      "Mo fesili e uiga i lenei faataoto, fesootai ia nocodingindonesia@gmail.com. O le faaaogaina o faamatalaga patino e faamatala atili i le Faataoto Faamaoni o Faamatalaga Patino. Afai e eseese uiga i gagana, e faaaoga le lomiga o le gagana Initonesia."
+     ]
+    }
+   ]
+  }
+ }
+}

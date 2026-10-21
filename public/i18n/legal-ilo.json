@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Naudi a napabaro",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Palisi iti Pribasia",
+   "description": "Dagiti datos nga ur-urnongen ti Nocoding, ti usarenna, siasino ti mangproseso, ken dagiti karbengam maipapan iti personal a datosmo.",
+   "sections": [
+    {
+     "t": "1. Siasino kami",
+     "b": [
+      "Ti Nocoding (nocoding.web.id) ket serbisio iti website, app, sistema ti impormasion ken automation a mangmanehar ni Abid Hanan Wicaksono idiay Indonesia. Ipalawag daytoy a palisi no kasano a tratuenmi ti personal a datosmo inton bumisitaka iti daytoy a site wenno kontakenmo kami.",
+      "Dagiti saludsod maipapan iti daytoy a palisi mabalin nga ipatulod iti nocodingindonesia@gmail.com wenno WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Datos nga ur-urnongenmi",
+     "b": [
+      "- Datos nga itedmo kadakami: ti nagnaganmo, numero ti WhatsApp, email ken deskripsion ti proyektom inton kontakenmo kami babaen ti WhatsApp wenno email. Daytoy a site awan iti akaunt ti agus-usar wenno porma ti panagrehistro.",
+      "- Teknikal a datos nga automatiko a maproseso: IP address, kita ti aparato ken browser, ken dagiti panid nga ibukbukam. Prosesen daytoy dagiti provider ti hosting ken CDN tapno maipaay ti site ken mapagtalinaed a natalged manipud iti panangabuso.",
+      "- Mataginayon a pagilian: tapno maipakita dagiti presyo iti kuartam, maestimar ti pagilianmo manipud iti impormasion ti CDN wenno pagsasao ti browsermo. Saanmi daytoy nga idulin kadagiti serbermi.",
+      "- Datos ti analytics: ti Google Analytics 4 ken Microsoft Clarity (no naipaandar) agurnong kadagiti estadistika ti panagus-usar kas kadagiti nabuksan a panid, kaatiddog ti bisita, kita ti aparato ken di-agan-anamong a rekording dagiti aramid. Agkarga laeng kadagitoy kalpasan ti panagaramidmo iti panid.",
+      "- Storage ti browser: ti pinilim a pagsasao, dagiti marka a nagustuan, nakitam wenno insaritam ti maysa nga artikulo, ken temporario nga estimasion ti presyo. Adda dagiti detalye iti Palisi iti Cookie.",
+      "- Dagiti bilang ti panagkita, panagustuan ken panagsarita iti artikulo maidulin a kas naurnong a numero, awan ti pannakaamo ti bisita."
+     ]
+    },
+    {
+     "t": "3. Panggep ti panagusar kadagiti datos",
+     "b": [
+      "- Panagsungbat kadagiti saludsodmo, panagisagana kadagiti quote ken panagaramid iti proyektom.",
+      "- Panagserbi, panangsalaknib ken panangpagtalinaed a napartak ti site.",
+      "- Panangawat no kasano a maus-usar ti site tapno mapasayaatmi.",
+      "- Panangtungpal kadagiti obligasion a legal.",
+      "Saanmi nga ilako ti personal a datosmo."
+     ]
+    },
+    {
+     "t": "4. Dagiti kabuyon a maikatlo a paset",
+     "b": [
+      "- Vercel: hosting ken panagserbi iti site.",
+      "- Cloudflare: CDN ken seguridad.",
+      "- Google (Google Analytics 4) ken Microsoft (Clarity): estadistika ti panagus-usar ti site.",
+      "- Meta (WhatsApp) ken Google (Gmail): inton kontakenmo kami babaen dagiti link ti WhatsApp wenno email iti daytoy a site.",
+      "- Provider ti rate ti kuarta: umawat laeng kadagiti kiddaw a rate manipud iti serbermi, saan a datos dagiti bisita.",
+      "Mabalin a proseseen dagitoy a provider dagiti datos iti ruar ti Indonesia segun kadagiti bukodda a palisi."
+     ]
+    },
+    {
+     "t": "5. Kasano kabayag a maidulin dagiti datos",
+     "b": [
+      "Dagiti panagsasarita ken material ti proyekto maidulin agingga a kasapulan tapno maipaandar ti serbisio, mangted iti suporta ken matungpal dagiti obligasion a legal, kalpasanna mapunas wenno maaramid a di-matukoy ti tao. Dagiti datos ti analytics sursuruen dagiti setting ti retention ti provider na. Dagiti datos iti browsermo agtalinaed agingga a punasem."
+     ]
+    },
+    {
+     "t": "6. Dagiti karbengam",
+     "b": [
+      "Segun iti Linteg Blg. 27 ti 2022 ti Indonesia maipapan iti Pananggitgitan ti Personal a Datos, adda karbengam a:",
+      "- mangammo ken mangala iti kopia ti personal a datos a taglaymi maipapan kenka;",
+      "- mangkiddaw a mapabasol dagiti biddut a datos;",
+      "- mangkiddaw a mapunas dagiti datosmo wenno bawienmo ti pammalubosmo;",
+      "- agsupiat iti dadduma a panagproseso.",
+      "Ipatulodmo ti kiddawmo iti nocodingindonesia@gmail.com. Sungbatanmi iti umiso a tiempo."
+     ]
+    },
+    {
+     "t": "7. Seguridad ken annak",
+     "b": [
+      "Daytoy a site agus-usar iti HTTPS ken limitado ti panagserrek kadagiti datos ti proyekto. Awan ti wagas ti panagipatulod wenno panagidulin iti datos nga awan pakadanagan, isu a saanmi a masigurado ti naan-anay a seguridad.",
+      "Dagiti serbisiomi ket para kadagiti tao nga agtawen iti 18 ken ngato. Saanmi a ammo nga ur-urnongen ti personal a datos dagiti ubbing."
+     ]
+    },
+    {
+     "t": "8. Panagbaliw iti daytoy a palisi",
+     "b": [
+      "Mabalin a mapabaro daytoy a palisi iti dadduma a tiempo. Ti petsa ti naudi a panagpabaro naipakita iti ngato ti panid. No agsalumina ti kayat a sawen dagiti pagsasao, ti bersion nga Indonesian ti mayaplikar."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Termino ken Kondision",
+   "description": "Dagiti pagannurotan iti panagus-usar iti site ken serbisio ti Nocoding: dagiti pakete, presyo, kasano a maaramid ti trabaho, intelektual a sanikua ken dagiti limitasion ti responsabilidad.",
+   "sections": [
+    {
+     "t": "1. Panangawat kadagiti termino",
+     "b": [
+      "Babaen ti panagbuksam iti daytoy a site wenno panagus-usar kadagiti serbisio ti Nocoding, mayonsentim dagitoy a termino ken kondision. No saanka a mayon, pangngaasi a dika usaren ti sitemi wenno dagiti serbisiomi."
+     ]
+    },
+    {
+     "t": "2. Dagiti serbisio",
+     "b": [
+      "Ti Nocoding mangaramid kadagiti website a portfolio wenno CV, landing page ken profile ti kompania, sistema ti impormasion ken operasion, ken automation ti proseso ti negosio. Ti sakup ti trabaho, dagiti feature, iskedyul ken gastos mayaonan kenka babaen ti WhatsApp wenno email sakbay a mangrugi ti trabaho.",
+      "Libre a kanayon ti konsultasion, no kaanoman a kasapulam, ken awan ti obligasionmo nga agorder."
+     ]
+    },
+    {
+     "t": "3. Dagiti pakete ken presyo",
+     "b": [
+      "- Bassit a pakete: manipud iti Rp 500,000 tunggal tawen, agraman ti libre a maintenance ken domain para iti 1 a tawen.",
+      "- Dakkel a pakete: manipud iti Rp 2,000,000 tunggal tawen, agraman ti libre a maintenance ken hosting para iti 1 a tawen.",
+      "Dagiti presyo iti site ket mangrugi a presyo. Ti naudi a gatad mayaonan kalpasan ti konsultasion, segun kadagiti kasapulam. Para kadagiti bisita iti ruar ti Indonesia, dagiti presyo maipakita iti lokal a kuarta kas estimasion segun iti inaldaw a rate ti panagsukat; ti gatad iti rupiah a naayonan ti mayaplikar. Dagiti ekstra a gastos, kas kadagiti dadduma a feature wenno panagbaro kalpasan ti panungpalan ti libre a periodo, ibagami kenka sakbay a maaramid ti trabaho."
+     ]
+    },
+    {
+     "t": "4. Kasano a maaramid ti trabaho ken dagiti responsabilidadmo",
+     "b": [
+      "Ti disenio ket repasoen ken aprobaran a kaduam sakbay ti produksion. Dagiti rebision maaramid segun iti naayonan.",
+      "Responsablekan iti panangipaay kadagiti material (logo, testo, ritrato, datos) iti umiso a tiempo ken iti panangtaginayon iti kalintegan a mangusar kadagita. Dagiti pannakalaylay iti material wenno feedback mabalin a mangapekto iti iskedyul."
+     ]
+    },
+    {
+     "t": "5. Maintenance",
+     "b": [
+      "Ti libre a maintenance iti 1 a tawen sakupenna ti panagtarimaan kadagiti biddut iti trabahomi ken dagiti kangrunaan a panagpabaro ti seguridad. Dagiti baro a feature, dadakkel a panagbaliw ti disenio ken trabaho iti ruar ti rugi a pagannurotan ket mabayadan a naisina."
+     ]
+    },
+    {
+     "t": "6. Intelektual a sanikua",
+     "b": [
+      "Dagiti material nga itedmo agtalinaed a kukuam. Ti nalpas a trabaho maited kenka sakbay a naan-anay ti bayad a segun iti naayonan. Mabalin nga ipakita ti Nocoding dagiti agtartrabaho a trabaho kas ehemplo iti portfolio na, malaksid no kiddawem a naisurat a saan nga ipakita.",
+      "Ti disenio, testo ken dagiti artikulo iti nocoding.web.id ket kukua ti Nocoding. Mabalinmo nga ibingay dagiti link kadakuada, ngem saanmo a mabalin a kopiaen ken usaren a komersial nga awan ti pammalubos. Dagiti ritrato dagiti artikulo ket naggapu iti Unsplash ken sursuruenda ti lisensiana; ti gubuayan maikreditos iti sirok ti tunggal ritrato."
+     ]
+    },
+    {
+     "t": "7. Dagiti pagsasao ti site",
+     "b": [
+      "Daytoy a site magun-od iti adu a pagsasao. Dagiti patarus, nangnangruna kadagiti pagsasao nga amin laeng ti agsasao, mabalin a saan a perpekto. No agsalumina ti kayat a sawen, ti bersion nga Indonesian ti mayaplikar. Dagitoy a legal a panid magun-od iti Indonesian ken Ingles."
+     ]
+    },
+    {
+     "t": "8. Dagiti limitasion ti responsabilidad",
+     "b": [
+      "Agtrabahokami tapno mangited iti nasayaat a resulta, ngem saankami nga agsapata kadagiti espesipiko a resulta ti negosio kas kadagiti ranking iti panagbirok, bilang ti bisita wenno gatad. Saankami a responsable kadagiti panangburaw manipud kadagiti maikatlo a paset kas kadagiti provider ti hosting, domain wenno bayad, wenno kadagiti di-direkta a pannakadadael.",
+      "Ti responsabilidadmi para iti maysa a serbisio limitado iti kantidad nga imbayadmo para iti dayta a serbisio, agingga iti mabalin ti linteg. Daytoy saan a mangkissay kadagiti karbengam a salaknibanan ti linteg."
+     ]
+    },
+    {
+     "t": "9. Mangiturong a linteg",
+     "b": [
+      "Dagitoy a termino ket iturturong dagiti linteg ti Republika ti Indonesia. No adda mapasamak a di pagkikinaawatan, patneng a sapulenmi nga isu ti agsolbar babaen ti panagsasarita. No awan ti naurnos nga ayon, ti di pagkikinaawatan masolbar dagiti kompetente a korte iti Indonesia."
+     ]
+    },
+    {
+     "t": "10. Panagbaliw ken kontak",
+     "b": [
+      "Mabalin a mapabaro dagitoy a termino iti dadduma a tiempo; ti petsa ti naudi a panagpabaro naipakita iti ngato ti panid. Dagiti saludsod mabalin nga ipatulod iti nocodingindonesia@gmail.com wenno WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Palisi iti Cookie",
+   "description": "Dagiti cookie ken lokal a storage nga usaren ti site ti Nocoding, ti pakausaranda, ken no kasano a bagbagaen dagitoy.",
+   "sections": [
+    {
+     "t": "1. Ania dagiti cookie",
+     "b": [
+      "Dagiti cookie ket bassit a file a idulin ti maysa a site iti browsermo. Ti local storage ken session storage umandar a umasping ngem saan nga automatiko a maipatulod iti serber. Iti daytoy a panid, awagan mi amin a cookie."
+     ]
+    },
+    {
+     "t": "2. Ti kasapulan ti site tapno agtrabaho",
+     "b": [
+      "Maidulin iti browsermo ken saan a maipatulod kadagiti serbermi:",
+      "- nocoding-language ken nocoding-language-set: ti pagsasao a pinilim wenno naamiris manipud iti browsermo.",
+      "- nocoding-pricing (sesion): ti estimado a kuarta ken rate, tapno saan nga umulit ti panangkuenta iti presyo iti tunggal panid.",
+      "- Dagiti marka ti artikulo: no nagustuam, nakitam wenno insaritam ti maysa nga artikulo, tapno saan a madoble dagiti bilang.",
+      "- Temporario a marka ti posision ti scroll inton agsukat iti nagbaetan dagiti paset ti site."
+     ]
+    },
+    {
+     "t": "3. Analytics",
+     "b": [
+      "No naipaandar, dua nga analytics a serbisio ti agkarga kalpasan ti panagaramidmo iti panid (scroll, tap wenno pindut iti key):",
+      "- Google Analytics 4 (dagiti cookie kas iti _ga ken _ga_*, mayat agingga iti agarup 2 a tawen): estadistika dagiti bisita.",
+      "- Microsoft Clarity (dagiti cookie kas iti _clck, _clsk, CLID ken MUID, mayat agingga iti agarup 1 a tawen): heatmap ken di-agan-anamong a rekording dagiti aramid.",
+      "Dagiti provider ti CDN ken seguridad mabalin met nga agikabil kadagiti teknikal a cookie tapno salaknibanda ti site manipud iti makadadael a trapiko."
+     ]
+    },
+    {
+     "t": "4. No kasano a bagbagaen dagiti cookie",
+     "b": [
+      "Mabalinmo a punasen wenno iparit dagiti cookie kadagiti setting ti browsermo. Mabalinmo met nga ikabil ti opisial nga opt-out add-on ti Google para iti Google Analytics. No maparit dagiti cookie ti analytics, agtrabaho latta ti site; no mapunas ti local storage, agsubli ti pinilim a pagsasao iti default."
+     ]
+    },
+    {
+     "t": "5. Dagiti saludsod",
+     "b": [
+      "Para kadagiti saludsod maipapan iti daytoy a palisi, kontakem ti nocodingindonesia@gmail.com. Ti panagusar kadagiti personal a datos naipalawag pay iti Palisi iti Pribasia. No agsalumina ti kayat a sawen dagiti pagsasao, ti bersion nga Indonesian ti mayaplikar."
+     ]
+    }
+   ]
+  }
+ }
+}

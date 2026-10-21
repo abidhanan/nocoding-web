@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Utolsó frissítés",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Adatvédelmi irányelvek",
+   "description": "Milyen adatokat gyűjt a Nocoding, mire használja őket, ki dolgozza fel azokat, és milyen jogokkal rendelkezik a személyes adatai felett.",
+   "sections": [
+    {
+     "t": "1. Kik vagyunk",
+     "b": [
+      "A Nocoding (nocoding.web.id) egy weboldal-, alkalmazás-, információs rendszer- és automatizálási szolgáltatás, amelyet Abid Hanan Wicaksono működtet Indonéziában. Ez az irányelv elmagyarázza, hogyan kezeljük a személyes adatait, amikor meglátogatja ezt az oldalt vagy kapcsolatba lép velünk.",
+      "Az irányelvvel kapcsolatos kérdéseket a nocodingindonesia@gmail.com címre vagy WhatsApp-on a +62 853-2651-3324 számra küldheti."
+     ]
+    },
+    {
+     "t": "2. Az általunk gyűjtött adatok",
+     "b": [
+      "- Az Ön által megadott adatok: a neve, WhatsApp-száma, e-mail-címe és a projektje leírása, amikor WhatsApp-on vagy e-mailben kapcsolatba lép velünk. Ezen az oldalon nincsenek felhasználói fiókok vagy regisztrációs űrlapok.",
+      "- Automatikusan feldolgozott technikai adatok: IP-cím, az eszköz és a böngésző típusa, valamint a megnyitott oldalak. A tárhely- és CDN-szolgáltatóink dolgozzák fel ezeket az oldal kiszolgálása és a visszaélések elleni védelem érdekében.",
+      "- Hozzávetőleges ország: hogy az árakat az Ön pénznemében tudjuk megjeleníteni, az országát a CDN adataiból vagy a böngésző nyelvéből becsüljük meg. Ezt nem tároljuk a szervereinken.",
+      "- Elemzési adatok: a Google Analytics 4 és a Microsoft Clarity (bekapcsolt állapotban) használati statisztikákat gyűjt, például a megnyitott oldalakat, a látogatás hosszát, az eszköz típusát és névtelen interakciórögzítéseket. Csak azután töltődnek be, hogy Ön használta az oldalt.",
+      "- Böngészőtárhely: a választott nyelve, a jelölések arról, hogy egy cikket már kedvelt, megtekintett vagy megosztott, valamint egy ideiglenes árbecslés. A részletek a Cookie-irányelvekben találhatók.",
+      "- A cikkek megtekintési, kedvelési és megosztási számait összesített számként tároljuk, a látogató személyazonossága nélkül."
+     ]
+    },
+    {
+     "t": "3. Mire használjuk az adatokat",
+     "b": [
+      "- Kérdései megválaszolása, ajánlatok készítése és a projektje megvalósítása.",
+      "- Az oldal kiszolgálása, védelme és gyorsan működtetése.",
+      "- Annak megértése, hogyan használják az oldalt, hogy fejleszthessük.",
+      "- Jogi kötelezettségek teljesítése.",
+      "A személyes adatait nem adjuk el."
+     ]
+    },
+    {
+     "t": "4. Az érintett harmadik felek",
+     "b": [
+      "- Vercel: az oldal tárhelye és kiszolgálása.",
+      "- Cloudflare: CDN és biztonság.",
+      "- Google (Google Analytics 4) és Microsoft (Clarity): az oldal használati statisztikái.",
+      "- Meta (WhatsApp) és Google (Gmail): amikor az oldalon található WhatsApp- vagy e-mail-hivatkozásokon keresztül veszi fel velünk a kapcsolatot.",
+      "- Árfolyamszolgáltató: csak a szerverünktől kap árfolyamlekérdezéseket, látogatói adatokat nem.",
+      "Ezek a szolgáltatók a saját irányelveik szerint Indonézián kívül is feldolgozhatnak adatokat."
+     ]
+    },
+    {
+     "t": "5. Meddig őrizzük meg az adatokat",
+     "b": [
+      "A beszélgetéseket és a projektanyagokat addig őrizzük meg, amíg az a szolgáltatás nyújtásához, a támogatás biztosításához és a jogi kötelezettségek teljesítéséhez szükséges, majd töröljük vagy anonimizáljuk őket. Az elemzési adatokra a szolgáltatójuk megőrzési beállításai vonatkoznak. A böngészőjében lévő adatok addig maradnak, amíg Ön nem törli őket."
+     ]
+    },
+    {
+     "t": "6. Az Ön jogai",
+     "b": [
+      "Az indonéz személyes adatok védelméről szóló 2022. évi 27. számú törvény alapján Önnek joga van:",
+      "- megtudni, milyen személyes adatokat kezelünk Önről, és másolatot kapni azokról;",
+      "- kérni a helytelen adatok helyesbítését;",
+      "- kérni az adatai törlését vagy visszavonni a hozzájárulását;",
+      "- tiltakozni bizonyos adatkezelések ellen.",
+      "A kérését a nocodingindonesia@gmail.com címre küldje. Észszerű időn belül válaszolunk."
+     ]
+    },
+    {
+     "t": "7. Biztonság és gyermekek",
+     "b": [
+      "Ez az oldal HTTPS-t használ, és a projektadatokhoz való hozzáférés korlátozott. Az adatok továbbításának vagy tárolásának egyetlen módja sem teljesen kockázatmentes, ezért nem garantálhatunk abszolút biztonságot.",
+      "Szolgáltatásaink 18 éves és idősebb személyeknek szólnak. Tudatosan nem gyűjtünk gyermekek személyes adatait."
+     ]
+    },
+    {
+     "t": "8. Az irányelv módosításai",
+     "b": [
+      "Ez az irányelv időről időre frissülhet. Az utolsó frissítés dátuma az oldal tetején látható. Ha a nyelvi változatok jelentése eltér, az indonéz változat az irányadó."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Általános szerződési feltételek",
+   "description": "A Nocoding oldalának és szolgáltatásainak használati szabályai: csomagok, árak, a munka menete, szellemi tulajdon és a felelősség korlátai.",
+   "sections": [
+    {
+     "t": "1. A feltételek elfogadása",
+     "b": [
+      "Az oldal megnyitásával vagy a Nocoding szolgáltatásainak igénybevételével Ön elfogadja ezeket az általános szerződési feltételeket. Ha nem ért egyet velük, kérjük, ne használja az oldalunkat és a szolgáltatásainkat."
+     ]
+    },
+    {
+     "t": "2. A szolgáltatások",
+     "b": [
+      "A Nocoding portfólió- vagy önéletrajz-weboldalakat, nyitóoldalakat és cégbemutatókat, információs és működési rendszereket, valamint üzleti folyamatok automatizálását készíti. A munka terjedelmét, a funkciókat, az ütemezést és a költséget a munka megkezdése előtt WhatsApp-on vagy e-mailben egyeztetjük Önnel.",
+      "A konzultáció mindig ingyenes, bármikor, amikor szüksége van rá, és nem kötelezi megrendelésre."
+     ]
+    },
+    {
+     "t": "3. Csomagok és árak",
+     "b": [
+      "- Kis csomag: évi Rp 500.000-től, ingyenes karbantartással és 1 évre szóló domainnel.",
+      "- Nagy csomag: évi Rp 2.000.000-től, ingyenes karbantartással és 1 évre szóló tárhellyel.",
+      "Az oldalon szereplő árak kezdő árak. A végső összegről konzultáció után, az Ön igényei alapján állapodunk meg. Az Indonézián kívüli látogatók számára az árak helyi pénznemben, a napi árfolyam alapján becslésként jelennek meg; az irányadó az általunk megállapodott rúpiaösszeg. A járulékos költségekről, például további funkciókról vagy az ingyenes időszak lejárta utáni megújításról a munka elvégzése előtt tájékoztatjuk."
+     ]
+    },
+    {
+     "t": "4. A munka menete és az Ön felelőssége",
+     "b": [
+      "A tervet a gyártás előtt Önnel közösen felülvizsgáljuk és jóváhagyjuk. A módosításokat a megállapodás szerint végezzük el.",
+      "Ön felel azért, hogy az anyagokat (logó, szöveg, fényképek, adatok) időben rendelkezésre bocsássa, és hogy jogosult legyen azok használatára. Az anyagok vagy a visszajelzés késése hatással lehet az ütemezésre."
+     ]
+    },
+    {
+     "t": "5. Karbantartás",
+     "b": [
+      "Az 1 évre szóló ingyenes karbantartás a munkánkban lévő hibák javítására és az alapvető biztonsági frissítésekre terjed ki. Az új funkciókat, a jelentős tervezési változtatásokat és az eredeti megállapodáson kívüli munkát külön számoljuk fel."
+     ]
+    },
+    {
+     "t": "6. Szellemi tulajdon",
+     "b": [
+      "Az Ön által átadott anyagok az Ön tulajdonában maradnak. Az elkészült munkát a megállapodás szerinti fizetés teljesítése után átadjuk Önnek. A Nocoding a működő munkákat példaként bemutathatja a portfóliójában, kivéve, ha Ön írásban kéri, hogy ne mutassuk be.",
+      "A nocoding.web.id oldalon található dizájn, szövegek és cikkek a Nocoding tulajdonai. A hivatkozásokat megoszthatja, de engedély nélkül nem másolhatja és nem használhatja őket kereskedelmi célra. A cikkek fényképei az Unsplash oldalról származnak, és annak licencét követik; a forrást minden fénykép alatt feltüntetjük."
+     ]
+    },
+    {
+     "t": "7. Az oldal nyelvei",
+     "b": [
+      "Ez az oldal sok nyelven elérhető. A fordítások, különösen a kevesebb beszélővel rendelkező nyelveken, nem biztos, hogy tökéletesek. Ha a jelentésük eltér, az indonéz változat az irányadó. Ezek a jogi oldalak indonéz és angol nyelven érhetők el."
+     ]
+    },
+    {
+     "t": "8. A felelősség korlátai",
+     "b": [
+      "Azon dolgozunk, hogy jó eredményt nyújtsunk, de nem ígérünk konkrét üzleti eredményeket, például keresési helyezést, látogatószámot vagy értékesítést. Nem felelünk harmadik felek, például tárhely-, domain- vagy fizetési szolgáltatók okozta zavarokért, sem közvetett károkért.",
+      "Egy szolgáltatásért való felelősségünk a jogszabályok által megengedett mértékben arra az összegre korlátozódik, amelyet Ön az adott szolgáltatásért kifizetett. Ez nem csökkenti az Ön jogszabályokkal védett jogait."
+     ]
+    },
+    {
+     "t": "9. Irányadó jog",
+     "b": [
+      "Ezekre a feltételekre az Indonéz Köztársaság jogszabályai az irányadók. Ha vita merül fel, először megbeszéléssel próbáljuk rendezni. Ha nem születik megállapodás, a vitát az indonéziai illetékes bíróságok döntik el."
+     ]
+    },
+    {
+     "t": "10. Módosítások és kapcsolat",
+     "b": [
+      "Ezek a feltételek időről időre frissülhetnek; az utolsó frissítés dátuma az oldal tetején látható. Kérdéseit a nocodingindonesia@gmail.com címre vagy WhatsApp-on a +62 853-2651-3324 számra küldheti."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Cookie-irányelvek",
+   "description": "A Nocoding oldala által használt cookie-k és helyi tárhely, azok céljai, és kezelésük módja.",
+   "sections": [
+    {
+     "t": "1. Mik azok a cookie-k",
+     "b": [
+      "A cookie-k (sütik) kis fájlok, amelyeket az oldal a böngészőjében tárol. A helyi tárhely és a munkamenet-tárhely hasonlóan működik, de nem kerülnek át automatikusan egy szerverre. Ezen az oldalon mindegyiket cookie-nak nevezzük."
+     ]
+    },
+    {
+     "t": "2. Ami az oldal működéséhez szükséges",
+     "b": [
+      "A böngészőjében tárolódik, és nem küldjük el a szervereinknek:",
+      "- nocoding-language és nocoding-language-set: az Ön által választott vagy a böngészőjéből felismert nyelv.",
+      "- nocoding-pricing (munkamenet): a becsült pénznem és árfolyam, hogy az árakat ne kelljen minden oldalon újra kiszámítani.",
+      "- Cikkjelölések: hogy egy cikket már kedvelt, megtekintett vagy megosztott-e, hogy a számok ne duplázódjanak.",
+      "- Egy ideiglenes görgetési pozíciójelölés az oldal részei közötti mozgáskor."
+     ]
+    },
+    {
+     "t": "3. Elemzés",
+     "b": [
+      "Bekapcsolt állapotban két elemzési szolgáltatás töltődik be azután, hogy Ön használta az oldalt (görgetés, koppintás vagy billentyű lenyomása):",
+      "- Google Analytics 4 (olyan cookie-k, mint a _ga és _ga_*, legfeljebb körülbelül 2 évig érvényesek): látogatási statisztikák.",
+      "- Microsoft Clarity (olyan cookie-k, mint a _clck, _clsk, CLID és MUID, legfeljebb körülbelül 1 évig érvényesek): hőtérképek és névtelen interakciórögzítések.",
+      "A CDN- és biztonsági szolgáltatók is helyezhetnek el technikai cookie-kat, hogy megvédjék az oldalt a káros forgalomtól."
+     ]
+    },
+    {
+     "t": "4. A cookie-k kezelése",
+     "b": [
+      "A cookie-kat a böngésző beállításaiban törölheti vagy blokkolhatja. Telepítheti a Google hivatalos, Google Analytics-kiléphetést biztosító bővítményét is. Ha az elemzési cookie-kat blokkolja, az oldal tovább működik; ha a helyi tárhelyet törli, a nyelvválasztása visszaáll az alapértelmezettre."
+     ]
+    },
+    {
+     "t": "5. Kérdések",
+     "b": [
+      "Az irányelvvel kapcsolatos kérdésekkel forduljon a nocodingindonesia@gmail.com címhez. A személyes adatok felhasználásáról az Adatvédelmi irányelvek további részleteket adnak. Ha a nyelvi változatok jelentése eltér, az indonéz változat az irányadó."
+     ]
+    }
+   ]
+  }
+ }
+}

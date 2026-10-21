@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Huling na-update",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Patakaran sa Privacy",
+   "description": "Kung anong data ang kinokolekta ng Nocoding, para saan ito ginagamit, sino ang nagpoproseso nito, at ang mga karapatan mo sa iyong personal na data.",
+   "sections": [
+    {
+     "t": "1. Sino kami",
+     "b": [
+      "Ang Nocoding (nocoding.web.id) ay isang serbisyo para sa website, app, information system at automation na pinapatakbo ni Abid Hanan Wicaksono sa Indonesia. Ipinapaliwanag ng patakarang ito kung paano namin tinatrato ang iyong personal na data kapag binisita mo ang site na ito o nakipag-ugnayan ka sa amin.",
+      "Maaaring ipadala ang mga tanong tungkol sa patakarang ito sa nocodingindonesia@gmail.com o sa WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data na kinokolekta namin",
+     "b": [
+      "- Data na ibinibigay mo sa amin: ang iyong pangalan, numero sa WhatsApp, email at paglalarawan ng iyong proyekto kapag nakipag-ugnayan ka sa amin sa pamamagitan ng WhatsApp o email. Walang user account o sign-up form ang site na ito.",
+      "- Teknikal na data na awtomatikong pinoproseso: IP address, uri ng device at browser, at ang mga pahinang binubuksan mo. Pinoproseso ito ng aming mga hosting at CDN provider para maihatid ang site at maprotektahan ito laban sa pang-aabuso.",
+      "- Tinatayang bansa: para maipakita ang mga presyo sa iyong pera, tinatantiya ang iyong bansa mula sa impormasyon ng CDN o sa wika ng iyong browser. Hindi namin ito iniimbak sa aming mga server.",
+      "- Analytics data: kinokolekta ng Google Analytics 4 at Microsoft Clarity (kapag naka-enable) ang mga istatistika ng paggamit tulad ng mga pahinang binuksan, tagal ng pagbisita, uri ng device at mga anonymous na recording ng interaksyon. Naglo-load lang ang mga ito pagkatapos mong makipag-ugnayan sa pahina.",
+      "- Imbakan sa browser: ang pinili mong wika, mga marka na nag-like, tumingin o nag-share ka na ng isang artikulo, at isang pansamantalang pagtatantya ng presyo. Nasa Patakaran sa Cookie ang mga detalye.",
+      "- Ang bilang ng view, like at share ng artikulo ay iniimbak bilang pinagsama-samang numero, nang walang pagkakakilanlan ng bisita."
+     ]
+    },
+    {
+     "t": "3. Para saan ginagamit ang data",
+     "b": [
+      "- Pagsagot sa iyong mga tanong, paghahanda ng mga quote at pagsasagawa ng iyong proyekto.",
+      "- Paghahatid, pagprotekta at pagpapanatiling mabilis ng site.",
+      "- Pag-unawa kung paano ginagamit ang site para mapabuti namin ito.",
+      "- Pagtupad sa mga obligasyong legal.",
+      "Hindi namin ibinebenta ang iyong personal na data."
+     ]
+    },
+    {
+     "t": "4. Mga third party na kasangkot",
+     "b": [
+      "- Vercel: pag-host at paghahatid ng site.",
+      "- Cloudflare: CDN at seguridad.",
+      "- Google (Google Analytics 4) at Microsoft (Clarity): mga istatistika ng paggamit ng site.",
+      "- Meta (WhatsApp) at Google (Gmail): kapag nakipag-ugnayan ka sa amin sa pamamagitan ng mga link sa WhatsApp o email sa site na ito.",
+      "- Provider ng palitan ng pera: tumatanggap lang ng mga kahilingan sa rate mula sa aming server, hindi ng data ng bisita.",
+      "Maaaring iproseso ng mga provider na ito ang data sa labas ng Indonesia ayon sa sarili nilang mga patakaran."
+     ]
+    },
+    {
+     "t": "5. Gaano katagal iniingatan ang data",
+     "b": [
+      "Ang mga pag-uusap at materyales ng proyekto ay iniingatan hangga't kinakailangan para patakbuhin ang serbisyo, magbigay ng suporta at tumupad sa mga obligasyong legal, pagkatapos ay binubura o ginagawang anonymous. Sinusunod ng analytics data ang mga setting ng retention ng provider nito. Ang data sa iyong browser ay mananatili hanggang burahin mo ito."
+     ]
+    },
+    {
+     "t": "6. Ang iyong mga karapatan",
+     "b": [
+      "Sa ilalim ng Batas Blg. 27 ng 2022 ng Indonesia tungkol sa Proteksyon ng Personal na Data, may karapatan kang:",
+      "- malaman at makakuha ng kopya ng personal na data na hawak namin tungkol sa iyo;",
+      "- humiling na itama ang maling data;",
+      "- humiling na burahin ang iyong data o bawiin ang iyong pahintulot;",
+      "- tumutol sa ilang uri ng pagproseso.",
+      "Ipadala ang iyong kahilingan sa nocodingindonesia@gmail.com. Tutugon kami sa loob ng makatwirang panahon."
+     ]
+    },
+    {
+     "t": "7. Seguridad at mga bata",
+     "b": [
+      "Gumagamit ang site na ito ng HTTPS at limitado ang access sa data ng proyekto. Walang paraan ng pagpapadala o pag-iimbak ng data na ganap na walang panganib, kaya hindi namin magagarantiya ang lubos na seguridad.",
+      "Ang aming mga serbisyo ay para sa mga taong 18 taong gulang pataas. Hindi namin sinasadyang mangolekta ng personal na data ng mga bata."
+     ]
+    },
+    {
+     "t": "8. Mga pagbabago sa patakarang ito",
+     "b": [
+      "Maaaring i-update paminsan-minsan ang patakarang ito. Ipinapakita sa itaas ng pahina ang petsa ng huling update. Kung magkaiba ang kahulugan ng mga wika, ang bersyong Indonesian ang masusunod."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Mga Tuntunin at Kundisyon",
+   "description": "Ang mga patakaran sa paggamit ng site at mga serbisyo ng Nocoding: mga package, presyo, kung paano ginagawa ang trabaho, intellectual property at mga limitasyon ng pananagutan.",
+   "sections": [
+    {
+     "t": "1. Pagtanggap sa mga tuntuning ito",
+     "b": [
+      "Sa pagbubukas ng site na ito o paggamit ng mga serbisyo ng Nocoding, sumasang-ayon ka sa mga tuntunin at kundisyong ito. Kung hindi ka sumasang-ayon, mangyaring huwag gamitin ang aming site o mga serbisyo."
+     ]
+    },
+    {
+     "t": "2. Ang mga serbisyo",
+     "b": [
+      "Gumagawa ang Nocoding ng mga portfolio o CV website, landing page at company profile, mga information at operations system, at business process automation. Ang saklaw ng trabaho, mga feature, iskedyul at gastos ay napagkakasunduan sa iyo sa pamamagitan ng WhatsApp o email bago magsimula ang trabaho.",
+      "Palaging libre ang konsultasyon, kailanman mo ito kailanganin, at hindi ka obligadong umorder."
+     ]
+    },
+    {
+     "t": "3. Mga package at presyo",
+     "b": [
+      "- Maliit na package: mula Rp 500,000 bawat taon, kasama ang libreng maintenance at domain sa loob ng 1 taon.",
+      "- Malaking package: mula Rp 2,000,000 bawat taon, kasama ang libreng maintenance at hosting sa loob ng 1 taon.",
+      "Panimulang presyo ang mga presyo sa site. Ang pinal na halaga ay napagkakasunduan pagkatapos ng konsultasyon, batay sa iyong mga pangangailangan. Para sa mga bisita sa labas ng Indonesia, ipinapakita ang mga presyo sa lokal na pera bilang pagtatantya batay sa araw-araw na exchange rate; ang halagang napagkasunduan namin sa rupiah ang masusunod. Ang mga karagdagang gastos, tulad ng dagdag na feature o pag-renew pagkatapos matapos ang libreng panahon, ay ipapaalam sa iyo bago isagawa ang trabaho."
+     ]
+    },
+    {
+     "t": "4. Kung paano ginagawa ang trabaho at ang iyong mga responsibilidad",
+     "b": [
+      "Sinusuri at inaaprubahan kasama mo ang disenyo bago ang produksyon. Ang mga rebisyon ay ginagawa ayon sa napagkasunduan.",
+      "Responsibilidad mong magbigay ng mga materyales (logo, teksto, larawan, data) sa takdang oras at tiyaking may karapatan kang gamitin ang mga ito. Ang pagkaantala sa mga materyales o feedback ay maaaring makaapekto sa iskedyul."
+     ]
+    },
+    {
+     "t": "5. Maintenance",
+     "b": [
+      "Sakop ng libreng maintenance sa loob ng 1 taon ang pag-aayos ng mga mali sa aming trabaho at mga pangunahing security update. Ang mga bagong feature, malalaking pagbabago sa disenyo at trabahong labas sa orihinal na kasunduan ay may hiwalay na singil."
+     ]
+    },
+    {
+     "t": "6. Intellectual property",
+     "b": [
+      "Mananatiling iyo ang mga materyales na ibinibigay mo. Ang natapos na trabaho ay ibibigay sa iyo kapag nabayaran na nang buo ayon sa napagkasunduan. Maaaring ipakita ng Nocoding ang mga live na gawa bilang halimbawa sa portfolio nito, maliban kung hihilingin mo nang nakasulat na huwag itong ipakita.",
+      "Ang disenyo, teksto at mga artikulo sa nocoding.web.id ay pag-aari ng Nocoding. Maaari kang magbahagi ng mga link sa mga ito, ngunit hindi mo maaaring kopyahin at gamitin nang pangkomersyo nang walang pahintulot. Ang mga larawan ng artikulo ay mula sa Unsplash at sumusunod sa lisensya nito; kinikilala ang pinagmulan sa ilalim ng bawat larawan."
+     ]
+    },
+    {
+     "t": "7. Mga wika ng site",
+     "b": [
+      "Available ang site na ito sa maraming wika. Maaaring hindi perpekto ang mga salin, lalo na sa mga wikang kakaunti ang gumagamit. Kung magkaiba ang kahulugan, ang bersyong Indonesian ang masusunod. Available sa Indonesian at English ang mga legal na pahinang ito."
+     ]
+    },
+    {
+     "t": "8. Mga limitasyon ng pananagutan",
+     "b": [
+      "Nagsusumikap kaming maghatid ng magagandang resulta, ngunit hindi kami nangangako ng partikular na resulta sa negosyo tulad ng ranggo sa paghahanap, bilang ng bisita o benta. Hindi kami mananagot sa mga pagkagambalang dulot ng mga third party tulad ng mga provider ng hosting, domain o pagbabayad, o sa mga hindi direktang pagkalugi.",
+      "Ang aming pananagutan para sa isang serbisyo ay limitado sa halagang binayaran mo para sa serbisyong iyon, hanggang sa pinapayagan ng batas. Hindi nito binabawasan ang mga karapatan mong protektado ng batas."
+     ]
+    },
+    {
+     "t": "9. Namamahalang batas",
+     "b": [
+      "Ang mga tuntuning ito ay pinamamahalaan ng mga batas ng Republika ng Indonesia. Kung magkaroon ng hindi pagkakaunawaan, sisikapin muna naming lutasin ito sa pamamagitan ng pag-uusap. Kung walang makamit na kasunduan, ang hindi pagkakaunawaan ay lulutasin ng mga karampatang hukuman sa Indonesia."
+     ]
+    },
+    {
+     "t": "10. Mga pagbabago at contact",
+     "b": [
+      "Maaaring i-update paminsan-minsan ang mga tuntuning ito; ipinapakita sa itaas ng pahina ang petsa ng huling update. Maaaring ipadala ang mga tanong sa nocodingindonesia@gmail.com o sa WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Patakaran sa Cookie",
+   "description": "Ang mga cookie at local storage na ginagamit ng site ng Nocoding, kung para saan ang mga ito, at kung paano pamahalaan ang mga ito.",
+   "sections": [
+    {
+     "t": "1. Ano ang mga cookie",
+     "b": [
+      "Ang mga cookie ay maliliit na file na iniimbak ng isang site sa iyong browser. Magkatulad ang paraan ng paggana ng local storage at session storage ngunit hindi awtomatikong ipinapadala sa isang server. Sa pahinang ito, tinatawag namin silang lahat na cookie."
+     ]
+    },
+    {
+     "t": "2. Ang kailangan ng site para gumana",
+     "b": [
+      "Iniimbak sa iyong browser at hindi ipinapadala sa aming mga server:",
+      "- nocoding-language at nocoding-language-set: ang wikang pinili mo o natukoy mula sa iyong browser.",
+      "- nocoding-pricing (session): ang tinatayang pera at rate, para hindi na kalkulahin muli ang mga presyo sa bawat pahina.",
+      "- Mga marka ng artikulo: kung nag-like, tumingin o nag-share ka na ng isang artikulo, para hindi madoble ang mga bilang.",
+      "- Isang pansamantalang marka ng posisyon ng scroll kapag lumilipat sa pagitan ng mga bahagi ng site."
+     ]
+    },
+    {
+     "t": "3. Analytics",
+     "b": [
+      "Kapag naka-enable, dalawang analytics service ang naglo-load pagkatapos mong makipag-ugnayan sa pahina (mag-scroll, mag-tap o pumindot ng key):",
+      "- Google Analytics 4 (mga cookie tulad ng _ga at _ga_*, may bisa hanggang mga 2 taon): mga istatistika ng pagbisita.",
+      "- Microsoft Clarity (mga cookie tulad ng _clck, _clsk, CLID at MUID, may bisa hanggang mga 1 taon): mga heatmap at anonymous na recording ng interaksyon.",
+      "Maaari ring mag-set ng mga teknikal na cookie ang mga CDN at security provider para protektahan ang site mula sa mapaminsalang trapiko."
+     ]
+    },
+    {
+     "t": "4. Paano pamahalaan ang mga cookie",
+     "b": [
+      "Maaari mong burahin o i-block ang mga cookie sa mga setting ng iyong browser. Maaari ka ring mag-install ng opisyal na opt-out add-on ng Google para sa Google Analytics. Kung naka-block ang mga analytics cookie, gagana pa rin ang site; kung nilinis ang local storage, babalik sa default ang iyong napiling wika."
+     ]
+    },
+    {
+     "t": "5. Mga tanong",
+     "b": [
+      "Para sa mga tanong tungkol sa patakarang ito, makipag-ugnayan sa nocodingindonesia@gmail.com. Mas detalyadong ipinapaliwanag sa Patakaran sa Privacy kung paano ginagamit ang personal na data. Kung magkaiba ang kahulugan ng mga wika, ang bersyong Indonesian ang masusunod."
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Ho ntlafalitsoe la ho qetela",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Pholisi ea Lekunutu",
+   "description": "Lintlha tseo Nocoding e li bokellang, seo li sebelisetsoang sona, ke mang ea li sebetsang, le litokelo tsa hau mabapi le lintlha tsa hau tsa botho.",
+   "sections": [
+    {
+     "t": "1. Re bo-mang",
+     "b": [
+      "Nocoding (nocoding.web.id) ke tšebeletso ea ho haha liwebosaete, lisebelisoa tsa mohala, litsamaiso tsa tlhaiso-leseling le ho iketsa ka boits'oaro, e tsamaisoang ke Abid Hanan Wicaksono Indonesia. Pholisi ena e hlalosa kamoo re sebetsanang le lintlha tsa hau tsa botho kamoo u etelang sebaka sena kapa u ikopanyang le rona.",
+      "Lipotso mabapi le pholisi ena li ka romelloa ho nocodingindonesia@gmail.com kapa ho WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Lintlha tseo re li bokellang",
+     "b": [
+      "- Lintlha tseo u re fang tsona: lebitso la hau, nomoro ea WhatsApp, imeile le tlhaloso ea projeke ea hau ha u ikopanya le rona ka WhatsApp kapa ka imeile. Sebaka sena ha se na liakhaonto tsa basebelisi kapa lifomo tsa ho ngolisa.",
+      "- Lintlha tsa theknoloji tse sebetsoang ka boits'oaro: aterese ea IP, mofuta oa sesebelisoa le oa sebatli, le maqephe ao u a bulang. Bafani ba rona ba hosting le ba CDN ba li sebetsa hore ba fane ka sebaka le ho se sireletsa khahlanong le tšebeliso e mpe.",
+      "- Naha e hakantsoeng: hore litheko li bonts'oe ka chelete ea hau, naha ea hau e hakanngoa ho tsoa ho lintlha tsa CDN kapa puo ea sebatli sa hau. Ha re e boloke literopong tsa rona.",
+      "- Lintlha tsa tlhahlobo: Google Analytics 4 le Microsoft Clarity (ha li kenyelelitsoe) li bokella lipalo-palo tsa tšebeliso joalo ka maqephe a butsoeng, nako ea ketelo, mofuta oa sesebelisoa le lirekoto tsa ho sebelisana tse sa bonts'eng motho. Li kenngoa feela ka mor'a hore u sebelisane le leqephe.",
+      "- Polokelo ea sebatli: khetho ea hau ea puo, matšoao a hore u se u rata, u bone kapa u arolelane sengoloa, le khakanyo ea nakoana ea theko. Lintlha tse felletseng li ho Pholisi ea Likuku.",
+      "- Palo ea ho sheba, ho rata le ho arolelana sengoloa e bolokoa e le linomoro tse kopaneng, ntle le boitsebiso ba moeti."
+     ]
+    },
+    {
+     "t": "3. Lintlha li sebelisoa ka ho eng",
+     "b": [
+      "- Ho araba lipotso tsa hau, ho lokisa litlhahiso le ho phethahatsa projeke ea hau.",
+      "- Ho fana ka sebaka, ho se sireletsa le ho se boloka se potlakile.",
+      "- Ho utloisisa kamoo sebaka se sebelisoang kateng hore re se ntlafatse.",
+      "- Ho phethahatsa mekhoa ea molao.",
+      "Ha re rekise lintlha tsa hau tsa botho."
+     ]
+    },
+    {
+     "t": "4. Mekha ea boraro e amehang",
+     "b": [
+      "- Vercel: hosting le ho fana ka sebaka.",
+      "- Cloudflare: CDN le tšireletso.",
+      "- Google (Google Analytics 4) le Microsoft (Clarity): lipalo-palo tsa tšebeliso ea sebaka.",
+      "- Meta (WhatsApp) le Google (Gmail): ha u ikopanya le rona ka likhokahano tsa WhatsApp kapa tsa imeile sebakeng sena.",
+      "- Mofani oa litefiso tsa phapang ea chelete: o amohela feela likopo tsa litefiso ho tsoa seropeng sa rona, eseng lintlha tsa baeti.",
+      "Bafani bana ba ka sebetsa lintlha ka ntle ho Indonesia ho latela maano a bona."
+     ]
+    },
+    {
+     "t": "5. Lintlha li bolokoa nako e kae",
+     "b": [
+      "Lipuisano le lisebelisoa tsa projeke li bolokoa ho fihlela ha li hlokahala ho tsamaisa tšebeletso, ho fana ka tšehetso le ho phethahatsa mekhoa ea molao, ebe li hlakoloa kapa li etsoa hore li se ke tsa tsejoa. Lintlha tsa tlhahlobo li latela litlhophiso tsa polokelo tsa mofani oa tsona. Lintlha tse ka sebatlining sa hau li lula ho fihlela u li hlakola."
+     ]
+    },
+    {
+     "t": "6. Litokelo tsa hau",
+     "b": [
+      "Tlas'a Molao oa Nomoro 27 oa Selemo sa 2022 oa Indonesia mabapi le Tšireletso ea Lintlha tsa Botho, u na le tokelo ea ho:",
+      "- tseba le ho fumana kopi ea lintlha tsa hau tsa botho tseo re nang le tsona ka uena;",
+      "- kopa hore lintlha tse fosahetseng li lokisoe;",
+      "- kopa hore lintlha tsa hau li hlakolloe kapa u hule tumello ea hau;",
+      "- hanyetsa mefuta e meng ea ho sebetsa lintlha.",
+      "Romela kopo ea hau ho nocodingindonesia@gmail.com. Re tla araba nakong e utloahalang."
+     ]
+    },
+    {
+     "t": "7. Tšireletso le bana",
+     "b": [
+      "Sebaka sena se sebelisa HTTPS 'me phihlello ea lintlha tsa projeke e thibetsoe. Ha ho mokhoa oa ho romela kapa ho boloka lintlha o se nang kotsi ka ho felletseng, kahoo ha re khone ho tiisa tšireletso e felletseng.",
+      "Litšebeletso tsa rona li etselitsoe batho ba lilemo li 18 le ho feta. Ha re bokelle lintlha tsa botho tsa bana ka tsebo."
+     ]
+    },
+    {
+     "t": "8. Liphetoho tsa pholisi ena",
+     "b": [
+      "Pholisi ena e ka ntlafatsoa ka nako le nako. Letsatsi la ntlafatso ea ho qetela le bontšitsoe ka holim'a leqephe. Haeba lipuo li fapane ka moelelo, mofuta oa Seindonesia oa sebetsa."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Melao le Maemo",
+   "description": "Melao ea ho sebelisa sebaka le litšebeletso tsa Nocoding: liphutheloana, litheko, kamoo mosebetsi o etsoang kateng, thepa ea kelello le meeli ea boikarabelo.",
+   "sections": [
+    {
+     "t": "1. Ho amohela melao ena",
+     "b": [
+      "Ka ho bula sebaka sena kapa ho sebelisa litšebeletso tsa Nocoding, u lumela melao le maemo ana. Haeba u sa lumele, ka kopo u se ke ua sebelisa sebaka sa rona kapa litšebeletso tsa rona."
+     ]
+    },
+    {
+     "t": "2. Litšebeletso",
+     "b": [
+      "Nocoding e haha liwebosaete tsa pōtefolio kapa CV, maqephe a ho fihla le liprofaele tsa k'hamphani, litsamaiso tsa tlhaiso-leseling le tsa lits'ebetso, le ho iketsa ka boits'oaro ha lits'ebetso tsa khoebo. Boholo ba mosebetsi, likarolo, lenane la nako le litšenyehelo li lumellanoa le uena ka WhatsApp kapa ka imeile pele mosebetsi o qala.",
+      "Boeletsi bo lula bo se na tefo, neng kapa neng ha u bo hloka, 'me ha bo u qobelle ho etsa kopo."
+     ]
+    },
+    {
+     "t": "3. Liphutheloana le litheko",
+     "b": [
+      "- Phutheloana e nyane: ho qala ka Rp 500,000 ka selemo, ho kenyelletsa tlhokomelo ea mahala le domain ea selemo se 1.",
+      "- Phutheloana e kholo: ho qala ka Rp 2,000,000 ka selemo, ho kenyelletsa tlhokomelo ea mahala le hosting ea selemo se 1.",
+      "Litheko tse sebakeng ke litheko tsa ho qala. Chelete ea ho qetela e lumellanoa ka mor'a boeletsi, ho latela litlhoko tsa hau. Bakeng sa baeti ba ka ntle ho Indonesia, litheko li bonts'oa ka chelete ea heso e le khakanyo e thehiloeng tekanong ea phapang ea chelete ea letsatsi le letsatsi; chelete ea rupiah eo re lumellaneng ka eona ke eona e sebetsang. Litšenyehelo tse ling, joalo ka likarolo tse eketsehileng kapa nchafatso ka mor'a hore nako ea mahala e fele, u bolelloa pele mosebetsi o etsoa."
+     ]
+    },
+    {
+     "t": "4. Kamoo mosebetsi o etsoang kateng le boikarabelo ba hau",
+     "b": [
+      "Moralo o hlahlojoa 'me o amoheloa le uena pele ho tlhahiso. Liphetoho li etsoa kamoo ho lumellaneng.",
+      "U ikarabella ka ho fana ka lisebelisoa (logo, mongolo, linepe, lintlha) ka nako le ho ba le tokelo ea ho li sebelisa. Ho liehisa lisebelisoa kapa maikutlo ho ka ama lenane la nako."
+     ]
+    },
+    {
+     "t": "5. Tlhokomelo",
+     "b": [
+      "Tlhokomelo ea mahala ea selemo se 1 e akarelletsa ho lokisa liphoso mosebetsing oa rona le lintlafatso tsa motheo tsa tšireletso. Likarolo tse ncha, liphetoho tse kholo tsa moralo le mosebetsi o ka ntle ho tumellano ea pele li lefshoa ka thoko."
+     ]
+    },
+    {
+     "t": "6. Thepa ea kelello",
+     "b": [
+      "Lisebelisoa tseo u li fang li lula e le tsa hau. Mosebetsi o phethiloeng o fuoa uena ha tefo ho latela tumellano e phethiloe. Nocoding e ka bonts'a mosebetsi o phelang e le mehlala pōtefolioneng ea eona, ntle le haeba u kopa ka ho ngola hore o se bontšoe.",
+      "Moralo, mongolo le lingoliloeng tsa ho nocoding.web.id ke tsa Nocoding. U ka arolelana likhokahano tsa tsona, empa u ke ke ua li kopitsa le ho li sebelisa khoebong ntle le tumello. Linepe tsa lingoliloeng li tsoa ho Unsplash 'me li latela laesense ea eona; mohloli o bontšoa tlas'a nepe e 'ngoe le e 'ngoe."
+     ]
+    },
+    {
+     "t": "7. Lipuo tsa sebaka",
+     "b": [
+      "Sebaka sena se fumaneha ka lipuo tse ngata. Liphetolelo, haholo bakeng sa lipuo tse buuoang ke batho ba fokolang, li ka ba sa phethahala. Haeba li fapane ka moelelo, mofuta oa Seindonesia oa sebetsa. Maqephe ana a molao a fumaneha ka Seindonesia le ka Senyesemane."
+     ]
+    },
+    {
+     "t": "8. Meeli ea boikarabelo",
+     "b": [
+      "Re sebetsa ho fana ka liphello tse ntle, empa ha re tiise liphello tse itseng tsa khoebo joalo ka maemo a ho batla, palo ea baeti kapa thekiso. Ha re ikarabelle bakeng sa litšitiso tse tsoang ho mekha ea boraro joalo ka bafani ba hosting, domain kapa litefo, kapa bakeng sa tahlehelo e sa tobang.",
+      "Boikarabelo ba rona bakeng sa tšebeletso bo lekanyelitsoe ho chelete eo u e lefetseng bakeng sa tšebeletso eo, ho isa moo molao o lumellang. Sena ha se fokotse litokelo tsa hau tse sirelelitsoeng ke molao."
+     ]
+    },
+    {
+     "t": "9. Molao o laolang",
+     "b": [
+      "Melao ena e laoloa ke melao ea Rephabliki ea Indonesia. Haeba ho hlaha khang, pele re leka ho e rarolla ka puisano. Haeba ho sa fihlellehe tumellano, khang e rarolloa ke makhotla a nang le matla Indonesia."
+     ]
+    },
+    {
+     "t": "10. Liphetoho le ho ikopanya",
+     "b": [
+      "Melao ena e ka ntlafatsoa ka nako le nako; letsatsi la ntlafatso ea ho qetela le bontšitsoe ka holim'a leqephe. Lipotso li ka romelloa ho nocodingindonesia@gmail.com kapa ho WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Pholisi ea Likuku",
+   "description": "Likuku le polokelo ea lehae tseo sebaka sa Nocoding se li sebelisang, seo li sebelisetsoang sona, le kamoo u ka li laolang kateng.",
+   "sections": [
+    {
+     "t": "1. Likuku ke eng",
+     "b": [
+      "Likuku ke lifaele tse nyane tseo sebaka se li bolokang sebatlining sa hau. Polokelo ea lehae (local storage) le polokelo ea seshene (session storage) li sebetsa ka tsela e tšoanang empa ha li romelloe ka boits'oaro seropeng. Leqepheng lena re li bitsa tsohle likuku."
+     ]
+    },
+    {
+     "t": "2. Seo sebaka se se hlokang hore se sebetse",
+     "b": [
+      "Li bolokoa sebatlining sa hau 'me ha li romelloe literopong tsa rona:",
+      "- nocoding-language le nocoding-language-set: puo eo u e khethileng kapa e lemohuoeng ho tsoa sebatlining sa hau.",
+      "- nocoding-pricing (seshene): chelete e hakantsoeng le tekanyo, hore litheko li se ke tsa baloa hape leqepheng le leng le le leng.",
+      "- Matšoao a lingoliloeng: hore na u se u rata, u bone kapa u arolelane sengoloa, hore lipalo li se ke tsa eketseha habeli.",
+      "- Letšoao la nakoana la sebaka sa ho phutha ha u tsamaea lipakeng tsa likarolo tsa sebaka."
+     ]
+    },
+    {
+     "t": "3. Tlhahlobo",
+     "b": [
+      "Ha li kenyelelitsoe, litšebeletso tse peli tsa tlhahlobo li kenngoa ka mor'a hore u sebelisane le leqephe (ho phutha, ho ama kapa ho tobetsa konopo):",
+      "- Google Analytics 4 (likuku tse kang _ga le _ga_*, tse sebetsang ho fihlela ho lilemo li ka bang 2): lipalo-palo tsa liketelo.",
+      "- Microsoft Clarity (likuku tse kang _clck, _clsk, CLID le MUID, tse sebetsang ho fihlela ho selemo se ka bang 1): limmapa tsa mocheso le lirekoto tsa ho sebelisana tse sa bonts'eng motho.",
+      "Bafani ba CDN le tšireletso le bona ba ka beha likuku tsa theknoloji ho sireletsa sebaka khahlanong le sephethephethe se kotsi."
+     ]
+    },
+    {
+     "t": "4. Kamoo u ka laolang likuku kateng",
+     "b": [
+      "U ka hlakola kapa ua thibela likuku litlhophisong tsa sebatli sa hau. U ka boela ua kenya sesebelisoa se eketsehileng sa semmuso sa Google sa ho hana Google Analytics. Haeba likuku tsa tlhahlobo li thibetsoe, sebaka se ntse se sebetsa; haeba polokelo ea lehae e hloekisitsoe, khetho ea hau ea puo e khutlela ho e tloaelehileng."
+     ]
+    },
+    {
+     "t": "5. Lipotso",
+     "b": [
+      "Bakeng sa lipotso mabapi le pholisi ena, ikopanye le nocodingindonesia@gmail.com. Kamoo lintlha tsa botho li sebelisoang kateng ho hlalositsoe haholoanyane ho Pholisi ea Lekunutu. Haeba lipuo li fapane ka moelelo, mofuta oa Seindonesia oa sebetsa."
+     ]
+    }
+   ]
+  }
+ }
+}

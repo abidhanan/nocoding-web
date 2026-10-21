@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Terakhir diropéa",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Kawijakan Privasi",
+   "description": "Data naon waé anu dikumpulkeun ku Nocoding, dipaké pikeun naon, saha anu ngolahna, jeung hak anjeun kana data pribadi anjeun.",
+   "sections": [
+    {
+     "t": "1. Saha kami",
+     "b": [
+      "Nocoding (nocoding.web.id) nyaéta jasa situs wéb, aplikasi, sistem inpormasi jeung otomatisasi anu dijalankeun ku Abid Hanan Wicaksono di Indonésia. Kawijakan ieu ngajelaskeun kumaha kami ngurus data pribadi anjeun nalika anjeun nganjang ka situs ieu atawa ngahubungan kami.",
+      "Patarosan ngeunaan kawijakan ieu tiasa dikirim ka nocodingindonesia@gmail.com atawa WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data anu kami kumpulkeun",
+     "b": [
+      "- Data anu anjeun béré ka kami: ngaran, nomer WhatsApp, surélék jeung déskripsi proyék anjeun nalika ngahubungan kami ngaliwatan WhatsApp atawa surélék. Situs ieu teu boga akun pamaké atawa formulir pendaptaran.",
+      "- Data téknis anu diolah sacara otomatis: alamat IP, jenis parangkat jeung browser, sarta kaca anu dibuka. Panyadia hosting jeung CDN kami ngolah éta pikeun ngahaturkeun situs jeung ngajaga tina panyalahgunaan.",
+      "- Nagara perkiraan: supados harga bisa dipidangkeun dina mata uang anjeun, nagara anjeun diperkirakeun tina inpormasi CDN atawa basa browser anjeun. Kami teu nyimpen éta dina server kami.",
+      "- Data analitik: Google Analytics 4 jeung Microsoft Clarity (lamun diaktipkeun) ngumpulkeun statistik pamakéan saperti kaca anu dibuka, lilana kunjungan, jenis parangkat jeung rékaman interaksi anonim. Éta ukur dimuat sanggeus anjeun berinteraksi jeung kaca.",
+      "- Panyimpenan browser: pilihan basa anjeun, tanda yén anjeun geus mikaresep, nempo atawa ngabagikeun hiji artikel, jeung perkiraan harga samentara. Rinciannana aya dina Kawijakan Cookie.",
+      "- Jumlah témpoan, mikaresep jeung bagikeun artikel disimpen minangka angka gabungan, tanpa identitas pangunjung."
+     ]
+    },
+    {
+     "t": "3. Data dipaké pikeun naon",
+     "b": [
+      "- Ngajawab patarosan anjeun, nyiapkeun pangajén harga jeung ngalaksanakeun proyék anjeun.",
+      "- Ngahaturkeun, ngamankeun jeung ngajaga situs tetep gancang.",
+      "- Ngartos kumaha situs dipaké supados kami bisa ngaronjatkeunana.",
+      "- Minuhan kawajiban hukum.",
+      "Kami teu ngajual data pribadi anjeun."
+     ]
+    },
+    {
+     "t": "4. Pihak katilu anu kalibet",
+     "b": [
+      "- Vercel: hosting jeung ngahaturkeun situs.",
+      "- Cloudflare: CDN jeung kaamanan.",
+      "- Google (Google Analytics 4) jeung Microsoft (Clarity): statistik pamakéan situs.",
+      "- Meta (WhatsApp) jeung Google (Gmail): nalika anjeun ngahubungan kami ngaliwatan tautan WhatsApp atawa surélék dina situs ieu.",
+      "- Panyadia kurs mata uang: ukur narima paménta kurs ti server kami, lain data pangunjung.",
+      "Panyadia ieu bisa ngolah data di luar Indonésia numutkeun kawijakanana sorangan."
+     ]
+    },
+    {
+     "t": "5. Sabaraha lila data disimpen",
+     "b": [
+      "Paguneman jeung bahan proyék disimpen salami diperlukeun pikeun ngajalankeun jasa, méré pangrojong jeung minuhan kawajiban hukum, tuluy dihapus atawa dianonimkeun. Data analitik nuturkeun setélan rétensi panyadiana. Data dina browser anjeun tetep aya nepi ka anjeun ngahapusna."
+     ]
+    },
+    {
+     "t": "6. Hak anjeun",
+     "b": [
+      "Numutkeun Undang-Undang Nomer 27 Taun 2022 Indonésia ngeunaan Pangayoman Data Pribadi, anjeun boga hak pikeun:",
+      "- nyaho jeung meunangkeun salinan data pribadi anu kami gaduhkeun ngeunaan anjeun;",
+      "- menta data anu lepat dibenerkeun;",
+      "- menta data anjeun dihapus atawa nyabut idin anjeun;",
+      "- nolak pangolahan nu tangtu.",
+      "Kirimkeun paménta anjeun ka nocodingindonesia@gmail.com. Kami bakal ngabales dina waktu anu lumrah."
+     ]
+    },
+    {
+     "t": "7. Kaamanan jeung barudak",
+     "b": [
+      "Situs ieu maké HTTPS jeung aksés kana data proyék diwatesan. Taya cara ngirim atawa nyimpen data anu leres-leres bébas résiko, jadi kami teu bisa ngajamin kaamanan mutlak.",
+      "Jasa kami dimaksudkeun pikeun jalma anu umurna 18 taun ka luhur. Kami teu kalayan sadar ngumpulkeun data pribadi barudak."
+     ]
+    },
+    {
+     "t": "8. Parobahan kawijakan ieu",
+     "b": [
+      "Kawijakan ieu bisa diropéa iraha waé. Tanggal pangropéa panungtungan dipidangkeun di luhur kaca. Lamun basa-basana béda dina harti, versi basa Indonésia anu berlaku."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Sarat jeung Katangtuan",
+   "description": "Aturan ngagunakeun situs jeung jasa Nocoding: paket, harga, kumaha gawé dilaksanakeun, hak kakayaan intelektual jeung wates tanggung jawab.",
+   "sections": [
+    {
+     "t": "1. Narima sarat ieu",
+     "b": [
+      "Ku muka situs ieu atawa ngagunakeun jasa Nocoding, anjeun satuju kana sarat jeung katangtuan ieu. Lamun anjeun teu satuju, mangga ulah ngagunakeun situs atawa jasa kami."
+     ]
+    },
+    {
+     "t": "2. Jasa",
+     "b": [
+      "Nocoding nyieun situs portopolio atawa CV, landing page jeung profil pausahaan, sistem inpormasi jeung operasional, kitu deui otomatisasi prosés bisnis. Lingkup gawé, fitur, jadwal jeung biaya disapuk jeung anjeun ngaliwatan WhatsApp atawa surélék saacan gawé dimimitian.",
+      "Konsultasi salawasna gratis, iraha waé anjeun peryogi, jeung teu ngawajibkeun anjeun pikeun mesen."
+     ]
+    },
+    {
+     "t": "3. Paket jeung harga",
+     "b": [
+      "- Paket leutik: mimitian ti Rp 500.000 per taun, kaasup pangropéa gratis jeung domain salila 1 taun.",
+      "- Paket badag: mimitian ti Rp 2.000.000 per taun, kaasup pangropéa gratis jeung hosting salila 1 taun.",
+      "Harga dina situs mangrupa harga awal. Jumlah ahir disapuk sanggeus konsultasi, dumasar kana kabutuhan anjeun. Pikeun pangunjung ti luar Indonésia, harga dipidangkeun dina mata uang satempat minangka perkiraan dumasar kurs poéan; jumlah rupiah anu disapuk nyaéta anu berlaku. Biaya tambahan, saperti fitur tambahan atawa perpanjangan sanggeus mangsa gratis réngsé, diwartosan ka anjeun saacan gawé dilaksanakeun."
+     ]
+    },
+    {
+     "t": "4. Kumaha gawé dilaksanakeun jeung tanggung jawab anjeun",
+     "b": [
+      "Rarancang ditinjau jeung disatujuan ku anjeun saacan produksi. Révisi dilaksanakeun sakumaha anu disapuk.",
+      "Anjeun tanggung jawab nyayogikeun bahan (logo, téks, poto, data) tepat waktu jeung boga hak pikeun maké éta. Kaabaan telat bahan atawa tanggapan bisa mangaruhan jadwal."
+     ]
+    },
+    {
+     "t": "5. Pangropéa",
+     "b": [
+      "Pangropéa gratis salila 1 taun ngawengku ngabenerkeun kasalahan dina gawé kami jeung pangropéa kaamanan dasar. Fitur anyar, parobahan rarancang badag jeung gawé di luar kasapukan awal dikenakeun biaya sorangan."
+     ]
+    },
+    {
+     "t": "6. Hak kakayaan intelektual",
+     "b": [
+      "Bahan anu anjeun sayogikeun tetep milik anjeun. Hasil gawé anu geus réngsé diserenkeun ka anjeun sanggeus pamayaran sakumaha anu disapuk lunas. Nocoding meunang mintonkeun hasil gawé anu geus tayang minangka conto dina portopoliona, iwal lamun anjeun menta sacara tinulis supados teu dipidangkeun.",
+      "Rarancang, téks jeung artikel dina nocoding.web.id milik Nocoding. Anjeun meunang ngabagikeun tautanana, tapi teu meunang nyalin jeung maké sacara komersial tanpa idin. Poto artikel asalna ti Unsplash jeung nuturkeun lisénsina; sumberna dicantumkeun handapeun unggal poto."
+     ]
+    },
+    {
+     "t": "7. Basa situs",
+     "b": [
+      "Situs ieu sayogi dina loba basa. Tarjamahan, utamana pikeun basa anu panuturna saeutik, bisa jadi teu sampurna. Lamun béda dina harti, versi basa Indonésia anu berlaku. Kaca-kaca hukum ieu sayogi dina basa Indonésia jeung Inggris."
+     ]
+    },
+    {
+     "t": "8. Wates tanggung jawab",
+     "b": [
+      "Kami ihtiar masihan hasil anu hadé, tapi kami teu ngajangjikeun hasil bisnis anu husus saperti pangkat dina mesin pamaluruh, jumlah pangunjung atawa penjualan. Kami teu tanggung jawab kana gangguan ti pihak katilu saperti panyadia hosting, domain atawa pamayaran, atawa kana karugian teu langsung.",
+      "Tanggung jawab kami pikeun hiji jasa diwatesan nepi ka jumlah anu geus anjeun bayar pikeun jasa éta, sajauh hukum ngidinan. Ieu teu ngurangan hak anjeun anu dijaga ku hukum."
+     ]
+    },
+    {
+     "t": "9. Hukum anu ngatur",
+     "b": [
+      "Sarat ieu diatur ku hukum Républik Indonésia. Lamun timbul sengketa, mimitina kami nyoba ngaréngsékeunana ku musyawarah. Lamun teu aya kasapukan, sengketa diréngsékeun ku pangadilan anu boga wewenang di Indonésia."
+     ]
+    },
+    {
+     "t": "10. Parobahan jeung kontak",
+     "b": [
+      "Sarat ieu bisa diropéa iraha waé; tanggal pangropéa panungtungan dipidangkeun di luhur kaca. Patarosan tiasa dikirim ka nocodingindonesia@gmail.com atawa WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Kawijakan Cookie",
+   "description": "Cookie jeung panyimpenan lokal anu dipaké ku situs Nocoding, kagunaanana, jeung cara ngatur éta.",
+   "sections": [
+    {
+     "t": "1. Naon éta cookie",
+     "b": [
+      "Cookie nyaéta file leutik anu disimpen ku hiji situs dina browser anjeun. Panyimpenan lokal jeung panyimpenan sési jalanna sarupa tapi teu dikirim otomatis ka server. Dina kaca ieu urang nyebut kabéhanana cookie."
+     ]
+    },
+    {
+     "t": "2. Anu diperyogikeun situs supados jalan",
+     "b": [
+      "Disimpen dina browser anjeun jeung teu dikirim ka server kami:",
+      "- nocoding-language jeung nocoding-language-set: basa anu anjeun pilih atawa anu kapanggih tina browser anjeun.",
+      "- nocoding-pricing (sési): perkiraan mata uang jeung kurs, supados harga teu diitung deui dina unggal kaca.",
+      "- Tanda artikel: geus mikaresep, nempo atawa ngabagikeun hiji artikel atawa can, supados itungan teu dua kali.",
+      "- Tanda posisi gulung samentara nalika pindah antara bagian situs."
+     ]
+    },
+    {
+     "t": "3. Analitik",
+     "b": [
+      "Lamun diaktipkeun, dua jasa analitik dimuat sanggeus anjeun berinteraksi jeung kaca (nggulung, nyabak atawa mencét kenop):",
+      "- Google Analytics 4 (cookie saperti _ga jeung _ga_*, berlaku nepi ka kira-kira 2 taun): statistik kunjungan.",
+      "- Microsoft Clarity (cookie saperti _clck, _clsk, CLID jeung MUID, berlaku nepi ka kira-kira 1 taun): peta panas jeung rékaman interaksi anonim.",
+      "Panyadia CDN jeung kaamanan ogé bisa nyetél cookie téknis pikeun ngajaga situs tina lalu lintas anu ngabahayakeun."
+     ]
+    },
+    {
+     "t": "4. Cara ngatur cookie",
+     "b": [
+      "Anjeun bisa ngahapus atawa meungpeuk cookie dina setélan browser anjeun. Anjeun ogé bisa masang add-on opt-out resmi ti Google pikeun Google Analytics. Lamun cookie analitik dipeungpeuk, situs tetep jalan; lamun panyimpenan lokal dibersihkeun, pilihan basa anjeun balik deui ka standar."
+     ]
+    },
+    {
+     "t": "5. Patarosan",
+     "b": [
+      "Pikeun patarosan ngeunaan kawijakan ieu, hubungi nocodingindonesia@gmail.com. Kumaha data pribadi dipaké dijelaskeun leuwih jéntré dina Kawijakan Privasi. Lamun basa-basana béda dina harti, versi basa Indonésia anu berlaku."
+     ]
+    }
+   ]
+  }
+ }
+}

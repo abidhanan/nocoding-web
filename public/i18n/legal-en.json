@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Last updated",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Privacy Policy",
+   "description": "What data Nocoding collects, what it is used for, who processes it, and your rights over your personal data.",
+   "sections": [
+    {
+     "t": "1. Who we are",
+     "b": [
+      "Nocoding (nocoding.web.id) is a website, app, information system and automation service run by Abid Hanan Wicaksono in Indonesia. This policy explains how we treat your personal data when you visit this site or contact us.",
+      "Questions about this policy can be sent to nocodingindonesia@gmail.com or WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data we collect",
+     "b": [
+      "- Data you give us: your name, WhatsApp number, email and a description of your project when you contact us by WhatsApp or email. This site has no user accounts or sign-up forms.",
+      "- Technical data processed automatically: IP address, device and browser type, and the pages you open. Our hosting and CDN providers process it to serve the site and protect it from abuse.",
+      "- Approximate country: so prices can be shown in your currency, your country is estimated from CDN information or your browser language. We do not store it on our servers.",
+      "- Analytics data: Google Analytics 4 and Microsoft Clarity (when enabled) collect usage statistics such as pages opened, visit length, device type and anonymous interaction recordings. They only load after you interact with the page.",
+      "- Browser storage: your language choice, markers that you already liked, viewed or shared an article, and a temporary price estimate. Details are in the Cookie Policy.",
+      "- Article view, like and share counts are stored as combined numbers, without visitor identity."
+     ]
+    },
+    {
+     "t": "3. What the data is used for",
+     "b": [
+      "- Answering your questions, preparing quotes and carrying out your project.",
+      "- Serving, securing and keeping the site fast.",
+      "- Understanding how the site is used so we can improve it.",
+      "- Meeting legal obligations.",
+      "We do not sell your personal data."
+     ]
+    },
+    {
+     "t": "4. Third parties involved",
+     "b": [
+      "- Vercel: hosting and serving the site.",
+      "- Cloudflare: CDN and security.",
+      "- Google (Google Analytics 4) and Microsoft (Clarity): site usage statistics.",
+      "- Meta (WhatsApp) and Google (Gmail): when you contact us through the WhatsApp or email links on this site.",
+      "- Currency rate provider: only receives rate requests from our server, not visitor data.",
+      "These providers may process data outside Indonesia under their own policies."
+     ]
+    },
+    {
+     "t": "5. How long data is kept",
+     "b": [
+      "Conversations and project materials are kept as long as needed to run the service, give support and meet legal obligations, then deleted or anonymised. Analytics data follows the retention settings of its provider. Data in your browser stays until you delete it."
+     ]
+    },
+    {
+     "t": "6. Your rights",
+     "b": [
+      "Under Indonesia's Law No. 27 of 2022 on Personal Data Protection, you have the right to:",
+      "- know and get a copy of the personal data we hold about you;",
+      "- ask for incorrect data to be corrected;",
+      "- ask for your data to be deleted or withdraw your consent;",
+      "- object to certain processing.",
+      "Send your request to nocodingindonesia@gmail.com. We will respond within a reasonable time."
+     ]
+    },
+    {
+     "t": "7. Security and children",
+     "b": [
+      "This site uses HTTPS and access to project data is restricted. No method of transmitting or storing data is completely risk free, so we cannot guarantee absolute security.",
+      "Our services are meant for people aged 18 and over. We do not knowingly collect children's personal data."
+     ]
+    },
+    {
+     "t": "8. Changes to this policy",
+     "b": [
+      "This policy may be updated from time to time. The date of the last update is shown at the top of the page. If the languages differ in meaning, the Indonesian version applies."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Terms and Conditions",
+   "description": "The rules for using the Nocoding site and services: packages, prices, how work is done, intellectual property and limits of liability.",
+   "sections": [
+    {
+     "t": "1. Accepting these terms",
+     "b": [
+      "By opening this site or using Nocoding's services, you agree to these terms and conditions. If you do not agree, please do not use our site or services."
+     ]
+    },
+    {
+     "t": "2. The services",
+     "b": [
+      "Nocoding builds portfolio or CV websites, landing pages and company profiles, information and operations systems, and business process automation. The scope of work, features, schedule and cost are agreed with you over WhatsApp or email before work starts.",
+      "Consultation is always free, whenever you need it, and does not oblige you to order."
+     ]
+    },
+    {
+     "t": "3. Packages and prices",
+     "b": [
+      "- Small package: from Rp 500,000 per year, including free maintenance and a domain for 1 year.",
+      "- Big package: from Rp 2,000,000 per year, including free maintenance and hosting for 1 year.",
+      "Prices on the site are starting prices. The final amount is agreed after a consultation, based on your needs. For visitors outside Indonesia, prices are shown in the local currency as an estimate based on the daily exchange rate; the amount in rupiah that we agree on is the one that applies. Extra costs, such as additional features or renewal after the free period ends, are told to you before the work is done."
+     ]
+    },
+    {
+     "t": "4. How work is done and your responsibilities",
+     "b": [
+      "The design is reviewed and approved with you before production. Revisions are done as agreed.",
+      "You are responsible for providing materials (logo, text, photos, data) on time and for having the right to use them. Delays in materials or feedback can affect the schedule."
+     ]
+    },
+    {
+     "t": "5. Maintenance",
+     "b": [
+      "Free maintenance for 1 year covers fixing errors in our work and basic security updates. New features, major design changes and work outside the original agreement are charged separately."
+     ]
+    },
+    {
+     "t": "6. Intellectual property",
+     "b": [
+      "The materials you provide remain yours. The finished work is handed over to you once payment as agreed is complete. Nocoding may show live work as examples in its portfolio, unless you ask in writing for it not to be shown.",
+      "The design, text and articles on nocoding.web.id belong to Nocoding. You may share links to them, but you may not copy and use them commercially without permission. Article photos come from Unsplash and follow its licence; the source is credited under each photo."
+     ]
+    },
+    {
+     "t": "7. Site languages",
+     "b": [
+      "This site is available in many languages. Translations, especially for languages with fewer speakers, may not be perfect. If they differ in meaning, the Indonesian version applies. These legal pages are available in Indonesian and English."
+     ]
+    },
+    {
+     "t": "8. Limits of liability",
+     "b": [
+      "We work to deliver good results, but we do not promise specific business outcomes such as search rankings, visitor numbers or sales. We are not responsible for disruptions from third parties such as hosting, domain or payment providers, or for indirect losses.",
+      "Our liability for a service is limited to the amount you have paid for that service, to the extent the law allows. This does not reduce rights you have that are protected by law."
+     ]
+    },
+    {
+     "t": "9. Governing law",
+     "b": [
+      "These terms are governed by the laws of the Republic of Indonesia. If a dispute arises, we first try to settle it by discussion. If no agreement is reached, the dispute is settled by the competent courts in Indonesia."
+     ]
+    },
+    {
+     "t": "10. Changes and contact",
+     "b": [
+      "These terms may be updated from time to time; the date of the last update is shown at the top of the page. Questions can be sent to nocodingindonesia@gmail.com or WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Cookie Policy",
+   "description": "The cookies and local storage the Nocoding site uses, what they are for, and how to manage them.",
+   "sections": [
+    {
+     "t": "1. What cookies are",
+     "b": [
+      "Cookies are small files a site stores in your browser. Local storage and session storage work in a similar way but are not sent to a server automatically. On this page we call them all cookies."
+     ]
+    },
+    {
+     "t": "2. What the site needs to work",
+     "b": [
+      "Stored in your browser and not sent to our servers:",
+      "- nocoding-language and nocoding-language-set: the language you chose or that was detected from your browser.",
+      "- nocoding-pricing (session): the estimated currency and rate, so prices are not worked out again on every page.",
+      "- Article markers: whether you already liked, viewed or shared an article, so counts are not doubled.",
+      "- A temporary scroll position marker when moving between parts of the site."
+     ]
+    },
+    {
+     "t": "3. Analytics",
+     "b": [
+      "When enabled, two analytics services load after you interact with the page (scroll, tap or press a key):",
+      "- Google Analytics 4 (cookies such as _ga and _ga_*, valid for up to about 2 years): visit statistics.",
+      "- Microsoft Clarity (cookies such as _clck, _clsk, CLID and MUID, valid for up to about 1 year): heatmaps and anonymous interaction recordings.",
+      "CDN and security providers may also set technical cookies to protect the site from harmful traffic."
+     ]
+    },
+    {
+     "t": "4. How to manage cookies",
+     "b": [
+      "You can delete or block cookies in your browser settings. You can also install Google's official opt-out add-on for Google Analytics. If analytics cookies are blocked, the site still works; if local storage is cleared, your language choice goes back to the default."
+     ]
+    },
+    {
+     "t": "5. Questions",
+     "b": [
+      "For questions about this policy, contact nocodingindonesia@gmail.com. How personal data is used is explained further in the Privacy Policy. If the languages differ in meaning, the Indonesian version applies."
+     ]
+    }
+   ]
+  }
+ }
+}

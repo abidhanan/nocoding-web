@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Dikemas kini kali terakhir",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Dasar Privasi",
+   "description": "Data apa yang dikumpulkan oleh Nocoding, untuk apa ia digunakan, siapa yang memprosesnya, dan hak anda ke atas data peribadi anda.",
+   "sections": [
+    {
+     "t": "1. Siapa kami",
+     "b": [
+      "Nocoding (nocoding.web.id) ialah perkhidmatan pembuatan laman web, aplikasi, sistem maklumat dan automasi yang diuruskan oleh Abid Hanan Wicaksono di Indonesia. Dasar ini menerangkan bagaimana kami melayan data peribadi anda apabila anda melawat laman ini atau menghubungi kami.",
+      "Pertanyaan tentang dasar ini boleh dihantar ke nocodingindonesia@gmail.com atau WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data yang kami kumpulkan",
+     "b": [
+      "- Data yang anda berikan sendiri: nama, nombor WhatsApp, e-mel dan keterangan keperluan projek anda apabila anda menghubungi kami melalui WhatsApp atau e-mel. Laman ini tidak mempunyai akaun pengguna atau borang pendaftaran.",
+      "- Data teknikal yang diproses secara automatik: alamat IP, jenis peranti dan pelayar, serta halaman yang dibuka. Data ini diproses oleh penyedia pengehosan dan CDN kami untuk menyampaikan laman dan melindunginya daripada penyalahgunaan.",
+      "- Anggaran negara: supaya harga dipaparkan dalam mata wang anda, negara anda dianggarkan daripada maklumat CDN atau bahasa pelayar. Maklumat ini tidak kami simpan di pelayan kami.",
+      "- Data analitik: Google Analytics 4 dan Microsoft Clarity (jika diaktifkan) mengumpulkan statistik penggunaan seperti halaman yang dibuka, tempoh lawatan, jenis peranti dan rakaman interaksi tanpa identiti. Kedua-duanya hanya dimuatkan selepas anda berinteraksi dengan halaman.",
+      "- Storan dalam pelayar: pilihan bahasa, penanda bahawa anda sudah menyukai, melihat atau berkongsi sesuatu artikel, dan anggaran harga sementara. Butirannya terdapat dalam Dasar Kuki.",
+      "- Bilangan paparan, suka dan kongsi pada artikel disimpan sebagai angka gabungan tanpa identiti pelawat."
+     ]
+    },
+    {
+     "t": "3. Untuk apa data digunakan",
+     "b": [
+      "- Menjawab pertanyaan anda, menyediakan sebut harga dan melaksanakan projek anda.",
+      "- Menyampaikan, melindungi dan memastikan laman kekal pantas.",
+      "- Memahami bagaimana laman digunakan supaya kami dapat memperbaikinya.",
+      "- Memenuhi kewajipan undang-undang.",
+      "Kami tidak menjual data peribadi anda."
+     ]
+    },
+    {
+     "t": "4. Pihak ketiga yang terlibat",
+     "b": [
+      "- Vercel: pengehosan dan penyampaian laman.",
+      "- Cloudflare: CDN dan keselamatan.",
+      "- Google (Google Analytics 4) dan Microsoft (Clarity): statistik penggunaan laman.",
+      "- Meta (WhatsApp) dan Google (Gmail): apabila anda menghubungi kami melalui pautan WhatsApp atau e-mel di laman ini.",
+      "- Penyedia kadar mata wang: hanya menerima permintaan kadar daripada pelayan kami, bukan data pelawat.",
+      "Penyedia tersebut mungkin memproses data di luar Indonesia mengikut dasar masing-masing."
+     ]
+    },
+    {
+     "t": "5. Berapa lama data disimpan",
+     "b": [
+      "Perbualan dan bahan projek disimpan selama yang diperlukan untuk menjalankan perkhidmatan, memberi sokongan dan memenuhi kewajipan undang-undang, kemudian dipadamkan atau dianonimkan. Data analitik mengikut tetapan penyimpanan penyedianya. Data dalam pelayar anda kekal sehingga anda memadamkannya."
+     ]
+    },
+    {
+     "t": "6. Hak anda",
+     "b": [
+      "Menurut Undang-Undang Indonesia Nombor 27 Tahun 2022 tentang Perlindungan Data Peribadi, anda berhak untuk:",
+      "- mengetahui dan meminta salinan data peribadi anda yang kami simpan;",
+      "- meminta pembetulan data yang tidak betul;",
+      "- meminta data anda dipadamkan atau menarik balik persetujuan anda;",
+      "- membantah pemprosesan tertentu.",
+      "Hantar permintaan anda ke nocodingindonesia@gmail.com. Kami akan membalasnya dalam tempoh yang munasabah."
+     ]
+    },
+    {
+     "t": "7. Keselamatan dan kanak-kanak",
+     "b": [
+      "Laman ini menggunakan HTTPS dan akses kepada data projek dihadkan. Tiada kaedah penghantaran atau penyimpanan data yang bebas sepenuhnya daripada risiko, jadi kami tidak dapat menjamin keselamatan mutlak.",
+      "Perkhidmatan kami ditujukan kepada mereka yang berumur 18 tahun ke atas. Kami tidak dengan sengaja mengumpulkan data peribadi kanak-kanak."
+     ]
+    },
+    {
+     "t": "8. Perubahan pada dasar ini",
+     "b": [
+      "Dasar ini boleh dikemas kini dari semasa ke semasa. Tarikh kemas kini terakhir dipaparkan di bahagian atas halaman. Jika terdapat perbezaan makna antara bahasa, versi Bahasa Indonesia yang terpakai."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Terma dan Syarat",
+   "description": "Peraturan penggunaan laman dan perkhidmatan Nocoding: pakej, harga, cara kerja dilaksanakan, harta intelek dan had tanggungjawab.",
+   "sections": [
+    {
+     "t": "1. Penerimaan terma",
+     "b": [
+      "Dengan membuka laman ini atau menggunakan perkhidmatan Nocoding, anda bersetuju dengan terma dan syarat ini. Jika anda tidak bersetuju, sila jangan gunakan laman dan perkhidmatan kami."
+     ]
+    },
+    {
+     "t": "2. Perkhidmatan",
+     "b": [
+      "Nocoding membina laman web portfolio atau resume, halaman pendaratan dan profil syarikat, sistem maklumat dan operasi, serta automasi proses perniagaan. Skop kerja, ciri, jadual dan kos dipersetujui bersama anda melalui WhatsApp atau e-mel sebelum kerja dimulakan.",
+      "Konsultasi sentiasa percuma, bila-bila masa anda perlukan, dan tidak mewajibkan anda membuat tempahan."
+     ]
+    },
+    {
+     "t": "3. Pakej dan harga",
+     "b": [
+      "- Pakej Kecil: bermula dari Rp 500.000 setahun, termasuk penyelenggaraan percuma dan domain selama 1 tahun.",
+      "- Pakej Besar: bermula dari Rp 2.000.000 setahun, termasuk penyelenggaraan percuma dan pengehosan selama 1 tahun.",
+      "Harga di laman ialah harga permulaan. Jumlah akhir dipersetujui selepas konsultasi berdasarkan keperluan anda. Bagi pelawat dari luar Indonesia, harga dipaparkan dalam mata wang tempatan sebagai anggaran berdasarkan kadar tukaran harian; yang terpakai ialah jumlah dalam rupiah yang dipersetujui. Kos tambahan, seperti ciri tambahan atau pembaharuan selepas tempoh percuma tamat, dimaklumkan kepada anda terlebih dahulu sebelum kerja dilaksanakan."
+     ]
+    },
+    {
+     "t": "4. Cara kerja dilaksanakan dan tanggungjawab anda",
+     "b": [
+      "Reka bentuk disemak dan diluluskan bersama anda sebelum pengeluaran. Semakan semula dilakukan mengikut persetujuan.",
+      "Anda bertanggungjawab menyediakan bahan (logo, teks, foto, data) tepat pada masanya dan menjamin bahawa anda berhak menggunakannya. Kelewatan bahan atau maklum balas boleh menjejaskan jadual."
+     ]
+    },
+    {
+     "t": "5. Penyelenggaraan",
+     "b": [
+      "Penyelenggaraan percuma selama 1 tahun merangkumi pembetulan kesilapan pada hasil kerja kami dan kemas kini keselamatan asas. Ciri baharu, perubahan besar pada reka bentuk dan kerja di luar persetujuan asal dikira secara berasingan."
+     ]
+    },
+    {
+     "t": "6. Harta intelek",
+     "b": [
+      "Bahan yang anda berikan kekal milik anda. Hasil kerja diserahkan kepada anda setelah bayaran mengikut persetujuan dijelaskan sepenuhnya. Nocoding boleh memaparkan hasil kerja yang telah disiarkan sebagai contoh dalam portfolionya, kecuali anda memintanya secara bertulis supaya tidak dipaparkan.",
+      "Reka bentuk, teks dan artikel di nocoding.web.id adalah milik Nocoding. Anda boleh berkongsi pautannya, tetapi tidak boleh menyalin dan menggunakannya secara komersial tanpa kebenaran. Foto artikel datang daripada Unsplash dan mengikut lesennya; sumbernya dinyatakan di bawah setiap foto."
+     ]
+    },
+    {
+     "t": "7. Bahasa laman",
+     "b": [
+      "Laman ini tersedia dalam banyak bahasa. Terjemahan, terutamanya bagi bahasa yang kurang penuturnya, mungkin belum sempurna. Jika terdapat perbezaan makna, versi Bahasa Indonesia yang terpakai. Halaman undang-undang ini tersedia dalam Bahasa Indonesia dan Bahasa Inggeris."
+     ]
+    },
+    {
+     "t": "8. Had tanggungjawab",
+     "b": [
+      "Kami berusaha memberikan hasil yang baik, tetapi tidak menjanjikan hasil perniagaan tertentu seperti kedudukan carian, bilangan pelawat atau jualan. Kami tidak bertanggungjawab atas gangguan daripada pihak ketiga seperti penyedia pengehosan, domain atau pembayaran, mahupun atas kerugian tidak langsung.",
+      "Tanggungjawab kami bagi sesuatu perkhidmatan dihadkan kepada jumlah yang telah anda bayar untuk perkhidmatan itu, setakat yang dibenarkan undang-undang. Perkara ini tidak mengurangkan hak anda yang dilindungi oleh undang-undang."
+     ]
+    },
+    {
+     "t": "9. Undang-undang yang terpakai",
+     "b": [
+      "Terma ini tertakluk kepada undang-undang Republik Indonesia. Jika berlaku perselisihan, kita cuba menyelesaikannya terlebih dahulu melalui perbincangan. Jika persetujuan tidak dicapai, perselisihan diselesaikan melalui mahkamah yang berwibawa di Indonesia."
+     ]
+    },
+    {
+     "t": "10. Perubahan dan hubungan",
+     "b": [
+      "Terma ini boleh dikemas kini dari semasa ke semasa; tarikh kemas kini terakhir dipaparkan di bahagian atas halaman. Pertanyaan boleh dihantar ke nocodingindonesia@gmail.com atau WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Dasar Kuki",
+   "description": "Kuki dan storan setempat yang digunakan oleh laman Nocoding, untuk apa ia digunakan, dan cara mengurusnya.",
+   "sections": [
+    {
+     "t": "1. Apa itu kuki",
+     "b": [
+      "Kuki ialah fail kecil yang disimpan oleh sesebuah laman dalam pelayar anda. Storan setempat (local storage) dan storan sesi (session storage) berfungsi dengan cara yang serupa tetapi tidak dihantar secara automatik ke pelayan. Di halaman ini, kami menyebut kesemuanya sebagai kuki."
+     ]
+    },
+    {
+     "t": "2. Apa yang diperlukan agar laman berfungsi",
+     "b": [
+      "Disimpan dalam pelayar anda dan tidak dihantar ke pelayan kami:",
+      "- nocoding-language dan nocoding-language-set: bahasa yang anda pilih atau yang dikesan daripada pelayar anda.",
+      "- nocoding-pricing (sesi): anggaran mata wang dan kadar supaya harga tidak dikira semula pada setiap halaman.",
+      "- Penanda artikel: sama ada anda sudah menyukai, melihat atau berkongsi sesuatu artikel, supaya bilangan tidak berganda.",
+      "- Penanda kedudukan tatal sementara apabila berpindah antara bahagian laman."
+     ]
+    },
+    {
+     "t": "3. Analitik",
+     "b": [
+      "Jika diaktifkan, dua perkhidmatan analitik dimuatkan selepas anda berinteraksi dengan halaman (menatal, mengetik atau menekan kekunci):",
+      "- Google Analytics 4 (kuki seperti _ga dan _ga_*, sah sehingga lebih kurang 2 tahun): statistik lawatan.",
+      "- Microsoft Clarity (kuki seperti _clck, _clsk, CLID dan MUID, sah sehingga lebih kurang 1 tahun): peta haba dan rakaman interaksi tanpa identiti.",
+      "Penyedia CDN dan keselamatan juga mungkin menetapkan kuki teknikal untuk melindungi laman daripada trafik yang berbahaya."
+     ]
+    },
+    {
+     "t": "4. Cara mengurus kuki",
+     "b": [
+      "Anda boleh memadam atau menyekat kuki melalui tetapan pelayar anda. Anda juga boleh memasang alat tambah penolakan rasmi daripada Google untuk Google Analytics. Jika kuki analitik disekat, laman tetap berfungsi; jika storan setempat dikosongkan, pilihan bahasa anda akan kembali kepada tetapan asal."
+     ]
+    },
+    {
+     "t": "5. Pertanyaan",
+     "b": [
+      "Untuk pertanyaan tentang dasar ini, hubungi nocodingindonesia@gmail.com. Penggunaan data peribadi diterangkan dengan lebih lanjut dalam Dasar Privasi. Jika terdapat perbezaan makna antara bahasa, versi Bahasa Indonesia yang terpakai."
+     ]
+    }
+   ]
+  }
+ }
+}

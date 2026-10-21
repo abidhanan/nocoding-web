@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Dènye mizajou",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Politik Konfidansyalite",
+   "description": "Ki done Nocoding kolekte, pou ki sa yo itilize yo, ki moun ki trete yo, ak dwa ou genyen sou done pèsonèl ou.",
+   "sections": [
+    {
+     "t": "1. Ki moun nou ye",
+     "b": [
+      "Nocoding (nocoding.web.id) se yon sèvis pou kreye sit wèb, aplikasyon, sistèm enfòmasyon ak otomatizasyon ke Abid Hanan Wicaksono jere nan peyi Endonezi. Politik sa a eksplike ki jan nou trete done pèsonèl ou lè w vizite sit sa a oswa lè w kontakte nou.",
+      "Ou ka voye kesyon sou politik sa a nan nocodingindonesia@gmail.com oswa sou WhatsApp nan +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Done nou kolekte",
+     "b": [
+      "- Done ou ban nou: non ou, nimewo WhatsApp ou, imèl ou ak yon deskripsyon pwojè w lè w kontakte nou pa WhatsApp oswa pa imèl. Sit sa a pa gen kont itilizatè ni fòm enskripsyon.",
+      "- Done teknik yo trete otomatikman: adrès IP, tip aparèy ak navigatè, ak paj ou louvri yo. Founisè òbèjman ak CDN nou yo trete yo pou sèvi sit la epi pwoteje l kont abi.",
+      "- Peyi apwoksimatif: pou yo ka montre pri yo nan lajan ou, yo estime peyi w a soti nan enfòmasyon CDN lan oswa nan lang navigatè w la. Nou pa kenbe l sou sèvè nou yo.",
+      "- Done analitik: Google Analytics 4 ak Microsoft Clarity (lè yo aktive) kolekte estatistik itilizasyon tankou paj ki louvri, dire vizit la, tip aparèy ak anrejistreman entèraksyon anonim. Yo chaje sèlman apre ou fin fè entèraksyon ak paj la.",
+      "- Depo nan navigatè a: chwa lang ou, makè ki montre ou deja renmen, wè oswa pataje yon atik, ak yon estimasyon pri tanporè. Ou jwenn detay yo nan Politik Cookie la.",
+      "- Kantite ekspozisyon, renmen ak pataj atik yo anrejistre kòm chif total, san idantite vizitè a."
+     ]
+    },
+    {
+     "t": "3. Pou ki sa yo itilize done yo",
+     "b": [
+      "- Reponn kesyon ou yo, prepare devi epi reyalize pwojè w la.",
+      "- Sèvi sit la, pwoteje l epi kenbe l rapid.",
+      "- Konprann ki jan yo itilize sit la pou nou ka amelyore l.",
+      "- Respekte obligasyon legal yo.",
+      "Nou pa vann done pèsonèl ou."
+     ]
+    },
+    {
+     "t": "4. Twazyèm pati ki enplike",
+     "b": [
+      "- Vercel: òbèjman ak sèvis sit la.",
+      "- Cloudflare: CDN ak sekirite.",
+      "- Google (Google Analytics 4) ak Microsoft (Clarity): estatistik itilizasyon sit la.",
+      "- Meta (WhatsApp) ak Google (Gmail): lè w kontakte nou atravè lyen WhatsApp oswa imèl sou sit sa a.",
+      "- Founisè to chanj lajan: li resevwa sèlman demann pou to chanj ki soti nan sèvè nou an, pa done vizitè yo.",
+      "Founisè sa yo ka trete done deyò Endonezi dapre pwòp politik pa yo."
+     ]
+    },
+    {
+     "t": "5. Konbyen tan nou kenbe done yo",
+     "b": [
+      "Konvèsasyon yo ak dokiman pwojè yo kenbe pandan tout tan sa nesesè pou fè sèvis la mache, bay sipò epi respekte obligasyon legal yo, apre sa yo efase oswa yo anonimize yo. Done analitik yo swiv paramèt konsèvasyon founisè yo. Done ki nan navigatè w la rete jiskaske ou efase yo."
+     ]
+    },
+    {
+     "t": "6. Dwa ou",
+     "b": [
+      "Dapre Lwa nimewo 27 de 2022 Endonezi sou Pwoteksyon Done Pèsonèl, ou gen dwa pou:",
+      "- konnen epi jwenn yon kopi done pèsonèl nou genyen sou ou;",
+      "- mande pou yo korije done ki pa kòrèk;",
+      "- mande pou yo efase done w yo oswa retire konsantman w;",
+      "- opoze w ak kèk tretman.",
+      "Voye demann ou nan nocodingindonesia@gmail.com. N ap reponn nan yon delè rezonab."
+     ]
+    },
+    {
+     "t": "7. Sekirite ak timoun",
+     "b": [
+      "Sit sa a itilize HTTPS epi aksè a done pwojè yo limite. Pa gen okenn metòd pou transmèt oswa estoke done ki totalman san risk, kidonk nou pa ka garanti yon sekirite absoli.",
+      "Sèvis nou yo fèt pou moun ki gen 18 an oswa plis. Nou pa kolekte done pèsonèl timoun an konesans."
+     ]
+    },
+    {
+     "t": "8. Chanjman nan politik sa a",
+     "b": [
+      "Yo ka mete politik sa a ajou detanzantan. Dat dènye mizajou a parèt anwo paj la. Si gen diferans nan siyifikasyon ant lang yo, se vèsyon Endonezyen an ki aplike."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Tèm ak Kondisyon",
+   "description": "Règ pou itilize sit Nocoding lan ak sèvis li yo: pakè, pri, ki jan travay la fèt, pwopriyete entelektyèl ak limit responsabilite.",
+   "sections": [
+    {
+     "t": "1. Aksepte tèm sa yo",
+     "b": [
+      "Lè w louvri sit sa a oswa lè w itilize sèvis Nocoding, ou dakò ak tèm ak kondisyon sa yo. Si ou pa dakò, tanpri pa itilize sit nou an ni sèvis nou yo."
+     ]
+    },
+    {
+     "t": "2. Sèvis yo",
+     "b": [
+      "Nocoding kreye sit wèb pòtfolyo oswa CV, paj aterisaj ak pwofil konpayi, sistèm enfòmasyon ak operasyon, ak otomatizasyon pwosesis biznis. Nou dakò avè w sou limit travay la, fonksyon yo, orè a ak kòb la pa WhatsApp oswa pa imèl anvan travay la kòmanse.",
+      "Konsiltasyon an toujou gratis, nenpòt lè w bezwen l, epi li pa oblije w fè yon kòmann."
+     ]
+    },
+    {
+     "t": "3. Pakè ak pri",
+     "b": [
+      "- Ti pakè: apati Rp 500.000 pa ane, ak antretyen gratis ak yon non domèn pou 1 ane.",
+      "- Gwo pakè: apati Rp 2.000.000 pa ane, ak antretyen gratis ak òbèjman pou 1 ane.",
+      "Pri ki sou sit la se pri pou kòmanse. Nou fikse montan final la apre yon konsiltasyon, selon bezwen w yo. Pou vizitè ki andeyò Endonezi, yo montre pri yo nan lajan lokal la kòm yon estimasyon ki baze sou to chanj chak jou a; se montan an nan woupi ke nou dakò ki aplike. Depans anplis, tankou fonksyon siplemantè oswa renouvèlman apre peryòd gratis la fini, yo di w yo anvan yo fè travay la."
+     ]
+    },
+    {
+     "t": "4. Ki jan travay la fèt ak responsabilite w",
+     "b": [
+      "Nou revize konsepsyon an epi nou apwouve l avè w anvan pwodiksyon. Nou fè revizyon yo jan nou te dakò a.",
+      "Ou responsab pou founi materyèl yo (logo, tèks, foto, done) alè epi pou gen dwa pou itilize yo. Reta nan materyèl oswa nan remak ka afekte orè a."
+     ]
+    },
+    {
+     "t": "5. Antretyen",
+     "b": [
+      "Antretyen gratis pou 1 ane kouvri korije erè nan travay nou epi mizajou sekirite de baz. Fonksyon nouvo, gwo chanjman nan konsepsyon ak travay ki andeyò akò orijinal la peye apa."
+     ]
+    },
+    {
+     "t": "6. Pwopriyete entelektyèl",
+     "b": [
+      "Materyèl ou ban nou yo rete pou ou. Nou livre travay ki fini an ba ou lè peman dapre akò a fini. Nocoding ka montre travay ki an liy kòm egzanp nan pòtfolyo li, sof si w mande pa ekri pou yo pa montre l.",
+      "Konsepsyon an, tèks yo ak atik yo sou nocoding.web.id se pou Nocoding. Ou ka pataje lyen yo, men ou pa gen dwa kopye yo ni itilize yo pou fè komès san pèmisyon. Foto atik yo soti sou Unsplash epi yo swiv lisans li; yo site sous la anba chak foto."
+     ]
+    },
+    {
+     "t": "7. Lang sit la",
+     "b": [
+      "Sit sa a disponib nan anpil lang. Tradiksyon yo, sitou pou lang ki gen mwens moun k ap pale yo, ka pa pafè. Si gen diferans nan siyifikasyon, se vèsyon Endonezyen an ki aplike. Paj legal sa yo disponib an Endonezyen ak an Anglè."
+     ]
+    },
+    {
+     "t": "8. Limit responsabilite",
+     "b": [
+      "Nou travay pou nou bay bon rezilta, men nou pa pwomèt rezilta biznis espesifik tankou klasman nan motè rechèch, kantite vizitè oswa lavant. Nou pa responsab pou pwoblèm twazyèm pati koze, tankou founisè òbèjman, non domèn oswa peman, ni pou pèt endirèk.",
+      "Responsabilite nou pou yon sèvis limite a montan ou te peye pou sèvis sa a, jan lalwa pèmèt sa. Sa pa diminye dwa ou genyen ki pwoteje pa lalwa."
+     ]
+    },
+    {
+     "t": "9. Lwa ki aplike",
+     "b": [
+      "Lwa Repiblik Endonezi a gouvène tèm sa yo. Si yon konfli leve, nou premye eseye rezoud li pa diskisyon. Si nou pa rive jwenn yon akò, se tribinal konpetan yo an Endonezi ki rezoud konfli a."
+     ]
+    },
+    {
+     "t": "10. Chanjman ak kontak",
+     "b": [
+      "Yo ka mete tèm sa yo ajou detanzantan; dat dènye mizajou a parèt anwo paj la. Ou ka voye kesyon nan nocodingindonesia@gmail.com oswa sou WhatsApp nan +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Politik Cookie",
+   "description": "Cookie yo ak depo lokal sit Nocoding lan itilize, pou ki sa yo ye, ak ki jan pou jere yo.",
+   "sections": [
+    {
+     "t": "1. Ki sa cookie ye",
+     "b": [
+      "Cookie yo se ti fichye yon sit estoke nan navigatè w la. Depo lokal ak depo sesyon fonksyone yon fason ki sanble, men yo pa voye otomatikman bay yon sèvè. Sou paj sa a, nou rele yo tout cookie."
+     ]
+    },
+    {
+     "t": "2. Sa sit la bezwen pou l mache",
+     "b": [
+      "Yo estoke nan navigatè w la epi yo pa voye bay sèvè nou yo:",
+      "- nocoding-language ak nocoding-language-set: lang ou chwazi a oswa lang yo detekte nan navigatè w la.",
+      "- nocoding-pricing (sesyon): lajan ak to chanj yo estime yo, pou yo pa kalkile pri yo ankò sou chak paj.",
+      "- Makè atik: si ou deja renmen, wè oswa pataje yon atik, pou yo pa double kantite yo.",
+      "- Yon makè tanporè pou pozisyon defilman lè w ap deplase ant pati sit la."
+     ]
+    },
+    {
+     "t": "3. Analitik",
+     "b": [
+      "Lè yo aktive, de sèvis analitik chaje apre ou fin fè entèraksyon ak paj la (defile, tape oswa peze yon touch):",
+      "- Google Analytics 4 (cookie tankou _ga ak _ga_*, ki valab pou apeprè 2 an): estatistik vizit.",
+      "- Microsoft Clarity (cookie tankou _clck, _clsk, CLID ak MUID, ki valab pou apeprè 1 an): kat chalè ak anrejistreman entèraksyon anonim.",
+      "Founisè CDN ak sekirite yo ka mete cookie teknik tou pou pwoteje sit la kont trafik danjere."
+     ]
+    },
+    {
+     "t": "4. Ki jan pou jere cookie yo",
+     "b": [
+      "Ou ka efase oswa bloke cookie yo nan paramèt navigatè w la. Ou ka enstale tou ekstansyon ofisyèl Google pou refize swivi nan Google Analytics. Si yo bloke cookie analitik yo, sit la kontinye mache; si yo efase depo lokal la, chwa lang ou retounen sou valè default la."
+     ]
+    },
+    {
+     "t": "5. Kesyon",
+     "b": [
+      "Pou kesyon sou politik sa a, kontakte nocodingindonesia@gmail.com. Politik Konfidansyalite a eksplike plis ki jan yo itilize done pèsonèl yo. Si gen diferans nan siyifikasyon ant lang yo, se vèsyon Endonezyen an ki aplike."
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Mbala ya suka oyo ebongisamaki",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Politiki ya bomipesi",
+   "description": "Makambo nini Nocoding ezali kokoma, mpo na nini ezali kosalela yango, nani azali kosalela yango, mpe makoki nini ozali na yango likolo ya makambo na yo ya moto ye moko.",
+   "sections": [
+    {
+     "t": "1. Biso nani",
+     "b": [
+      "Nocoding (nocoding.web.id) ezali mosala ya mabaluku ya internet, ya applications, ya makanisi ya informatiki mpe ya automatisation oyo Abid Hanan Wicaksono azali kosala na Indonesia. Politiki oyo ezali kolimbola ndenge nini tozali kosalela makambo na yo ya moto ye moko tango ozali kotala site oyo to tango ozali kosolola na biso.",
+      "Mituna na ntina ya politiki oyo ekoki kotindama na nocodingindonesia@gmail.com to na WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Makambo oyo tozali kokoma",
+     "b": [
+      "- Makambo oyo ozali kopesa biso: nkombo na yo, nimero ya WhatsApp, email mpe ndimbola ya projet na yo tango ozali kosolola na biso na WhatsApp to na email. Site oyo ezali na compte ya basaleli te to formulaire ya kokomisa nkombo te.",
+      "- Makambo ya technique oyo ezali kosalema automatiquement: adresse IP, lolenge ya appareil mpe ya navigateur, mpe mapeji oyo ozali kofungola. Baye bazali kopesa biso hébergement mpe CDN bazali kosalela yango mpo na kosalisa site mpe kobatela yango na mabe.",
+      "- Mboka na kolinga: mpo ete talo emonana na mbongo na yo, mboka na yo eyebani na kolinga na informations ya CDN to na monoko ya navigateur na yo. Tozali kobomba yango te na ba serveurs na biso.",
+      "- Makambo ya analytique: Google Analytics 4 mpe Microsoft Clarity (tango efungwami) ezali kokoma statistiques ya mosaleli lokola mapeji efungwami, ntango ya kotala, lolenge ya appareil mpe ba enregistrements ya interaction oyo moto ayebani te. Ezali kozwama kaka nsima ya tango osaleli peji.",
+      "- Esika ya kobomba ya navigateur: poná ya monoko na yo, bilembo oyo emonisi ete osili olingi, otali to opesi moninga article, mpe talo ya tango moke. Makambo mingi ezali na Politiki ya ba cookies.",
+      "- Motango ya botali, ya bolingi mpe ya kokabola ba articles ebombami lokola motango ya mobimba, na kobanda te ete moto oyo azali kotala ayebani."
+     ]
+    },
+    {
+     "t": "3. Mpo na nini makambo esalelami",
+     "b": [
+      "- Kopesa eyano na mituna na yo, kobongisa ba devis mpe kosala projet na yo.",
+      "- Kosalisa site, kobatela yango mpe kosala ete esala noki.",
+      "- Kososola ndenge nini site esalelami mpo tobongisa yango.",
+      "- Kokokisa mikumba ya mibeko.",
+      "Tozali kotekisa makambo na yo ya moto ye moko te."
+     ]
+    },
+    {
+     "t": "4. Bato mosusu oyo bazali na mosala",
+     "b": [
+      "- Vercel: hébergement mpe kopesa site.",
+      "- Cloudflare: CDN mpe libateli.",
+      "- Google (Google Analytics 4) mpe Microsoft (Clarity): statistiques ya mosaleli ya site.",
+      "- Meta (WhatsApp) mpe Google (Gmail): tango ozali kosolola na biso na nzela ya bilongi ya WhatsApp to ya email na site oyo.",
+      "- Moto oyo azali kopesa talo ya mbongo: azwaka kaka masengi ya talo uta na serveur na biso, makambo ya bato oyo bazali kotala te.",
+      "Baye bazali kopesa mosala bakoki kosalela makambo libanda ya Indonesia engebene na politiki na bango."
+     ]
+    },
+    {
+     "t": "5. Tango boni makambo ebombami",
+     "b": [
+      "Masolo mpe biloko ya projet ebombami tango oyo esengeli mpo na kosala mosala, kopesa lisalisi mpe kokokisa mikumba ya mibeko, na nsima ebomami to esalemi ete moto ayebani te. Makambo ya analytique elandi mibeko ya kobomba ya moto oyo azali kopesa yango. Makambo na navigateur na yo etikali tii tango okobimisa yango."
+     ]
+    },
+    {
+     "t": "6. Makoki na yo",
+     "b": [
+      "Engebene na Mobeko Nomero 27 ya mobu 2022 na ntina ya libateli ya makambo ya moto ya Indonesia, ozali na makoki ya:",
+      "- koyeba mpe kozwa kopi ya makambo na yo ya moto ye moko oyo tozali na yango;",
+      "- kosenga ete makambo oyo ezali mabe ebongisama;",
+      "- kosenga ete makambo na yo ebomama to kolongola boyokani na yo;",
+      "- kotelemela bosaleli moko.",
+      "Tinda likambo na yo na nocodingindonesia@gmail.com. Tokopesa eyano na tango oyo ebongi."
+     ]
+    },
+    {
+     "t": "7. Libateli mpe bana",
+     "b": [
+      "Site oyo esalelaka HTTPS mpe kokota na makambo ya projet ezali na ndelo. Nzela moko te ya kotinda to ya kobomba makambo ezali na likama te mobimba, yango wana tokoki kopesa ndanga ya libateli ya kokoka te.",
+      "Misala na biso ezali mpo na bato ya mbula 18 mpe koleka. Tozali kokoma makambo ya moto ya bana na boyebi te."
+     ]
+    },
+    {
+     "t": "8. Bobongoli ya politiki oyo",
+     "b": [
+      "Politiki oyo ekoki kobongisama mbala na mbala. Mokolo ya suka ya bobongisi emonani na likolo ya peji. Soki bokeseni ezali na ntina ya minoko, version ya Indonesia ekosalema."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Mibeko mpe bibongisi",
+   "description": "Mibeko ya kosalela site mpe misala ya Nocoding: ba paquets, talo, ndenge nini mosala esalemi, biloko ya makanisi mpe ndelo ya mikumba.",
+   "sections": [
+    {
+     "t": "1. Kondima mibeko oyo",
+     "b": [
+      "Soki ofungoli site oyo to osaleli misala ya Nocoding, ondimi mibeko mpe bibongisi oyo. Soki ondimi te, tosengi yo osalela site na biso to misala na biso te."
+     ]
+    },
+    {
+     "t": "2. Misala",
+     "b": [
+      "Nocoding esalaka mabaluku ya portfolio to ya CV, ba landing pages mpe ba profils ya ba société, ba systèmes ya informatiki mpe ya misala, mpe automatisation ya misala ya mombongo. Bonene ya mosala, makambo oyo ekosalema, ntango mpe talo etondimamaka elongo na yo na WhatsApp to na email liboso ete mosala ebanda.",
+      "Bosolo ya toli ezali ya ofele ntango nyonso, ntango nyonso oyo osengi yango, mpe etindi yo na botindi eloko te."
+     ]
+    },
+    {
+     "t": "3. Ba paquets mpe talo",
+     "b": [
+      "- Paquet moke: uta na Rp 500.000 na mobu, na kolanda bobateli ya ofele mpe domaine mpo na mobu 1.",
+      "- Paquet monene: uta na Rp 2.000.000 na mobu, na kolanda bobateli ya ofele mpe hébergement mpo na mobu 1.",
+      "Talo oyo emonani na site ezali talo ya kobanda. Motango ya suka etondimamaka nsima ya bosolo ya toli, engebene na bosenga na yo. Mpo na bato oyo bazali kotala uta libanda ya Indonesia, talo emonisami na mbongo ya mboka lokola kolinga engebene na talo ya mokolo na mokolo; motango na ba roupies oyo totondimi ezali oyo esalaka. Ba mbongo mosusu, lokola ba fonctionnalités mosusu to bozongisi nsima ya suka ya ntango ya ofele, eyebisami yo liboso ete mosala esalema."
+     ]
+    },
+    {
+     "t": "4. Ndenge nini mosala esalemi mpe mikumba na yo",
+     "b": [
+      "Dessin etalemi mpe endimami elongo na yo liboso ya kobongisa yango. Bobongisi esalemaka lokola etondimamaki.",
+      "Ozali na mokumba ya kopesa biloko (logo, makomi, bafoto, makambo) na tango mpe ya kozala na lotomo ya kosalela yango. Kolenda na biloko to na eyano ekoki kokoma likambo na ntango ya mosala."
+     ]
+    },
+    {
+     "t": "5. Bobateli",
+     "b": [
+      "Bobateli ya ofele mpo na mobu 1 ezali kosangisa kobongisa mabunga na mosala na biso mpe ba mises à jour ya libateli ya moboko. Ba fonctionnalités ya sika, bobongoli ya monene ya dessin mpe mosala na libanda ya boyokani ya liboso epesamaka mbongo na bango na kapo."
+     ]
+    },
+    {
+     "t": "6. Biloko ya makanisi",
+     "b": [
+      "Biloko oyo opesi etikalaka ya yo. Mosala oyo esili epesamaka na yo tango kofuta engebene na boyokani esili. Nocoding ekoki kolakisa misala ezali kosala ntango oyo lokola bandakisa na portfolio na yango, longola soki osengi na makomi ete emonisama te.",
+      "Dessin, makomi mpe ba articles na nocoding.web.id ezali ya Nocoding. Okoki kokabola bilongi na yango, kasi okoki kokopa mpe kosalela yango mpo na mombongo te soki ozwi nzela te. Bafoto ya ba articles euti na Unsplash mpe elandi licence na yango; esika euti emonisami na nse ya foto nyonso."
+     ]
+    },
+    {
+     "t": "7. Minoko ya site",
+     "b": [
+      "Site oyo ezali na minoko mingi. Bobongoli, mingi mingi ya minoko oyo bato mingi te bazali koloba yango, ekoki kozala malamu mobimba te. Soki bokeseni ezali na ntina, version ya Indonesia ekosalema. Mapeji oyo ya mibeko ezali na Indonesia mpe na Lingelesi."
+     ]
+    },
+    {
+     "t": "8. Ndelo ya mikumba",
+     "b": [
+      "Tozali kosala mpo na kopesa mbuma ya malamu, kasi tozali kolaka mbuma ya mombongo ya ndenge na ndenge te, lokola esika na ba recherches, motango ya bato bazali kotala to bomekeli ya kotekisa. Tozali na mokumba te na bobebisi oyo euti na bato mosusu lokola baye bazali kopesa hébergement, domaine to kofuta, to na bobebisi ya nzela mosusu.",
+      "Mokumba na biso mpo na mosala moko ekangami na motango oyo ofutaki mpo na mosala yango, tii esika mobeko ekotika. Yango ekitisi makoki na yo oyo mobeko ebateli te."
+     ]
+    },
+    {
+     "t": "9. Mobeko oyo esalelami",
+     "b": [
+      "Mibeko oyo ezali na nse ya mibeko ya Republiki ya Indonesia. Soki matata mabimi, toyeba liboso kosilisa yango na bosolo. Soki boyokani ezali te, matata esilisami na ba tribunaux oyo bazali na bokoki na Indonesia."
+     ]
+    },
+    {
+     "t": "10. Bobongoli mpe kosolola",
+     "b": [
+      "Mibeko oyo ekoki kobongisama mbala na mbala; mokolo ya suka ya bobongisi emonani na likolo ya peji. Mituna ekoki kotindama na nocodingindonesia@gmail.com to na WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Politiki ya ba cookies",
+   "description": "Ba cookies mpe esika ya kobomba na appareil oyo site ya Nocoding esalelaka, mpo na nini, mpe ndenge nini kosalela yango.",
+   "sections": [
+    {
+     "t": "1. Ba cookies nini",
+     "b": [
+      "Ba cookies ezali bafichiers moke oyo site ebombaka na navigateur na yo. Local storage mpe session storage esalaka lolenge moko, kasi etindamaka na serveur automatiquement te. Na peji oyo tozali kobenga yango nyonso ba cookies."
+     ]
+    },
+    {
+     "t": "2. Oyo site esengi mpo na kosala",
+     "b": [
+      "Ebombami na navigateur na yo mpe etindami na ba serveurs na biso te:",
+      "- nocoding-language mpe nocoding-language-set: monoko oyo oponi to oyo eyebani na navigateur na yo.",
+      "- nocoding-pricing (session): mbongo mpe talo ya kolinga, mpo ete talo etalelama lisusu na peji nyonso te.",
+      "- Bilembo ya ba articles: soki osili olingi, otali to opesi moninga article, mpo ete motango etangama mbala mibale te.",
+      "- Elembo ya tango moke ya esika ya kokita na peji tango ozali kokende na biteni mosusu ya site."
+     ]
+    },
+    {
+     "t": "3. Analytique",
+     "b": [
+      "Tango efungwami, misala mibale ya analytique ezwamaka nsima ya tango osaleli peji (kokita, kosimba to kopusa elembo):",
+      "- Google Analytics 4 (ba cookies lokola _ga mpe _ga_*, ezali tii mbula 2 mpo na kolinga): statistiques ya botali.",
+      "- Microsoft Clarity (ba cookies lokola _clck, _clsk, CLID mpe MUID, ezali tii mbula 1 mpo na kolinga): ba cartes ya molunge mpe ba enregistrements ya interaction oyo moto ayebani te.",
+      "Baye bazali kopesa CDN mpe libateli bakoki mpe kotia ba cookies ya technique mpo na kobatela site na mabe ya trafic."
+     ]
+    },
+    {
+     "t": "4. Ndenge nini kosalela ba cookies",
+     "b": [
+      "Okoki kolongola to kokanga ba cookies na ba paramètres ya navigateur na yo. Okoki mpe kotia add-on ya mosala ya Google mpo na koboya Google Analytics. Soki ba cookies ya analytique ekangami, site esalaka naino; soki local storage esukolami, poná ya monoko na yo ezongi na oyo ezalaki."
+     ]
+    },
+    {
+     "t": "5. Mituna",
+     "b": [
+      "Mpo na mituna na ntina ya politiki oyo, solola na nocodingindonesia@gmail.com. Ndenge nini makambo ya moto esalelami elimbolami mingi na Politiki ya bomipesi. Soki bokeseni ezali na ntina ya minoko, version ya Indonesia ekosalema."
+     ]
+    }
+   ]
+  }
+ }
+}

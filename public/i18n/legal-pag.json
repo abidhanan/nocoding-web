@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Say kaduluan a pakapabaro",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Patakaran ed Privacy",
+   "description": "Anto ray data a tinitipon na Nocoding, anto ray pakagamitan na, siopa so mangiproseso, tan anto ray karapatan yo ed personal a data yo.",
+   "sections": [
+    {
+     "t": "1. Siopa kami",
+     "b": [
+      "Say Nocoding (nocoding.web.id) et serbisyo ya panggawa na website, app, information system tan automation a pinapatakbo nen Abid Hanan Wicaksono ed Indonesia. Impaliwanag na ni a patakaran no panon mi ginagamit so personal a data yo no bisitaen yo ya site ya, odino kontakin yo kami.",
+      "Say saray tanong nipaakar ed patakaran ya et mabalin a ipadala ed nocodingindonesia@gmail.com odino ed WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Saray data a tinitipon mi",
+     "b": [
+      "- Saray data a ibabaga yo mismo ed sikami: say ngaran yo, WhatsApp number, email tan deskripsion na proyekto yo no kontakin yo kami diad WhatsApp odino email. Say site ya et anggapo na user account odino sign-up form.",
+      "- Technical a data a otomatiko a pinoproseso: IP address, kakaiba na device tan browser, tan saray page a bubukasan yo. Pinoproseso itan na saray hosting tan CDN provider mi parad pangiserbi ed site tan pamaglar na ed abuso.",
+      "- Pageestima ed bansa: parad say presyo et mailabas ed salapi yo, say bansa yo et inestima manlapu ed impormasyon na CDN odino ed lengguahe na browser yo. Ag mi itan isesave ed saray server mi.",
+      "- Analytics a data: Say Google Analytics 4 tan Microsoft Clarity (no naka-on) et manipon na usage statistics a singa saray nabukasan a page, kahaba na bisita, kakaiba na device tan anonymous a recording na interaksion. Mabuklat la itan no nakipag-interact kayo ed page.",
+      "- Browser storage: say pinili yon lengguahe, saray marka a nagpapakita a nilike, nanengneng, odino nishare yo la so sakey a artikulo, tan temporary a pageestima na presyo. Say detalye et wala ed Patakaran ed Cookie.",
+      "- Saray bilang na nanengneng, nilike tan nishare ed saray artikulo et isesave bilang pinagkaiba-iba a numero, anggapo ray pagkakilala ed bisita."
+     ]
+    },
+    {
+     "t": "3. Anto ray pakagamitan na data",
+     "b": [
+      "- Pansagot ed saray tanong yo, pamaseral na quote tan panggawa ed proyekto yo.",
+      "- Pangiserbi, pamaglar tan pankaskasi ed site.",
+      "- Pakaonaan no panon ginagamit so site para mapasaganaan mi.",
+      "- Pantupad ed saray obligasyon legal.",
+      "Ag mi ibabaligya so personal a data yo."
+     ]
+    },
+    {
+     "t": "4. Saray sabi a partido a kasali",
+     "b": [
+      "- Vercel: hosting tan pangiserbi ed site.",
+      "- Cloudflare: CDN tan seguridad.",
+      "- Google (Google Analytics 4) tan Microsoft (Clarity): usage statistics na site.",
+      "- Meta (WhatsApp) tan Google (Gmail): no kontakin yo kami diad saray WhatsApp odino email link ed site ya.",
+      "- Provider na currency rate: say tinatanggap ra et saray request parad rate manlapu ed server mi, ag so data na bisita.",
+      "Saray provider ya et mabalin a mangiproseso na data ed liwa na Indonesia ondaldal ed saray patakaran da."
+     ]
+    },
+    {
+     "t": "5. Pigan kahaba a tinatago so data",
+     "b": [
+      "Saray kimbonan tan materyales na proyekto et tinatago anggad no kaukolan parad pagpatakbo na serbisyo, pangiter na suporta tan pantupad ed saray obligasyon legal, insan et pinapawala odino ginagawan na anonymous. Say analytics a data et sumunod ed retention setting na provider na. Say data ed browser yo et manatan anggad no pawalaen yo."
+     ]
+    },
+    {
+     "t": "6. Saray karapatan yo",
+     "b": [
+      "Ondaldal ed Law No. 27 of 2022 na Indonesia nipaakar ed Personal Data Protection, walay karapatan kayon:",
+      "- manbaga tan mangawat na kopya na personal a data yo a wala ed sikami;",
+      "- mangibaga a naiwasto so aliwan a data;",
+      "- mangibaga a mapawala so data yo odino bawian yo so pisasabi yo;",
+      "- manbabawi ed arum a pamaproseso.",
+      "Ipadala yo so request yo ed nocodingindonesia@gmail.com. Sumagot kami ed makatuturan a oras."
+     ]
+    },
+    {
+     "t": "7. Seguridad tan saray ankukurang",
+     "b": [
+      "Say site ya et gumagamit na HTTPS tan limitado so pagpasok ed data na proyekto. Anggapo met so paraan na pangipadala odino pansave na data a mawalaan na peligro, kanian ag mi magagarantiyaan so absolute a seguridad.",
+      "Say saray serbisyo mi et para ed saray taon a 18 anyos tan onlaban. Ag mi mataynan a tinitipon so personal a data na saray ankukurang."
+     ]
+    },
+    {
+     "t": "8. Saray pagbabago ed patakaran ya",
+     "b": [
+      "Say patakaran ya et mabalin a ipabaro ed saray oras. Say petsa na kaduluan a pakapabaro et nakaiter ed tuktok na page. No magkaiba so kabaleg na saray lengguahe, say Indonesian a bersion so mansusunod."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Saray Termino tan Kondisyon",
+   "description": "Saray tuntunin ed pamakagamit na site tan serbisyo na Nocoding: saray package, presyo, panon ginagawa so trabaho, intellectual property tan limitasyon na responsabilidad.",
+   "sections": [
+    {
+     "t": "1. Pantanggap ed saray termino",
+     "b": [
+      "No bukasan yo so site ya odino gamiten yo so serbisyo na Nocoding, mansasabi kayo ed saray termino tan kondisyon ya. No agko kayo mansasabi, pakipaway agyo gamiten so site tan serbisyo mi."
+     ]
+    },
+    {
+     "t": "2. Saray serbisyo",
+     "b": [
+      "Say Nocoding et manggagawa na portfolio odino CV a website, landing page tan company profile, information tan operations system, tan automation na business process. Say saklaw na trabaho, features, iskedyul tan gastos et pinagkasunduan tayo diad WhatsApp odino email antis a mangiyarum so trabaho.",
+      "Say konsultasyon et libre dalan, no kaukolan yo, tan ag yo obligado a manorder."
+     ]
+    },
+    {
+     "t": "3. Saray package tan presyo",
+     "b": [
+      "- Makapuy a package: manlapu ed Rp 500.000 sakey a taon, kasama so libre a maintenance tan domain parad 1 taon.",
+      "- Mabaleg a package: manlapu ed Rp 2.000.000 sakey a taon, kasama so libre a maintenance tan hosting parad 1 taon.",
+      "Saray presyo ed site et panguna a presyo. Say pawlaan a kantidad et pinagkasunduan nen kasi na konsultasyon, ondaldal ed kaukolan yo. Parad saray bisita a manlapu ed liwa na Indonesia, saray presyo et mailabas ed lokal a salapi bilang pageestima ondaldal ed arawarawen a exchange rate; say kantidad ed rupiah a pinagkasunduan tayo so mansusunod. Saray ekstra a gastos, singa saray dugang a features odino pagbabaro kasi na libre a panahon, et ibabaga mi ed sikayo antis a gawaen so trabaho."
+     ]
+    },
+    {
+     "t": "4. Panon ginagawa so trabaho tan saray responsabilidad yo",
+     "b": [
+      "Say design et rineview tan aprobaan a kaiba yo antis na production. Saray revision et ginagawa ondaldal ed pinagkasunduan.",
+      "Responsable kayo ed pangiter na saray materyales (logo, teksto, litrato, data) ed tamang oras tan ed pakaanggaw yo na karapatan a gamiten ra. Say atraso ed materyales odino feedback et mabalin a mangapektar ed iskedyul."
+     ]
+    },
+    {
+     "t": "5. Maintenance",
+     "b": [
+      "Say libre a maintenance parad 1 taon et kasama so pangiwasto ed saray kamalian ed trabaho mi tan basic a security update. Saray baro a features, mabaleg a pagbabago ed design tan trabaho a liwa ed orihinal a kasunduan et sinisingil a nanduruman."
+     ]
+    },
+    {
+     "t": "6. Intellectual property",
+     "b": [
+      "Saray materyales a iter yo et manatan a sika yo. Say nanpawarin a trabaho et ibibigay ed sikayo no nabayadan lan ondaldal ed kasunduan. Mabalin na Nocoding a ipakita so saray live a trabaho bilang ehemplo ed portfolio na, ana no ibaga yo a nakasulat a agdan ipakita.",
+      "Say design, teksto tan saray artikulo ed nocoding.web.id et pagari na Nocoding. Mabalin yo a ishare so saray link da, balet ag yo mabalin a kopyaen tan gamiten a pankomersyo no anggapo so pisasabi. Saray litrato ed artikulo et manlapu ed Unsplash tan sumunod ed lisensya na; say pinanlapuan et nakaiter ed babas na kada litrato."
+     ]
+    },
+    {
+     "t": "7. Saray lengguahe na site",
+     "b": [
+      "Say site ya et wala ed dakel a lengguahe. Saray pantranslate, nawaring parad saray lengguahe a andukey so mangiyiyaral, et mabalin a agperpekto. No magkaiba so kabaleg da, say Indonesian a bersion so mansusunod. Saray legal a page ya et wala ed Indonesian tan Ingles."
+     ]
+    },
+    {
+     "t": "8. Saray limitasyon na responsabilidad",
+     "b": [
+      "Pinagbabalikasan mi a mangiter na maong a resulta, balet ag kami mangapromesa na espesipiko a resulta ed negosyo singa saray ranggo ed search, bilang na bisita odino benta. Ag kami responsable ed saray abala manlapu ed sabi a partido singa saray hosting, domain odino payment provider, odino ed saray indirekto a lugi.",
+      "Say responsabilidad mi parad sakey a serbisyo et limitado ed kantidad a nabayad yo parad serbisyo ya, anggad ed pinapayagan na ley. Aga ni mangiyusiyos ed saray karapatan yo a pinaglalaglagan na ley."
+     ]
+    },
+    {
+     "t": "9. Ley a mansusunod",
+     "b": [
+      "Saray termino ya et sakop na saray ley na Republika na Indonesia. No wala so alingasngas, panguna kami a mananap a mangiplanong diad pagdadalapan. No ag mabuo so kasunduan, say alingasngas et pinapagpasyan na saray karapat-dapat a korte ed Indonesia."
+     ]
+    },
+    {
+     "t": "10. Saray pagbabago tan kontak",
+     "b": [
+      "Saray termino ya et mabalin a ipabaro ed saray oras; say petsa na kaduluan a pakapabaro et nakaiter ed tuktok na page. Saray tanong et mabalin a ipadala ed nocodingindonesia@gmail.com odino ed WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Patakaran ed Cookie",
+   "description": "Saray cookie tan local storage a gagamiten na site na Nocoding, anto ray pakagamitan da, tan panon ra mamaneho.",
+   "sections": [
+    {
+     "t": "1. Anto ray cookie",
+     "b": [
+      "Saray cookie et andukey a file a isesave na sakey a site ed browser yo. Say local storage tan session storage et singa met ed sikato balet ag otomatiko a ipapadala ed server. Ed page ya, pankakabkabat mi ra amin a cookie."
+     ]
+    },
+    {
+     "t": "2. Anto ray kaukolan na site pian andumaan",
+     "b": [
+      "Isesave ed browser yo tan ag ipapadala ed saray server mi:",
+      "- nocoding-language tan nocoding-language-set: say lengguahe a pinili yo odino nadetektan manlapu ed browser yo.",
+      "- nocoding-pricing (session): say inestima a salapi tan rate, pian ag maulit a kuentaen so presyo ed kada page.",
+      "- Saray marka na artikulo: no nilike, nanengneng odino nishare yo la so sakey a artikulo, pian ag maduara so bilang.",
+      "- Sakey a temporary a marka na posisyon na scroll no manlilintar ed pagkasakey-sakey na site."
+     ]
+    },
+    {
+     "t": "3. Analytics",
+     "b": [
+      "No naka-on, duaran analytics a serbisyo et mabuklat no nakipag-interact kayo ed page (nanscroll, nan-tap odino nanpindot na key):",
+      "- Google Analytics 4 (saray cookie a singa _ga tan _ga_*, mabisa anggad mga 2 taon): bisita a statistics.",
+      "- Microsoft Clarity (saray cookie a singa _clck, _clsk, CLID tan MUID, mabisa anggad mga 1 taon): heatmap tan anonymous a recording na interaksion.",
+      "Saray CDN tan security provider et mabalin met a mangiyarum na technical a cookie parad pamaglar ed site ed mauges a traffic."
+     ]
+    },
+    {
+     "t": "4. Panon ra mamaneho so cookie",
+     "b": [
+      "Mabalin yo a pawalaen odino i-block so saray cookie ed browser setting yo. Mabalin yo met a ininstall so opisyal a opt-out add-on na Google parad Google Analytics. No na-block so saray analytics cookie, mantatrabaho la ni so site; no nilinis so local storage, say pinili yon lengguahe et manbalik ed default."
+     ]
+    },
+    {
+     "t": "5. Saray tanong",
+     "b": [
+      "Parad saray tanong nipaakar ed patakaran ya, kontakin yo so nocodingindonesia@gmail.com. Say panon ginagamit so personal a data et impaliwanag a mas ed Patakaran ed Privacy. No magkaiba so kabaleg na saray lengguahe, say Indonesian a bersion so mansusunod."
+     ]
+    }
+   ]
+  }
+ }
+}

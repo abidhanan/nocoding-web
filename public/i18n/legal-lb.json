@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Läscht aktualiséiert",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Dateschutzerklärung",
+   "description": "Wéi eng Donnéeë Nocoding sammelt, wofir se benotzt ginn, wien se veraarbecht an wéi eng Rechter Dir iwwer Är perséinlech Donnéeë hutt.",
+   "sections": [
+    {
+     "t": "1. Wien mir sinn",
+     "b": [
+      "Nocoding (nocoding.web.id) ass e Service fir Websäiten, Apps, Informatiounssystemer an Automatiséierung, deen den Abid Hanan Wicaksono an Indonesien féiert. Dës Erklärung erkläert, wéi mir mat Ären perséinlechen Donnéeë émginn, wann Dir dës Säit besicht oder eis kontaktéiert.",
+      "Froen zu dëser Erklärung kënnen un nocodingindonesia@gmail.com oder iwwer WhatsApp +62 853-2651-3324 geschéckt ginn."
+     ]
+    },
+    {
+     "t": "2. Donnéeën, déi mir sammelen",
+     "b": [
+      "- Donnéeën, déi Dir eis selwer gitt: Ären Numm, Är WhatsApp-Nummer, Är E-Mail an eng Beschreiwung vun Ärem Projet, wann Dir eis iwwer WhatsApp oder E-Mail kontaktéiert. Dës Säit huet keng Benotzerkonten a keng Umeldeformulairen.",
+      "- Technesch Donnéeën, déi automatesch veraarbecht ginn: IP-Adress, Typ vum Apparat a vum Browser an déi Säiten, déi Dir opmaacht. Eis Hosting- an CDN-Ubidder veraarbecht se, fir d'Säit auszeliwweren an géint Mëssbrauch ze schützen.",
+      "- Ongeféiert Land: fir d'Präisser an Ärer Währung unzeweisen, gëtt Äert Land aus CDN-Informatiounen oder aus der Sprooch vun Ärem Browser geschat. Mir späicheren dat net op eise Serveren.",
+      "- Analysedonnéeën: Google Analytics 4 a Microsoft Clarity (wa se aktivéiert sinn) sammele Notzungsstatistiken, wéi opgemaach Säiten, Besuchsdauer, Apparattyp an anonym Opzeechnunge vun Interaktiounen. Si lueden eréischt, nodeems Dir mat der Säit interagéiert hutt.",
+      "- Späicherung am Browser: Är Sproochewahl, Markéierungen, datt Dir en Artikel scho gär hutt, gekuckt oder gedeelt hutt, an eng temporär Präisschätzung. D'Detailer stinn an der Cookie-Politik.",
+      "- D'Zuelen vun Usiichten, Likes a Share bei Artikele ginn als zesummegefaasst Zuelen ouni Identitéit vum Besucher gespäichert."
+     ]
+    },
+    {
+     "t": "3. Wofir d'Donnéeë benotzt ginn",
+     "b": [
+      "- Är Froen beäntweren, Offere virbereeden an Äert Projet duerchféieren.",
+      "- D'Säit ausliwweren, absécheren a séier halen.",
+      "- Verstoen, wéi d'Säit benotzt gëtt, fir se ze verbesseren.",
+      "- Gesetzlech Flichte erfëllen.",
+      "Mir verkafen Är perséinlech Donnéeë net."
+     ]
+    },
+    {
+     "t": "4. Bedeelegt Drëttpartnere",
+     "b": [
+      "- Vercel: Hosting an Auslieferung vun der Säit.",
+      "- Cloudflare: CDN a Sécherheet.",
+      "- Google (Google Analytics 4) a Microsoft (Clarity): Statistike iwwer d'Notzung vun der Säit.",
+      "- Meta (WhatsApp) a Google (Gmail): wann Dir eis iwwer d'WhatsApp- oder E-Mail-Linken op dëser Säit kontaktéiert.",
+      "- Ubidder vun de Wiesselkurse: kritt just Ufroe fir Wiesselkurse vun eisem Server, keng Donnéeë vu Besucher.",
+      "Dës Ubidder kënnen Donnéeë baussent vun Indonesien no hiren eegene Richtlinnen veraarbechten."
+     ]
+    },
+    {
+     "t": "5. Wéi laang d'Donnéeë gespäichert ginn",
+     "b": [
+      "Gespréicher a Projetsmaterialie ginn esou laang gespäichert, wéi et néideg ass, fir de Service ze féieren, Ënnerstëtzung ze ginn a gesetzlech Flichten ze erfëllen, duerno ginn se geläscht oder anonymiséiert. Analysedonnéeë suivéieren d'Späicherreegele vun hirem Ubidder. Donnéeën an Ärem Browser bleiwe bestoen, bis Dir se läscht."
+     ]
+    },
+    {
+     "t": "6. Är Rechter",
+     "b": [
+      "No dem indonesesche Gesetz Nr. 27 vun 2022 iwwer de Schutz vu perséinlechen Donnéeë hutt Dir d'Recht:",
+      "- ze wëssen, wéi eng perséinlech Donnéeë mir vun Iech hunn, an eng Kopie dovun ze kréien;",
+      "- ze froen, datt falsch Donnéeë korrigéiert ginn;",
+      "- ze froen, datt Är Donnéeë geläscht ginn, oder Är Areleckung zréckzezéien;",
+      "- géint bestëmmt Veraarbechtungen Androch ze erhiewen.",
+      "Schéckt Är Ufro un nocodingindonesia@gmail.com. Mir äntweren an engem raisonnabelen Zäitraum."
+     ]
+    },
+    {
+     "t": "7. Sécherheet a Kanner",
+     "b": [
+      "Dës Säit benotzt HTTPS an den Zougang zu Projetsdonnéeë ass beschränkt. Keng Method fir Donnéeën ze iwwerdroen oder ze späicheren ass komplett ouni Risiko, dofir kënne mir keng absolut Sécherheet garantéieren.",
+      "Eis Servicer si fir Leit vun 18 Joer un duergestallt. Mir sammele wëssentlech keng perséinlech Donnéeë vu Kanner."
+     ]
+    },
+    {
+     "t": "8. Ännerunge vun dëser Erklärung",
+     "b": [
+      "Dës Erklärung kann dann an wann aktualiséiert ginn. D'Datum vun der leschter Aktualiséierung steet uewen op der Säit. Wann d'Sproochen am Sënn ofwäichen, gëllt déi indonesesch Versioun."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Allgemeng Geschäftsbedéngungen",
+   "description": "D'Regele fir d'Notze vun der Nocoding-Säit a vun de Servicer: Paketer, Präisser, Aarbechtsoflaf, intellektuellt Eegentum a Grenze vun der Haftung.",
+   "sections": [
+    {
+     "t": "1. Unerkennung vun dëse Bedéngungen",
+     "b": [
+      "Wann Dir dës Säit opmaacht oder d'Servicer vun Nocoding notzt, stëmmt Dir dëse Bedéngungen zou. Wann Dir net averstanen sidd, notzt w.e.g. eis Säit an eis Servicer net."
+     ]
+    },
+    {
+     "t": "2. D'Servicer",
+     "b": [
+      "Nocoding baut Portfolio- oder CV-Websäiten, Landing Pages a Firmeprofiler, Informatiouns- a Betribssystemer an Automatiséierung vu Geschäftsprozesser. Den Ëmfang vun der Aarbecht, d'Funktiounen, den Zäitplang an d'Käschte ginn iwwer WhatsApp oder E-Mail mat Iech ofgemaach, ier d'Aarbecht ufänkt.",
+      "D'Berodung ass ëmmer gratis, wann och ëmmer Dir se braucht, a verflicht Iech net, eppes ze bestellen."
+     ]
+    },
+    {
+     "t": "3. Paketer a Präisser",
+     "b": [
+      "- Klenge Pak: ab Rp 500.000 pro Joer, inklusiv gratis Maintenance an eng Domain fir 1 Joer.",
+      "- Grousse Pak: ab Rp 2.000.000 pro Joer, inklusiv gratis Maintenance an Hosting fir 1 Joer.",
+      "D'Präisser op der Säit sinn Ufankspräisser. De Schlussbetrag gëtt no enger Berodung op Basis vun Äre Besoinen ofgemaach. Fir Besucher aus dem Ausland ginn d'Präisser an der lokaler Währung als Schätzung op Basis vum Dageskurs ugewisen; et gëllt de Betrag a Rupiah, deen eis ofgemaach hu. Zousätzlech Käschte, wéi zousätzlech Funktiounen oder d'Verlängerung nom Enn vun der gratis Period, ginn Iech matgedeelt, ier d'Aarbecht gemaach gëtt."
+     ]
+    },
+    {
+     "t": "4. Aarbechtsoflaf an Är Verantwortung",
+     "b": [
+      "Den Design gëtt mat Iech iwwerpréift a goutgeheescht, ier d'Produktioun ufänkt. Iwwerschaffunge ginn esou gemaach, wéi ofgemaach.",
+      "Dir sidd dofir verantwortlech, d'Materialien (Logo, Text, Fotoen, Donnéeën) rechtzäiteg ze liwweren an d'Recht ze hunn, se ze benotzen. Verspéidunge bei de Materialien oder beim Feedback kënnen den Zäitplang beaflossen."
+     ]
+    },
+    {
+     "t": "5. Maintenance",
+     "b": [
+      "Déi gratis Maintenance fir 1 Joer deckt d'Behiewe vu Feeler an eiser Aarbecht a grondleeënd Sécherheetsupdates of. Nei Funktiounen, grouss Designännerungen an Aarbecht ausserhalb vun der ursprénglecher Ofsprooch ginn separat berechent."
+     ]
+    },
+    {
+     "t": "6. Intellektuellt Eegentum",
+     "b": [
+      "D'Materialien, déi Dir eis gitt, bleiwen Är. Déi fäerdeg Aarbecht gëtt Iech iwwerdroen, soubal d'Bezuelung wéi ofgemaach komplett ass. Nocoding däerf live Aarbechte als Beispiller a sengem Portfolio weisen, ausser Dir frot schrëftlech, datt et net gewise gëtt.",
+      "Den Design, d'Texter an d'Artikele op nocoding.web.id gehéieren Nocoding. Dir däerft Linken derzou deelen, awer Dir däerft se net ouni Erlaabnis kopéieren a kommerziell notzen. D'Artikelfotoe kommen vun Unsplash a suivéieren hir Lizenz; d'Quell ass ënner all Foto uginn."
+     ]
+    },
+    {
+     "t": "7. Sproochen vun der Säit",
+     "b": [
+      "Dës Säit ass a ville Sproochen disponibel. Iwwersetzungen, besonnesch fir Sproochen mat manner Sprecher, sinn eventuell net perfekt. Wann se am Sënn ofwäichen, gëllt déi indonesesch Versioun. Dës juristesch Säite si op Indonesesch an Englesch disponibel."
+     ]
+    },
+    {
+     "t": "8. Grenze vun der Haftung",
+     "b": [
+      "Mir schaffen drun, gutt Resultater ze liwweren, awer mir verspriechen keng bestëmmte Geschäftsresultater, wéi Sichrankings, Besucherzuelen oder Verkaf. Mir si net verantwortlech fir Stéierungen vun Drëtte, wéi Hosting-, Domain- oder Bezuelungsubidder, an och net fir indirekt Verloschter.",
+      "Eis Haftung fir e Service ass op de Betrag limitéiert, deen Dir fir dee Service bezuelt hutt, souwäit d'Gesetz et erlaabt. Dëst schmälert net Är Rechter, déi gesetzlech geschützt sinn."
+     ]
+    },
+    {
+     "t": "9. Uwendbaart Recht",
+     "b": [
+      "Dës Bedéngunge ënnerleie sech dem Recht vun der Republik Indonesien. Wann et zu engem Sträit kënnt, probéiere mir dee fir d'éischt duerch Gespréicher ze léisen. Wann et zu kenger Eenegung kënnt, gëtt de Sträit vun den zoustännege Geriichter an Indonesien geschleecht."
+     ]
+    },
+    {
+     "t": "10. Ännerunge a Kontakt",
+     "b": [
+      "Dës Bedéngunge kënnen dann an wann aktualiséiert ginn; d'Datum vun der leschter Aktualiséierung steet uewen op der Säit. Froe kënnen un nocodingindonesia@gmail.com oder iwwer WhatsApp +62 853-2651-3324 geschéckt ginn."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Cookie-Politik",
+   "description": "D'Cookien an de lokale Späicher, déi d'Nocoding-Säit benotzt, wofir se do sinn a wéi Dir se verwalte kënnt.",
+   "sections": [
+    {
+     "t": "1. Wat Cookie sinn",
+     "b": [
+      "Cookie si kleng Fichieren, déi eng Säit an Ärem Browser späichert. Local Storage a Session Storage funktionéieren ähnlech, ginn awer net automatesch un e Server geschéckt. Op dëser Säit nennen mir se all Cookien."
+     ]
+    },
+    {
+     "t": "2. Wat d'Säit brauch, fir ze funktionéieren",
+     "b": [
+      "An Ärem Browser gespäichert an net un eis Server geschéckt:",
+      "- nocoding-language an nocoding-language-set: d'Sprooch, déi Dir gewielt hutt oder déi vun Ärem Browser erkannt gouf.",
+      "- nocoding-pricing (Sessioun): déi geschate Währung a de Kurs, fir datt d'Präisser net op all Säit nei berechent ginn.",
+      "- Artikelmarkéierungen: ob Dir en Artikel scho gär hutt, gekuckt oder gedeelt hutt, fir datt d'Zuelen net duebel gezielt ginn.",
+      "- Eng temporär Markéierung vun der Scrollposition, wann Dir tëscht Deeler vun der Säit wiesselt."
+     ]
+    },
+    {
+     "t": "3. Analyse",
+     "b": [
+      "Wann aktivéiert, lueden zwee Analysediensten, nodeems Dir mat der Säit interagéiert hutt (scrollen, tippen oder eng Tast drécken):",
+      "- Google Analytics 4 (Cookie wéi _ga an _ga_*, bis zu ongeféier 2 Joer gëlteg): Besuchsstatistiken.",
+      "- Microsoft Clarity (Cookie wéi _clck, _clsk, CLID a MUID, bis zu ongeféier 1 Joer gëlteg): Heatmaps an anonym Opzeechnunge vun Interaktiounen.",
+      "CDN- a Sécherheetsubidder kënnen och technesch Cookie setzen, fir d'Säit virun schiedlechem Traffic ze schützen."
+     ]
+    },
+    {
+     "t": "4. Wéi Dir Cookie verwaltet",
+     "b": [
+      "Dir kënnt Cookie an den Astellunge vun Ärem Browser läschen oder blockéieren. Dir kënnt och dat offiziellt Opt-out-Add-on vu Google fir Google Analytics installéieren. Wann Analyse-Cookie blockéiert sinn, funktionéiert d'Säit weider; wann de lokale Späicher geläscht gëtt, geet Är Sproochewahl op de Standard zréck."
+     ]
+    },
+    {
+     "t": "5. Froen",
+     "b": [
+      "Fir Froen zu dëser Politik kontaktéiert nocodingindonesia@gmail.com. Wéi perséinlech Donnéeë benotzt ginn, gëtt an der Dateschutzerklärung méi detailléiert erkläert. Wann d'Sproochen am Sënn ofwäichen, gëllt déi indonesesch Versioun."
+     ]
+    }
+   ]
+  }
+ }
+}

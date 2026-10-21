@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Laatst bijgewerkt",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Privacybeleid",
+   "description": "Welk gegaeves Nocoding verzameltj, woeveur ze gebroek weure, wie ze verwerk en welk rechte se hubs op diene persoonsgegaeves.",
+   "sections": [
+    {
+     "t": "1. Wie veer zeen",
+     "b": [
+      "Nocoding (nocoding.web.id) is 'n deens veur websites, apps, informatiesystemen en automatisering, gedreve door Abid Hanan Wicaksono in Indonesië. Dit beleid legk oet wie veer mit diene persoonsgegaeves ummegaon es se dees site bezeuks of contact mit os opnumps.",
+      "Vraoge euver dit beleid kinne gestjuurd waere nao nocodingindonesia@gmail.com of via WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Gegaeves die veer verzamele",
+     "b": [
+      "- Gegaeves die se os zelf geefs: diene naam, WhatsApp-nummer, e-mail en 'n besjrieving van diene projek es se contact mit os opnumps via WhatsApp of e-mail. Op dees site zeen gein gebroekersaccounts of aanmeldformulieren.",
+      "- Technische gegaeves die automatisch verwerkt waere: IP-adres, type apparaat en browser, en de pagina's die se opens. Os hosting- en CDN-leveranciers verwerke dees um de site te laote werke en te beveilige taege misbroek.",
+      "- Ongeveer land: zoedat prieze in diene munteenheid getuind kinne waere, weurt diene land gesjat op basis van CDN-informatie of diene browsertaal. Veer slaon dit neet op op os servers.",
+      "- Analysegegaeves: Google Analytics 4 en Microsoft Clarity (es ingesjakeld) verzamele gebroeksstatistieke wie geopende pagina's, bezeuksduur, type apparaat en anonieme opnames van interactie. Ze waere pas gelaje nao dat se mit de pagina bezig bös gewees.",
+      "- Browseropslag: diene taalkeuze, markeringe dats se 'n artikel al geliked, bekeke of gedeild höbs, en 'n tiedelike prieskalkulatie. Details stoon in 't Cookiebeleid.",
+      "- Aantal bekieke, likes en delinge van artikele waere opgeslage es gecombineerde aantalle, zonder identiteit van de bezoeker."
+     ]
+    },
+    {
+     "t": "3. Woeveur de gegaeves gebroek waere",
+     "b": [
+      "- Diene vraoge beantjwoorde, offertes veurbereie en diene projek oetveure.",
+      "- De site laote werke, beveilige en snel hawwe.",
+      "- Begriepe wie de site gebroek weurt zoedat veer 't kinne verbetere.",
+      "- Aan wettelike verplichtinge veldoon.",
+      "Veer verkoupe diene persoonsgegaeves neet."
+     ]
+    },
+    {
+     "t": "4. Betrokke derde partije",
+     "b": [
+      "- Vercel: hosting en 't laote werke van de site.",
+      "- Cloudflare: CDN en beveiliging.",
+      "- Google (Google Analytics 4) en Microsoft (Clarity): statistieke euver 't gebroek van de site.",
+      "- Meta (WhatsApp) en Google (Gmail): es se contact mit os opnumps via de WhatsApp- of e-maillinks op dees site.",
+      "- Leverancier van wisselkoerse: ontvaengk allein koersaanvraoge van os server, gein gegaeves van bezoekers.",
+      "Dees leveranciers kinne gegaeves boete Indonesië verwerke volges hun eige beleid."
+     ]
+    },
+    {
+     "t": "5. Hoelang gegaeves bewaard waere",
+     "b": [
+      "Gesprekke en projekmateriaal waere bewaard zoelang es noedig is um 't deens te laote werke, ondersteuning te biede en aan wettelike verplichtinge te veldoon, daonao waere ze gewis of geanonimiseerd. Analysegegaeves volge de bewaarinstellinge van hun leverancier. Gegaeves in diene browser blieve totdats se ze wis."
+     ]
+    },
+    {
+     "t": "6. Diene rechte",
+     "b": [
+      "Op grond van de Indonesische Wet nr. 27 van 2022 euver de bescherming van persoonsgegaeves höbs se 't recht um:",
+      "- te weite en 'n kopie te kriege van de persoonsgegaeves die veer euver diech höbbe;",
+      "- te vraoge dat onjuiste gegaeves gecorrigeerd waere;",
+      "- te vraoge dat diene gegaeves gewis waere of diene toestumming in te trekke;",
+      "- bezwaar te make taege bepaalde verwerking.",
+      "Stjuur diene aanvraog nao nocodingindonesia@gmail.com. Veer beantjwoorde die binne 'n redelike term."
+     ]
+    },
+    {
+     "t": "7. Beveiliging en kinjer",
+     "b": [
+      "Dees site gebroek HTTPS en toegaank tot projekgegaeves is beperk. Gein enkele maneer um gegaeves te versjikke of op te slaon is helemaol zonder risico, dus veer kinne gein absolute beveiliging garandere.",
+      "Os deenste zeen bedoeld veur luuj van 18 jaor en oawer. Veer verzamele nit bewus persoonsgegaeves van kinjer."
+     ]
+    },
+    {
+     "t": "8. Wijzigingen in dit beleid",
+     "b": [
+      "Dit beleid kin van tied tot tied bijgewerkt waere. De datum van de laatste bijwerking steit baove aan de pagina. As de taale in betekenis verschille, geldt de Indonesische versie."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Algemene voorwaarde",
+   "description": "De regels veur 't gebroek van de Nocoding-site en -deenste: pakketten, prieze, wie 't werk gedoon weurt, intellectueel eigendom en aansjprakelikheidsbeperkinge.",
+   "sections": [
+    {
+     "t": "1. Akkoord mit dees voorwaarde",
+     "b": [
+      "Door dees site te opene of gebroek te make van de deenste van Nocoding, gaos se akkoord mit dees algemene voorwaarde. As se neet akkoord gaos, gebroek dan os site of deenste neet."
+     ]
+    },
+    {
+     "t": "2. De deenste",
+     "b": [
+      "Nocoding bouwt portfolio- of cv-websites, landingspagina's en bedrijfsprofiele, informatie- en bedrijfssystemen, en automatisering van bedrijfsprocesse. De omvang van 't werk, de functies, de planning en de koste waere veurdat 't werk begint mit diech afgesprauke via WhatsApp of e-mail.",
+      "Advies is altied gratis, wannieer se 't ouch neudig höbs, en verplig diech neet um iets te besjtelle."
+     ]
+    },
+    {
+     "t": "3. Pakketten en prieze",
+     "b": [
+      "- Klein pakket: vanaaf Rp 500.000 per jaor, inclusief gratis ongerhoud en 'n domein veur 1 jaor.",
+      "- Groet pakket: vanaaf Rp 2.000.000 per jaor, inclusief gratis ongerhoud en hosting veur 1 jaor.",
+      "De prieze op de site zeen vanaafprieze. 't Eindbedrag weurt nao 'n gesjpraek afgesprauke, op basis van diene behoeftes. Veur bezoekers boete Indonesië waere prieze in de lokale munteenheid getuind es sjatting op basis van de daagelikse wisselkoers; 't bedrag in roepia dat veer afspreke is 't bedrag dat geldt. Extra koste, zoeas bijkomende functies of verlenging nao 't aafloupe van de gratis periode, waere diech meegedeild veurdat 't werk gedoon weurt."
+     ]
+    },
+    {
+     "t": "4. Wie 't werk gedoon weurt en diene verantjwoordelikheje",
+     "b": [
+      "'t Ontwerp weurt mit diech bekeke en goedgekäörd veur de productie. Aanpassinge waere gedoon wie afgesprauke.",
+      "Se zeen verantjwoordelik veur 't tiedig aanlevere van materiaal (logo, tekst, foto's, gegaeves) en veur 't hawwe van 't recht um 't te gebroeke. Vertraging in materiaal of feedback kin de planning beïnvloede."
+     ]
+    },
+    {
+     "t": "5. Ongerhoud",
+     "b": [
+      "Gratis ongerhoud veur 1 jaor umvat 't herstelle van fäöl in os werk en basisbeveiligingsupdates. Nuuj functies, groete ontwerpwijzigingen en werk boete de oorspronkelike afspraak waere apart in rekening gebrach."
+     ]
+    },
+    {
+     "t": "6. Intellectueel eigendom",
+     "b": [
+      "'t Materiaal dat se aanlevers blijf van diech. 't Aafgemaakde werk weurt aan diech euvergedreage zoebaer de betaling zoewie afgesprauke volledig is. Nocoding mag leef werk es veurbeeld toene in zien portfolio, tenzij se sjriftelik vraogs 't neet te toene.",
+      "'t Ontwerp, de teksten en de artikele op nocoding.web.id höre bij Nocoding. Se mogs links dernao deile, mer se mogs 't neet zonder toestumming kopieëre en commercieel gebroeke. Artikelfoto's kome van Unsplash en volge de licentie dervan; de bron weurt ónger elke foto vermeld."
+     ]
+    },
+    {
+     "t": "7. Taale van de site",
+     "b": [
+      "Dees site is in väöl taale besjikbaar. Vertalinge, zeker veur taale mit minder sjprekers, zeen meugelik neet perfek. As ze in betekenis verschille, geldt de Indonesische versie. Dees juridische pagina's zeen besjikbaar in 't Indonesisch en 't Ingels."
+     ]
+    },
+    {
+     "t": "8. Beperking van aansjprakelikheid",
+     "b": [
+      "Veer waerke aan good resultaat, mer veer beloave gein specifieke zakelike resultate zoeas zoekmachineposities, bezoekersaantalle of verkoup. Veer zeen neet verantjwoordelik veur storinge door derde partije zoeas hosting-, domein- of betaalleveranciers, of veur indirekte sjaje.",
+      "Os aansjprakelikheid veur 'n deens is beperk tot 't bedrag dat se veur dat deens höbs betaald, veur zoever de wet dat toestuit. Dit besjnijdt gein rechte die se höbs en die door de wet beschermd zeen."
+     ]
+    },
+    {
+     "t": "9. Toepasselik recht",
+     "b": [
+      "Op dees voorwaarde is 't recht van de Republiek Indonesië van toepassing. As 'n gesjil ontstit, probere veer 't eerst door euverleg op te losse. As gein euvereinkoms bereik weurt, weurt 't gesjil besleech door de bevoegde rechtbanke in Indonesië."
+     ]
+    },
+    {
+     "t": "10. Wijzigingen en contact",
+     "b": [
+      "Dees voorwaarde kinne van tied tot tied bijgewerkt waere; de datum van de laatste bijwerking steit baove aan de pagina. Vraoge kinne gestjuurd waere nao nocodingindonesia@gmail.com of via WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Cookiebeleid",
+   "description": "De cookies en lokale opslag die de Nocoding-site gebroek, woeveur ze zeen en wie se ze kins beheere.",
+   "sections": [
+    {
+     "t": "1. Wat cookies zeen",
+     "b": [
+      "Cookies zeen kleine bestenj die 'n site in diene browser opslaat. Lokale opslag en sessieopslag werke op 'n gelieke maneer, mer waere neet automatisch nao 'n server versjik. Op dees pagina neume veer ze allemaol cookies."
+     ]
+    },
+    {
+     "t": "2. Wat de site neudig höb um te werke",
+     "b": [
+      "Opgeslage in diene browser en neet versjik nao os servers:",
+      "- nocoding-language en nocoding-language-set: de taal die se höbs gekaoze of die in diene browser is gedetecteerd.",
+      "- nocoding-pricing (sessie): de gesjatte munteenheid en koers, zoedat prieze neet op elke pagina opnuuj berekend waere.",
+      "- Artikelmarkeringe: of se 'n artikel al höbs geliked, bekeke of gedeild, zoedat aantalle neet dubbel getäöld waere.",
+      "- 'n Tiedelike markering van de scrollpositie es se tösse ongerdeile van de site gaos."
+     ]
+    },
+    {
+     "t": "3. Analyse",
+     "b": [
+      "Es ingesjakeld waere twee analysedeenste gelaje nao dat se mit de pagina bezig bös (scrolle, tikke of 'n toets indrukke):",
+      "- Google Analytics 4 (cookies zoeas _ga en _ga_*, geldig tot zoe'n 2 jaor): bezeuksstatistieke.",
+      "- Microsoft Clarity (cookies zoeas _clck, _clsk, CLID en MUID, geldig tot zoe'n 1 jaor): heatmaps en anonieme opnames van interactie.",
+      "CDN- en beveiligingsleveranciers kinne ouch technische cookies pleatse um de site te beskermme taege sjadelik verkeer."
+     ]
+    },
+    {
+     "t": "4. Wie se cookies beheers",
+     "b": [
+      "Se kins cookies wisse of blokkere in de instellinge van diene browser. Se kins ouch de officiële opt-out-add-on van Google veur Google Analytics installere. As analysecookies geblokkeerd zeen, blijf de site werke; as de lokale opslag gewis weurt, geit diene taalkeuze trök nao de standaard."
+     ]
+    },
+    {
+     "t": "5. Vraoge",
+     "b": [
+      "Veur vraoge euver dit beleid kins se contact opnumme mit nocodingindonesia@gmail.com. Wie persoonsgegaeves gebroek waere weurt vaerder oetgelag in 't Privacybeleid. As de taale in betekenis verschille, geldt de Indonesische versie."
+     ]
+    }
+   ]
+  }
+ }
+}

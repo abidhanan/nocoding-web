@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Vyasinthika kuyambira nyengo yakumaliriya",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Ndondomeko ya Chisisi",
+   "description": "Vyakumanya ivyo Nocoding yikutora, ivyo yikuvigwiriskira nchito, ŵakuvigwiriska nchito, na ukaboni wenu pa vyakumanya vyinu vya pachekha.",
+   "sections": [
+    {
+     "t": "1. Ise ndise njani",
+     "b": [
+      "Nocoding (nocoding.web.id) ni nchito ya webusayiti, apu, dongosolo la vyakumanya na kuchita vinthu mwaŵene yiyo yikulongozgeka na Abid Hanan Wicaksono mu Indonesia. Ndondomeko iyi yikutowoka umo tikuchitira na vyakumanya vyinu vya pachekha para mwafika pa sayiti iyi panji kuyanjana nafwe.",
+      "Mafumbo ghakukwaniskana na ndondomeko iyi ghakwenera kutumizgika ku nocodingindonesia@gmail.com panji ku WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Vyakumanya ivyo tikutora",
+     "b": [
+      "- Vyakumanya ivyo mukutipa: zina linu, nambala ya WhatsApp, imelo na kuwoneska kwa pulojekiti yinu para mukuyanjana nafwe pa WhatsApp panji imelo. Sayiti iyi yilije maakaunti gha ŵakugwiriska nchito panji mafomu ghakulembetera.",
+      "- Vyakumanya vya unthenga ivyo vikuchitika mwaŵene: adiresi ya IP, mtundu wa chipangizo na wa brauza, na mapeji agho mukuzgura. Ŵakutipa hosting na CDN ŵakuvigwiriska nchito kuti ŵapereke sayiti na kuilinda ku ukhumba wabiha.",
+      "- Charu cha pafupi: kuti mitengo yiwoneke mu ndalama zinu, charu chinu chikuyeruzgika kwa vyakumanya vya CDN panji mazgu gha brauza yinu. Tikuchisunga yayi pa maseva ghithu.",
+      "- Vyakumanya vya analitiki: Google Analytics 4 na Microsoft Clarity (para vyawuskika) vikutora manambala gha kugwiriska nchito nga mapeji ghazgulika, utali wa ulendo, mtundu wa chipangizo na ma rekodi gha kuyanjana ghakuti zina lisikumanyikwa. Vikuwuskika pamwenga para mwayanjana na peji.",
+      "- Chisungiro cha brauza: kusankha kwinu mazgu, vimanyikwiro vyakuti mwakonda kale, mwawona kale panji mwagawana nkhani, na kuyerezga mtengo kwa kanyengo. Vyakumanya vikuru viri mu Ndondomeko ya Makuki.",
+      "- Manambala gha kuwona, kukonda na kugawana nkhani ghakusungika nga manambala ghakuphatikizgika, kwambula zina la ŵaluta."
+     ]
+    },
+    {
+     "t": "3. Vyakumanya vikugwiriskika kuchitiskira vichi",
+     "b": [
+      "- Kuyanjura mafumbo ghinu, kukonzekera mitengo na kuchita pulojekiti yinu.",
+      "- Kupereka, kulinda na kusunga sayiti kuti yiyende mwaluŵiro.",
+      "- Kumanya umo sayiti yikugwiriskika kuti tiyikonkhe.",
+      "- Kukwaniska ndondomeko za dango.",
+      "Tikuŵika yayi vyakumanya vyinu vya pachekha."
+     ]
+    },
+    {
+     "t": "4. Ŵanji ŵakuzirwa",
+     "b": [
+      "- Vercel: kusunga na kupereka sayiti.",
+      "- Cloudflare: CDN na chitchinjizo.",
+      "- Google (Google Analytics 4) na Microsoft (Clarity): manambala gha kugwiriska nchito sayiti.",
+      "- Meta (WhatsApp) na Google (Gmail): para mukuyanjana nafwe pa maulalo gha WhatsApp panji imelo pa sayiti iyi.",
+      "- Mupereki wa mtengo wa ndalama: wakutola fumbo la mtengo pe lingaŵa ku seva yithu, vyakumanya vya ŵaluta yayi.",
+      "Ŵakutipa aŵa ŵangagwiriska nchito vyakumanya kuwa kwa Indonesia kwakukonkha ndondomeko zawo."
+     ]
+    },
+    {
+     "t": "5. Vyakumanya vikusungika nyengo yitali wuli",
+     "b": [
+      "Mazgu na vikozgo vya pulojekiti vikusungika nyengo yose yakwenerera kuchitira nchito, kupereka cithandizo na kukwaniska ndondomeko za dango, panyuma vikusuzgika panji vikuchitika kuti zina lisimanyikwe. Vyakumanya vya analitiki vikukonkha ndondomeko za kusunga za mupereki wawo. Vyakumanya vya mu brauza yinu vikugona mpaka mwavisuzga."
+     ]
+    },
+    {
+     "t": "6. Ukaboni winu",
+     "b": [
+      "Pasi pa Dango la Indonesia Nambala 27 la mu 2022 pa Kuteteza Vyakumanya vya Pachekha, muli na ukaboni wa:",
+      "- kumanya na kutora kopi ya vyakumanya vyinu vya pachekha ivyo tili navyo;",
+      "- kupempha kuti vyakumanya vyakusalira vikonzgeke;",
+      "- kupempha kuti vyakumanya vyinu vikuruzgike panji kutora kwamba chilolezo chinu;",
+      "- kukana kuchitika kwa vyakumanya kwakunyake.",
+      "Tumizgani chikhumbo chinu ku nocodingindonesia@gmail.com. Tizamuyanjura mu nyengo yakwenerera."
+     ]
+    },
+    {
+     "t": "7. Chitchinjizo na ŵana",
+     "b": [
+      "Sayiti iyi yikugwiriska nchito HTTPS ndipo kupeza vyakumanya vya pulojekiti kukukanizgika. Palije nthowa yakutumizgira panji yakusungira vyakumanya yambula ngozi yose, kwambula ico tikukwaniska yayi kulayizga chitchinjizo chakukwana.",
+      "Nchito zithu ni za ŵanthu ŵa vyaka 18 na kuluska. Tikutora yayi vyakumanya vya pachekha vya ŵana kwa kumanya."
+     ]
+    },
+    {
+     "t": "8. Kusintha kwa ndondomeko iyi",
+     "b": [
+      "Ndondomeko iyi yingasinthika nyengo na nyengo. Zuŵa la kusintha kwa kumaliriya likuwoneka pachanya pa peji. Para mazgu ghalekanira mu mazgu, mazgu gha Indonesia ghakugwira nchito."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Malango na Mitheto",
+   "description": "Malango ghakugwiriskira nchito sayiti na nchito za Nocoding: mapaketi, mitengo, umo nchito yikuchitikira, chuma cha maghanoghano na malire gha uteŵeti.",
+   "sections": [
+    {
+     "t": "1. Kutora malango agha",
+     "b": [
+      "Mwakuzgura sayiti iyi panji kugwiriska nchito nchito za Nocoding, mukuvwirana na malango na mitheto iyi. Usange mukuvwirana yayi, chonde mungagwiriske nchito sayiti yithu panji nchito zithu."
+     ]
+    },
+    {
+     "t": "2. Nchito",
+     "b": [
+      "Nocoding yikupanga mawebusayiti gha portfolio panji CV, mapeji gha landing na mbiri za kampani, madongosolo gha vyakumanya na nchito, na kuchita nchito za bizinesi mwaŵene. Unandi wa nchito, vinthu vyakuzirwa, nyengo na mtengo vikuvwirizgika namwe pa WhatsApp panji imelo nchito yinandi kuyamba.",
+      "Kuphalirana kuli nyengo yose kwa waka, nyengo iyo mukuyifuna, ndipo kukukhwaska yayi kuti mulaye."
+     ]
+    },
+    {
+     "t": "3. Mapaketi na mitengo",
+     "b": [
+      "- Paketi yichoko: kutoleka pa Rp 500.000 pa chaka, pamwenga na kusamalira kwa waka na domeni kwa chaka 1.",
+      "- Paketi yikuru: kutoleka pa Rp 2.000.000 pa chaka, pamwenga na kusamalira kwa waka na hosting kwa chaka 1.",
+      "Mitengo yili pa sayiti ni mitengo yakwamba. Mtengo wakumaliriya ukuvwirizgika panyuma pa kuphalirana, kuyana na vyo mukufuna. Kwa ŵaluta ŵakuwa kwa Indonesia, mitengo yikuwonekera mu ndalama za charu nga kuyerezga kuyana na mtengo wa zuŵa lililose wa kusinthana ndalama; mtengo wa rupiya uwo tikuvwirana ndiwo ukugwira nchito. Mitengo yinyake, nga vinthu vyakuwonjezgapo panji kuvuskizga panyuma pa nyengo ya waka kumala, mukuphalirika nchito yinandi kuchitika."
+     ]
+    },
+    {
+     "t": "4. Umo nchito yikuchitikira na uteŵeti winu",
+     "b": [
+      "Kapangidwe kakuwonekeka na kuvwirizgika namwe nchito yinandi kuchitika. Kukonzgeka kukuchitika nga umo tavwirana.",
+      "Muli na uteŵeti wakupereka vikozgo (logo, mazgu, mafotokopi, vyakumanya) pa nyengo na kuŵa na ukaboni wakuvigwiriska nchito. Kuchedwa kwa vikozgo panji maganizo kungakhwaska nyengo."
+     ]
+    },
+    {
+     "t": "5. Kusamalira",
+     "b": [
+      "Kusamalira kwa waka kwa chaka 1 kukukhwaska kukonza vyakusalira mu nchito yithu na kuvuskizga chitchinjizo cha pasi. Vinthu vyakuwonjezgapo, kusintha kukuru kwa kapangidwe na nchito yakuwa kwa chivwirizano chakwamba vikulipiska payekha."
+     ]
+    },
+    {
+     "t": "6. Chuma cha maghanoghano",
+     "b": [
+      "Vikozgo ivyo mukupereka vikugona nga vinu. Nchito yamaliza yikupasika kwa imwe para malipiro nga umo tavwirana ghamala. Nocoding yingawonesa nchito zamaliza nga vilongozgero mu portfolio yake, kupatula usange mwapempha mwakulemba kuti yileke kuwonesa.",
+      "Kapangidwe, mazgu na nkhani pa nocoding.web.id ni za Nocoding. Mungagawana maulalo gha vyo, kweni mungakopa na kuvigwiriska nchito pa bizinesi kwambula chilolezo yayi. Mafotokopi gha nkhani ghakufuma ku Unsplash ndipo ghakukonkha layisensi yake; gwero likulembeka pasi pa fotokopi yilijose."
+     ]
+    },
+    {
+     "t": "7. Mazgu gha sayiti",
+     "b": [
+      "Sayiti iyi yili mu mazgu ghinandi. Vyakuvwunulira, chomene mu mazgu ghakuyowoyeka na ŵanthu ŵachoko, vingaŵa yayi vyakwenera chomene. Para vyalekana mu mazgu, mazgu gha Indonesia ghakugwira nchito. Mapeji agha gha dango ghali mu Chindonesia na Chingelezi."
+     ]
+    },
+    {
+     "t": "8. Malire gha uteŵeti",
+     "b": [
+      "Tikuchita nchito kuti tipereke vyakukhumbika, kweni tikulayizga yayi vyakuchitika vinyake vya bizinesi nga malo mu kusaka, unandi wa ŵaluta panji kugulisa. Tikuŵa na uteŵeti yayi pa vyakuzunzika vyakufuma kwa ŵanji nga ŵakupereka hosting, domeni panji malipiro, panji pa vyakuluza vyakuwa mwakukhwaska yayi.",
+      "Uteŵeti withu pa nchito yimoza ukukanizgika ku mtengo uwo mwalipira pa nchito iyo, nga umo dango likuvwirira. Ici chikuchepetsa yayi ukaboni winu uwo dango likuteteza."
+     ]
+    },
+    {
+     "t": "9. Dango likugwira nchito",
+     "b": [
+      "Malango agha ghakuwongozgeka na ma dango gha Republic of Indonesia. Usange mphindano yabuka, tikuyezga kwambaha kuyisazgira mwakuphalirana. Usange chivwirizano chinelekwa yayi, mphindano yikusazgika na makhoti ghakwenera mu Indonesia."
+     ]
+    },
+    {
+     "t": "10. Kusintha na kuyanjana",
+     "b": [
+      "Malango agha ghangasinthika nyengo na nyengo; zuŵa la kusintha kwa kumaliriya likuwoneka pachanya pa peji. Mafumbo ghangatumizgika ku nocodingindonesia@gmail.com panji ku WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Ndondomeko ya Makuki",
+   "description": "Makuki na chisungiro cha pa chipangizo icho sayiti ya Nocoding yikugwiriska nchito, ivyo vikuchitira, na umo mungavikonzera.",
+   "sections": [
+    {
+     "t": "1. Makuki ni vichi",
+     "b": [
+      "Makuki ni mafayilo ghachoko agho sayiti yikusunga mu brauza yinu. Chisungiro cha pa chipangizo na chisungiro cha sesheni vikugwira nchito mwakuyana kweni vikutumizgika yayi ku seva mwaŵene. Pa peji iyi tikuvitcha vyose makuki."
+     ]
+    },
+    {
+     "t": "2. Vyo sayiti yikukhumba kuti yigwire nchito",
+     "b": [
+      "Vikusungika mu brauza yinu ndipo vikutumizgika yayi ku maseva ghithu:",
+      "- nocoding-language na nocoding-language-set: mazgu agho mwasankha panji ghakuzgoka mu brauza yinu.",
+      "- nocoding-pricing (sesheni): ndalama na mtengo wakuyerezgeka, kuti mitengo yileke kuŵazgika kaviri pa peji yilijose.",
+      "- Vimanyikwiro vya nkhani: usange mwakonda kale, mwawona kale panji mwagawana nkhani, kuti manambala ghaleke kuŵa kaviri.",
+      "- Chimanyikwiro cha kanyengo cha malo gha kusunthira para mukuluta kuruta pa fundo zinyake za sayiti."
+     ]
+    },
+    {
+     "t": "3. Analitiki",
+     "b": [
+      "Para vyawuskika, nchito ziwiri za analitiki zikuwuskika panyuma pa kuyanjana na peji (kusunthira, kukhumudza panji kukanda kiyi):",
+      "- Google Analytics 4 (makuki nga _ga na _ga_*, ghakugwira nchito mpaka vyaka 2 pafupifupi): manambala gha ulendo.",
+      "- Microsoft Clarity (makuki nga _clck, _clsk, CLID na MUID, ghakugwira nchito mpaka chaka 1 pafupifupi): mapu gha kutentha na ma rekodi gha kuyanjana ghakuti zina lisikumanyikwa.",
+      "Ŵakupereka CDN na chitchinjizo nawo ŵangaŵika makuki gha unthenga kuti ŵalinde sayiti ku ntrafiki yabiha."
+     ]
+    },
+    {
+     "t": "4. Umo mungavikonzera makuki",
+     "b": [
+      "Mungasuzga panji kukanizga makuki mu masinthidwe gha brauza yinu. Mungaikiraso chiwonjezgero chakwamba cha Google chakuleka Google Analytics. Usange makuki gha analitiki ghakanizgika, sayiti yikugwira nchito; usange chisungiro cha pa chipangizo chaswazgika, kusankha kwinu mazgu kukuwerera ku vya kwamba."
+     ]
+    },
+    {
+     "t": "5. Mafumbo",
+     "b": [
+      "Pa mafumbo gha ndondomeko iyi, yanjanani na nocodingindonesia@gmail.com. Umo vyakumanya vya pachekha vikugwiriskira nchito vikuwonekeska chomene mu Ndondomeko ya Chisisi. Para mazgu ghalekanira mu mazgu, mazgu gha Indonesia ghakugwira nchito."
+     ]
+    }
+   ]
+  }
+ }
+}

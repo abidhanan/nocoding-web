@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Huling na-update",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Patakaran sa Privacy",
+   "description": "Kun anong datos an kinukua nin Nocoding, kun ano an gamit kaini, kun sain an nagproseso kaini, asin an mga karapatan nindo sa saindong personal na datos.",
+   "sections": [
+    {
+     "t": "1. Siisay kami",
+     "b": [
+      "An Nocoding (nocoding.web.id) iyo an serbisyo para sa website, app, information system asin automation na pinapatakbo ni Abid Hanan Wicaksono sa Indonesia. Ipinapaliwanag kan patakarang ini kun paano mi inaasikaso an saindong personal na datos kun binibisita nindo an site na ini o nakikipag-ugnayan kamo samuya.",
+      "An mga tanong manongod sa patakarang ini pwedeng ipadara sa nocodingindonesia@gmail.com o sa WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. An datos na kinukua mi",
+     "b": [
+      "- Datos na ibinibigay nindo samuya: an ngaran nindo, numero sa WhatsApp, email, asin paglaladawan kan proyekto nindo kun nakikipag-ugnayan kamo samuya sa WhatsApp o email. Dae igwa nin user account o sign-up form an site na ini.",
+      "- Teknikal na datos na automatikong pinoproseso: IP address, klase kan device asin browser, asin an mga pahina na binubuksan nindo. Pinoproseso ini kan samong hosting asin CDN provider tanganing mapaserbi an site asin maprotektahan ini sa pag-abuso.",
+      "- Tantyadong nasyon: tanganing maipakita an mga presyo sa saindong salapi, an nasyon nindo tinatantya gikan sa impormasyon kan CDN o sa lenguahe kan browser nindo. Dae mi ini iniimbak sa samong mga server.",
+      "- Analytics na datos: an Google Analytics 4 asin Microsoft Clarity (kun nakabukas) nagkukua nin estadistika sa paggamit arog nin mga pahinang binuksan, haba nin pagbisita, klase nin device, asin anonymous na mga rekording nin interaksyon. Nagkakarga sana ini pagkatapos nindo makipag-interact sa pahina.",
+      "- Browser storage: an pinili nindong lenguahe, mga marka na nag-like, nakabasa, o nagbahagi na kamo nin artikulo, asin sarong temporaryong tantya kan presyo. An mga detalye yaon sa Patakaran sa Cookie.",
+      "- An bilang nin view, like, asin pagbahagi kan artikulo iniimbak bilang pinagsamang mga numero, na mayong pagkakilala sa bisita."
+     ]
+    },
+    {
+     "t": "3. Para sa ano ginagamit an datos",
+     "b": [
+      "- Pagsimbag sa mga tanong nindo, pag-andam nin mga quote, asin pagtapos kan proyekto nindo.",
+      "- Pagpaserbi, pagprotekta, asin pagpapabilis kan site.",
+      "- Pag-intindi kun paano ginagamit an site tanganing mapabutan mi ini.",
+      "- Pagtupad sa mga obligasyon sa ley.",
+      "Dae mi ibinibenta an saindong personal na datos."
+     ]
+    },
+    {
+     "t": "4. An mga ikatlong partido na may kaiba",
+     "b": [
+      "- Vercel: hosting asin pagpaserbi kan site.",
+      "- Cloudflare: CDN asin seguridad.",
+      "- Google (Google Analytics 4) asin Microsoft (Clarity): estadistika sa paggamit kan site.",
+      "- Meta (WhatsApp) asin Google (Gmail): kun nakikipag-ugnayan kamo samuya paagi sa mga link sa WhatsApp o email sa site na ini.",
+      "- Provider nin currency rate: nakakahawak sana nin mga hapot para sa rate gikan sa samong server, dae nin datos kan mga bisita.",
+      "Posibleng prosesohon kan mga provider na ini an datos sa laog kan Indonesia sunod sa saindang sadiri na mga patakaran."
+     ]
+    },
+    {
+     "t": "5. Gurano kahaba iniimbak an datos",
+     "b": [
+      "An mga pag-olay asin materyales kan proyekto iniimbak sagkod sa kinakaipuhan tanganing mapatakbo an serbisyo, makapagtao nin suporta, asin matupad an mga obligasyon sa ley, dangan pinupura o ginigibong anonymous. An analytics na datos sinusunod an retention settings kan provider kaini. An datos sa browser nindo nagdadaan sagkod na pupuraon nindo ini."
+     ]
+    },
+    {
+     "t": "6. An mga karapatan nindo",
+     "b": [
+      "Sa irarom kan Law No. 27 of 2022 kan Indonesia manongod sa Proteksyon nin Personal na Datos (Nomor 27 Tahun 2022), igwa kamo nin karapatan na:",
+      "- aramon asin makakua nin kopya kan personal na datos na hawak mi manongod saindo;",
+      "- mag-akay na bakuron an salang datos;",
+      "- mag-akay na pupuraon an datos nindo o bawion an pagsabot nindo;",
+      "- mag-object sa pagproseso na sarong klase.",
+      "Ipadara an hapot nindo sa nocodingindonesia@gmail.com. Sasimbagon mi ini sa maginhawang oras."
+     ]
+    },
+    {
+     "t": "7. Seguridad asin mga aki",
+     "b": [
+      "An site na ini naggagamit nin HTTPS asin limitado an pag-access sa datos kan proyekto. Mayo nin paagi nin pagpadara o pag-imbak nin datos na lubos na mayong peligro, kaya dae mi garantisadong lubos an seguridad.",
+      "An samong mga serbisyo para sa mga tawong 18 anyos pataas. Dae mi sinasadyang nagkukua nin personal na datos kan mga aki."
+     ]
+    },
+    {
+     "t": "8. Mga pagbabago sa patakarang ini",
+     "b": [
+      "Posibleng i-update an patakarang ini paminsan-minsan. An petsa kan huling update ipinapakita sa ibaba kan pahina. Kun nagkakaiba an kahulogan kan mga lenguahe, an bersyon sa Indonesian an masusunod."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Mga Termino asin Kondisyon",
+   "description": "An mga patakaran sa paggamit kan site asin mga serbisyo kan Nocoding: mga package, presyo, kun paano ginigibo an trabaho, intelektwal na propiedad, asin mga limitasyon kan responsibilidad.",
+   "sections": [
+    {
+     "t": "1. Pag-ako kaining mga termino",
+     "b": [
+      "Sa pagbukas kan site na ini o paggamit kan mga serbisyo kan Nocoding, nagsasabot kamo sa mga terminong ini. Kun dae kamo nagsasabot, pakiusap na dai gamiton an samong site o mga serbisyo."
+     ]
+    },
+    {
+     "t": "2. An mga serbisyo",
+     "b": [
+      "Naggigibo an Nocoding nin mga portfolio o CV website, landing page asin company profile, mga information asin operations system, asin automation nin proseso sa negosyo. An sakop nin trabaho, mga feature, iskedyul asin gastos pinagkakasunduan kaiba nindo sa WhatsApp o email bago magpoon an trabaho.",
+      "Libre palagi an konsultasyon, kun kaipuhan nindo, asin dae kamo obligado na mag-order."
+     ]
+    },
+    {
+     "t": "3. Mga package asin presyo",
+     "b": [
+      "- Sadit na package: poon sa Rp 500.000 kada taon, kabali an libreng maintenance asin domain para sa 1 taon.",
+      "- Dakulang package: poon sa Rp 2.000.000 kada taon, kabali an libreng maintenance asin hosting para sa 1 taon.",
+      "An mga presyo sa site iyo an panimulang presyo. An huling halaga pinagkakasunduan pagkatapos nin konsultasyon, base sa mga kaipuhan nindo. Para sa mga bisita sa luwas kan Indonesia, an mga presyo ipinapakita sa lokal na salapi bilang tantya base sa aldaw-aldaw na exchange rate; an halaga sa rupiah na pinagkasunduan mi an masusunod. An mga dagdag na gastos, arog nin dagdag na feature o pagbago pagkatapos kan libreng panahon, ipinapaaram saindo bago ginigibo an trabaho."
+     ]
+    },
+    {
+     "t": "4. Kun paano ginigibo an trabaho asin an mga responsibilidad nindo",
+     "b": [
+      "An disenyo sinusulyapan asin inaprobaran kaiba nindo bago an produksyon. An mga rebisyon ginigibo sunod sa pinagkasunduan.",
+      "Responsibilidad nindo an pagtao nin mga materyales (logo, teksto, litrato, datos) sa tamang oras asin an pagigin igwa nin karapatan na gamiton ini. An pag-atraso nin mga materyales o feedback puwedeng makaapektar sa iskedyul."
+     ]
+    },
+    {
+     "t": "5. Maintenance",
+     "b": [
+      "An libreng maintenance sa 1 taon kabali an pagbakod nin mga sala sa samong trabaho asin batayan na security update. An mga bagong feature, dakulang pagbabago sa disenyo, asin trabaho sa luwas kan orihinal na kasunduan sinisingil nin lain."
+     ]
+    },
+    {
+     "t": "6. Intelektwal na propiedad",
+     "b": [
+      "An mga materyales na itinatao nindo nagdadaan na saindo. An tapos na trabaho ipinapasa saindo kun kumpleto na an bayad sunod sa pinagkasunduan. Puwedeng ipakita kan Nocoding an mga buhay na trabaho bilang halimbawa sa portfolio kaini, luwas na kun humiling kamo nin nakasurat na dai ini ipakita.",
+      "An disenyo, teksto, asin mga artikulo sa nocoding.web.id sa Nocoding. Puwede nindong ibahagi an mga link kaini, pero dae puwedeng kopyahon asin gamiton para sa komersyo kun mayong pahintulot. An mga litrato kan artikulo gikan sa Unsplash asin sinusunod an lisensya kaini; an pinagkuhaan ipinapakita sa irarom kan kada litrato."
+     ]
+    },
+    {
+     "t": "7. Mga lenguahe kan site",
+     "b": [
+      "Available an site na ini sa dakulang mga lenguahe. An mga traduksyon, lalo na sa mga lenguahe na mas sadit an nagtataram, puwedeng dae perpekto. Kun nagkakaiba an kahulogan, an bersyon sa Indonesian an masusunod. An mga legal na pahinang ini available sa Indonesian asin English."
+     ]
+    },
+    {
+     "t": "8. Mga limitasyon kan responsibilidad",
+     "b": [
+      "Nagtatrabaho kami tanganing makapagtao nin marahay na resulta, pero dae kami nangangako nin partikular na resulta sa negosyo arog nin ranggo sa search, bilang nin bisita, o mga benta. Dae kami responsable sa mga abala gikan sa mga ikatlong partido arog nin hosting, domain, o payment provider, o sa mga di-tuwirang pagkawara.",
+      "An responsibilidad mi sa sarong serbisyo limitado sa halagang binayadan nindo para sa serbisyong iyan, sagkod sa pinapayagan kan ley. Dae ini nagbabawas sa mga karapatan nindo na protektado kan ley."
+     ]
+    },
+    {
+     "t": "9. Namamahalang ley",
+     "b": [
+      "An mga terminong ini pinamamahalaan kan mga ley kan Republika kan Indonesia. Kun igwang lumalataw na alitan, sinusubukan mi muna na lutasan ini paagi sa pag-olay. Kun mayo nin kasunduan, an alitan nilulutas kan mga may kapangyarihan na korte sa Indonesia."
+     ]
+    },
+    {
+     "t": "10. Mga pagbabago asin kontak",
+     "b": [
+      "Posibleng i-update an mga terminong ini paminsan-minsan; an petsa kan huling update ipinapakita sa ibaba kan pahina. An mga tanong pwedeng ipadara sa nocodingindonesia@gmail.com o sa WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Patakaran sa Cookie",
+   "description": "An mga cookie asin local storage na ginagamit kan site kan Nocoding, kun para sa ano ini, asin kun paano ini pamamahalaan.",
+   "sections": [
+    {
+     "t": "1. Ano an mga cookie",
+     "b": [
+      "An mga cookie sadit na mga file na iniimbak kan sarong site sa browser nindo. An local storage asin session storage pareho an paagi nin paggibo pero dae ini automatikong ipinapadara sa server. Sa pahinang ini, cookie an pagtawag mi sa gabos."
+     ]
+    },
+    {
+     "t": "2. An kinakaipuhan kan site tanganing magtrabaho",
+     "b": [
+      "Iniimbak sa browser nindo asin dae ipinapadara sa samong mga server:",
+      "- nocoding-language asin nocoding-language-set: an lenguahe na pinili nindo o nadiskubre gikan sa browser nindo.",
+      "- nocoding-pricing (session): an tantyadong salapi asin rate, tanganing dae na marikta uli an mga presyo sa kada pahina.",
+      "- Mga marka kan artikulo: kun nag-like, nakabasa, o nagbahagi na kamo nin artikulo, tanganing dae madoble an mga bilang.",
+      "- Sarong temporaryong marka kan posisyon nin scroll kun naglilipat-lipat sa mga parte kan site."
+     ]
+    },
+    {
+     "t": "3. Analytics",
+     "b": [
+      "Kun nakabukas, an duwang analytics service nagkakarga pagkatapos nindo makipag-interact sa pahina (mag-scroll, mag-tap o magpindot nin susi):",
+      "- Google Analytics 4 (mga cookie arog nin _ga asin _ga_*, balido sagkod sa mga 2 taon): estadistika kan pagbisita.",
+      "- Microsoft Clarity (mga cookie arog nin _clck, _clsk, CLID asin MUID, balido sagkod sa mga 1 taon): heatmap asin anonymous na mga rekording nin interaksyon.",
+      "An mga provider nin CDN asin seguridad puwede man magtanom nin teknikal na cookie tanganing protektahan an site sa makakapahamak na trapiko."
+     ]
+    },
+    {
+     "t": "4. Kun paano pamamahalaan an mga cookie",
+     "b": [
+      "Puwede nindong pupuraon o hunongon an mga cookie sa settings kan browser nindo. Puwede man kamong mag-install kan opisyal na opt-out add-on kan Google para sa Google Analytics. Kun hinunong an analytics cookie, nagtatrabaho pa man an site; kun nilinig an local storage, nagbabalik an pinili nindong lenguahe sa default."
+     ]
+    },
+    {
+     "t": "5. Mga tanong",
+     "b": [
+      "Para sa mga tanong manongod sa patakarang ini, makipag-ugnayan sa nocodingindonesia@gmail.com. An paggamit kan personal na datos ipinapaliwanag pa sa Patakaran sa Privacy. Kun nagkakaiba an kahulogan kan mga lenguahe, an bersyon sa Indonesian an masusunod."
+     ]
+    }
+   ]
+  }
+ }
+}

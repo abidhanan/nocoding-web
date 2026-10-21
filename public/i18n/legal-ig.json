@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Emelitere ikpeazụ",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Iwu Nzuzo",
+   "description": "Data ndị Nocoding na-anakọta, ihe e ji ha eme, onye na-ahazi ha, na ikike gị n'ihe gbasara data nkeonwe gị.",
+   "sections": [
+    {
+     "t": "1. Ndị anyị bụ",
+     "b": [
+      "Nocoding (nocoding.web.id) bụ ọrụ weebụsaịtị, ngwa, sistemụ ozi na akpaaka nke Abid Hanan Wicaksono na-ejikwa na Indonesia. Iwu a na-akọwa otú anyị si ejikwa data nkeonwe gị mgbe ị gara na saịtị a ma ọ bụ kpọtụrụ anyị.",
+      "Enwere ike izipu ajụjụ gbasara iwu a na nocodingindonesia@gmail.com ma ọ bụ site na WhatsApp na +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data anyị na-anakọta",
+     "b": [
+      "- Data ị nyere anyị: aha gị, nọmba WhatsApp, imeelụ na nkọwa oru gị mgbe ị kpọtụrụ anyị site na WhatsApp ma ọ bụ imeelụ. Saịtị a enweghị akaụntụ ndị ọrụ ma ọ bụ fọm ndebanye aha.",
+      "- Data teknụzụ a na-ahazi na-akpaghị aka: adreesị IP, ụdị ngwaọrụ na ihe nchọgharị, na ibe ndị ị meghere. Ndị na-enye anyị ọrụ nkwado na CDN na-ahazi ha iji jee ozi saịtị ma chebe ya pụọ n'ojiji ọjọọ.",
+      "- Obodo e chere: ka e wee gosi ọnụ ahịa n'ego gị, a na-eche obodo gị site na ozi CDN ma ọ bụ asụsụ ihe nchọgharị gị. Anyị anaghị echekwa ya na sava anyị.",
+      "- Data nyocha: Google Analytics 4 na Microsoft Clarity (mgbe a gbanyere ha) na-anakọta ọnụ ọgụgụ iji ọrụ dị ka ibe ndị a meghere, ogologo ọbịbịa, ụdị ngwaọrụ na ndekọ mmekọrịta enweghị aha. Ha na-ebute naanị mgbe ị metụrụ ibe ahụ aka.",
+      "- Nchekwa n'ihe nchọgharị: nhọrọ asụsụ gị, akara na-egosi na ị mepụtala like, lelee ma ọ bụ kesaa isiokwu, na atụmatụ ọnụ ahịa nwa oge. Nkọwa dị n'Iwu Kuuki.",
+      "- A na-echekwa ọnụ ọgụgụ nlele, like na nkesa nke isiokwu dị ka ọnụ ọgụgụ agbakọtara, na-enweghị njirimara onye ọbịa."
+     ]
+    },
+    {
+     "t": "3. Ihe a na-eji data eme",
+     "b": [
+      "- Ịza ajụjụ gị, ịkwado ọnụ ahịa ndị e kwuru na ịrụ oru gị.",
+      "- Ijere saịtị ozi, ichekwa ya na idowe ya ngwa ngwa.",
+      "- Ịghọta otú e si eji saịtị ka anyị wee meziwanye ya.",
+      "- Imezu ọrụ iwu chọrọ.",
+      "Anyị anaghị ere data nkeonwe gị."
+     ]
+    },
+    {
+     "t": "4. Ndị ọzọ metụtara",
+     "b": [
+      "- Vercel: nkwado na ijere saịtị ozi.",
+      "- Cloudflare: CDN na nchekwa.",
+      "- Google (Google Analytics 4) na Microsoft (Clarity): ọnụ ọgụgụ iji saịtị.",
+      "- Meta (WhatsApp) na Google (Gmail): mgbe ị kpọtụrụ anyị site na njikọ WhatsApp ma ọ bụ imeelụ dị na saịtị a.",
+      "- Onye na-enye ọnụ ahịa mgbanwe ego: naanị na-enweta arịrịọ ọnụ ahịa sitere na sava anyị, ọ bụghị data ndị ọbịa.",
+      "Ndị na-enye ọrụ a nwere ike ịhazi data n'èzí Indonesia dị ka iwu nke ha si dị."
+     ]
+    },
+    {
+     "t": "5. Ogologo oge a na-echekwa data",
+     "b": [
+      "A na-echekwa mkparịta ụka na ihe oru ruo ogologo oge ọ dị mkpa iji na-eme ọrụ ahụ, nye nkwado ma mezuo ọrụ iwu chọrọ, mgbe ahụ ewepụ ma ọ bụ mee ka ha ghara inwe aha. Data nyocha na-agbaso nhazi nchekwa nke onye na-enye ya. Data dị n'ihe nchọgharị gị na-anọgide ruo mgbe ị hichapụrụ ya."
+     ]
+    },
+    {
+     "t": "6. Ikike gị",
+     "b": [
+      "N'okpuru Iwu Indonesia Nke 27 nke Afọ 2022 gbasara Nchedo Data Nkeonwe, ị nwere ikike:",
+      "- ịmara data nkeonwe anyị nwere gbasara gị na inweta ngwa ya;",
+      "- ịrịọ ka e dozie data na-ezighi ezi;",
+      "- ịrịọ ka e hichapụ data gị ma ọ bụ iwepụ nkwenye gị;",
+      "- ịjụ ụfọdụ ahazi.",
+      "Zipu arịrịọ gị na nocodingindonesia@gmail.com. Anyị ga-aza n'oge ezi uche dị na ya."
+     ]
+    },
+    {
+     "t": "7. Nchekwa na ụmụaka",
+     "b": [
+      "Saịtị a na-eji HTTPS na ịbanye na data oru nwere oke. Enweghị ụzọ izipu ma ọ bụ ichekwa data nke na-enweghị ihe ize ndụ kpam kpam, ya mere anyị enweghị ike ịkwa nkwa nchekwa zuru oke.",
+      "A na-ewu ọrụ anyị maka ndị dị afọ 18 na karịa. Anyị anaghị anakọta data nkeonwe nke ụmụaka n'amaghị ama."
+     ]
+    },
+    {
+     "t": "8. Mgbanwe n'iwu a",
+     "b": [
+      "Enwere ike imelite iwu a site n'oge ruo n'oge. A na-egosi ụbọchị mmelite ikpeazụ n'elu ibe ahụ. Ọ bụrụ na asụsụ dị iche n'ihe ha pụtara, nsụgharị Indonesia na-emetụta."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Usoro na Ọnọdụ",
+   "description": "Iwu iji saịtị na ọrụ Nocoding: ngwugwu, ọnụ ahịa, otú a na-arụ ọrụ, ikike ọgụgụ isi na oke ibu ọrụ.",
+   "sections": [
+    {
+     "t": "1. Ikwenye n'usoro ndị a",
+     "b": [
+      "Site n'imepe saịtị a ma ọ bụ iji ọrụ Nocoding, ị kwenyere n'usoro na ọnọdụ ndị a. Ọ bụrụ na ị kwenyeghị, biko ejila saịtị anyị ma ọ bụ ọrụ anyị."
+     ]
+    },
+    {
+     "t": "2. Ọrụ ndị ahụ",
+     "b": [
+      "Nocoding na-ewu weebụsaịtị akwụkwọ ọrụ ma ọ bụ CV, ibe ọbịbịa na nkọwa ụlọ ọrụ, sistemụ ozi na ọrụ, na akpaaka usoro azụmahịa. A na-ekwekọrịta gị na ya gbasara oke ọrụ, atụmatụ, oge nhazi na ọnụ ahịa site na WhatsApp ma ọ bụ imeelụ tupu ọrụ amalite.",
+      "Ndụmọdụ bụ n'efu mgbe niile, oge ọ bụla ị chọrọ ya, ọ dịghịkwa amanye gị ịtụ ọkwa."
+     ]
+    },
+    {
+     "t": "3. Ngwugwu na ọnụ ahịa",
+     "b": [
+      "- Obere ngwugwu: site na Rp 500,000 kwa afọ, gụnyere nlekọta n'efu na ngalaba aha maka afọ 1.",
+      "- Nnukwu ngwugwu: site na Rp 2,000,000 kwa afọ, gụnyere nlekọta n'efu na nkwado maka afọ 1.",
+      "Ọnụ ahịa dị na saịtị bụ ọnụ ahịa mmalite. A na-ekwekọrịta ọnụ ahịa ikpeazụ mgbe ndụmọdụ gasịrị, dabere n'ihe ị chọrọ. Maka ndị ọbịa nọ n'èzí Indonesia, a na-egosi ọnụ ahịa n'ego mpaghara dị ka atụmatụ dabere n'ọnụ ahịa mgbanwe ego kwa ụbọchị; ego rupiah anyị kwekọrịtara bụ nke na-emetụta. A na-agwa gị ọnụ ahịa ndị ọzọ, dị ka atụmatụ ọzọ ma ọ bụ ịkwọghachi mgbe oge n'efu gwụsịrị, tupu e rụọ ọrụ."
+     ]
+    },
+    {
+     "t": "4. Otú a na-arụ ọrụ na ọrụ gị",
+     "b": [
+      "A na-enyocha ma kwenye na ngosipụta tupu emepụta ya. A na-eme mgbanwe dị ka e kwekọrịtara.",
+      "Ọ bụ gị bụ onye ji ọrụ inye ihe oru (akara, ederede, foto, data) n'oge na inwe ikike iji ha. Igbu oge n'ihe oru ma ọ bụ nzaghachi nwere ike imetụta oge nhazi."
+     ]
+    },
+    {
+     "t": "5. Nlekọta",
+     "b": [
+      "Nlekọta n'efu maka afọ 1 gụnyere idozi njehie n'ọrụ anyị na mmelite nchekwa bụ isi. A na-akwụ ụgwọ iche maka atụmatụ ọhụrụ, nnukwu mgbanwe ngosipụta na ọrụ gafere nkwekọrịta mbụ."
+     ]
+    },
+    {
+     "t": "6. Ikike ọgụgụ isi",
+     "b": [
+      "Ihe oru i nyere ka bụ nke gị. A na-enyefe gị ọrụ a kwụsịrị mgbe e mechara ịkwụ ụgwọ dị ka e kwekọrịtara. Nocoding nwere ike igosi ọrụ ndị na-arụ ọrụ dị ka ihe atụ n'akwụkwọ ọrụ ya, belụsọ ma ị rịọ n'ihe edere ka e gosila ha.",
+      "Ngosipụta, ederede na isiokwu dị na nocoding.web.id bụ nke Nocoding. Ị nwere ike ikesa njikọ nye ha, mana ị naghị enwe ikike idegharị ha ma jiri ha mee azụmahịa na-enweghị ikike. Foto isiokwu sitere na Unsplash ma na-agbaso akwụkwọ ikike ya; a na-ekwupụta isi mmalite n'okpuru foto ọ bụla."
+     ]
+    },
+    {
+     "t": "7. Asụsụ saịtị",
+     "b": [
+      "Saịtị a dị n'ọtụtụ asụsụ. Nsụgharị, karịsịa maka asụsụ nwere ndị na-asụ ya ole na ole, nwere ike ịbụghị nke zuru oke. Ọ bụrụ na ha dị iche n'ihe ha pụtara, nsụgharị Indonesia na-emetụta. Ibe iwu ndị a dị n'asụsụ Indonesia na Bekee."
+     ]
+    },
+    {
+     "t": "8. Oke ibu ọrụ",
+     "b": [
+      "Anyị na-agbali inye nsonaazụ ọma, mana anyị anaghị ekwe nkwa nsonaazụ azụmahịa ụfọdụ, dị ka ọkwa nchọta, ọnụ ọgụgụ ndị ọbịa ma ọ bụ ire ahịa. Anyị anaghị ebu ọrụ maka nsogbu sitere n'aka ndị ọzọ dị ka ndị na-enye nkwado, ngalaba aha ma ọ bụ ịkwụ ụgwọ, ma ọ bụ maka mfu na-abụghị nke ozugbo.",
+      "Ibu ọrụ anyị maka ọrụ dị oke n'ego ị kwụrụ maka ọrụ ahụ, n'ókè iwu kwere. Nke a anaghị ebelata ikike gị nke iwu na-echebe."
+     ]
+    },
+    {
+     "t": "9. Iwu na-achị",
+     "b": [
+      "Iwu Republic of Indonesia na-achị usoro ndị a. Ọ bụrụ na esemokwu ebilite, anyị ga-buru ụzọ gbalịa idozi ya site n'mkparịta ụka. Ọ bụrụ na enweghị nkwekọrịta, ụlọikpe ndị nwere ikike na Indonesia ga-edozi esemokwu ahụ."
+     ]
+    },
+    {
+     "t": "10. Mgbanwe na ịkpọtụrụ",
+     "b": [
+      "Enwere ike imelite usoro ndị a site n'oge ruo n'oge; a na-egosi ụbọchị mmelite ikpeazụ n'elu ibe ahụ. Enwere ike izipu ajụjụ na nocodingindonesia@gmail.com ma ọ bụ site na WhatsApp na +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Iwu Kuuki",
+   "description": "Kuuki na nchekwa mpaghara saịtị Nocoding na-eji, ihe ha bụ maka, na otú esi ejikwa ha.",
+   "sections": [
+    {
+     "t": "1. Ihe kuuki bụ",
+     "b": [
+      "Kuuki bụ obere faịlụ nke saịtị na-echekwa n'ihe nchọgharị gị. Nchekwa mpaghara (local storage) na nchekwa oge (session storage) na-arụ ọrụ n'otu ụzọ ahụ mana a naghị eziga ha na sava na-akpaghị aka. Na ibe a, anyị na-akpọ ha niile kuuki."
+     ]
+    },
+    {
+     "t": "2. Ihe saịtị chọrọ ka o rụọ ọrụ",
+     "b": [
+      "A na-echekwa ha n'ihe nchọgharị gị ma a naghị eziga ha na sava anyị:",
+      "- nocoding-language na nocoding-language-set: asụsụ ị họọrọ ma ọ bụ nke a chọpụtara site n'ihe nchọgharị gị.",
+      "- nocoding-pricing (oge): ego e chere na ọnụ ahịa mgbanwe ego, ka e ghara ịgbakọ ọnụ ahịa ọzọ n'ibe ọ bụla.",
+      "- Akara isiokwu: ma ị mepụtala like, lelee ma ọ bụ kesaa isiokwu, ka e ghara ịgụ ọnụ ọgụgụ ugboro abụọ.",
+      "- Akara nwa oge nke ebe a na-ebughari ibe mgbe a na-ahapụ otu akụkụ saịtị gaa nke ọzọ."
+     ]
+    },
+    {
+     "t": "3. Nyocha",
+     "b": [
+      "Mgbe a gbanyere ha, ọrụ nyocha abụọ na-ebute mgbe ị metụrụ ibe ahụ aka (ibugharị, ịpị ma ọ bụ ịpị mkpịsị igodo):",
+      "- Google Analytics 4 (kuuki dị ka _ga na _ga_*, ọ dị irè ruo ihe dị ka afọ 2): ọnụ ọgụgụ ọbịbịa.",
+      "- Microsoft Clarity (kuuki dị ka _clck, _clsk, CLID na MUID, ọ dị irè ruo ihe dị ka afọ 1): maapụ okpomọkụ na ndekọ mmekọrịta enweghị aha.",
+      "Ndị na-enye CDN na nchekwa nwekwara ike ịtọ kuuki teknụzụ iji chebe saịtị pụọ n'okporo ụzọ na-emerụ ahụ."
+     ]
+    },
+    {
+     "t": "4. Otú esi ejikwa kuuki",
+     "b": [
+      "Ị nwere ike ihichapụ ma ọ bụ gbochie kuuki n'ntọala ihe nchọgharị gị. Ị nwekwara ike itinye ngwa mgbakwunye nkwụsị nke Google ji eme ihe maka Google Analytics. Ọ bụrụ na e gbochie kuuki nyocha, saịtị ka na-arụ ọrụ; ọ bụrụ na ehichapụ nchekwa mpaghara, nhọrọ asụsụ gị na-alaghachi na nke mbụ."
+     ]
+    },
+    {
+     "t": "5. Ajụjụ",
+     "b": [
+      "Maka ajụjụ gbasara iwu a, kpọtụrụ nocodingindonesia@gmail.com. A na-akọwakwu otú e si eji data nkeonwe n'Iwu Nzuzo. Ọ bụrụ na asụsụ dị iche n'ihe ha pụtara, nsụgharị Indonesia na-emetụta."
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Son güncelleme",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Gizlilik Politikası",
+   "description": "Nocoding'in hangi verileri topladığı, bunların ne için kullanıldığı, kimin işlediği ve kişisel verileriniz üzerindeki haklarınız.",
+   "sections": [
+    {
+     "t": "1. Biz kimiz",
+     "b": [
+      "Nocoding (nocoding.web.id), Endonezya'da Abid Hanan Wicaksono tarafından işletilen bir web sitesi, uygulama, bilgi sistemi ve otomasyon hizmetidir. Bu politika, bu siteyi ziyaret ettiğinizde veya bizimle iletişime geçtiğinizde kişisel verilerinize nasıl davrandığımızı açıklar.",
+      "Bu politikayla ilgili sorular nocodingindonesia@gmail.com adresine veya WhatsApp üzerinden +62 853-2651-3324 numarasına gönderilebilir."
+     ]
+    },
+    {
+     "t": "2. Topladığımız veriler",
+     "b": [
+      "- Bize verdiğiniz veriler: bizimle WhatsApp veya e-posta yoluyla iletişime geçtiğinizde adınız, WhatsApp numaranız, e-posta adresiniz ve projenizin açıklaması. Bu sitede kullanıcı hesabı veya kayıt formu bulunmaz.",
+      "- Otomatik olarak işlenen teknik veriler: IP adresi, cihaz ve tarayıcı türü ile açtığınız sayfalar. Barındırma ve CDN sağlayıcılarımız bunları siteyi sunmak ve kötüye kullanıma karşı korumak için işler.",
+      "- Yaklaşık ülke: fiyatların para biriminizde gösterilebilmesi için ülkeniz CDN bilgilerinden veya tarayıcı dilinizden tahmin edilir. Bunu sunucularımızda saklamayız.",
+      "- Analiz verileri: Google Analytics 4 ve Microsoft Clarity (etkinleştirildiğinde) açılan sayfalar, ziyaret süresi, cihaz türü ve anonim etkileşim kayıtları gibi kullanım istatistiklerini toplar. Bunlar yalnızca siz sayfayla etkileşime geçtikten sonra yüklenir.",
+      "- Tarayıcı depolama alanı: dil seçiminiz, bir makaleyi zaten beğendiğinizi, görüntülediğinizi veya paylaştığınızı gösteren işaretler ve geçici bir fiyat tahmini. Ayrıntılar Çerez Politikası'nda yer alır.",
+      "- Makalelerin görüntülenme, beğenilme ve paylaşılma sayıları, ziyaretçi kimliği olmadan toplu sayılar olarak saklanır."
+     ]
+    },
+    {
+     "t": "3. Verilerin ne için kullanıldığı",
+     "b": [
+      "- Sorularınızı yanıtlamak, teklif hazırlamak ve projenizi yürütmek.",
+      "- Siteyi sunmak, güvenliğini sağlamak ve hızlı tutmak.",
+      "- Siteyi geliştirebilmemiz için nasıl kullanıldığını anlamak.",
+      "- Yasal yükümlülükleri yerine getirmek.",
+      "Kişisel verilerinizi satmayız."
+     ]
+    },
+    {
+     "t": "4. Dahil olan üçüncü taraflar",
+     "b": [
+      "- Vercel: sitenin barındırılması ve sunulması.",
+      "- Cloudflare: CDN ve güvenlik.",
+      "- Google (Google Analytics 4) ve Microsoft (Clarity): site kullanım istatistikleri.",
+      "- Meta (WhatsApp) ve Google (Gmail): bizimle bu sitedeki WhatsApp veya e-posta bağlantıları üzerinden iletişime geçtiğinizde.",
+      "- Döviz kuru sağlayıcısı: yalnızca sunucumuzdan kur istekleri alır, ziyaretçi verisi almaz.",
+      "Bu sağlayıcılar, kendi politikaları uyarınca verileri Endonezya dışında da işleyebilir."
+     ]
+    },
+    {
+     "t": "5. Verilerin ne kadar süre saklandığı",
+     "b": [
+      "Yazışmalar ve proje materyalleri, hizmeti yürütmek, destek vermek ve yasal yükümlülükleri yerine getirmek için gerekli olduğu sürece saklanır, ardından silinir veya anonim hale getirilir. Analiz verileri, sağlayıcısının saklama ayarlarına tabidir. Tarayıcınızdaki veriler siz silene kadar kalır."
+     ]
+    },
+    {
+     "t": "6. Haklarınız",
+     "b": [
+      "Endonezya'nın Kişisel Verilerin Korunmasına İlişkin 2022 tarihli 27 sayılı Kanunu uyarınca şu haklara sahipsiniz:",
+      "- hakkınızda tuttuğumuz kişisel verileri öğrenme ve bunların bir kopyasını alma;",
+      "- yanlış verilerin düzeltilmesini isteme;",
+      "- verilerinizin silinmesini isteme veya onayınızı geri çekme;",
+      "- belirli işlemelere itiraz etme.",
+      "Talebinizi nocodingindonesia@gmail.com adresine gönderin. Makul bir süre içinde yanıt vereceğiz."
+     ]
+    },
+    {
+     "t": "7. Güvenlik ve çocuklar",
+     "b": [
+      "Bu site HTTPS kullanır ve proje verilerine erişim kısıtlanmıştır. Hiçbir veri iletim veya saklama yöntemi tamamen risksiz değildir, bu nedenle mutlak güvenliği garanti edemeyiz.",
+      "Hizmetlerimiz 18 yaş ve üzeri kişilere yöneliktir. Çocuklara ait kişisel verileri bilerek toplamayız."
+     ]
+    },
+    {
+     "t": "8. Bu politikadaki değişiklikler",
+     "b": [
+      "Bu politika zaman zaman güncellenebilir. Son güncelleme tarihi sayfanın üst kısmında gösterilir. Diller arasında anlam farkı olursa Endonezyaca sürüm geçerlidir."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Şartlar ve Koşullar",
+   "description": "Nocoding sitesinin ve hizmetlerinin kullanım kuralları: paketler, fiyatlar, işin yürütülme şekli, fikri mülkiyet ve sorumluluk sınırları.",
+   "sections": [
+    {
+     "t": "1. Şartların kabulü",
+     "b": [
+      "Bu siteyi açarak veya Nocoding'in hizmetlerini kullanarak bu şartlar ve koşulları kabul etmiş olursunuz. Kabul etmiyorsanız, lütfen sitemizi ve hizmetlerimizi kullanmayın."
+     ]
+    },
+    {
+     "t": "2. Hizmetler",
+     "b": [
+      "Nocoding; portfolyo veya özgeçmiş web siteleri, açılış sayfaları ve şirket profilleri, bilgi ve operasyon sistemleri ile iş süreçlerinin otomasyonunu geliştirir. İşin kapsamı, özellikler, takvim ve maliyet, iş başlamadan önce sizinle WhatsApp veya e-posta üzerinden kararlaştırılır.",
+      "Danışmanlık, ihtiyaç duyduğunuz her zaman ücretsizdir ve sipariş vermenizi zorunlu kılmaz."
+     ]
+    },
+    {
+     "t": "3. Paketler ve fiyatlar",
+     "b": [
+      "- Küçük paket: yılda Rp 500.000'den başlayan fiyatlarla, 1 yıllık ücretsiz bakım ve alan adı dahil.",
+      "- Büyük paket: yılda Rp 2.000.000'den başlayan fiyatlarla, 1 yıllık ücretsiz bakım ve barındırma dahil.",
+      "Sitedeki fiyatlar başlangıç fiyatlarıdır. Nihai tutar, bir danışmanlık görüşmesinden sonra ihtiyaçlarınıza göre kararlaştırılır. Endonezya dışındaki ziyaretçiler için fiyatlar, günlük döviz kuruna dayalı bir tahmin olarak yerel para biriminde gösterilir; geçerli olan, üzerinde anlaştığımız rupi tutarıdır. Ek özellikler veya ücretsiz dönem bittikten sonra yenileme gibi ek maliyetler, iş yapılmadan önce size bildirilir."
+     ]
+    },
+    {
+     "t": "4. İşin yürütülme şekli ve sorumluluklarınız",
+     "b": [
+      "Tasarım, üretimden önce sizinle birlikte incelenir ve onaylanır. Revizyonlar kararlaştırıldığı şekilde yapılır.",
+      "Materyalleri (logo, metin, fotoğraf, veri) zamanında sağlamaktan ve bunları kullanma hakkına sahip olmaktan siz sorumlusunuz. Materyallerdeki veya geri bildirimlerdeki gecikmeler takvimi etkileyebilir."
+     ]
+    },
+    {
+     "t": "5. Bakım",
+     "b": [
+      "1 yıllık ücretsiz bakım, çalışmamızdaki hataların giderilmesini ve temel güvenlik güncellemelerini kapsar. Yeni özellikler, büyük tasarım değişiklikleri ve ilk anlaşmanın dışındaki işler ayrıca ücretlendirilir."
+     ]
+    },
+    {
+     "t": "6. Fikri mülkiyet",
+     "b": [
+      "Sağladığınız materyaller size ait olmaya devam eder. Tamamlanan iş, kararlaştırılan ödeme tamamlandıktan sonra size teslim edilir. Nocoding, yayındaki işleri portfolyosunda örnek olarak gösterebilir; yazılı olarak gösterilmemesini isterseniz bu yapılmaz.",
+      "nocoding.web.id üzerindeki tasarım, metinler ve makaleler Nocoding'e aittir. Bunlara bağlantı paylaşabilirsiniz, ancak izin almadan kopyalayıp ticari olarak kullanamazsınız. Makale fotoğrafları Unsplash'tan gelir ve onun lisansına tabidir; kaynak her fotoğrafın altında belirtilir."
+     ]
+    },
+    {
+     "t": "7. Site dilleri",
+     "b": [
+      "Bu site birçok dilde mevcuttur. Çeviriler, özellikle konuşur sayısı daha az olan diller için, mükemmel olmayabilir. Anlam bakımından farklılık olursa Endonezyaca sürüm geçerlidir. Bu hukuki sayfalar Endonezyaca ve İngilizce olarak mevcuttur."
+     ]
+    },
+    {
+     "t": "8. Sorumluluk sınırları",
+     "b": [
+      "İyi sonuçlar sunmak için çalışırız, ancak arama sıralaması, ziyaretçi sayısı veya satışlar gibi belirli iş sonuçlarını vaat etmeyiz. Barındırma, alan adı veya ödeme sağlayıcıları gibi üçüncü tarafların neden olduğu kesintilerden ve dolaylı zararlardan sorumlu değiliz.",
+      "Bir hizmete ilişkin sorumluluğumuz, kanunun izin verdiği ölçüde, o hizmet için ödediğiniz tutarla sınırlıdır. Bu durum, kanunla korunan haklarınızı azaltmaz."
+     ]
+    },
+    {
+     "t": "9. Uygulanacak hukuk",
+     "b": [
+      "Bu şartlar Endonezya Cumhuriyeti hukukuna tabidir. Bir uyuşmazlık çıkarsa önce görüşme yoluyla çözmeye çalışırız. Anlaşma sağlanamazsa uyuşmazlık, Endonezya'daki yetkili mahkemelerde çözülür."
+     ]
+    },
+    {
+     "t": "10. Değişiklikler ve iletişim",
+     "b": [
+      "Bu şartlar zaman zaman güncellenebilir; son güncelleme tarihi sayfanın üst kısmında gösterilir. Sorular nocodingindonesia@gmail.com adresine veya WhatsApp üzerinden +62 853-2651-3324 numarasına gönderilebilir."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Çerez Politikası",
+   "description": "Nocoding sitesinin kullandığı çerezler ve yerel depolama, ne için kullanıldıkları ve nasıl yönetilecekleri.",
+   "sections": [
+    {
+     "t": "1. Çerezler nedir",
+     "b": [
+      "Çerezler, bir sitenin tarayıcınızda sakladığı küçük dosyalardır. Yerel depolama ve oturum depolaması benzer şekilde çalışır ancak otomatik olarak bir sunucuya gönderilmez. Bu sayfada hepsine çerez diyoruz."
+     ]
+    },
+    {
+     "t": "2. Sitenin çalışması için gerekenler",
+     "b": [
+      "Tarayıcınızda saklanır ve sunucularımıza gönderilmez:",
+      "- nocoding-language ve nocoding-language-set: seçtiğiniz veya tarayıcınızdan algılanan dil.",
+      "- nocoding-pricing (oturum): tahmini para birimi ve kur; böylece fiyatlar her sayfada yeniden hesaplanmaz.",
+      "- Makale işaretleri: bir makaleyi zaten beğenip beğenmediğiniz, görüntüleyip görüntülemediğiniz veya paylaşıp paylaşmadığınız; böylece sayılar iki kez sayılmaz.",
+      "- Sitenin bölümleri arasında geçiş yaparken kullanılan geçici bir kaydırma konumu işareti."
+     ]
+    },
+    {
+     "t": "3. Analiz",
+     "b": [
+      "Etkinleştirildiğinde, siz sayfayla etkileşime geçtikten sonra (kaydırma, dokunma veya tuşa basma) iki analiz hizmeti yüklenir:",
+      "- Google Analytics 4 (_ga ve _ga_* gibi çerezler, yaklaşık 2 yıla kadar geçerli): ziyaret istatistikleri.",
+      "- Microsoft Clarity (_clck, _clsk, CLID ve MUID gibi çerezler, yaklaşık 1 yıla kadar geçerli): ısı haritaları ve anonim etkileşim kayıtları.",
+      "CDN ve güvenlik sağlayıcıları da siteyi zararlı trafikten korumak için teknik çerezler yerleştirebilir."
+     ]
+    },
+    {
+     "t": "4. Çerezler nasıl yönetilir",
+     "b": [
+      "Çerezleri tarayıcı ayarlarınızdan silebilir veya engelleyebilirsiniz. Ayrıca Google'ın Google Analytics için resmi devre dışı bırakma eklentisini de yükleyebilirsiniz. Analiz çerezleri engellenirse site çalışmaya devam eder; yerel depolama temizlenirse dil seçiminiz varsayılana döner."
+     ]
+    },
+    {
+     "t": "5. Sorular",
+     "b": [
+      "Bu politikayla ilgili sorular için nocodingindonesia@gmail.com adresiyle iletişime geçin. Kişisel verilerin nasıl kullanıldığı Gizlilik Politikası'nda daha ayrıntılı açıklanmıştır. Diller arasında anlam farkı olursa Endonezyaca sürüm geçerlidir."
+     ]
+    }
+   ]
+  }
+ }
+}

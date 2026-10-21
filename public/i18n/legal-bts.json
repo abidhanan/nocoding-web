@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Pambaruan na parpudi",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Kebijakan Privasi",
+   "description": "Data aha na ipungu Nocoding, gabe aha ipakei, ise na mangolah, anjaha hak nini tu data pribadi nini.",
+   "sections": [
+    {
+     "t": "1. Ise hanami",
+     "b": [
+      "Nocoding (nocoding.web.id) ma layanan pambahenan website, aplikasi, sistem informasi, anjaha otomasi na iurus ni Abid Hanan Wicaksono i Indonesia. Kebijakan on patorang songon dia hanami mangurus data pribadi nini sanggah ham marmasuk tu situs on atap manghubungi hanami.",
+      "Pangindo-indo mangihut kebijakan on boi iirim tu nocodingindonesia@gmail.com atap WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data na ipungu hanami",
+     "b": [
+      "- Data na iboan ham sandiri: goran, nomor WhatsApp, email, anjaha panorang ni proyek nini sanggah manghubungi hanami marhitei WhatsApp atap email. Situs on seng dong akun pamakei atap formulir pandaftaran.",
+      "- Data teknis na iproses sacara otomatis: alamat IP, jenis piranti anjaha browser, sahap tu kaca na ibuka. Data on iproses ni penyedia hosting anjaha CDN nami bani patudu situs anjaha mangaramoti i panyalahgunaan.",
+      "- Pambaritaan negara: gabe harga tampil i mata uang nini, negara nini ipambari sian informasi CDN atap pangaturan hata ni browser. Hanami seng manyimpan i server.",
+      "- Data analitik: Google Analytics 4 anjaha Microsoft Clarity (anggo aktif) mangumpul statistik pamakeian songon kaca na ibuka, dalan ni kunjungan, jenis piranti, anjaha rekaman interaksi na seng marnama. Rua ai itampil dung ham mangulah interaksi tu kaca.",
+      "- Panyimpanan i browser: pilihan hata nini, tanda na ham nunga manggabe ai, mangidah, atap mambagi sada artikel, anjaha pambaritaan harga sementara. Panorang na lengkap dong i Kebijakan Cookie.",
+      "- Jumlah iidah, isuka, anjaha ibagi i artikel isimpan songon angka na tarsiap, seng marnama pangunjung."
+     ]
+    },
+    {
+     "t": "3. Data on bani aha ipakei",
+     "b": [
+      "- Mangalus pangindo-indo, mangaturkon penawaran, anjaha mangulah proyek nini.",
+      "- Patudu, mangaramoti, anjaha paroha situs gabe mabaor.",
+      "- Mangantusi songon dia situs ipakei gabe boi hanami paharaphon.",
+      "- Mangulah kewajiban hukum na marlaku.",
+      "Hanami seng manggadis data pribadi nini."
+     ]
+    },
+    {
+     "t": "4. Pihak katolu na manumpak",
+     "b": [
+      "- Vercel: hosting anjaha panuduhan situs.",
+      "- Cloudflare: CDN anjaha kaamanan.",
+      "- Google (Google Analytics 4) anjaha Microsoft (Clarity): statistik pamakeian situs.",
+      "- Meta (WhatsApp) anjaha Google (Gmail): sanggah manghubungi hanami marhitei tautan WhatsApp atap email i situs on.",
+      "- Penyedia kurs mata uang: ai ma na manerima pangindo kurs sian server nami, seng data pangunjung.",
+      "Penyedia ai boi mangolah data i luar Indonesia sasuai kebijakan sorang-sorang."
+     ]
+    },
+    {
+     "t": "5. Sadiha leleng data isimpan",
+     "b": [
+      "Pangkobasan anjaha materi proyek isimpan sadiha lelengni na porlu bani mangulah layanan, mangalehon dukungan, anjaha mangulah kewajiban hukum, dung ai ihapus atap iboan seng marnama. Data analitik manurut pangaturan panyimpanan ni penyedianai. Data i browser nini tong dong sahap ham manghapus."
+     ]
+    },
+    {
+     "t": "6. Hak nini",
+     "b": [
+      "Sasuai Undang-Undang Nomor 27 Taon 2022 taringot Pandaraman Data Pribadi i Indonesia, dong hak nini bani:",
+      "- mangantusi anjaha mangindo salinan data pribadi nini na isimpan hanami;",
+      "- mangindo gabe data na lilu ipasombuon;",
+      "- mangindo gabe data nini ihapus atap mambahen parsetujuon nini;",
+      "- manolak pangolahan na tertentu.",
+      "Irimkon pangindo nini tu nocodingindonesia@gmail.com. Hanami mangalus i tingki na hot."
+     ]
+    },
+    {
+     "t": "7. Kaamanan anjaha anak-anak",
+     "b": [
+      "Situs on mamakei HTTPS anjaha akses tu data proyek ihatop. Seng dong cara mangirim atap manyimpan data na lungun seng dong risikoni, gabe hanami seng boi manjamin kaamanan na mutlak.",
+      "Layanan nami bani pamakei na marumur 18 taon atap na leban. Hanami seng mangumpul data pribadi ni anak-anak sacara sengaja."
+     ]
+    },
+    {
+     "t": "8. Parubahan kebijakan",
+     "b": [
+      "Kebijakan on boi ipabaru sian tingki tu tingki. Ari pambaruan na parpudi iidah i atas ni kaca. Anggo dong na so pada i hata, versi Hata Indonesia ma na marlaku."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Sarat anjaha Ketentuan",
+   "description": "Uhum pamakeian situs anjaha layanan Nocoding: paket, harga, songon dia parulahan, hak kekayaan intelektual, anjaha hatopan tanggung jawab.",
+   "sections": [
+    {
+     "t": "1. Manjalo sarat",
+     "b": [
+      "Marhitei mambuka situs on atap mamakei layanan Nocoding, ham manjalo sarat anjaha ketentuan on. Anggo ham seng sarujut, mansai hurang ni uli ulang pakei situs anjaha layanan nami."
+     ]
+    },
+    {
+     "t": "2. Layanan",
+     "b": [
+      "Nocoding mambahen website portofolio atap CV, landing page anjaha profil perusahaan, sistem informasi anjaha operasional, anjaha otomasi proses bisnis. Cakupan ulahan, fitur, jadwal, anjaha biaya itentuhon rap ham marhitei WhatsApp atap email sadokah ulahan imulai.",
+      "Konsultasi satongkin gratis, kapan pe na porlu ham, anjaha seng mangwajibhon ham mangindo."
+     ]
+    },
+    {
+     "t": "3. Paket anjaha harga",
+     "b": [
+      "- Paket Poso: sian Rp 500.000 sataon, tarmasuk maintenance gratis anjaha domain bani 1 taon.",
+      "- Paket Gokkang: sian Rp 2.000.000 sataon, tarmasuk maintenance gratis anjaha hosting bani 1 taon.",
+      "Harga i situs ma harga mulana. Nilai na parpudi isarujuhon dung konsultasi sasuai na porlu nini. Bani pangunjung sian luar Indonesia, harga itampil i mata uang ni luat ai songon pambaritaan na marhubungan tu kurs ari-ari; na marlaku ma nilai rupiah na isarujuhon. Biaya tambahan, songon fitur tambahan atap pamarbaruan dung sae masa gratis, ipaboa tu ham sadokah ulahan ibahen."
+     ]
+    },
+    {
+     "t": "4. Parulahan anjaha tanggung jawab nini",
+     "b": [
+      "Rancangan iperiksa anjaha isarujuhon rap ham sadokah masuk produksi. Revisi iulah sasuai na isarujuhon.",
+      "Ham ma na marnampuna mangalehon materi (logo, tekstu, poto, data) i tingki na patut anjaha manjamin na dong hak nini mamakeini. Pangaloan materi atap pangapulan boi mangaruhi jadwal."
+     ]
+    },
+    {
+     "t": "5. Maintenance",
+     "b": [
+      "Maintenance gratis bani 1 taon mamampat parbaikan hailion i ulahan nami anjaha pambaruan kaamanan dasar. Fitur baru, parubahan gokkang i desain, anjaha ulahan na i luar parsarujuan mulana itariphon sorang-sorang."
+     ]
+    },
+    {
+     "t": "6. Hak kekayaan intelektual",
+     "b": [
+      "Materi na iboan ham tong ma ni ham. Hasil ulahan ipasahat tu ham dung lunas pamayaran sasuai na isarujuhon. Nocoding boi mangidah karya na nunga tayang songon conto i portofolio, anggo ham seng mangindo marsurat gabe ulang itampil.",
+      "Desain, tekstu, anjaha artikel i nocoding.web.id ma hepeng ni Nocoding. Boi ham mambagi tautanni, tapi seng boi manyalin anjaha mamakei sacara komersial seng dong ijin. Poto artikel sian Unsplash anjaha manurut lisensini; sumberni itarsurat i toru ni poto."
+     ]
+    },
+    {
+     "t": "7. Hata situs",
+     "b": [
+      "Situs on dong i bayak hata. Terjemahan, tarlumobi bani hata na otik panuturni, boi seng sampurna. Anggo dong na so pada i hata, versi Hata Indonesia ma na marlaku. Kaca hukum on dong i Hata Indonesia anjaha Inggris."
+     ]
+    },
+    {
+     "t": "8. Hatopan tanggung jawab",
+     "b": [
+      "Hanami marusaha mangalehon hasil na uli, tapi seng manjanjihon hasil bisnis na tertentu songon peringkat pancarian, jumlah pangunjung, atap pamodalan. Hanami seng marnampuna i gangguan sian pihak katolu songon penyedia hosting, domain, atap pambayaran, atap i karugian na seng langsung.",
+      "Tanggung jawab nami bani sada layanan ihatop sasuai nilai na nunga ibayar ham bani layanan ai, sahap na ipaingot ni hukum. Parsarujuan on seng mangurangi hak nini na ilindungi ni hukum."
+     ]
+    },
+    {
+     "t": "9. Hukum na marlaku",
+     "b": [
+      "Sarat on manurut hukum Republik Indonesia. Anggo dong parsalisihan, hanami mamuhun pasabar marhitei parpadanan. Anggo seng tubu parsarujuan, parsalisihan isaluhon marhitei pangadilan na marhuasa i Indonesia."
+     ]
+    },
+    {
+     "t": "10. Parubahan anjaha kontak",
+     "b": [
+      "Sarat on boi ipabaru sian tingki tu tingki; ari pambaruan na parpudi iidah i atas ni kaca. Pangindo-indo boi iirim tu nocodingindonesia@gmail.com atap WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Kebijakan Cookie",
+   "description": "Cookie anjaha panyimpanan lokal na ipakei situs Nocoding, bani aha ipakei, anjaha songon dia mangaturni.",
+   "sections": [
+    {
+     "t": "1. Aha ma cookie",
+     "b": [
+      "Cookie ma berkas na poso na isimpan ni situs i browser nini. Panyimpanan lokal (local storage anjaha session storage) marulah songon ai tapi seng iirim otomatis tu server. I kaca on, hanami manadingkon rua-rua ai cookie."
+     ]
+    },
+    {
+     "t": "2. Na porlu gabe situs marulah",
+     "b": [
+      "Isimpan i browser nini anjaha seng iirim tu server nami:",
+      "- nocoding-language anjaha nocoding-language-set: hata na ipilih ham atap na ideteksi sian browser.",
+      "- nocoding-pricing (sesi): pambaritaan mata uang anjaha kurs gabe harga ulang iitung muli i sasada kaca.",
+      "- Tanda artikel: nunga ham manggabe ai, mangidah, atap mambagi sada artikel, gabe jumlah ulang marduali.",
+      "- Tanda posisi gulir sementara sanggah mardalan sian sada bagian ni situs tu bagian na asing."
+     ]
+    },
+    {
+     "t": "3. Analitik",
+     "b": [
+      "Anggo iaktifhon, rua layanan analitik itampil dung ham mangulah interaksi tu kaca (manggulir, manoktok, atap manduduk tombol):",
+      "- Google Analytics 4 (cookie songon _ga anjaha _ga_*, masa na marlaku sahap sahali 2 taon): statistik kunjungan.",
+      "- Microsoft Clarity (cookie songon _clck, _clsk, CLID anjaha MUID, masa na marlaku sahap sahali 1 taon): peta panas anjaha rekaman interaksi na seng marnama.",
+      "Penyedia CDN anjaha kaamanan boi muse mamasang cookie teknis bani mangaramoti situs sian lalu lintas na mangaluat."
+     ]
+    },
+    {
+     "t": "4. Songon dia mangatur cookie",
+     "b": [
+      "Boi ham manghapus atap mamblok cookie i pangaturan browser. Boi muse ham mamasang add-on penolakan resmi sian Google bani Google Analytics. Anggo cookie analitik iblok, situs tong marulah; anggo panyimpanan lokal ihapus, pilihan hata nini mulak tu na biasa."
+     ]
+    },
+    {
+     "t": "5. Pangindo-indo",
+     "b": [
+      "Bani pangindo-indo taringot kebijakan on, hubungi nocodingindonesia@gmail.com. Pamakeian data pribadi ipatorang tu na lobih i Kebijakan Privasi. Anggo dong na so pada i hata, versi Hata Indonesia ma na marlaku."
+     ]
+    }
+   ]
+  }
+ }
+}

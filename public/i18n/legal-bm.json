@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "A laban kɔrɔtalen",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Gundo Lakanani Sariya",
+   "description": "Nocoding bɛ dɛmɛ min ladon, a bɛ baara min kɛ, jɔn bɛ u baara, ani i ka josariyaw i ka mɔgɔ yɛrɛ dɛmɛw kan.",
+   "sections": [
+    {
+     "t": "1. An ye jɔn ye",
+     "b": [
+      "Nocoding (nocoding.web.id) ye siti, aplikasiyɔn, kunnafoni sisɛmɛ ani baarakɛcogo yɛrɛ yɛrɛ baarakɛ ye, Abid Hanan Wicaksono bɛ min ɲɛminɛ Ɛndonezi la. Nin sariya bɛ ka a ɲɛfɔ an bɛ i ka mɔgɔ yɛrɛ dɛmɛw lakana cogo min na, ni i be nin siti lajɛ walima ni i be an wele.",
+      "Ɲininkali minnu be nin sariya kan, i be olu ci nocodingindonesia@gmail.com la walima WhatsApp +62 853-2651-3324 la."
+     ]
+    },
+    {
+     "t": "2. Dɛmɛ minnu bɛ an fɛ",
+     "b": [
+      "- Dɛmɛ minnu i yɛrɛ bɛ di: i tɔgɔ, i ka WhatsApp nimɔrɔ, imɛli, ani i ka porozɛ ɲɛfɔli ni i be an wele WhatsApp walima imɛli fɛ. Nin siti ma kɔnɔ mɔgɔ ka kɔntɔ walima sɛbɛnni fɔrimulɛri yɔrɔ si lo.",
+      "- Teknikiw minnu bɛ ta yɛrɛ ma: IP adirɛsi, minɛn ni biruzɛri suguya, ani paraziw minnu bɛ da. An ka hosting ni CDN baarakɛlaw bɛ olu baara walasa siti ka bɔ ani ka lakana ka bɔ tɔɔrɔ la.",
+      "- Jamana sirilen: walasa sɔrɔ ka bɔ i ka wari la, i ka jamana bɛ sirilen CDN kunnafoni la walima biruzɛri kan sigili la. An t'o mara an ka serɛri kan.",
+      "- Analitiki dɛmɛw: Google Analytics 4 ni Microsoft Clarity (ni u be baara la) bɛ baara statistiki ladon ka kɛ paraziw damadɔ, lajɛ waati, minɛn suguya, ani cogoyaw ye minnu tɔgɔ tɛ fɔ. U bɛ dayɛlɛ dɔrɔn i bɛ paraziw ɲɛ sɔrɔ.",
+      "- Biruzɛri marayɔrɔ: i ka kan sugandili, taamasiyɛnw minnu bɛ i ka sɛbɛn kɛlen ye min i sera ka fɛ, ka lajɛ, walima ka tilan, ani sɔrɔ ka bɔ waati dɔɔnin kɔnɔ. Kuma jɛlenw bɛ Kuki Sariya la.",
+      "- Sɛbɛnw lajɛli, fɛ ni tilanni hakɛw bɛ mara jɛgɛnnen ye, laɲinitigi tɔgɔ t'a la."
+     ]
+    },
+    {
+     "t": "3. Dɛmɛw bɛ baara min kɛ",
+     "b": [
+      "- Ka i ka ɲininkaliw jaabi, ka sɔrɔ jamanaw labɛn, ani ka i ka porozɛ kɛ.",
+      "- Ka siti jira, ka a lakana, ani ka a teliya.",
+      "- Ka a faamu siti bɛ baara cogo min na walasa an ka a ɲɛnabɔ.",
+      "- Ka sariya ka waajibiw dafa.",
+      "An tɛ i ka mɔgɔ yɛrɛ dɛmɛw feere."
+     ]
+    },
+    {
+     "t": "4. Mɔgɔ sabanw minnu bɛ nin na",
+     "b": [
+      "- Vercel: siti hosting ni a jirali.",
+      "- Cloudflare: CDN ni lakanani.",
+      "- Google (Google Analytics 4) ni Microsoft (Clarity): siti baarakɛli statistikiw.",
+      "- Meta (WhatsApp) ni Google (Gmail): ni i be an wele WhatsApp walima imɛli ɲɛnabɔ fɛ nin siti kan.",
+      "- Wari sɔrɔcogo bannabaarakɛla: a bɛ wari sɔrɔcogo ɲinini dɔrɔn sɔrɔ an ka serɛri fɛ, laɲinitigiw ka dɛmɛw tɛ.",
+      "O bannabaarakɛlaw bɛ se ka dɛmɛw baara Ɛndonezi kɔkan, u yɛrɛ ka sariyaw ye."
+     ]
+    },
+    {
+     "t": "5. Dɛmɛw bɛ mara waati jan",
+     "b": [
+      "Kumaɲɔgɔnya ni porozɛ bɛnkanw bɛ mara fo ka se a mago bɛ min na walasa ka baara bɔ, ka dɛmɛ di, ani ka sariya waajibiw dafa, o kɔ u bɛ ban walima u tɔgɔ bɛ bɔ u la. Analitiki dɛmɛw bɛ u bannabaarakɛla ka marali sigili bato. I ka biruzɛri kɔnɔ dɛmɛw bɛ to yen fo i ka u bɔ."
+     ]
+    },
+    {
+     "t": "6. I ka josariyaw",
+     "b": [
+      "Ɛndonezi ka Sariya Nimɔrɔ 27 san 2022 min be mɔgɔ yɛrɛ dɛmɛw lakanani kan, i ye josariya sɔrɔ ka:",
+      "- ka a dɔn ani ka an bɛ i ka mɔgɔ yɛrɛ dɛmɛ min mara, o kopi ɲini;",
+      "- ka dɛmɛ filɛlenw ɲini ka u sa;",
+      "- ka i ka dɛmɛw ɲini ka u bɔ walima ka i ka sɔnni ta;",
+      "- ka ban baarakɛcogo dɔw la.",
+      "I ka ɲinini ci nocodingindonesia@gmail.com la. An bɛ jaabi di waati ɲuman kɔnɔ."
+     ]
+    },
+    {
+     "t": "7. Lakanani ni denmisɛnw",
+     "b": [
+      "Nin siti bɛ HTTPS baara, ani porozɛ dɛmɛw sira dayɛlɛ bɛ dulonnen ye. Dɛmɛ bɛnni walima marali cogo si tɛ fɔ fɛn si tɛ a la, o la an t'a se ka lakanani dafalen dayɛlɛ.",
+      "An ka baarakɛcogow bɛ mɔgɔ minnu ye san 18 walima a kɔrɔ. An t'a ɲini ka denmisɛnw ka mɔgɔ yɛrɛ dɛmɛw ladon ni a dɔnnen ye."
+     ]
+    },
+    {
+     "t": "8. Sariya yɛlɛmali",
+     "b": [
+      "Nin sariya bɛ se ka kɔrɔta waati o waati. A laban kɔrɔtali don bɛ jira paraziɲɛ sanfɛ. Ni kɔrɔ jɛlen bɛ kanw cɛ, Ɛndonezi kan versiyɔn bɛ baara la."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Sariyaw ni Layiduw",
+   "description": "Nocoding siti ni a ka baarakɛcogow baarakɛli sariyaw: pakɛw, songow, baara kɛcogo, hakilijigin ɲɔgɔn ni jaabi dancɛ.",
+   "sections": [
+    {
+     "t": "1. Sariyaw sɔnni",
+     "b": [
+      "Ni i be nin siti da walima ni i be Nocoding ka baarakɛcogow baara, i sɔnna nin sariyaw ni layiduw ma. Ni i ma sɔn, i kana an ka siti ni an ka baarakɛcogow baara."
+     ]
+    },
+    {
+     "t": "2. Baarakɛcogow",
+     "b": [
+      "Nocoding bɛ portofolio walima CV siti, landing page ni baarakɛyɔrɔ profili, kunnafoni ni baarakɛcogo sisɛmɛw, ani jɔnko baara yɛrɛ yɛrɛ baarakɛli kɛ. Baara sirilen, fɛnɲɛnamaw, waati ni da bɛ kɛ i fɛ WhatsApp walima imɛli fɛ sani baara ka daminɛ.",
+      "Lamɔnni bɛ kɛ fu fɛ tuma bɛɛ, waati o waati i mago bɛ min na, a t'i wajibi kɛ ka ko ci."
+     ]
+    },
+    {
+     "t": "3. Pakɛw ni songow",
+     "b": [
+      "- Pakɛ Fitinin: ka bɔ Rp 500.000 la san kɔnɔ, ni fu fɛ maintenance ani domɛn san 1 kɔnɔ.",
+      "- Pakɛ Belebele: ka bɔ Rp 2.000.000 la san kɔnɔ, ni fu fɛ maintenance ani hosting san 1 kɔnɔ.",
+      "Siti kan songow ye daminɛ songow ye. Laban hakɛ bɛ sɔn lamɔnni kɔ i ka magoɲɛ ye. Ɛndonezi kɔkan laɲinitigiw ye, songow bɛ jira jamana yɛrɛ wari la, ka kɛ hakɛ sirilen ye wari sɔrɔcogo don o don kan; rupiya hakɛ min an sɔnna, o de bɛ baara la. Songo tɔ, i n'a fɔ fɛnɲɛnama wɛrɛw walima kuntaala kura fu waati kɔ, olu bɛ fɔ i ye sani baara ka kɛ."
+     ]
+    },
+    {
+     "t": "4. Baara kɛcogo ni i ka jaabiw",
+     "b": [
+      "Wɛrɛ bɛ filɛ ka sɔn i fɛ sani a ka don baarakɛ la. Yɛlɛmaliw bɛ kɛ sɔnni kɔnɔ.",
+      "I ka kan ka fɛnw di (logo, sɛbɛn, foto, dɛmɛw) waati la ani ka a dɔn ko i bɛ se ka u baara. Fɛnw walima laadalaw kɔrɔtali bɛ se ka waati kɔrɔta."
+     ]
+    },
+    {
+     "t": "5. Maintenance",
+     "b": [
+      "Fu fɛ maintenance san 1 kɔnɔ bɛ an ka baara filɛlenw sa ani lakanani yɛlɛmali fɔlɔw kɛ. Fɛnɲɛnama kuraw, wɛrɛ belebele yɛlɛmaliw ani baara minnu bɛ sɔnni fɔlɔ kɔkan, olu songo bɛ ta bɛnkan wɛrɛ la."
+     ]
+    },
+    {
+     "t": "6. Hakilijigin ɲɔgɔn",
+     "b": [
+      "Fɛnw i ye minnu di, olu bɛ to i ta ye. Baara dafalen bɛ di i ma wari sɔnnen bɛ sara ka ban. Nocoding bɛ se ka baara minnu kɛ ka ban u jira portofolio la i n'a fɔ misali, fo ni i ye a ɲini sɛbɛn fɛ ko u kana jira.",
+      "Nocoding ta ye nocoding.web.id kan: wɛrɛ, sɛbɛn ni sɛbɛnw. I bɛ se ka u ka tɔgɔdaw tilan, nka i t'a se ka u kopi ka u baara jago la ni sɔnni t'a la. Sɛbɛn fotow bɔra Unsplash la, ani a ka lisansi bɛ u kan; sɔrɔyɔrɔ bɛ sɛbɛn foto jukɔrɔ."
+     ]
+    },
+    {
+     "t": "7. Siti kanw",
+     "b": [
+      "Nin siti bɛ kan caman na. Kɔrɔw, kɛrɛnkɛrɛnnenya la kan minnu kuma mɔgɔw ka dɔgɔ, u tɛ se ka kɛ dafalen ye. Ni kɔrɔ jɛlen bɛ u cɛ, Ɛndonezi kan versiyɔn bɛ baara la. Nin sariya paraziw bɛ Ɛndonezi kan ni angilɛkan na."
+     ]
+    },
+    {
+     "t": "8. Jaabi dancɛ",
+     "b": [
+      "An bɛ jija ka sɔrɔ ɲuman di, nka an tɛ jɔnko sɔrɔ sirilen dɛ, i n'a fɔ ɲinini dɔnni, laɲinitigi hakɛ, walima feereli. An tɛ jaabi ta mɔgɔ sabanw ka tɔɔrɔw la i n'a fɔ hosting, domɛn walima sara bannabaarakɛlaw, walima bɔnɔ min tɛ sirilen ye.",
+      "An ka jaabi baara kelen kan bɛ dan a hakɛ la min i ye sara o baara kama, sariya ye min sɔn. Nin tɛ i ka josariyaw dɔgɔya minnu bɛ sariya fɛ lakana."
+     ]
+    },
+    {
+     "t": "9. Sariya min bɛ baara la",
+     "b": [
+      "Nin sariyaw bɛ Ɛndonezi Jamana ka sariya kɔrɔ. Ni ɲɔgɔnbɔ bɛ sɔrɔ, an bɛ a ɲini ka a ɲɛnabɔ kuma fɛ fɔlɔ. Ni bɛnkan ma sɔrɔ, ɲɔgɔnbɔ bɛ ɲɛnabɔ ka bɔ kiritigɛyɔrɔ min bɛ se a ma Ɛndonezi la."
+     ]
+    },
+    {
+     "t": "10. Yɛlɛmaliw ni jɛɲɔgɔnya",
+     "b": [
+      "Nin sariyaw bɛ se ka kɔrɔta waati o waati; a laban kɔrɔtali don bɛ jira paraziɲɛ sanfɛ. Ɲininkaliw bɛ se ka ci nocodingindonesia@gmail.com la walima WhatsApp +62 853-2651-3324 la."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Kuki Sariya",
+   "description": "Kuki ni marayɔrɔ bɛ min Nocoding siti bɛ baara, u bɛ baara min kɛ, ani u ɲɛnabɔcogo.",
+   "sections": [
+    {
+     "t": "1. Kuki ye mun ye",
+     "b": [
+      "Kuki ye fayiliw fitininw ye siti bɛ minnu mara i ka biruzɛri kɔnɔ. Marayɔrɔ yɛrɛ (local storage ni session storage) bɛ baara ten, nka u tɛ ci serɛri ma yɛrɛ ma. Nin paraziw kan, an bɛ u bɛɛ wele kuki."
+     ]
+    },
+    {
+     "t": "2. Min be mago sitin baara kama",
+     "b": [
+      "A marayɔrɔ ye i ka biruzɛri ye, a tɛ ci an ka serɛriw ma:",
+      "- nocoding-language ni nocoding-language-set: kan min i sugandira walima biruzɛri ye min ye.",
+      "- nocoding-pricing (sesiyɔn): wari ni sɔrɔcogo sirilen walasa songow kana jatigɛ tuma bɛɛ paraziɲɛ bɛɛ la.",
+      "- Sɛbɛn taamasiyɛnw: i ye sɛbɛn dɔ kɛlen ka fɛ, ka lajɛ, walima ka tilan, walasa jateminɛw kana fila.",
+      "- Taamasiyɛn tɛmɛ yɔrɔ dɔɔnin siti yɔrɔw cɛ."
+     ]
+    },
+    {
+     "t": "3. Analitiki",
+     "b": [
+      "Ni u be baara la, analitiki baarakɛcogo fila bɛ dayɛlɛ i bɛ paraziɲɛ ɲɛ sɔrɔ kɔ (ka ɲɛ yɛlɛma, ka da, walima ka butɔn digi):",
+      "- Google Analytics 4 (kuki i n'a fɔ _ga ni _ga_*, a waati bɛ se san 2 la): lajɛli statistikiw.",
+      "- Microsoft Clarity (kuki i n'a fɔ _clck, _clsk, CLID ni MUID, a waati bɛ se san 1 la): fɛ kɔrɔ ɲɛsigi ni cogoyaw rekɔrdiw tɔgɔ tɛ minnu na.",
+      "CDN ni lakanani bannabaarakɛlaw bɛ se ka teknikiw kuki sigi siti lakanani kama jira jugu la."
+     ]
+    },
+    {
+     "t": "4. Kuki ɲɛnabɔcogo",
+     "b": [
+      "I bɛ se ka kuki bɔ walima ka u datugu i ka biruzɛri sigili la. I bɛ se ka Google ka add-on yɛrɛ ban sigi Google Analytics kama. Ni analitiki kuki datugulen don, siti bɛ to ka baara; ni marayɔrɔ yɛrɛ saniyalen don, i ka kan sugandili bɛ segin a fɔlɔ la."
+     ]
+    },
+    {
+     "t": "5. Ɲininkaliw",
+     "b": [
+      "Ɲininkali minnu be nin sariya kan, i be nocodingindonesia@gmail.com wele. Mɔgɔ yɛrɛ dɛmɛw baarakɛcogo bɛ ɲɛfɔ a kɔfɛ Gundo Lakanani Sariya la. Ni kɔrɔ jɛlen bɛ kanw cɛ, Ɛndonezi kan versiyɔn bɛ baara la."
+     ]
+    }
+   ]
+  }
+ }
+}

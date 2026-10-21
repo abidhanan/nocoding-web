@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Azken eguneratzea",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Pribatutasun Politika",
+   "description": "Nocodingek zer datu biltzen dituen, zertarako erabiltzen diren, nork prozesatzen dituen eta zure datu pertsonalen gaineko eskubideak.",
+   "sections": [
+    {
+     "t": "1. Nor garen",
+     "b": [
+      "Nocoding (nocoding.web.id) Abid Hanan Wicaksonok Indonesian kudeatzen duen webgune, aplikazio, informazio sistema eta automatizazio zerbitzua da. Politika honek azaltzen du nola tratatzen ditugun zure datu pertsonalak gune hau bisitatzen duzunean edo gurekin harremanetan jartzen zarenean.",
+      "Politika honi buruzko galderak nocodingindonesia@gmail.com helbidera edo WhatsApp +62 853-2651-3324 zenbakira bidal ditzakezu."
+     ]
+    },
+    {
+     "t": "2. Biltzen ditugun datuak",
+     "b": [
+      "- Zuk emandako datuak: zure izena, WhatsApp zenbakia, posta elektronikoa eta zure proiektuaren deskribapena, WhatsApp edo posta elektronikoz gurekin harremanetan jartzen zarenean. Gune honek ez du erabiltzaile konturik edo izen-emate formulariorik.",
+      "- Automatikoki prozesatutako datu teknikoak: IP helbidea, gailu eta nabigatzaile mota, eta irekitzen dituzun orriak. Gure hosting eta CDN hornitzaileek prozesatzen dituzte gunea zerbitzatzeko eta gehiegikeriatik babesteko.",
+      "- Gutxi gorabeherako herrialdea: prezioak zure moneta erabiliz erakusteko, zure herrialdea CDNaren informaziotik edo nabigatzailearen hizkuntzatik zenbatesten da. Ez dugu gure zerbitzarietan gordetzen.",
+      "- Analitika datuak: Google Analytics 4 eta Microsoft Clarityk (gaituta daudenean) erabilera estatistikak biltzen dituzte, hala nola irekitako orriak, bisitaren iraupena, gailu mota eta identitaterik gabeko interakzio grabaketak. Orriarekin elkarreragin ondoren soilik kargatzen dira.",
+      "- Nabigatzailearen biltegiratzea: zure hizkuntza aukera, artikulu bat jada gustatu zaizula, ikusi duzula edo partekatu duzula adierazten duten markak, eta aldi baterako prezio zenbatespena. Xehetasunak Cookie Politikan daude.",
+      "- Artikuluen ikustaldi, gustukoen eta partekatze kopuruak zenbaki bateratu gisa gordetzen dira, bisitarien identitaterik gabe."
+     ]
+    },
+    {
+     "t": "3. Datuak zertarako erabiltzen diren",
+     "b": [
+      "- Zure galderei erantzuteko, aurrekontuak prestatzeko eta zure proiektua gauzatzeko.",
+      "- Gunea zerbitzatzeko, babesteko eta azkar mantentzeko.",
+      "- Gunea nola erabiltzen den ulertzeko, hobetu ahal izateko.",
+      "- Indarrean dauden lege betebeharrak betetzeko.",
+      "Ez ditugu zure datu pertsonalak saltzen."
+     ]
+    },
+    {
+     "t": "4. Parte hartzen duten hirugarrenak",
+     "b": [
+      "- Vercel: gunearen hosting-a eta zerbitzua.",
+      "- Cloudflare: CDNa eta segurtasuna.",
+      "- Google (Google Analytics 4) eta Microsoft (Clarity): gunearen erabilera estatistikak.",
+      "- Meta (WhatsApp) eta Google (Gmail): gune honetako WhatsApp edo posta elektronikoko esteken bidez gurekin harremanetan jartzen zarenean.",
+      "- Moneta kotizazioen hornitzailea: gure zerbitzariaren kotizazio eskaerak soilik jasotzen ditu, ez bisitarien datuak.",
+      "Hornitzaile horiek datuak Indonesiatik kanpo prozesa ditzakete, beren politiken arabera."
+     ]
+    },
+    {
+     "t": "5. Datuak zenbat denboraz gordetzen diren",
+     "b": [
+      "Elkarrizketak eta proiektuko materialak zerbitzua eskaintzeko, laguntza emateko eta lege betebeharrak betetzeko behar den denboran gordetzen dira, eta ondoren ezabatu edo anonimizatu egiten dira. Analitika datuek hornitzailearen atxikipen ezarpenak jarraitzen dituzte. Zure nabigatzaileko datuak zuk ezabatu arte geratzen dira."
+     ]
+    },
+    {
+     "t": "6. Zure eskubideak",
+     "b": [
+      "Indonesiako Datu Pertsonalen Babesari buruzko 2022ko 27. zenbakiko Legearen arabera, eskubide hauek dituzu:",
+      "- guri buruz gordetzen ditugun datu pertsonalak ezagutzea eta haien kopia lortzea;",
+      "- okerreko datuak zuzentzea eskatzea;",
+      "- zure datuak ezabatzea eskatzea edo zure baimena kentzea;",
+      "- tratamendu jakin batzuei aurka egitea.",
+      "Bidali zure eskaera nocodingindonesia@gmail.com helbidera. Denbora zentzuzko batean erantzungo dugu."
+     ]
+    },
+    {
+     "t": "7. Segurtasuna eta haurrak",
+     "b": [
+      "Gune honek HTTPS erabiltzen du eta proiektuko datuetarako sarbidea mugatuta dago. Datuak transmititzeko edo gordetzeko metodo bakar batek ere ez du arriskurik gabekoa izatea ziurtatzen, beraz ezin dugu segurtasun absolutua bermatu.",
+      "Gure zerbitzuak 18 urte edo gehiago dituzten pertsonentzat dira. Ez ditugu nahita haurren datu pertsonalak biltzen."
+     ]
+    },
+    {
+     "t": "8. Politikaren aldaketak",
+     "b": [
+      "Politika hau noizean behin eguneratu daiteke. Azken eguneratzearen data orriaren goiko aldean agertzen da. Hizkuntzen artean esanahian alderik badago, indonesierazko bertsioa aplikatzen da."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Termino eta Baldintzak",
+   "description": "Nocoding gunea eta zerbitzuak erabiltzeko arauak: paketeak, prezioak, lana nola egiten den, jabetza intelektuala eta erantzukizunaren mugak.",
+   "sections": [
+    {
+     "t": "1. Baldintzen onarpena",
+     "b": [
+      "Gune hau irekita edo Nocodingen zerbitzuak erabilita, termino eta baldintza hauek onartzen dituzu. Ados ez bazaude, mesedez ez erabili gure gunea edo zerbitzuak."
+     ]
+    },
+    {
+     "t": "2. Zerbitzuak",
+     "b": [
+      "Nocodingek portfolio edo CV webguneak, landing orriak eta enpresa profilak, informazio eta operazio sistemak, eta negozio prozesuen automatizazioa egiten ditu. Lanaren irismena, eginbideak, egutegia eta kostua zurekin adosten dira WhatsApp edo posta elektronikoz, lana hasi aurretik.",
+      "Kontsulta beti da doakoa, behar duzunean, eta ez zaitu eskaera bat egitera behartzen."
+     ]
+    },
+    {
+     "t": "3. Paketeak eta prezioak",
+     "b": [
+      "- Pakete txikia: urteko Rp 500.000tik aurrera, urtebeteko mantentze lan doakoa eta domeinua barne.",
+      "- Pakete handia: urteko Rp 2.000.000tik aurrera, urtebeteko mantentze lan doakoa eta hosting-a barne.",
+      "Gunean agertzen diren prezioak hasierako prezioak dira. Azken zenbatekoa kontsulta baten ondoren adosten da, zure beharren arabera. Indonesiatik kanpoko bisitarientzat, prezioak tokiko monetan erakusten dira, eguneroko truke tasan oinarritutako zenbatespen gisa; adosten dugun errupia zenbatekoa da aplikatzen dena. Kostu gehigarriak, hala nola eginbide gehigarriak edo doako aldia amaitu ondorengo berritzea, lana egin aurretik jakinarazten zaizkizu."
+     ]
+    },
+    {
+     "t": "4. Lana nola egiten den eta zure erantzukizunak",
+     "b": [
+      "Diseinua ekoizpena hasi aurretik zurekin berrikusi eta onartzen da. Berrikuspenak adostu bezala egiten dira.",
+      "Zu zara materialak (logotipoa, testua, argazkiak, datuak) garaiz emateaz eta horiek erabiltzeko eskubidea izateaz arduratzen dena. Materialen edo iritzien atzerapenek egutegian eragina izan dezakete."
+     ]
+    },
+    {
+     "t": "5. Mantentzea",
+     "b": [
+      "Urtebeteko mantentze lan doakoak gure lanaren akatsak konpontzea eta oinarrizko segurtasun eguneratzeak barne hartzen ditu. Eginbide berriak, diseinuko aldaketa handiak eta jatorrizko akordioz kanpoko lanak bereizita kobratzen dira."
+     ]
+    },
+    {
+     "t": "6. Jabetza intelektuala",
+     "b": [
+      "Zuk emandako materialak zureak izaten jarraitzen dute. Amaitutako lana zuri entregatzen zaizu adostutako ordainketa osatu ondoren. Nocodingek martxan dauden lanak erakutsi ditzake portfolioan adibide gisa, zuk idatziz erakutsi ez daitezen eskatzen ez baduzu behintzat.",
+      "nocoding.web.id gunearen diseinua, testuak eta artikuluak Nocodingenak dira. Haien estekak parteka ditzakezu, baina ezin dituzu baimenik gabe kopiatu eta merkataritza helburuetarako erabili. Artikuluen argazkiak Unsplashetik datoz eta haren lizentziari jarraitzen diote; iturria argazki bakoitzaren azpian aipatzen da."
+     ]
+    },
+    {
+     "t": "7. Gunearen hizkuntzak",
+     "b": [
+      "Gune hau hizkuntza askotan eskuragarri dago. Itzulpenak, batez ere hiztun gutxiago dituzten hizkuntzetakoak, ez dira perfektuak izan daitezke. Esanahian alderik badago, indonesierazko bertsioa aplikatzen da. Lege orri hauek indonesieraz eta ingelesez daude eskuragarri."
+     ]
+    },
+    {
+     "t": "8. Erantzukizunaren mugak",
+     "b": [
+      "Emaitza onak lortzen ahalegintzen gara, baina ez dugu negozio emaitza zehatzik agintzen, hala nola bilaketa sailkapenak, bisitari kopuruak edo salmentak. Ez gara arduradun hirugarrenek eragindako etenaldien aurrean, hala nola hosting, domeinu edo ordainketa hornitzaileen aurrean, ezta zeharkako galeren aurrean ere.",
+      "Zerbitzu baten gaineko gure erantzukizuna zerbitzu horregatik ordaindu duzun zenbatekora mugatzen da, legeak onartzen duen neurrian. Honek ez ditu murrizten legeak babesten dituen zure eskubideak."
+     ]
+    },
+    {
+     "t": "9. Aplikatzen den legea",
+     "b": [
+      "Termino hauek Indonesiako Errepublikako legeek arautzen dituzte. Gatazkarik sortzen bada, lehenik elkarrizketaren bidez konpontzen saiatzen gara. Akordiorik lortzen ez bada, gatazka Indonesiako auzitegi eskudunek ebazten dute."
+     ]
+    },
+    {
+     "t": "10. Aldaketak eta kontaktua",
+     "b": [
+      "Termino hauek noizean behin eguneratu daitezke; azken eguneratzearen data orriaren goiko aldean agertzen da. Galderak nocodingindonesia@gmail.com helbidera edo WhatsApp +62 853-2651-3324 zenbakira bidal daitezke."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Cookie Politika",
+   "description": "Nocoding guneak erabiltzen dituen cookieak eta biltegiratze lokala, zertarako diren eta nola kudeatu.",
+   "sections": [
+    {
+     "t": "1. Zer diren cookieak",
+     "b": [
+      "Cookieak gune batek zure nabigatzailean gordetzen dituen fitxategi txikiak dira. Biltegiratze lokala (local storage eta session storage) antzera funtzionatzen du, baina ez da automatikoki zerbitzari batera bidaltzen. Orri honetan guztiak cookie deitzen dizkiegu."
+     ]
+    },
+    {
+     "t": "2. Gunea ibiltzeko behar dena",
+     "b": [
+      "Zure nabigatzailean gordetzen dira eta ez dira gure zerbitzarietara bidaltzen:",
+      "- nocoding-language eta nocoding-language-set: zuk aukeratutako edo zure nabigatzailetik detektatutako hizkuntza.",
+      "- nocoding-pricing (saioa): zenbatetsitako moneta eta kotizazioa, prezioak orri bakoitzean berriro kalkulatu behar ez izateko.",
+      "- Artikuluen markak: artikulu bat jada gustatu zaizula, ikusi duzula edo partekatu duzula, zenbaketak bikoiztu ez daitezen.",
+      "- Aldi baterako korritze posizioaren marka, gunearen atalen artean mugitzean."
+     ]
+    },
+    {
+     "t": "3. Analitika",
+     "b": [
+      "Gaituta daudenean, bi analitika zerbitzu kargatzen dira orriarekin elkarreragin ondoren (korritu, ukitu edo tekla bat sakatu):",
+      "- Google Analytics 4 (_ga eta _ga_* bezalako cookieak, 2 urte ingurura arte baliozkoak): bisita estatistikak.",
+      "- Microsoft Clarity (_clck, _clsk, CLID eta MUID bezalako cookieak, urte 1 ingurura arte baliozkoak): bero mapak eta identitaterik gabeko interakzio grabaketak.",
+      "CDN eta segurtasun hornitzaileek cookie teknikoak ere ezar ditzakete gunea trafiko kaltegarritik babesteko."
+     ]
+    },
+    {
+     "t": "4. Cookieak nola kudeatu",
+     "b": [
+      "Cookieak ezabatu edo blokeatu ditzakezu nabigatzailearen ezarpenetan. Google Analyticserako Googleren baztertzeko gehigarri ofiziala ere instalatu dezakezu. Analitika cookieak blokeatuta badaude, gunea funtzionatzen jarraitzen du; biltegiratze lokala garbitzen bada, zure hizkuntza aukera lehenespenera itzultzen da."
+     ]
+    },
+    {
+     "t": "5. Galderak",
+     "b": [
+      "Politika honi buruzko galderetarako, jarri harremanetan nocodingindonesia@gmail.com helbidearekin. Datu pertsonalak nola erabiltzen diren Pribatutasun Politikan azaltzen da zehatzago. Hizkuntzen artean esanahian alderik badago, indonesierazko bertsioa aplikatzen da."
+     ]
+    }
+   ]
+  }
+ }
+}

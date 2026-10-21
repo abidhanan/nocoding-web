@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "An sabunta ta ƙarshe",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Manufar Sirri",
+   "description": "Waɗanne bayanai Nocoding ke tattarawa, abin da ake amfani da su, wanda ke sarrafa su, da haƙƙoƙinka kan bayanan sirrinka.",
+   "sections": [
+    {
+     "t": "1. Su wane ne mu",
+     "b": [
+      "Nocoding (nocoding.web.id) sabis ne na shafin yanar gizo, manhaja, tsarin bayanai da sarrafa aiki ta atomatik wanda Abid Hanan Wicaksono ke gudanarwa a Indonesiya. Wannan manufa tana bayyana yadda muke kula da bayanan sirrinka lokacin da ka ziyarci wannan shafi ko ka tuntuɓe mu.",
+      "Ana iya aika tambayoyi game da wannan manufa zuwa nocodingindonesia@gmail.com ko ta WhatsApp a +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Bayanan da muke tattarawa",
+     "b": [
+      "- Bayanan da ka ba mu: sunanka, lambar WhatsApp, imel da bayanin aikinka lokacin da ka tuntuɓe mu ta WhatsApp ko imel. Wannan shafi ba shi da asusun masu amfani ko fom ɗin yin rajista.",
+      "- Bayanan fasaha da ake sarrafawa ta atomatik: adireshin IP, nau'in na'ura da burauza, da shafukan da ka buɗe. Masu ba mu sabis na ajiya da CDN ne ke sarrafa su don isar da shafin da kare shi daga cin zarafi.",
+      "- Ƙasar da aka kiyasta: domin a nuna farashi da kuɗinka, ana kiyasta ƙasarka daga bayanan CDN ko harshen burauzarka. Ba ma adana ta a sabobinmu.",
+      "- Bayanan nazari: Google Analytics 4 da Microsoft Clarity (idan an kunna) suna tattara ƙididdigar amfani kamar shafukan da aka buɗe, tsawon ziyara, nau'in na'ura da rikodin mu'amala marasa suna. Suna lodawa ne kawai bayan ka yi mu'amala da shafin.",
+      "- Ajiya a burauza: zaɓin harshenka, alamun da ke nuna cewa ka riga ka yi like, ka kalli ko ka raba labari, da kiyasin farashi na ɗan lokaci. Ana bayyana cikakkun bayanai a cikin Manufar Kukis.",
+      "- Ana adana yawan kallo, like da raba labarai a matsayin jimillar lambobi, ba tare da asalin baƙo ba."
+     ]
+    },
+    {
+     "t": "3. Abin da ake amfani da bayanan",
+     "b": [
+      "- Amsa tambayoyinka, shirya ƙiyasin farashi da aiwatar da aikinka.",
+      "- Isar da shafin, tabbatar da tsaronsa da kuma sa shi ya yi sauri.",
+      "- Fahimtar yadda ake amfani da shafin domin mu inganta shi.",
+      "- Cika wajibai na doka.",
+      "Ba ma sayar da bayanan sirrinka."
+     ]
+    },
+    {
+     "t": "4. Ɓangarori na uku da abin ya shafa",
+     "b": [
+      "- Vercel: ajiya da isar da shafin.",
+      "- Cloudflare: CDN da tsaro.",
+      "- Google (Google Analytics 4) da Microsoft (Clarity): ƙididdigar amfani da shafin.",
+      "- Meta (WhatsApp) da Google (Gmail): lokacin da ka tuntuɓe mu ta hanyoyin WhatsApp ko imel na wannan shafi.",
+      "- Mai ba da farashin musayar kuɗi: yana karɓar buƙatun farashi ne kawai daga sabarmu, ba bayanan baƙi ba.",
+      "Waɗannan masu bayar da sabis na iya sarrafa bayanai a wajen Indonesiya bisa manufofinsu."
+     ]
+    },
+    {
+     "t": "5. Tsawon lokacin da ake adana bayanai",
+     "b": [
+      "Ana adana tattaunawa da kayan aiki muddin ana buƙatarsu don gudanar da sabis, bayar da tallafi da cika wajibai na doka, sannan a goge su ko a sa su zama marasa suna. Bayanan nazari suna bin tsarin adanawa na mai ba da su. Bayanan da ke cikin burauzarka suna nan har sai ka goge su."
+     ]
+    },
+    {
+     "t": "6. Haƙƙoƙinka",
+     "b": [
+      "Bisa Dokar Indonesiya Mai Lamba 27 ta Shekarar 2022 kan Kare Bayanan Sirri, kana da haƙƙin:",
+      "- sanin bayanan sirrin da muke riƙe game da kai da samun kwafinsu;",
+      "- neman a gyara bayanan da ba daidai ba;",
+      "- neman a goge bayananka ko janye amincewarka;",
+      "- ƙin amincewa da wasu hanyoyin sarrafawa.",
+      "Aika buƙatarka zuwa nocodingindonesia@gmail.com. Za mu amsa cikin lokaci mai ma'ana."
+     ]
+    },
+    {
+     "t": "7. Tsaro da yara",
+     "b": [
+      "Wannan shafi yana amfani da HTTPS kuma samun damar shiga bayanan aiki an taƙaita shi. Babu wata hanyar aikawa ko adana bayanai da ba ta da haɗari gaba ɗaya, don haka ba za mu iya ba da tabbacin cikakken tsaro ba.",
+      "An tsara sabis ɗinmu ne don mutane masu shekara 18 zuwa sama. Ba ma tattara bayanan sirrin yara da gangan."
+     ]
+    },
+    {
+     "t": "8. Sauye-sauye ga wannan manufa",
+     "b": [
+      "Ana iya sabunta wannan manufa lokaci zuwa lokaci. Ana nuna ranar sabuntawa ta ƙarshe a saman shafin. Idan harsuna sun bambanta a ma'ana, sigar Indonesiyanci ce ke aiki."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Sharuɗɗa da Ka'idoji",
+   "description": "Ka'idojin amfani da shafin Nocoding da sabis ɗinsa: fakiti, farashi, yadda ake aiki, mallakar fasaha da iyakokin alhaki.",
+   "sections": [
+    {
+     "t": "1. Amincewa da waɗannan sharuɗɗa",
+     "b": [
+      "Ta hanyar buɗe wannan shafi ko amfani da sabis ɗin Nocoding, ka amince da waɗannan sharuɗɗa da ka'idoji. Idan ba ka amince ba, don Allah kada ka yi amfani da shafinmu ko sabis ɗinmu."
+     ]
+    },
+    {
+     "t": "2. Sabis ɗin",
+     "b": [
+      "Nocoding yana gina shafukan yanar gizo na fayil ko CV, shafukan sauka da bayanan kamfani, tsarin bayanai da gudanarwa, da sarrafa ayyukan kasuwanci ta atomatik. Ana amincewa da faɗin aiki, fasaloli, jadawali da kuɗi tare da kai ta WhatsApp ko imel kafin a fara aiki.",
+      "Shawara kyauta ce a koyaushe, a duk lokacin da kake buƙata, kuma ba ta wajabta maka yin oda ba."
+     ]
+    },
+    {
+     "t": "3. Fakiti da farashi",
+     "b": [
+      "- Ƙaramin fakiti: daga Rp 500,000 a shekara, har da kulawa kyauta da dôma na shekara 1.",
+      "- Babban fakiti: daga Rp 2,000,000 a shekara, har da kulawa kyauta da ajiya na shekara 1.",
+      "Farashin da ke shafin farashi ne na farawa. Ana amincewa da adadin ƙarshe bayan shawara, bisa buƙatunka. Ga baƙi na wajen Indonesiya, ana nuna farashi da kuɗin gida a matsayin kiyasi bisa farashin musayar kuɗi na yau da kullum; adadin rupiah da muka amince da shi ne ke aiki. Ƙarin kuɗaɗe, kamar ƙarin fasaloli ko sabuntawa bayan ƙarewar lokacin kyauta, ana sanar da kai kafin a yi aikin."
+     ]
+    },
+    {
+     "t": "4. Yadda ake aiki da nauyinka",
+     "b": [
+      "Ana duba ƙirar kuma a amince da ita tare da kai kafin samarwa. Ana yin gyare-gyare kamar yadda aka amince.",
+      "Kai ke da alhakin bayar da kayan aiki (tambari, rubutu, hotuna, bayanai) cikin lokaci da kuma samun ikon amfani da su. Jinkirin kayan aiki ko ra'ayi na iya shafar jadawali."
+     ]
+    },
+    {
+     "t": "5. Kulawa",
+     "b": [
+      "Kulawa kyauta ta shekara 1 ta ƙunshi gyaran kurakurai a aikinmu da sabuntawar tsaro na asali. Sababbin fasaloli, manyan canje-canjen ƙira da aikin da ya wuce yarjejeniyar farko ana caji su daban."
+     ]
+    },
+    {
+     "t": "6. Mallakar fasaha",
+     "b": [
+      "Kayan da ka bayar naka ne. Ana miƙa maka aikin da aka kammala bayan an cika biyan kuɗi kamar yadda aka amince. Nocoding na iya nuna ayyukan da ke aiki a matsayin misalai a fayil ɗinsa, sai dai idan ka nemi a rubuce kada a nuna su.",
+      "Ƙira, rubuce-rubuce da labarai a nocoding.web.id mallakin Nocoding ne. Za ka iya raba hanyoyin haɗinsu, amma ba ka da izinin kwafe su da amfani da su don kasuwanci ba tare da izini ba. Hotunan labarai suna fitowa daga Unsplash kuma suna bin lasisinta; ana bayyana tushen a ƙarƙashin kowane hoto."
+     ]
+    },
+    {
+     "t": "7. Harsunan shafin",
+     "b": [
+      "Wannan shafi yana nan da harsuna da yawa. Fassara, musamman ta harsunan da masu magana da su ba su da yawa, na iya zama ba cikakke ba. Idan sun bambanta a ma'ana, sigar Indonesiyanci ce ke aiki. Waɗannan shafukan doka suna nan da Indonesiyanci da Turanci."
+     ]
+    },
+    {
+     "t": "8. Iyakokin alhaki",
+     "b": [
+      "Muna ƙoƙarin kawo sakamako mai kyau, amma ba mu yi alƙawarin takamaiman sakamakon kasuwanci ba, kamar matsayi a bincike, yawan baƙi ko tallace-tallace. Ba mu da alhakin cikas daga ɓangarori na uku kamar masu ba da ajiya, dôma ko biyan kuɗi, ko asarar da ta samu a kaikaice.",
+      "Alhakinmu ga sabis ya takaita ne ga adadin da ka biya na wannan sabis, gwargwadon abin da doka ta yarda. Wannan ba ya rage haƙƙoƙinka da doka ke kariya."
+     ]
+    },
+    {
+     "t": "9. Dokar da ke aiki",
+     "b": [
+      "Dokokin Jamhuriyar Indonesiya ne ke jagorantar waɗannan sharuɗɗa. Idan jayayya ta taso, da farko za mu yi ƙoƙarin warware ta ta tattaunawa. Idan ba a cimma yarjejeniya ba, kotunan da ke da hurumi a Indonesiya ne za su warware jayayyar."
+     ]
+    },
+    {
+     "t": "10. Sauye-sauye da tuntuɓa",
+     "b": [
+      "Ana iya sabunta waɗannan sharuɗɗa lokaci zuwa lokaci; ana nuna ranar sabuntawa ta ƙarshe a saman shafin. Ana iya aika tambayoyi zuwa nocodingindonesia@gmail.com ko ta WhatsApp a +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Manufar Kukis",
+   "description": "Kukis da ajiyar gida da shafin Nocoding ke amfani da su, abin da ake amfani da su, da yadda ake sarrafa su.",
+   "sections": [
+    {
+     "t": "1. Menene kukis",
+     "b": [
+      "Kukis ƙananan fayiloli ne da shafi ke adanawa a burauzarka. Ajiyar gida (local storage) da ajiyar zama (session storage) suna aiki ta hanya mai kama da haka amma ba a aika su zuwa sabar ta atomatik. A wannan shafi muna kiran su duka kukis."
+     ]
+    },
+    {
+     "t": "2. Abin da shafin ke buƙata don aiki",
+     "b": [
+      "Ana adana su a burauzarka kuma ba a aika su zuwa sabobinmu:",
+      "- nocoding-language da nocoding-language-set: harshen da ka zaɓa ko wanda aka gano daga burauzarka.",
+      "- nocoding-pricing (zama): kuɗin da aka kiyasta da farashin musayar, don kada a sake lissafa farashi a kowane shafi.",
+      "- Alamun labarai: ko ka riga ka yi like, ka kalli ko ka raba labari, don kada a ƙirga sau biyu.",
+      "- Alamar wurin gungurawa ta ɗan lokaci lokacin tafiya tsakanin sassan shafin."
+     ]
+    },
+    {
+     "t": "3. Nazari",
+     "b": [
+      "Idan an kunna, sabis na nazari biyu suna lodawa bayan ka yi mu'amala da shafin (gungurawa, taɓawa ko danna maɓalli):",
+      "- Google Analytics 4 (kukis kamar _ga da _ga_*, masu inganci har kusan shekara 2): ƙididdigar ziyara.",
+      "- Microsoft Clarity (kukis kamar _clck, _clsk, CLID da MUID, masu inganci har kusan shekara 1): taswirorin zafi da rikodin mu'amala marasa suna.",
+      "Masu ba da CDN da tsaro na iya kuma saita kukis na fasaha don kare shafin daga zirga-zirga mai cutarwa."
+     ]
+    },
+    {
+     "t": "4. Yadda ake sarrafa kukis",
+     "b": [
+      "Za ka iya goge ko toshe kukis a saitunan burauzarka. Haka kuma za ka iya shigar da ƙarin kayan aikin ficewa na hukuma na Google don Google Analytics. Idan an toshe kukis na nazari, shafin yana ci gaba da aiki; idan an share ajiyar gida, zaɓin harshenka zai koma na asali."
+     ]
+    },
+    {
+     "t": "5. Tambayoyi",
+     "b": [
+      "Don tambayoyi game da wannan manufa, tuntuɓi nocodingindonesia@gmail.com. Ana ƙara bayyana yadda ake amfani da bayanan sirri a cikin Manufar Sirri. Idan harsuna sun bambanta a ma'ana, sigar Indonesiyanci ce ke aiki."
+     ]
+    }
+   ]
+  }
+ }
+}

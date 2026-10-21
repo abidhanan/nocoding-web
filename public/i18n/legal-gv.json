@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Er ny yannoo çhelloo",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Pholasaidh Phrivaadjys",
+   "description": "Cre'n data ta Nocoding tyndaa, cre'n fa t'eh er ny ymmydey, quoi te giarey eh, as ny cairyssyn ayd er dty chliaghtey persoonagh.",
+   "sections": [
+    {
+     "t": "1. Quoi ta shin",
+     "b": [
+      "Ta Nocoding (nocoding.web.id) ny hirveish gruwaitagh, appyn, corys fysseree as obbyr hene-oardagh, jeant liorish Abid Hanan Wicaksono ayns Indonesia. Ta'n pholasaidh shoh grughey kys ta shin goll er-giarrey dty chliaghtey persoonagh tra t'ou jeeaghyn er y ynnyd shoh ny cur ellyn dooin.",
+      "Foddee fyshaghyn mychione y pholasaidh shoh ve currit gys nocodingindonesia@gmail.com ny trooid WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Y data ta shin tyndaa",
+     "b": [
+      "- Data t'ou ec cur dooin: dty ennym, earroo WhatsApp, post-l as cur-magh jeh dty phrojec tra t'ou cur ellyn dooin trooid WhatsApp ny post-l. Cha nel coontyn ymmydeyryn ny foarmyn clou-ec er y ynnyd shoh.",
+      "- Data theknicagh ta giarit hene: enmys IP, sorçh greie as lioarey-garaghtee, as ny duillagyn t'ou foshley. Ta nyn gurrinyn thie-ynnyd as CDN dy giarey eh dy chur er y ynnyd as dy choadey eh voish mee-ymmyd.",
+      "- Cooiley mychione: dy hoilshaghey ny prisyn ayns dty argid, ta dty chooiley coontit veih fysseree CDN ny çhengey dty lioarey-garaghtee. Cha nel shin gynsaghey eh er nyn serveryn.",
+      "- Data analytics: ta Google Analytics 4 as Microsoft Clarity (tra t'ad er) tyndaa earishyn ymmyd casley rish duillagyn foshlit, fud y chaghteraght, sorçh greie as tappaghyn co-obbraght anonymagh. Cha vel ad lhieggit er-lhiegh nuillagh veih tra t'ou co-obbraghey rish y duillag.",
+      "- Cooidjagh lioarey-garaghtee: dty reih çhengey, merkaghyn dy vel oo er ve graihagh, jeeaghyn ny rheynn art, as coontey prish gerrid. Ta ny sharishyn ayns y Pholasaidh Cookies.",
+      "- Ta earishyn jeeaghyn, graih as rheynn artyn er nyn gooidjagh myr earrooyn co-vaarit, gyn enney y ghooinney jeeaghyn."
+     ]
+    },
+    {
+     "t": "3. Cre'n fa ta'n data ymmydit",
+     "b": [
+      "- Dy reayll da dty ynsagh, dy aarlaghey cooishaghyn-prish as dy chooilley dty phrojec.",
+      "- Dy hirveish, dy choadey as dy reayll y ynnyd tappee.",
+      "- Dy tuigsyn kys ta'n ynnyd ymmydit, dy vishaghey eh.",
+      "- Dy chooilley oltooshyn leighoil.",
+      "Cha nel shin creck dty chliaghtey persoonagh."
+     ]
+    },
+    {
+     "t": "4. Trooyssyn trooid ayn",
+     "b": [
+      "- Vercel: thie-ynnyd as shirveish y ynnyd.",
+      "- Cloudflare: CDN as shickyrys.",
+      "- Google (Google Analytics 4) as Microsoft (Clarity): earishyn ymmyd y ynnyd.",
+      "- Meta (WhatsApp) as Google (Gmail): tra t'ou cur ellyn dooin trooid ny lingyn WhatsApp ny post-l er y ynnyd shoh.",
+      "- Cuirraghtey rate argid: cha vel eh cosney agh orraghyn rate veih nyn server, cha nee data jeeaghyn.",
+      "Foddee ny cuirraghtyn shoh data y ghiarey fo-chiaull dy Indonesia lurg nyn bolasaidyn hene."
+     ]
+    },
+    {
+     "t": "5. Cre cha hragh ta'n data reaylt",
+     "b": [
+      "Ta co-loayrtyn as stoo'n phrojec reaylt choud's ta feme er dy reayll y hirveish, dy chur cooney as dy chooilley oltooshyn leighoil, eisht scryssit ny jeant anonymagh. Ta data analytics geiyrt er reihyn reayll y chuirraghtey eh. Ta data ayns dty lioarey-garaghtee fantyn derrey nee oo scryssey eh."
+     ]
+    },
+    {
+     "t": "6. Dty chairyssyn",
+     "b": [
+      "Fo Slattys Earroo 27 jeh 2022 dy Indonesia mychione Coadey Data Persoonagh, ta cair ayd dy:",
+      "- hoiggal as cur-lheiney d'in dty chliaghtey persoonagh ta ec shin mychione oo;",
+      "- yeeraghey dy vel data kyndagh ve lhiasit;",
+      "- yeeraghey dy vel dty chliaghtey ve scryssit ny dy hayrn dty chaghtal;",
+      "- cur oc rish giarey er-lheh.",
+      "Cur dty yeearree gys nocodingindonesia@gmail.com. Freggyrt shin ayns traa reesoonagh."
+     ]
+    },
+    {
+     "t": "7. Shickyrys as paitchyn",
+     "b": [
+      "Ta'n ynnyd shoh ymmydey HTTPS as ta cosnaghey gys data'n phrojec cooishit. Cha nel aght erbee dy chur ny dy reayll data hene-chooidjagh gyn gaue, shen-y-fa cha jig lhien shickyrys slane y gheddyn.",
+      "Ta nyn sirveishyn jeant son sleih 18 bleeaney d'eash as erskyn. Cha nel shin tyndaa lesh fys data persoonagh paitchyn."
+     ]
+    },
+    {
+     "t": "8. Caghlaaghyn y pholasaidh shoh",
+     "b": [
+      "Foddee y pholasaidh shoh ve currit er-nuy veih traa dy hraa. Ta'n daah yn er-chooid cur er-nuy soilshit er mullagh y ghuillag. My ta ny çhengaghyn jeeragh ayns y toshiaght, ta'n lhieggan Indonesianagh gobbraghey."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Raaghyn as Cordailyn",
+   "description": "Ny slattysyn son ymmyd y ynnyd as sirveishyn Nocoding: bagganyn, prisyn, kys ta obbyr jeant, berçhys intellectagh as bree yn eiraght.",
+   "sections": [
+    {
+     "t": "1. Gymmyrkey ny raaghyn shoh",
+     "b": [
+      "Liorish foshley y ynnyd shoh ny ymmydey sirveishyn Nocoding, ta oo cordail rish ny raaghyn as cordailyn shoh. Mannagh vel oo cordail, ny jean ymmyd jeh nyn ynnyd ny nyn sirveishyn."
+     ]
+    },
+    {
+     "t": "2. Ny sirveishyn",
+     "b": [
+      "Ta Nocoding troggal gruwaitaghyn portfolio ny CV, duillagyn-laaidyn as tarmaynyn cooid-negeeaght, corysyn fysseree as obbraghey, as obbyr hene-oardagh d'ymmyrkey gaue. Ta scoap y obbyr, ny buaghyn, yn clane-hraa as y chost cordit lhiat trooid WhatsApp ny post-l roish ta'n obbyr goll toshiaght.",
+      "Ta coyrle ass-cost dy kinjagh, tra erbee ta feme ort, as cha nel eh cur kiaulleeaght ort dy hirrey."
+     ]
+    },
+    {
+     "t": "3. Bagganyn as prisyn",
+     "b": [
+      "- Baggan beg: veih Rp 500,000 dagh blein, lesh reaylys ass-cost as ennym-ynnyd son 1 vlein.",
+      "- Baggan mooar: veih Rp 2,000,000 dagh blein, lesh reaylys ass-cost as thie-ynnyd son 1 vlein.",
+      "Ta ny prisyn er y ynnyd ny prisyn toshiaght. Ta'n çhirrey jeig cordit lurg coyrle, rere dty hiyn. Son jeeaghyn veih magh dy Indonesia, ta prisyn soilshit ayns argid ynnydagh myr coontey rere rate argid-caghlaa dagh laa; ta'n çhirrey ayns rupiah ta shin cordail er ny gobbraghey. Ta cost elley, goll myr buaghyn tooilley ny ass-kiaull lurg jerrey y chiaull ass-cost, ginsit dhyt roish ta'n obbyr jeant."
+     ]
+    },
+    {
+     "t": "4. Kys ta obbyr jeant as dty reeoilleeaght",
+     "b": [
+      "Ta'n dealraght jeeaghit as cooidit lhiat roish gobbraghey. Ta aaryn jeant myr cordit.",
+      "T'ou lhiasagh dy chur stoo (loago, çhaghteraght, aavaryn, data) ayns traa as dy vel cair ayd dy ymmydey ad. Foddee lhiasit ayns stoo ny coontey-ynsagh coyrt-ayns y clane-hraa."
+     ]
+    },
+    {
+     "t": "5. Reayllys",
+     "b": [
+      "Ta reayllys ass-cost son 1 vlein goail stiurey meearyn ayns nyn obbyr as noa-ghellynyn bunneydagh shickyrys. Ta buaghyn noa, caghlaaghyn mooarey ayns dealraght as obbyr ass-lieh y chorys toshiagh paid lheeah."
+     ]
+    },
+    {
+     "t": "6. Berçhys intellectagh",
+     "b": [
+      "Ta'n stoo t'ou cur dooin fantyn lhiat. Ta'n obbyr jeant currit dhyt tra ta'n eaghtyr cordit jeant. Foddee Nocoding obbyr bio y hoilshaghey myr sampleyryn ayns y phortfolio echey, mannagh vel oo shirrey ayns screeu nagh vel eh ve soilshit.",
+      "Ta'n dealraght, çhaghteraght as artyn er nocoding.web.id lhiat Nocoding. Foddee oo lingyn y rheynn, agh cha vod oo ad y chopeeal as dy ymmydey ad ayns cooid-negeeaght gyn kied. Ta aavaryn artyn çheet veih Unsplash as geiyrt er y chaghteraght echey; ta'n ushtey ennymit fo dagh aavaryn."
+     ]
+    },
+    {
+     "t": "7. Çhengaghyn y ynnyd",
+     "b": [
+      "Ta'n ynnyd shoh ry-gheddyn ayns monney çhengaghyn. Foddee nagh vel reihyn-çhengey, er-lheh son çhengaghyn lesh sleih sloo, ve foshlagh. My ta ad jeeragh ayns y toshiaght, ta'n lhieggan Indonesianagh gobbraghey. Ta ny duillagyn leighoil shoh ry-gheddyn ayns Indonesianagh as Baarle."
+     ]
+    },
+    {
+     "t": "8. Bree yn eiraght",
+     "b": [
+      "Ta shin gobbraghey dy chur ayns bree mie, agh cha nel shin gialdyn eiyrtyssyn negeeaght er-lheh goll myr ynnydyn ayns ronsaghey, earrooyn jeeaghyn ny creck. Cha nel shin lhiasagh jeh breeaghyn voish trooyssyn goll myr cuirraghtyn thie-ynnyd, ennym-ynnyd ny paid, ny jeh loghtyn neesheenagh.",
+      "Ta nyn lhiasaght son sirveish er ny chrinnaghey gys y çhirrey t'ou er paid son y sirveish shen, derrey'n çhirrey ta'n leigh lhiggey. Cha nel shoh gerraghey dty chairyssyn ta er nyn goadey liorish leigh."
+     ]
+    },
+    {
+     "t": "9. Leigh gobbraghey",
+     "b": [
+      "Ta ny raaghyn shoh fo leighyn Pobblaght Indonesia. My ta streeu er-hrie, ta shin gynsaghey eh y reayll lesh loayrtys hoshiaght. Mannagh vel cordail er jeant, ta'n streeu reayllit liorish ny cooyrtyn cairagh ayns Indonesia."
+     ]
+    },
+    {
+     "t": "10. Caghlaaghyn as cur-ellyn",
+     "b": [
+      "Foddee ny raaghyn shoh ve currit er-nuy veih traa dy hraa; ta'n daah yn er-chooid cur er-nuy soilshit er mullagh y ghuillag. Foddee fyshaghyn ve currit gys nocodingindonesia@gmail.com ny trooid WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Pholasaidh Cookies",
+   "description": "Ny cookies as cooidjagh ynnydagh ta ynnyd Nocoding ymmydey, cre'n fa ta ad, as kys dy reaylley ad.",
+   "sections": [
+    {
+     "t": "1. Cre ta cookies",
+     "b": [
+      "Ta cookies ny co-failleyn veggey ta ynnyd cooidjagh ayns dty lioarey-garaghtee. Ta cooidjagh ynnydagh as cooidjagh seshoon gobbraghey casley rish agh cha vel ad currit gys server hene-vaghtagh. Er y ghuillag shoh, ta shin gohlley ad ooilley cookies."
+     ]
+    },
+    {
+     "t": "2. Cre ta feme er y ynnyd dy obbraghey",
+     "b": [
+      "Cooidjit ayns dty lioarey-garaghtee as cha vel currit gys nyn serveryn:",
+      "- nocoding-language as nocoding-language-set: y çhengey t'ou reih ny ta feddynit veih dty lioarey-garaghtee.",
+      "- nocoding-pricing (seshoon): y argid as rate ta coontit, dy nagh vel prisyn coontit reesht er dagh duillag.",
+      "- Merkaghyn artyn: er-lhieu dy vel oo er ve graihagh, jeeaghyn ny rheynn art, dy nagh vel earishyn daaghit.",
+      "- Merk steat scrolley son tra ta oo goll eddyr rheynnyn y ynnyd."
+     ]
+    },
+    {
+     "t": "3. Analytics",
+     "b": [
+      "Tra t'ad er, ta daa hirveish analytics lhieggit lurg t'ou co-obbraghey rish y duillag (scrolley, tappal ny brishey eaddey):",
+      "- Google Analytics 4 (cookies goll myr _ga as _ga_*, bentyn derrey mysh 2 vlein): earishyn jeeaghyn.",
+      "- Microsoft Clarity (cookies goll myr _clck, _clsk, CLID as MUID, bentyn derrey mysh 1 vlein): cairtyn-gloo as tappaghyn co-obbraght anonymagh.",
+      "Foddee cuirraghtyn CDN as shickyrys cur cookies theknicagh er-lheh dy choadey y ynnyd veih traffic gaueagh."
+     ]
+    },
+    {
+     "t": "4. Kys dy reaylley cookies",
+     "b": [
+      "Foddee oo scryssey ny sthappal cookies ayns reihyn dty lioarey-garaghtee. Foddee oo myrgeddin cur er yn ennym-keeadey oikoil Google son jeigh-magh Google Analytics. My ta cookies analytics stoppit, ta'n ynnyd foast gobbraghey; my ta cooidjagh ynnydagh glanit, ta dty reih çhengey çheet er ash gys y chaghteraght."
+     ]
+    },
+    {
+     "t": "5. Fyshaghyn",
+     "b": [
+      "Son fyshaghyn mychione y pholasaidh shoh, cur ellyn gys nocodingindonesia@gmail.com. Ta kys ta data persoonagh ymmydit grughit ny share ayns y Pholasaidh Phrivaadjys. My ta ny çhengaghyn jeeragh ayns y toshiaght, ta'n lhieggan Indonesianagh gobbraghey."
+     ]
+    }
+   ]
+  }
+ }
+}

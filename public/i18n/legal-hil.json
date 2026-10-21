@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Natapos nga gin-update",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Palisiya sa Pribasi",
+   "description": "Ano nga datos ang ginatipon sang Nocoding, para sa ano ini ginagamit, sin-o ang nagaproseso sini, kag ang imo mga kinamatarong sa imo personal nga datos.",
+   "sections": [
+    {
+     "t": "1. Sin-o kami",
+     "b": [
+      "Ang Nocoding (nocoding.web.id) isa ka serbisyo sa website, app, sistema sang impormasyon kag automation nga ginatatap ni Abid Hanan Wicaksono sa Indonesia. Ginapaathag sini nga palisiya kon paano namon ginahalin ang imo personal nga datos kon bisitahon mo ini nga site ukon kontakon mo kami.",
+      "Ang mga pamangkot parte sa sini nga palisiya mahimo ipadala sa nocodingindonesia@gmail.com ukon sa WhatsApp sa +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Ang datos nga ginatipon namon",
+     "b": [
+      "- Datos nga ginhatag mo sa amon: ang imo ngalan, numero sa WhatsApp, email kag paathag sang imo proyekto kon kontakon mo kami sa WhatsApp ukon email. Wala sing mga account sang gumagamit ukon sign-up form ini nga site.",
+      "- Teknikal nga datos nga awtomatiko nga ginaproseso: IP address, klase sang device kag browser, kag ang mga pahina nga gin-abri mo. Ang amon mga provider sang hosting kag CDN ang nagaproseso sini agud mag-serbisyo sa site kag panalipdan ini batok sa pag-abuso.",
+      "- Lapit-lapit nga pungsod: agud mapakita ang mga presyo sa imo kwarta, ang imo pungsod ginatantiya halin sa impormasyon sang CDN ukon sa pinulongan sang imo browser. Wala namon ini ginatipigan sa amon mga server.",
+      "- Datos sa analytics: ang Google Analytics 4 kag Microsoft Clarity (kon gin-enable) nagatipon sang estadistika sang paggamit subong sang mga pahina nga gin-abri, kadugayon sang pagbisita, klase sang device kag anonymous nga mga rekording sang interaksyon. Nagaload lang ini pagkatapos mo makigsapol sa pahina.",
+      "- Storage sa browser: ang imo pinili nga pinulongan, mga marka nga na-like, nabasa ukon naibahagi mo na ang isa ka artikulo, kag temporaryo nga banabana sang presyo. Ang mga detalye makita sa Palisiya sa Cookie.",
+      "- Ang mga kadamuon sang pagtan-aw, like kag pagbahin sang mga artikulo ginatipigan subong tinipon nga mga numero, nga wala sing identidad sang bisita."
+     ]
+    },
+    {
+     "t": "3. Para sa ano ginagamit ang datos",
+     "b": [
+      "- Sa pagsabat sa imo mga pamangkot, pagpreparar sang mga kwotasyon kag pagtuman sang imo proyekto.",
+      "- Sa pag-serbisyo, pagpanalipod kag pagpabilisan sang site.",
+      "- Sa paghangop kon paano ginagamit ang site agud mapauswag namon ini.",
+      "- Sa pagtuman sang mga obligasyon sa balaod.",
+      "Wala namon ginabaligya ang imo personal nga datos."
+     ]
+    },
+    {
+     "t": "4. Ikatlo nga mga partido nga nalambigit",
+     "b": [
+      "- Vercel: hosting kag pag-serbisyo sang site.",
+      "- Cloudflare: CDN kag seguridad.",
+      "- Google (Google Analytics 4) kag Microsoft (Clarity): estadistika sang paggamit sang site.",
+      "- Meta (WhatsApp) kag Google (Gmail): kon kontakon mo kami paagi sa mga link sa WhatsApp ukon email sa sini nga site.",
+      "- Provider sang rate sang kwarta: nagadawat lang sang mga hangyo sang rate halin sa amon server, indi sang datos sang mga bisita.",
+      "Ining mga provider mahimo magproseso sang datos sa gwa sang Indonesia suno sa ila kaugalingon nga mga palisiya."
+     ]
+    },
+    {
+     "t": "5. Kadugayon sang pagtipig sang datos",
+     "b": [
+      "Ang mga hambalanon kag materyales sang proyekto ginatipigan samtang kinahanglan ini sa pagpadalagan sang serbisyo, paghatag sang suporta kag pagtuman sang mga obligasyon sa balaod, dayon ginapapas ukon ginahimo nga anonymous. Ang datos sa analytics nagasunod sa mga setting sang pagtipig sang provider sini. Ang datos sa imo browser nagapabilin tubtob papason mo ini."
+     ]
+    },
+    {
+     "t": "6. Ang imo mga kinamatarong",
+     "b": [
+      "Sa idalom sang Balaod Blg. 27 sang 2022 sang Indonesia parte sa Proteksyon sang Personal nga Datos, may kinamatarong ka:",
+      "- nga mahibaluan kag makakuha sang kopya sang personal nga datos nga amon ginatipigan parte sa imo;",
+      "- nga magpangayo nga matadlong ang sayop nga datos;",
+      "- nga magpangayo nga mapapas ang imo datos ukon bawion ang imo pagtugot;",
+      "- nga magbato sa pila ka pagproseso.",
+      "Ipadala ang imo hangyo sa nocodingindonesia@gmail.com. Sabton namon sa makatarunganon nga tion."
+     ]
+    },
+    {
+     "t": "7. Seguridad kag mga bata",
+     "b": [
+      "Ginagamit sang sini nga site ang HTTPS kag limitado ang pag-access sa datos sang proyekto. Wala sing pamaagi sang pagpadala ukon pagtipig sang datos nga wala gid sing risgo, gani indi namon masiguro ang bug-os nga seguridad.",
+      "Ang amon mga serbisyo para sa mga tawo nga 18 anyos pataas. Wala namon tinuyo nga ginatipon ang personal nga datos sang mga bata."
+     ]
+    },
+    {
+     "t": "8. Mga pagbag-o sa sini nga palisiya",
+     "b": [
+      "Ining palisiya mahimo ma-update sa pila ka tion. Ang petsa sang katapusan nga update makita sa ibabaw sang pahina. Kon magkalain ang kahulugan sang mga pinulongan, ang bersyon sa Indonesian ang masunod."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Mga Termino kag Kondisyon",
+   "description": "Ang mga tulumanon sa paggamit sang site kag mga serbisyo sang Nocoding: mga package, presyo, paagi sang pagtrabaho, intelektwal nga kabtangan kag mga limitasyon sang responsibilidad.",
+   "sections": [
+    {
+     "t": "1. Pagtanggap sini nga mga termino",
+     "b": [
+      "Paagi sa pag-abri sini nga site ukon paggamit sang mga serbisyo sang Nocoding, nagauyon ka sa sini nga mga termino kag kondisyon. Kon indi ka nagauyon, palihog indi paggamita ang amon site ukon mga serbisyo."
+     ]
+    },
+    {
+     "t": "2. Ang mga serbisyo",
+     "b": [
+      "Ang Nocoding nagahimo sang mga website sang portfolio ukon CV, landing page kag profile sang kompanya, mga sistema sang impormasyon kag operasyon, kag automation sang proseso sang negosyo. Ang sakop sang trabaho, mga feature, iskedyul kag gasto ginapakighambal kaupod mo sa WhatsApp ukon email antes magsugod ang trabaho.",
+      "Ang konsultasyon libre permi, bisan ano nga tion nga kinahanglan mo, kag wala ka ginapuwersa nga mag-order."
+     ]
+    },
+    {
+     "t": "3. Mga package kag presyo",
+     "b": [
+      "- Gamay nga package: halin sa Rp 500.000 kada tuig, upod ang libre nga maintenance kag domain sa 1 ka tuig.",
+      "- Dako nga package: halin sa Rp 2.000.000 kada tuig, upod ang libre nga maintenance kag hosting sa 1 ka tuig.",
+      "Ang mga presyo sa site pangunang presyo. Ang katapusan nga kantidad ginapakighambal pagkatapos sang konsultasyon, suno sa imo mga kinahanglanon. Para sa mga bisita sa gwa sang Indonesia, ang mga presyo ginapakita sa lokal nga kwarta subong banabana base sa adlaw-adlaw nga exchange rate; ang kantidad sa rupiah nga amon ginpasugtanan amo ang mag-aplay. Ang dugang nga mga gasto, subong sang dugang nga mga feature ukon pag-renew pagkatapos sang libre nga tion, ginasugid sa imo antes himuon ang trabaho."
+     ]
+    },
+    {
+     "t": "4. Paagi sang pagtrabaho kag imo mga responsibilidad",
+     "b": [
+      "Ang disenyo ginahambalan kag ginaaprobahan kaupod mo antes ang produksyon. Ang mga rebisyon ginahimo suno sa gin-uyunan.",
+      "Responsable ka sa paghatag sang mga materyales (logo, teksto, litrato, datos) sa tion kag sa pagpamatuod nga may husto ka sa paggamit sini. Ang paglangan sang mga materyales ukon feedback makaapekto sa iskedyul."
+     ]
+    },
+    {
+     "t": "5. Maintenance",
+     "b": [
+      "Ang libre nga maintenance sa 1 ka tuig nagasakop sa pag-ayo sang mga sayop sa amon trabaho kag basic nga mga security update. Ang bag-o nga mga feature, dalagku nga pagbag-o sang disenyo kag trabaho sa gwa sang orihinal nga kasugtanan ginasingil nga bulag."
+     ]
+    },
+    {
+     "t": "6. Intelektwal nga kabtangan",
+     "b": [
+      "Ang mga materyales nga ginhatag mo imo gihapon. Ang natapos nga trabaho ginahatag sa imo kon makumpleto na ang bayad suno sa gin-uyunan. Mahimo ipakita sang Nocoding ang buhi nga mga trabaho subong halimbawa sa portfolio sini, luwas kon mangayo ka sa sulat nga indi ini ipakita.",
+      "Ang disenyo, teksto kag mga artikulo sa nocoding.web.id iya sang Nocoding. Mahimo mo ibahagi ang mga link sini, apang indi mo mahimo kopyahon kag gamiton sa komersyal nga paagi nga wala sing pagtugot. Ang mga litrato sang artikulo halin sa Unsplash kag nagasunod sa lisensya sini; ang tinubdan ginapakita sa idalom sang kada litrato."
+     ]
+    },
+    {
+     "t": "7. Mga pinulongan sang site",
+     "b": [
+      "Available ining site sa madamo nga pinulongan. Ang mga hubad, labi na para sa mga pinulongan nga gamay ang mga nagahambal, mahimo indi perpekto. Kon magkalain ang kahulugan, ang bersyon sa Indonesian ang masunod. Ining mga legal nga pahina available sa Indonesian kag English."
+     ]
+    },
+    {
+     "t": "8. Mga limitasyon sang responsibilidad",
+     "b": [
+      "Nagapangabudlay kami nga maghatag sang maayo nga resulta, apang wala kami nagahatag sang saad sang pila ka resulta sa negosyo subong sang ranggo sa pagpangita, kadamuon sang bisita ukon baligya. Indi kami responsable sa mga pagkagulo halin sa ikatlo nga mga partido subong sang mga provider sang hosting, domain ukon bayad, ukon sa indirekta nga mga kapildihan.",
+      "Ang amon responsibilidad para sa isa ka serbisyo limitado sa kantidad nga imo nabayaran para sa sina nga serbisyo, hasta sa ginatugutan sang balaod. Wala ini nagapaubos sang imo mga kinamatarong nga ginapanalipdan sang balaod."
+     ]
+    },
+    {
+     "t": "9. Balaod nga nagadumala",
+     "b": [
+      "Ining mga termino ginadumalahan sang mga balaod sang Republika sang Indonesia. Kon may mabaton nga lantugi, una namon pagatinguhaan nga solbaron ini paagi sa paghambalanay. Kon wala sing kasugtanan nga maabot, ang lantugi masolbar sang mga takos nga korte sa Indonesia."
+     ]
+    },
+    {
+     "t": "10. Mga pagbag-o kag pagkontak",
+     "b": [
+      "Ining mga termino mahimo ma-update sa pila ka tion; ang petsa sang katapusan nga update makita sa ibabaw sang pahina. Ang mga pamangkot mahimo ipadala sa nocodingindonesia@gmail.com ukon sa WhatsApp sa +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Palisiya sa Cookie",
+   "description": "Ang mga cookie kag local storage nga ginagamit sang site sang Nocoding, para sa ano ini, kag kon paano ini madumalahan.",
+   "sections": [
+    {
+     "t": "1. Ano ang mga cookie",
+     "b": [
+      "Ang mga cookie gagmay nga mga file nga ginatipigan sang isa ka site sa imo browser. Ang local storage kag session storage nagapanghikot sa pareho nga paagi apang indi awtomatiko nga ginapadala sa server. Sa sini nga pahina, ginatawag namon sila tanan nga cookie."
+     ]
+    },
+    {
+     "t": "2. Ang kinahanglan sang site agud mapanghikot",
+     "b": [
+      "Ginatipigan sa imo browser kag wala ginapadala sa amon mga server:",
+      "- nocoding-language kag nocoding-language-set: ang pinulongan nga imo gin-pili ukon nakita halin sa imo browser.",
+      "- nocoding-pricing (session): ang tinantiya nga kwarta kag rate, agud indi na sulitun ang pagkuwenta sang mga presyo sa kada pahina.",
+      "- Mga marka sang artikulo: kon na-like, nabasa ukon naibahagi mo na ang isa ka artikulo, agud indi madoble ang mga kantidad.",
+      "- Temporaryo nga marka sang posisyon sang scroll kon nagapalupad ka sa tunga sang mga bahin sang site."
+     ]
+    },
+    {
+     "t": "3. Analytics",
+     "b": [
+      "Kon gin-enable, duha ka serbisyo sa analytics ang nagaload pagkatapos mo makigsapol sa pahina (mag-scroll, mag-tap ukon magpindot sang key):",
+      "- Google Analytics 4 (mga cookie subong sang _ga kag _ga_*, may bisa tubtob mga 2 ka tuig): estadistika sang pagbisita.",
+      "- Microsoft Clarity (mga cookie subong sang _clck, _clsk, CLID kag MUID, may bisa tubtob mga 1 ka tuig): heatmap kag anonymous nga mga rekording sang interaksyon.",
+      "Ang mga provider sang CDN kag seguridad mahimo man magbutang sang teknikal nga mga cookie agud panalipdan ang site batok sa makahalalit nga traffic."
+     ]
+    },
+    {
+     "t": "4. Paano madumalahan ang mga cookie",
+     "b": [
+      "Mahimo mo papason ukon bantayan ang mga cookie sa mga setting sang imo browser. Mahimo ka man mag-install sang opisyal nga opt-out add-on sang Google para sa Google Analytics. Kon ang mga cookie sa analytics gin-block, nagapanghikot gihapon ang site; kon ang local storage gin-clear, ang imo pinili nga pinulongan mabalik sa default."
+     ]
+    },
+    {
+     "t": "5. Mga pamangkot",
+     "b": [
+      "Para sa mga pamangkot parte sa sini nga palisiya, kontaka ang nocodingindonesia@gmail.com. Ang paggamit sang personal nga datos ginapaathag pa sa Palisiya sa Pribasi. Kon magkalain ang kahulugan sang mga pinulongan, ang bersyon sa Indonesian ang masunod."
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Zwa u fhedzisela u vusuludzwa",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Mbekanyamaitele ya Tsireledzo ya Mafhungo",
+   "description": "Mafhungo ane Nocoding ya a kuvhanganya, zwine a shumiswa zwazwo, ane a a shumisa, na pfanelo dzaṋu kha mafhungo aṋu a muthu ṋe.",
+   "sections": [
+    {
+     "t": "1. Ri nnyi",
+     "b": [
+      "Nocoding (nocoding.web.id) ndi tshumelo ya webusaithi, app, sisiteme ya mafhungo na u ita zwithu zwi shume zwoṱhe nga ṋoṋo, ine ya langwa ngei Indonesia nga Abid Hanan Wicaksono. Mbekanyamaitele iyi i ṱalutshedza nḓila ine ra shumisa ngayo mafhungo aṋu a muthu ṋe musi ni tshi dalela saithi iyi kana ni tshi tshimbidzana na ṋe.",
+      "Mbudziso dza nga ha mbekanyamaitele iyi dzi nga rumelwa kha nocodingindonesia@gmail.com kana WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Mafhungo ane ra a kuvhanganya",
+     "b": [
+      "- Mafhungo ane na ṋea ṋoṋo: dzina ḽaṋu, nomboro ya WhatsApp, imeiḽi na ṱhalutshedzo ya polokhelo yaṋu musi ni tshi tshimbidzana na ṋe nga WhatsApp kana imeiḽi. Saithi iyi a i na akhaunthi dza vhashumisi kana fomo dza u ḓiṅwalisa.",
+      "- Mafhungo a thekhinikhaḽa ane a shumiswa nga u ḓiitela: adiresi ya IP, tshiṱavhi tsha divaisi na brauza, na masiaṱari ane na a vula. Vhaṋei vha hosting na CDN vha a shumisa u ṱanzwa saithi na u i tsireledza kha u shumiswa hu si na pfunzo.",
+      "- Shango ḽine ḽa nga vha ḽo ḓivhiwa: u itela uri mitengo i sumbedzwe nga tshelede yaṋu, shango ḽaṋu ḽi ṱavhanyisa u ḓivhiwa nga mafhungo a CDN kana nga luambo lwa brauza yaṋu. A ri ḽi vhulungi kha seva dzashu.",
+      "- Mafhungo a ṱhahelelo: Google Analytics 4 na Microsoft Clarity (musi dzi tshi khou shuma) dzi kuvhanganya zwiṱatisiṱiki zwa u shumisa, sa masiaṱari e a vulwa, tshifhinga tsha u dalela, tshiṱavhi tsha divaisi na rekhodo dza u tshimbidzana dzi si na dzina. Dzi a ḓadzwa fhedzi musi no tshimbidzana na siaṱari.",
+      "- Vhulungelo kha brauza: nṱhogomelo ya luambo lwaṋu, tshiga tsha uri no no takalela, wa vhona kana wa kovhela khanedzano, na mbalo ya tshifhinganyana ya mutengo. Mafhungo o fhelelaho a kha Mbekanyamaitele ya Cookie.",
+      "- Mbalo ya u vhonwa, u takalelwa na u kovhelwa ha khanedzano i vhulungwa sa nomboro dzo ṱangana, hu si na dzina ḽa mudaleli."
+     ]
+    },
+    {
+     "t": "3. Mafhungo a shumiswa u itela mini",
+     "b": [
+      "- U fhindula mbudziso dzaṋu, u lugisela mutengo na u ita polokhelo yaṋu.",
+      "- U ṱanzwa, u tsireledza na u fhaṱa saithi i tshi ya nga u ṱavhanya.",
+      "- U pfesesa nḓila ine saithi ya shumiswa ngayo uri ri i khwinisise.",
+      "- U ḓadzisa mbekanyamaitele dza mulayo.",
+      "A ri rengisi mafhungo aṋu a muthu ṋe."
+     ]
+    },
+    {
+     "t": "4. Vhaṅwe vha vhuraru vhane vha dzhenelela",
+     "b": [
+      "- Vercel: hosting na u ṱanzwa ha saithi.",
+      "- Cloudflare: CDN na tsireledzo.",
+      "- Google (Google Analytics 4) na Microsoft (Clarity): zwiṱatisiṱiki zwa u shumiswa ha saithi.",
+      "- Meta (WhatsApp) na Google (Gmail): musi ni tshi tshimbidzana na ṋe nga lingi dza WhatsApp kana imeiḽi kha saithi iyi.",
+      "- Muṋei wa mutengo wa tshelede: u ṱanganedza fhedzi khumbelo dza mutengo dzi bvaho kha seva yashu, hu si mafhungo a vhadaleli.",
+      "Vhaṋei vhenevho vha nga shumisa mafhungo nnḓa ha Indonesia vha tshi tevhedza mbekanyamaitele dzavho."
+     ]
+    },
+    {
+     "t": "5. Mafhungo a vhulungwa tshifhinga tshingafhani",
+     "b": [
+      "Kutaladzo na zwishumiswa zwa polokhelo zwi vhulungwa lwa tshifhinga tshine tsha ṱoḓea u shuma tshumelo, u ṋea thikhedzo na u ḓadzisa mbekanyamaitele dza mulayo, vhunga zwi tshi sa fhedziswa kana u dzhiiwa dzina. Mafhungo a ṱhahelelo a tevhedza zwiimiswa zwa u vhulunga zwa muṋei wawo. Mafhungo a re kha brauza yaṋu a dzula u swika musi ni tshi a pfukisa."
+     ]
+    },
+    {
+     "t": "6. Pfanelo dzaṋu",
+     "b": [
+      "Fhasi ha Mulayo wa Indonesia No. 27 wa 2022 wa Tsireledzo ya Mafhungo a Muthu Ṋe, ni na pfanelo ya u:",
+      "- ḓivha na u wana khopi ya mafhungo aṋu a muthu ṋe ane ra vha nao;",
+      "- humbela uri mafhungo a si fhaṱhi a lugisiwe;",
+      "- humbela uri mafhungo aṋu a pfukiwe kana ni dzhie nḓivhadzo yaṋu ya u tendela;",
+      "- ṱhoḓa u fhambana na u shumiswa ha zwiṅwe zwithu.",
+      "Rumelani khumbelo yaṋu kha nocodingindonesia@gmail.com. Ri ḓo fhindula nga tshifhinga tsho teaho."
+     ]
+    },
+    {
+     "t": "7. Tsireledzo na vhana",
+     "b": [
+      "Saithi iyi i shumisa HTTPS, na u dzhena kha mafhungo a polokhelo zwo thivhelwa. A hu na nḓila ya u rumela kana u vhulunga mafhungo ine ya vha i si na khombo lwo fhelelaho, ngauralo a ri nga khwaṋhisedza tsireledzo yo fhelelaho.",
+      "Tshumelo dzashu dzo itelwa vhathu vha miṅwaha ya 18 na u ṋetshedzwa. A ri kuvhangani mafhungo a muthu ṋe a vhana ri tshi ḓivha."
+     ]
+    },
+    {
+     "t": "8. Mbadelo kha mbekanyamaitele iyi",
+     "b": [
+      "Mbekanyamaitele iyi i nga vusuludzwa tshifhinga nga tshifhinga. Duvha ḽa u fhedzisela u vusuludzwa ḽi sumbedzwa nṱha ha siaṱari. Arali nyambo dzi tshi fhambana kha ṱhalutshedzo, vhuṅwe vhuvhili ha Indonesia ndi ho shumaho."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Milayo na Nyito",
+   "description": "Milayo ya u shumisa saithi ya Nocoding na tshumelo dzayo: phakheji, mitengo, nḓila ine mushumo wa itwa ngayo, pfanelo dza mihumbulo na mimbi ya vhudifhinduleli.",
+   "sections": [
+    {
+     "t": "1. U ṱanganedza milayo",
+     "b": [
+      "Nga u vula saithi iyi kana u shumisa tshumelo dza Nocoding, ni tenda milayo na nyito iyi. Arali ni sa tendi, ri kovhela uri ni songo shumisa saithi yashu kana tshumelo dzashu."
+     ]
+    },
+    {
+     "t": "2. Tshumelo",
+     "b": [
+      "Nocoding i fhaṱa webusaithi dza portfolio kana CV, landing page na profaiḽi dza khamphani, sisiteme dza mafhungo na dza mishumo, na u ita mishumo ya bindu i tshi shuma nga ṋoṋo. Vhuphara ha mushumo, zwiitwa, tshifhinga na tshelede zwi dzhielwa ṋamusi na ṋe nga WhatsApp kana imeiḽi musi mushumo u si athu thoma.",
+      "Ndivho ndi tshifhinga tshoṱhe i si na ndisedzo, tshifhinga tshine na tshi ṱoḓa, nahone a i ni khou ni kombetshedza u ita oda."
+     ]
+    },
+    {
+     "t": "3. Phakheji na mitengo",
+     "b": [
+      "- Phakheji ṱhukhu: u bva kha Rp 500.000 nga ṅwaha, hu tshi katelwa tsireledzo ya mahala na domain ya ṅwaha muthihi.",
+      "- Phakheji khulwane: u bva kha Rp 2.000.000 nga ṅwaha, hu tshi katelwa tsireledzo ya mahala na hosting ya ṅwaha muthihi.",
+      "Mitengo kha saithi ndi mitengo ya u thoma. Mbalo ya u fhedzisela i dzhielwa ṋamusi nga murahu ha ndivho, u ya nga zwine na zwi ṱoḓa. Kha vhadaleli vha re nnḓa ha Indonesia, mitengo i sumbedzwa nga tshelede ya henefho sa khumbulo, i tshi tou ya nga mutengo wa u shandukisa wa duvha ḽiṅwe na ḽiṅwe; mbalo ya rupiah ye ra dzhielana ngayo ndi yone i shumaho. Ndaka dzi ṋwe, sa zwiitwa zwa u engedza kana u vusulusa nga murahu ha tshifhinga tsha mahala, dzi ḓivhadzwa phanḓa ha uri mushumo u itwe."
+     ]
+    },
+    {
+     "t": "4. Nḓila ine mushumo wa itwa ngayo na vhudifhinduleli haṋu",
+     "b": [
+      "Dizaini i vhonwa na u itwa uri i tendelwe ṋamusi na ṋe phanḓa ha u thoma u i ita. Mbadelo dzi itwa nga u ya nga zwo tendelanwaho.",
+      "Ni na vhudifhinduleli ha u ṋea zwishumiswa (logo, mutaladzi, zwifanyiso, mafhungo) nga tshifhinga na u vhona uri ni na pfanelo ya u zwi shumisa. U didimala ha zwishumiswa kana nṱhesa zwi nga kwama tshifhinga."
+     ]
+    },
+    {
+     "t": "5. Tsireledzo ya mushumo",
+     "b": [
+      "Tsireledzo ya mahala ya ṅwaha muthihi i katela u lugisa vhuphiri kha mushumo washu na u vusuludza tsireledzo ya ndeme. Zwiitwa zwiswa, mbadelo khulwane kha dizaini na mishumo ya nnḓa ha tshibvumelwano tsha u thoma zwi badelwa nga nnḓa."
+     ]
+    },
+    {
+     "t": "6. Pfanelo dza mihumbulo",
+     "b": [
+      "Zwishumiswa zwine na zwi ṋea zwi dzula zwi ṋaṋu. Mushumo o fhedzaho u ṋetshedzwa kha ni musi muholo wo tendelanwaho wo badelwa lwo fhelelaho. Nocoding i nga sumbedza mishumo yo no vhulwa sa tsumbo kha portfolio yayo, u swika musi ni tshi humbela nga u ṅwala uri i songo sumbedzwa.",
+      "Dizaini, mutaladzi na khanedzano kha nocoding.web.id ndi dza Nocoding. Ni nga kovhela lingi dzazwo, fhedzi a ni nga ṱanganya na u zwi shumisa kha ndeme ya bindu hu si na tendelo. Zwifanyiso zwa khanedzano zwi bva kha Unsplash nahone zwi tevhedza layisentsi yayo; tshiko tshi sumbedzwa fhasi ha tshifanyiso tshiṅwe na tshiṅwe."
+     ]
+    },
+    {
+     "t": "7. Nyambo dza saithi",
+     "b": [
+      "Saithi iyi i wanala kha nyambo nnzhi. Ṱhalutshedzo, nga maanḓa kha nyambo dzi re na vhathu vha si vhanzhi, dzi nga vha dzi si dzo fhelelaho. Arali dzi tshi fhambana kha ṱhalutshedzo, vhuṅwe vhuvhili ha Indonesia ndi ho shumaho. Masiaṱari aya a mulayo a wanala nga Indonesia na Ngisi."
+     ]
+    },
+    {
+     "t": "8. Mimbi ya vhudifhinduleli",
+     "b": [
+      "Ri shuma u ṋea mvelelo dzavhuḓi, fhedzi a ri ṋei ṱhodea ya mvelelo dza bindu dzo khetheaho sa vhuimo kha ṱhoḓisiso, mbalo ya vhadaleli kana mirengo. A ri vhi na vhudifhinduleli kha thaidzo dzi bvaho kha vhaṅwe vha vhuraru sa vhaṋei vha hosting, domain kana mbadelo, kana kha khombo dzi si dza lwa u tou itwa.",
+      "Vhudifhinduleli hashu kha tshumelo i fhedzelwa kha mbalo ye na i badela kha iyo tshumelo, u swika hune mulayo wa tendela. Izwi a zwi fhungudzi pfanelo dzaṋu dzine dza tsireledzwa nga mulayo."
+     ]
+    },
+    {
+     "t": "9. Mulayo une wa shuma",
+     "b": [
+      "Milayo iyi i langwa nga milayo ya Riphabuḽiki ya Indonesia. Arali hu tshi vha na ngangamukano, ri thoma nga u ṱalutshedzana. Arali hu sa wanali tshibvumelwano, ngangamukano i dzhielwa nga khothe dzi re na maanḓa dza Indonesia."
+     ]
+    },
+    {
+     "t": "10. Mbadelo na u tshimbidzana",
+     "b": [
+      "Milayo iyi i nga vusuludzwa tshifhinga nga tshifhinga; duvha ḽa u fhedzisela u vusuludzwa ḽi sumbedzwa nṱha ha siaṱari. Mbudziso dzi nga rumelwa kha nocodingindonesia@gmail.com kana WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Mbekanyamaitele ya Cookie",
+   "description": "Cookie na vhulungelo ha henefho zwine saithi ya Nocoding ya zwi shumisa, zwine zwa shuma zwazwo, na nḓila ya u zwi langa.",
+   "sections": [
+    {
+     "t": "1. Cookie ndi mini",
+     "b": [
+      "Cookie ndi mafaela maṱuku ane saithi ya a vhulunga kha brauza yaṋu. Vhulungelo ha henefho (local storage) na vhulungelo ha tshifhinga (session storage) zwi shuma nga nḓila i fanaho fhedzi a zwi rumelwi kha seva nga u ḓiitela. Kha siaṱari iyi, ri zwi vhidza zwoṱhe cookie."
+     ]
+    },
+    {
+     "t": "2. Zwine saithi ya zwi ṱoḓa u shuma",
+     "b": [
+      "Zwi vhulungwa kha brauza yaṋu nahone a zwi rumelwi kha seva dzashu:",
+      "- nocoding-language na nocoding-language-set: luambo lwo no lu nanga kana lwo tanganedzwaho kha brauza yaṋu.",
+      "- nocoding-pricing (tshifhinga): tshelede na mutengo wa u shandukisa, uri mitengo i songo vhalwa hafhu kha siaṱari ḽiṅwe na ḽiṅwe.",
+      "- Zwiga zwa khanedzano: arali no no takalela, wa vhona kana wa kovhela khanedzano, uri mbalo i songo vhalwa kavhili.",
+      "- Tshiga tsha tshifhinganyana tsha fhethu ha u ṱavhanya musi hu tshi ṱuwa kha tshipiḓa tshiṅwe tsha saithi hu tshi yiwa kha tshiṅwe."
+     ]
+    },
+    {
+     "t": "3. Ṱhahelelo",
+     "b": [
+      "Musi dzi tshi khou shuma, tshumelo mbili dza ṱhahelelo dzi a ḓadzwa musi no tshimbidzana na siaṱari (u ṱavhanya, u kwama kana u pyanya khiyi):",
+      "- Google Analytics 4 (cookie sa _ga na _ga_*, dzi shuma u swika kha miṅwaha ya 2): zwiṱatisiṱiki zwa u dalela.",
+      "- Microsoft Clarity (cookie sa _clck, _clsk, CLID na MUID, dzi shuma u swika kha ṅwaha muthihi): mapa a muḓi na rekhodo dza u tshimbidzana dzi si na dzina.",
+      "Vhaṋei vha CDN na tsireledzo vha nga dovha vha dzhenisa cookie dza thekhinikhaḽa u tsireledza saithi kha thraafiki i vhaisaho."
+     ]
+    },
+    {
+     "t": "4. Nḓila ya u langa cookie",
+     "b": [
+      "Ni nga pfukisa kana u thivhela cookie kha zwiimiswa zwa brauza yaṋu. Ni nga dovha nwa dzhenisa add-on ya Google ya u hana kha Google Analytics. Arali cookie dza ṱhahelelo dzo thivhelwa, saithi i dzula i tshi shuma; arali vhulungelo ha henefho ho pfukiswa, nanguludzo ya luambo lwaṋu i vhuya kha zwi re hone u thoma."
+     ]
+    },
+    {
+     "t": "5. Mbudziso",
+     "b": [
+      "Kha mbudziso dza nga ha mbekanyamaitele iyi, tshimbidzanani na nocodingindonesia@gmail.com. Nḓila ine mafhungo a muthu ṋe a shumiswa ngayo i ṱalutshedzwa lwo engedzwaho kha Mbekanyamaitele ya Tsireledzo ya Mafhungo. Arali nyambo dzi tshi fhambana kha ṱhalutshedzo, vhuṅwe vhuvhili ha Indonesia ndi ho shumaho."
+     ]
+    }
+   ]
+  }
+ }
+}

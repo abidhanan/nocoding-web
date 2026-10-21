@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Naposledy aktualizované",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Zásady ochrany osobných údajov",
+   "description": "Aké údaje Nocoding zbiera, na čo sa používajú, kto ich spracúva a aké práva máte k svojim osobným údajom.",
+   "sections": [
+    {
+     "t": "1. Kto sme",
+     "b": [
+      "Nocoding (nocoding.web.id) je služba na tvorbu webových stránok, aplikácií, informačných systémov a automatizácie, ktorú v Indonézii prevádzkuje Abid Hanan Wicaksono. Tieto zásady vysvetľujú, ako zaobchádzame s vašimi osobnými údajmi, keď navštívite túto stránku alebo nás kontaktujete.",
+      "Otázky k týmto zásadám môžete poslať na nocodingindonesia@gmail.com alebo cez WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Údaje, ktoré zbierame",
+     "b": [
+      "- Údaje, ktoré nám poskytnete sami: vaše meno, číslo na WhatsApp, e-mail a popis vášho projektu, keď nás kontaktujete cez WhatsApp alebo e-mail. Táto stránka nemá používateľské účty ani registračné formuláre.",
+      "- Technické údaje spracúvané automaticky: IP adresa, typ zariadenia a prehliadača a stránky, ktoré otvoríte. Spracúvajú ich naši poskytovatelia hostingu a CDN, aby stránku zobrazili a chránili ju pred zneužitím.",
+      "- Približná krajina: aby sa ceny zobrazovali vo vašej mene, vaša krajina sa odhaduje z informácií CDN alebo z jazyka vášho prehliadača. Neukladáme ju na našich serveroch.",
+      "- Analytické údaje: Google Analytics 4 a Microsoft Clarity (ak sú zapnuté) zbierajú štatistiky používania, napríklad otvorené stránky, dĺžku návštevy, typ zariadenia a anonymné záznamy interakcií. Načítajú sa až po tom, čo so stránkou interagujete.",
+      "- Úložisko prehliadača: vaša voľba jazyka, značky, že ste článok už označili ako páči sa mi, zobrazili alebo zdieľali, a dočasný odhad ceny. Podrobnosti sú v Zásadách používania súborov cookie.",
+      "- Počty zobrazení, označení páči sa mi a zdieľaní článkov sa ukladajú ako súhrnné čísla bez identity návštevníka."
+     ]
+    },
+    {
+     "t": "3. Na čo sa údaje používajú",
+     "b": [
+      "- Odpovedanie na vaše otázky, príprava cenových ponúk a realizácia vášho projektu.",
+      "- Zobrazovanie stránky, jej zabezpečenie a udržiavanie jej rýchlosti.",
+      "- Pochopenie, ako sa stránka používa, aby sme ju mohli zlepšovať.",
+      "- Plnenie zákonných povinností.",
+      "Vaše osobné údaje nepredávame."
+     ]
+    },
+    {
+     "t": "4. Zapojené tretie strany",
+     "b": [
+      "- Vercel: hosting a zobrazovanie stránky.",
+      "- Cloudflare: CDN a zabezpečenie.",
+      "- Google (Google Analytics 4) a Microsoft (Clarity): štatistiky používania stránky.",
+      "- Meta (WhatsApp) a Google (Gmail): keď nás kontaktujete cez odkazy na WhatsApp alebo e-mail na tejto stránke.",
+      "- Poskytovateľ výmenných kurzov: prijíma len žiadosti o kurzy z nášho servera, nie údaje návštevníkov.",
+      "Títo poskytovatelia môžu spracúvať údaje mimo Indonézie podľa svojich vlastných zásad."
+     ]
+    },
+    {
+     "t": "5. Ako dlho sa údaje uchovávajú",
+     "b": [
+      "Konverzácie a projektové materiály sa uchovávajú, pokiaľ je to potrebné na prevádzku služby, poskytovanie podpory a plnenie zákonných povinností, potom sa vymažú alebo anonymizujú. Analytické údaje sa riadia nastaveniami uchovávania ich poskytovateľa. Údaje vo vašom prehliadači zostanú, kým ich nevymažete."
+     ]
+    },
+    {
+     "t": "6. Vaše práva",
+     "b": [
+      "Podľa indonézskeho zákona č. 27 z roku 2022 o ochrane osobných údajov máte právo:",
+      "- vedieť, aké vaše osobné údaje uchovávame, a získať ich kópiu;",
+      "- požiadať o opravu nesprávnych údajov;",
+      "- požiadať o vymazanie svojich údajov alebo odvolať svoj súhlas;",
+      "- namietať proti určitému spracúvaniu.",
+      "Svoju žiadosť pošlite na nocodingindonesia@gmail.com. Odpovieme v primeranom čase."
+     ]
+    },
+    {
+     "t": "7. Bezpečnosť a deti",
+     "b": [
+      "Táto stránka používa HTTPS a prístup k projektovým údajom je obmedzený. Žiadny spôsob prenosu alebo ukladania údajov nie je úplne bez rizika, preto nemôžeme zaručiť absolútnu bezpečnosť.",
+      "Naše služby sú určené osobám vo veku 18 rokov a viac. Vedome nezbierame osobné údaje detí."
+     ]
+    },
+    {
+     "t": "8. Zmeny týchto zásad",
+     "b": [
+      "Tieto zásady sa môžu z času na čas aktualizovať. Dátum poslednej aktualizácie je uvedený v hornej časti stránky. Ak sa jazykové verzie líšia vo význame, platí indonézska verzia."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Podmienky používania",
+   "description": "Pravidlá používania stránky a služieb Nocoding: balíky, ceny, spôsob práce, duševné vlastníctvo a obmedzenia zodpovednosti.",
+   "sections": [
+    {
+     "t": "1. Prijatie podmienok",
+     "b": [
+      "Otvorením tejto stránky alebo používaním služieb Nocoding súhlasíte s týmito podmienkami. Ak nesúhlasíte, nepoužívajte, prosím, našu stránku ani služby."
+     ]
+    },
+    {
+     "t": "2. Služby",
+     "b": [
+      "Nocoding vytvára webové stránky portfólia alebo životopisu (CV), vstupné stránky a firemné profily, informačné a prevádzkové systémy a automatizáciu podnikových procesov. Rozsah práce, funkcie, harmonogram a náklady sa s vami dohodnú cez WhatsApp alebo e-mail pred začatím práce.",
+      "Konzultácia je vždy bezplatná, kedykoľvek ju potrebujete, a nezaväzuje vás k objednávke."
+     ]
+    },
+    {
+     "t": "3. Balíky a ceny",
+     "b": [
+      "- Malý balík: od Rp 500.000 ročne vrátane bezplatnej údržby a domény na 1 rok.",
+      "- Veľký balík: od Rp 2.000.000 ročne vrátane bezplatnej údržby a hostingu na 1 rok.",
+      "Ceny na stránke sú východiskové. Konečná suma sa dohodne po konzultácii podľa vašich potrieb. Pre návštevníkov mimo Indonézie sa ceny zobrazujú v miestnej mene ako odhad na základe denného výmenného kurzu; platí suma v rupiách, na ktorej sme sa dohodli. Dodatočné náklady, napríklad za ďalšie funkcie alebo obnovenie po skončení bezplatného obdobia, vám oznámime pred vykonaním práce."
+     ]
+    },
+    {
+     "t": "4. Spôsob práce a vaše povinnosti",
+     "b": [
+      "Návrh sa pred výrobou s vami prejde a schváli. Úpravy sa robia podľa dohody.",
+      "Ste zodpovední za včasné poskytnutie podkladov (logo, texty, fotografie, údaje) a za to, že máte právo ich používať. Oneskorenie podkladov alebo spätnej väzby môže ovplyvniť harmonogram."
+     ]
+    },
+    {
+     "t": "5. Údržba",
+     "b": [
+      "Bezplatná údržba na 1 rok zahŕňa opravu chýb v našej práci a základné bezpečnostné aktualizácie. Nové funkcie, väčšie zmeny dizajnu a práca mimo pôvodnej dohody sa účtujú osobitne."
+     ]
+    },
+    {
+     "t": "6. Duševné vlastníctvo",
+     "b": [
+      "Podklady, ktoré poskytnete, zostávajú vaše. Hotové dielo vám bude odovzdané po úplnom zaplatení podľa dohody. Nocoding môže zverejnené diela ukazovať ako ukážky vo svojom portfóliu, pokiaľ písomne nepožiadate, aby sa neukazovali.",
+      "Dizajn, texty a články na nocoding.web.id patria Nocoding. Môžete zdieľať odkazy na ne, ale bez povolenia ich nesmiete kopírovať a komerčne používať. Fotografie k článkom pochádzajú z Unsplash a riadia sa jeho licenciou; zdroj je uvedený pod každou fotografiou."
+     ]
+    },
+    {
+     "t": "7. Jazyky stránky",
+     "b": [
+      "Táto stránka je dostupná v mnohých jazykoch. Preklady, najmä do jazykov s menším počtom hovoriacich, nemusia byť dokonalé. Ak sa líšia vo význame, platí indonézska verzia. Tieto právne stránky sú dostupné v indonézštine a angličtine."
+     ]
+    },
+    {
+     "t": "8. Obmedzenie zodpovednosti",
+     "b": [
+      "Snažíme sa dosiahnuť dobré výsledky, ale nesľubujeme konkrétne obchodné výsledky, ako sú umiestnenia vo vyhľadávaní, počet návštevníkov alebo predaj. Nezodpovedáme za výpadky na strane tretích osôb, ako sú poskytovatelia hostingu, domén alebo platieb, ani za nepriame straty.",
+      "Naša zodpovednosť za službu je obmedzená na sumu, ktorú ste za túto službu zaplatili, v rozsahu, ktorý zákon dovoľuje. Tým nie sú dotknuté vaše práva chránené zákonom."
+     ]
+    },
+    {
+     "t": "9. Rozhodné právo",
+     "b": [
+      "Tieto podmienky sa riadia právnymi predpismi Indonézskej republiky. Ak vznikne spor, najprv sa ho pokúsime vyriešiť rozhovorom. Ak sa nedosiahne dohoda, spor rozhodnú príslušné súdy v Indonézii."
+     ]
+    },
+    {
+     "t": "10. Zmeny a kontakt",
+     "b": [
+      "Tieto podmienky sa môžu z času na čas aktualizovať; dátum poslednej aktualizácie je uvedený v hornej časti stránky. Otázky môžete poslať na nocodingindonesia@gmail.com alebo cez WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Zásady používania súborov cookie",
+   "description": "Súbory cookie a lokálne úložisko, ktoré stránka Nocoding používa, na čo slúžia a ako ich spravovať.",
+   "sections": [
+    {
+     "t": "1. Čo sú súbory cookie",
+     "b": [
+      "Súbory cookie sú malé súbory, ktoré si stránka ukladá vo vašom prehliadači. Lokálne úložisko (local storage) a úložisko relácie (session storage) fungujú podobne, ale neposielajú sa automaticky na server. Na tejto stránke ich všetky nazývame cookie."
+     ]
+    },
+    {
+     "t": "2. Čo stránka potrebuje na fungovanie",
+     "b": [
+      "Uložené vo vašom prehliadači a neposielané na naše servery:",
+      "- nocoding-language a nocoding-language-set: jazyk, ktorý ste zvolili alebo ktorý sa zistil z vášho prehliadača.",
+      "- nocoding-pricing (relácia): odhadovaná mena a kurz, aby sa ceny nepočítali znova na každej stránke.",
+      "- Značky článkov: či ste článok už označili ako páči sa mi, zobrazili alebo zdieľali, aby sa počty nezdvojnásobili.",
+      "- Dočasná značka polohy posunu pri prechode medzi časťami stránky."
+     ]
+    },
+    {
+     "t": "3. Analytika",
+     "b": [
+      "Ak sú zapnuté, dve analytické služby sa načítajú po tom, čo so stránkou interagujete (posuniete, ťuknete alebo stlačíte klávesu):",
+      "- Google Analytics 4 (cookie ako _ga a _ga_*, platné až približne 2 roky): štatistiky návštev.",
+      "- Microsoft Clarity (cookie ako _clck, _clsk, CLID a MUID, platné až približne 1 rok): teplotné mapy a anonymné záznamy interakcií.",
+      "Poskytovatelia CDN a zabezpečenia môžu tiež nastaviť technické cookie, aby chránili stránku pred škodlivou prevádzkou."
+     ]
+    },
+    {
+     "t": "4. Ako spravovať súbory cookie",
+     "b": [
+      "Súbory cookie môžete vymazať alebo zablokovať v nastaveniach prehliadača. Môžete tiež nainštalovať oficiálny doplnok spoločnosti Google na odhlásenie zo služby Google Analytics. Ak sú analytické cookie zablokované, stránka stále funguje; ak sa lokálne úložisko vymaže, vaša voľba jazyka sa vráti na predvolenú."
+     ]
+    },
+    {
+     "t": "5. Otázky",
+     "b": [
+      "S otázkami k týmto zásadám sa obráťte na nocodingindonesia@gmail.com. Ako sa osobné údaje používajú, je podrobnejšie vysvetlené v Zásadách ochrany osobných údajov. Ak sa jazykové verzie líšia vo význame, platí indonézska verzia."
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Laatst bijgewerkt",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Privacybeleid",
+   "description": "Welke gegevens Nocoding verzamelt, waarvoor ze worden gebruikt, wie ze verwerkt en welke rechten u hebt op uw persoonsgegevens.",
+   "sections": [
+    {
+     "t": "1. Wie wij zijn",
+     "b": [
+      "Nocoding (nocoding.web.id) is een dienst voor websites, apps, informatiesystemen en automatisering die in Indonesië wordt gerund door Abid Hanan Wicaksono. Dit beleid legt uit hoe wij met uw persoonsgegevens omgaan wanneer u deze site bezoekt of contact met ons opneemt.",
+      "Vragen over dit beleid kunt u sturen naar nocodingindonesia@gmail.com of via WhatsApp naar +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Gegevens die wij verzamelen",
+     "b": [
+      "- Gegevens die u ons geeft: uw naam, WhatsApp-nummer, e-mailadres en een beschrijving van uw project wanneer u via WhatsApp of e-mail contact met ons opneemt. Deze site heeft geen gebruikersaccounts of aanmeldformulieren.",
+      "- Automatisch verwerkte technische gegevens: IP-adres, type apparaat en browser en de pagina's die u opent. Onze hosting- en CDN-aanbieders verwerken ze om de site te leveren en tegen misbruik te beschermen.",
+      "- Bij benadering het land: om prijzen in uw valuta te kunnen tonen, wordt uw land geschat op basis van CDN-informatie of de taal van uw browser. Wij slaan het niet op onze servers op.",
+      "- Analysegegevens: Google Analytics 4 en Microsoft Clarity (indien ingeschakeld) verzamelen gebruiksstatistieken zoals geopende pagina's, bezoekduur, apparaattype en anonieme opnames van interacties. Ze worden pas geladen nadat u met de pagina hebt gewerkt.",
+      "- Opslag in de browser: uw taalkeuze, markeringen dat u een artikel al hebt geliket, bekeken of gedeeld en een tijdelijke prijsschatting. Details staan in het Cookiebeleid.",
+      "- Het aantal weergaven, likes en keer gedeeld van artikelen wordt opgeslagen als gecombineerde aantallen, zonder identiteit van de bezoeker."
+     ]
+    },
+    {
+     "t": "3. Waarvoor de gegevens worden gebruikt",
+     "b": [
+      "- Uw vragen beantwoorden, offertes opstellen en uw project uitvoeren.",
+      "- De site leveren, beveiligen en snel houden.",
+      "- Begrijpen hoe de site wordt gebruikt, zodat we hem kunnen verbeteren.",
+      "- Voldoen aan wettelijke verplichtingen.",
+      "Wij verkopen uw persoonsgegevens niet."
+     ]
+    },
+    {
+     "t": "4. Betrokken derden",
+     "b": [
+      "- Vercel: hosting en levering van de site.",
+      "- Cloudflare: CDN en beveiliging.",
+      "- Google (Google Analytics 4) en Microsoft (Clarity): statistieken over het gebruik van de site.",
+      "- Meta (WhatsApp) en Google (Gmail): wanneer u via de WhatsApp- of e-mailkoppelingen op deze site contact met ons opneemt.",
+      "- Aanbieder van wisselkoersen: ontvangt alleen koersverzoeken van onze server, geen gegevens van bezoekers.",
+      "Deze aanbieders kunnen gegevens buiten Indonesië verwerken volgens hun eigen beleid."
+     ]
+    },
+    {
+     "t": "5. Hoe lang gegevens worden bewaard",
+     "b": [
+      "Gesprekken en projectmateriaal worden bewaard zolang dat nodig is om de dienst te leveren, ondersteuning te bieden en aan wettelijke verplichtingen te voldoen, en worden daarna verwijderd of geanonimiseerd. Voor analysegegevens gelden de bewaarinstellingen van de aanbieder. Gegevens in uw browser blijven staan totdat u ze verwijdert."
+     ]
+    },
+    {
+     "t": "6. Uw rechten",
+     "b": [
+      "Op grond van de Indonesische wet nr. 27 van 2022 inzake de bescherming van persoonsgegevens hebt u het recht om:",
+      "- te weten welke persoonsgegevens wij van u bewaren en een kopie daarvan te krijgen;",
+      "- te vragen onjuiste gegevens te corrigeren;",
+      "- te vragen uw gegevens te verwijderen of uw toestemming in te trekken;",
+      "- bezwaar te maken tegen bepaalde verwerkingen.",
+      "Stuur uw verzoek naar nocodingindonesia@gmail.com. Wij reageren binnen een redelijke termijn."
+     ]
+    },
+    {
+     "t": "7. Beveiliging en kinderen",
+     "b": [
+      "Deze site gebruikt HTTPS en de toegang tot projectgegevens is beperkt. Geen enkele methode om gegevens te verzenden of op te slaan is volledig risicovrij, dus wij kunnen geen absolute veiligheid garanderen.",
+      "Onze diensten zijn bedoeld voor personen van 18 jaar en ouder. Wij verzamelen niet bewust persoonsgegevens van kinderen."
+     ]
+    },
+    {
+     "t": "8. Wijzigingen in dit beleid",
+     "b": [
+      "Dit beleid kan van tijd tot tijd worden bijgewerkt. De datum van de laatste update staat bovenaan de pagina. Als de talen qua betekenis verschillen, geldt de Indonesische versie."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Algemene voorwaarden",
+   "description": "De regels voor het gebruik van de Nocoding-site en -diensten: pakketten, prijzen, werkwijze, intellectueel eigendom en aansprakelijkheidsbeperkingen.",
+   "sections": [
+    {
+     "t": "1. Aanvaarding van deze voorwaarden",
+     "b": [
+      "Door deze site te openen of de diensten van Nocoding te gebruiken, gaat u akkoord met deze algemene voorwaarden. Als u niet akkoord gaat, gebruik onze site en diensten dan niet."
+     ]
+    },
+    {
+     "t": "2. De diensten",
+     "b": [
+      "Nocoding bouwt portfolio- of cv-websites, landingspagina's en bedrijfsprofielen, informatie- en bedrijfssystemen en automatisering van bedrijfsprocessen. De omvang van het werk, de functies, de planning en de kosten worden voordat het werk begint via WhatsApp of e-mail met u overeengekomen.",
+      "Een adviesgesprek is altijd gratis, wanneer u dat nodig hebt, en verplicht u niet tot een bestelling."
+     ]
+    },
+    {
+     "t": "3. Pakketten en prijzen",
+     "b": [
+      "- Klein pakket: vanaf Rp 500.000 per jaar, inclusief gratis onderhoud en een domeinnaam voor 1 jaar.",
+      "- Groot pakket: vanaf Rp 2.000.000 per jaar, inclusief gratis onderhoud en hosting voor 1 jaar.",
+      "De prijzen op de site zijn vanafprijzen. Het uiteindelijke bedrag wordt na een adviesgesprek overeengekomen, op basis van uw behoeften. Voor bezoekers buiten Indonesië worden prijzen als schatting in de lokale valuta getoond op basis van de dagkoers; het bedrag in roepia dat wij overeenkomen is het geldende bedrag. Extra kosten, zoals extra functies of verlenging na afloop van de gratis periode, worden u meegedeeld voordat het werk wordt uitgevoerd."
+     ]
+    },
+    {
+     "t": "4. Werkwijze en uw verantwoordelijkheden",
+     "b": [
+      "Het ontwerp wordt vóór de productie met u besproken en door u goedgekeurd. Revisies worden uitgevoerd zoals overeengekomen.",
+      "U bent verantwoordelijk voor het tijdig aanleveren van materiaal (logo, tekst, foto's, gegevens) en ervoor dat u het recht hebt het te gebruiken. Vertraging bij materiaal of feedback kan de planning beïnvloeden."
+     ]
+    },
+    {
+     "t": "5. Onderhoud",
+     "b": [
+      "Gratis onderhoud gedurende 1 jaar omvat het herstellen van fouten in ons werk en basale beveiligingsupdates. Nieuwe functies, grote ontwerpwijzigingen en werk buiten de oorspronkelijke overeenkomst worden apart in rekening gebracht."
+     ]
+    },
+    {
+     "t": "6. Intellectueel eigendom",
+     "b": [
+      "Het materiaal dat u aanlevert blijft van u. Het afgeronde werk wordt aan u overgedragen zodra de overeengekomen betaling volledig is voldaan. Nocoding mag live werk als voorbeeld in zijn portfolio tonen, tenzij u schriftelijk vraagt het niet te tonen.",
+      "Het ontwerp, de teksten en de artikelen op nocoding.web.id zijn eigendom van Nocoding. U mag koppelingen ernaar delen, maar u mag ze niet zonder toestemming kopiëren en commercieel gebruiken. Artikelfoto's zijn afkomstig van Unsplash en volgen de licentie daarvan; de bron wordt onder elke foto vermeld."
+     ]
+    },
+    {
+     "t": "7. Talen van de site",
+     "b": [
+      "Deze site is in veel talen beschikbaar. Vertalingen, vooral voor talen met minder sprekers, zijn mogelijk niet perfect. Als ze qua betekenis verschillen, geldt de Indonesische versie. Deze juridische pagina's zijn beschikbaar in het Indonesisch en Engels."
+     ]
+    },
+    {
+     "t": "8. Beperking van aansprakelijkheid",
+     "b": [
+      "Wij streven naar goede resultaten, maar beloven geen specifieke zakelijke uitkomsten zoals zoekposities, bezoekersaantallen of verkoop. Wij zijn niet verantwoordelijk voor storingen door derden zoals hosting-, domein- of betalingsaanbieders, noch voor indirecte schade.",
+      "Onze aansprakelijkheid voor een dienst is, voor zover de wet dat toestaat, beperkt tot het bedrag dat u voor die dienst hebt betaald. Dit laat rechten die u wettelijk beschermd zijn onverlet."
+     ]
+    },
+    {
+     "t": "9. Toepasselijk recht",
+     "b": [
+      "Op deze voorwaarden is het recht van de Republiek Indonesië van toepassing. Als er een geschil ontstaat, proberen wij dit eerst in overleg op te lossen. Als geen overeenstemming wordt bereikt, wordt het geschil beslecht door de bevoegde rechtbanken in Indonesië."
+     ]
+    },
+    {
+     "t": "10. Wijzigingen en contact",
+     "b": [
+      "Deze voorwaarden kunnen van tijd tot tijd worden bijgewerkt; de datum van de laatste update staat bovenaan de pagina. Vragen kunt u sturen naar nocodingindonesia@gmail.com of via WhatsApp naar +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Cookiebeleid",
+   "description": "De cookies en lokale opslag die de Nocoding-site gebruikt, waarvoor ze dienen en hoe u ze beheert.",
+   "sections": [
+    {
+     "t": "1. Wat cookies zijn",
+     "b": [
+      "Cookies zijn kleine bestanden die een site in uw browser opslaat. Lokale opslag en sessieopslag werken op een vergelijkbare manier, maar worden niet automatisch naar een server verzonden. Op deze pagina noemen we ze allemaal cookies."
+     ]
+    },
+    {
+     "t": "2. Wat de site nodig heeft om te werken",
+     "b": [
+      "Opgeslagen in uw browser en niet naar onze servers verzonden:",
+      "- nocoding-language en nocoding-language-set: de taal die u hebt gekozen of die uit uw browser is afgeleid.",
+      "- nocoding-pricing (sessie): de geschatte valuta en koers, zodat prijzen niet op elke pagina opnieuw worden berekend.",
+      "- Artikelmarkeringen: of u een artikel al hebt geliket, bekeken of gedeeld, zodat aantallen niet dubbel worden geteld.",
+      "- Een tijdelijke markering van de scrollpositie bij het wisselen tussen delen van de site."
+     ]
+    },
+    {
+     "t": "3. Analyse",
+     "b": [
+      "Indien ingeschakeld worden twee analysediensten geladen nadat u met de pagina hebt gewerkt (scrollen, tikken of een toets indrukken):",
+      "- Google Analytics 4 (cookies zoals _ga en _ga_*, tot ongeveer 2 jaar geldig): bezoekstatistieken.",
+      "- Microsoft Clarity (cookies zoals _clck, _clsk, CLID en MUID, tot ongeveer 1 jaar geldig): heatmaps en anonieme opnames van interacties.",
+      "CDN- en beveiligingsaanbieders kunnen ook technische cookies plaatsen om de site tegen schadelijk verkeer te beschermen."
+     ]
+    },
+    {
+     "t": "4. Cookies beheren",
+     "b": [
+      "U kunt cookies verwijderen of blokkeren in de instellingen van uw browser. U kunt ook de officiële opt-out-add-on van Google voor Google Analytics installeren. Als analysecookies worden geblokkeerd, blijft de site werken; als de lokale opslag wordt gewist, keert uw taalkeuze terug naar de standaard."
+     ]
+    },
+    {
+     "t": "5. Vragen",
+     "b": [
+      "Neem voor vragen over dit beleid contact op met nocodingindonesia@gmail.com. Hoe persoonsgegevens worden gebruikt, wordt verder toegelicht in het Privacybeleid. Als de talen qua betekenis verschillen, geldt de Indonesische versie."
+     ]
+    }
+   ]
+  }
+ }
+}

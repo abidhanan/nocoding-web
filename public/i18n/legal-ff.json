@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Hesɗitinol cakitiiɗol",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Dawrol Suuɗaare",
+   "description": "Data ndey Nocoding hawrata, ko ɗum huutinirta, hombo ɗum sirrata, e hakkeeji maaɗa dow data maaɗa jeyeteeɗa.",
+   "sections": [
+    {
+     "t": "1. Hombo men ngoni",
+     "b": [
+      "Nocoding (nocoding.web.id) ko ndeeɗoo suɓɓugol sawru internet, aplikaasiyoŋ, sistem anndinoore e ittugol golle ngam hoore maajum, ko Abid Hanan Wicaksono yiiloowo e Indoneesi. Dawrol ndu fahminta no men kuutiniri data maaɗa jeyeteeɗa tuma ndaa yahrta e sawru ɗu'um malla ndaa winndata men.",
+      "Ko aɗa yiɗi ɗaɓɓitaade dow dawrol ndu, winndu nocodingindonesia@gmail.com malla WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data men hawrata",
+     "b": [
+      "- Data ko ndaa hokkata men: innde maaɗa, limngal WhatsApp maaɗa, imeel e tinndinoore dow golle maaɗa tuma ndaa winndata men dow WhatsApp malla imeel. Sawru ɗu'um walaa konte kuutinoowo malla fotooji winndugol.",
+      "- Data teknik ɗo ɗum sirraama ko hoore maajum: ngonka IP, sifaa kaɓirgel e browser, e ɗerewol ɗo ndaa uddi. Yimɓe men ɗo ɗum hodda sawru e CDN ɗum sirra ngam hollugol sawru ɗu'um e ngam raftaade mo ɗum ɓeydaa.",
+      "- Leydi ko ɗum limtaama: ngam hollugol pellital e ceede maaɗa, leydi maaɗa ɗum limtaama ko e anndinoore CDN malla ko e wolde browser maaɗa. Men ndaaroowaa ɗum e serweer men.",
+      "- Data lootugol: Google Analytics 4 e Microsoft Clarity (tuma ɗum ɗon kuutini) ɗon hawra limle kuutiniral no ɗerewol uddaaɗe, ko ɗum yaaji, sifaa kaɓirgel e ñaamdu jokkondiral naa anndaaɗo. Ɗum ɗon ɗaɓɓita tan sey ndaa jokkondirii e ɗerewol ndu.",
+      "- Mooftirgo ɗo browser: suɓaare wolde maaɗa, maandorɗe ko ndaa jaɓɓii, yi'ii malla lollini winndannde, e limtugol ceede ko ɗum yaaji seɗɗa. Tinndinoore ɗe'e ngoni ɗo Dawrol Cookie.",
+      "- Limle yi'ugol, jaɓɓugol e lollugol winndannde ɗum mooftaama no limle hawraaɗe, walaa anndinoore dow mo yahrata."
+     ]
+    },
+    {
+     "t": "3. Ko data huutinirta",
+     "b": [
+      "- Jaabugol ɗaɓɓitaaɗe maaɗa, taaskugol ceede e timminugol golle maaɗa.",
+      "- Hollugol sawru, raftaade mo e hoolaade mo yaawa.",
+      "- Faamugol no sawru huutinirta ngam men ɓeydita mo.",
+      "- Timminugol ko laawol hoolni.",
+      "Men nelaa data maaɗa jeyeteeɗa ngam yeeso."
+     ]
+    },
+    {
+     "t": "4. Ñalɗi tataɓe ɗi'i ngoni e golle",
+     "b": [
+      "- Vercel: hodda sawru e hollugol mo.",
+      "- Cloudflare: CDN e hoolaare.",
+      "- Google (Google Analytics 4) e Microsoft (Clarity): limle kuutiniral sawru.",
+      "- Meta (WhatsApp) e Google (Gmail): tuma ndaa winndata men dow ladde WhatsApp malla imeel ɗe ngoni e sawru ɗu'um.",
+      "- Hoodoowo ceede yaltirɗe: ɗum ɗon jaɓa tan ɗaɓɓitaaɗe ceede ko e serweer men, naa data yimɓe ndaa ngara.",
+      "Hoodiiɓe ɗo'o ngaaɗi sirrude data bayyinɗe Indoneesi, no dawrol maɓɓe wi'ata."
+     ]
+    },
+    {
+     "t": "5. Ɗuuɗuɗum ko data mooftaama",
+     "b": [
+      "Cuɓɓe e kuuɗe golle ɗon mooftee fahin ko hakkunde ɗum hoolniraa ngam yeeyugol hoolaade e timminugol laawol, refti ɗum ittee malla ɗum waɗee naa anndaaɗo. Data lootugol ɗon waylo sarɗi mooftirgo hoodoowo maajum. Data ɗo browser maaɗa ɗon heddoo haa ndaa ittii ɗum."
+     ]
+    },
+    {
+     "t": "6. Hakkeeji maaɗa",
+     "b": [
+      "Ko e Laawol Limngal 27 hitaande 2022 Indoneesi dow Hoolaade Data Jeyeteeɗa, aɗa jeyi hakkeeji ngam:",
+      "- anndugo e jaɓugol kopi data maaɗa jeyeteeɗa ɗum men mooftii;",
+      "- ɗaɓɓitaade ɗum data fenaande ɗum hesɗitinee;",
+      "- ɗaɓɓitaade ɗum data maaɗa ittee malla ittugol jaɓaare maaɗa;",
+      "- salaade sirrugol data feere.",
+      "Nelu ɗaɓɓitaade maaɗa nocodingindonesia@gmail.com. Men jaabete ko e ɗuuɗal moɗɗum."
+     ]
+    },
+    {
+     "t": "7. Hoolaare e ɓiɓɓe",
+     "b": [
+      "Sawru ɗu'um huutinirta HTTPS e naatugol e data golle ɗum ɗon ɓadii. Walaa laawol neldugo malla mooftugo data ɗum walaa raddaare fuu, ngam ɗuum men mbaawaa hoolnugol hoolaare timmuɗo.",
+      "Golle men ngoni ngam yimɓe e ɓurɓe duuɓi 18. Men ndaaroowaa data ɓiɓɓe jeyeteeɗa tuma men anndi."
+     ]
+    },
+    {
+     "t": "8. Waylooji e dawrol ndu",
+     "b": [
+      "Dawrol ndu hesɗitinte tuma e tuma. Ñalnde hesɗitinol cakitiiɗol holle e dow ɗerewol. So wolde ɗe'e keewi e janngirde, wolde Indoneesi ko jeyeteeɗo."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Sarɗiiji e Laawol Kuutiniral",
+   "description": "Laawol kuutiniral sawru Nocoding e golle maajum: paakeeji, ceede, no golle ngollee, jeyal anndal e kiinaaji ɓeydaare.",
+   "sections": [
+    {
+     "t": "1. Jaɓugol sarɗiiji ɗi'i",
+     "b": [
+      "Tuma ndaa uddi sawru ɗu'um malla ndaa kuutini golle Nocoding, aɗa jaɓi sarɗiiji e laawol ɗi'i. So ndaa jaɓaayi, taa kuutinu sawru men malla golle men."
+     ]
+    },
+    {
+     "t": "2. Golle",
+     "b": [
+      "Nocoding ɗon suɓɓa sawruuji portfolio malla CV, ɗerewol landing e profil kampaani, sistem anndinoore e golle, e hoore golle bisnis. Hakkunde golle, kuutiniral, ñalɗi e ceede ɗum ɗon sarta e maaɗa dow WhatsApp malla imeel saanga golle ɗe fuɗɗaayi.",
+      "Ɗaɓɓitaade ɗum free sahaa fuu ndaa ɗum yiɗi, e ɗum wajjitaa ma ɗaɓɓude ɗum."
+     ]
+    },
+    {
+     "t": "3. Paakeeji e ceede",
+     "b": [
+      "- Paake pamaro: diga Rp 500.000 duuɓi fuu, e hoolaare free e domain duuɓi 1.",
+      "- Paake mawɗo: diga Rp 2.000.000 duuɓi fuu, e hoolaare free e hodda sawru duuɓi 1.",
+      "Ceede sawru ɗu'um ko ceede fuɗɗoode. Ɗuuɗal cakitiiɗal ɗum ɗon sarta caggal ɗaɓɓitaade, no ko ɗum ɗaɓɓitaa. Ngam yimɓe ɗo ɗon ɗo Indoneesi walaa, ɗum ɗon holla ceede e kaalis leydi ko limtaama ko ɗum e ɓeydaare kaalis nde'e fuu; ɗuuɗal rupiya ko men sartii ɗum jeyeteeɗo. Ceede ɓeydaaɗe, no kuutiniral ɓeydaaɗe malla hesɗitinol caggal ndeeɗoo sahaa free timmi, ɗum ɗon anndina maa saanga golle ɗe fuɗɗaayi."
+     ]
+    },
+    {
+     "t": "4. No golle ngollee e kiinaaji maaɗa",
+     "b": [
+      "Taaskugol ɗon raarnee e jaɓee e maaɗa saanga golle ɗe fuɗɗaayi. Hesɗitinoore ɗon ngaree no men sartii.",
+      "Aɗa jeyi kiinaaji hokkugo kuuɗe (logo, binndi, foto, data) saanga e jeyugol hakke kuutinirgo ɗum. Hoolaare kuuɗe malla jaabawol ɗon waawi sunnugol ñalɗi."
+     ]
+    },
+    {
+     "t": "5. Hoolaade",
+     "b": [
+      "Hoolaare free duuɓi 1 ɗum ɗon hawra hesɗitinol fenaande e golle men e hesɗitinol hoolaare bannde. Kuutiniral ɓeydaaɗe, waylooji mawɗi e taaskugol, e golle caggal sarti artuɗo ɗum ɗon yeeyee feere."
+     ]
+    },
+    {
+     "t": "6. Jeyal anndal",
+     "b": [
+      "Kuuɗe ɗe ndaa hokki ɗum ɗon heddoo maaɗa. Golle timmuɗe ɗum ɗon hokkee maaɗa so ndaa yeeyi no sartaama timmi. Nocoding ɗon waawi hollugol golle ɗe ngoni ɗo internet ko misaalu e portfolio maajum, si ndaa ɗaɓɓitaayi e binndol ɗum yeeyaa.",
+      "Taaskugol, binndi e winndannde ɗo nocoding.web.id ko jeyal Nocoding. Aɗa waawi lollugol ladde maɓɓe, ammaa aɗa waawaa wuurugol e kuutinirgo ɗum yeeyugol sanne yeeso yeedaaɗe. Foto winndannde ko e Unsplash ɗum ɗon jokka laawol jeyaaɓe maajum; iwdi ɗum winndaa les foto fuu."
+     ]
+    },
+    {
+     "t": "7. Wolde sawru",
+     "b": [
+      "Sawru ɗu'um ɗon e wolde keewɗe. Firooji, sanne e wolde ɗe yimɓe seɗɗa kaalata, ɗum ɗon waawi wonugol timmuɗo naa. So fahmaare feerti, wolde Indoneesi ko jeyeteeɗo. Ɗerewol laawol ɗi'i ngoni e wolde Indoneesi e Engele."
+     ]
+    },
+    {
+     "t": "8. Hakkunde kiinaaji",
+     "b": [
+      "Men ɗon kuutini ngam hokkugo ko ɓuuɓɗum, ammaa men fuɗɗaaki hoolnugol ko bisnis feere no fotde moftal ujunaare, limngal yimɓe ɗo ngaraaɓe malla yeeyugol. Men hoorii naa dow tampere ko tataɓe ngaɗi, no hoodiiɓe sawru, domain malla yoɓugol, naa dow ɓaleeɗi ɗe naa hoore maaɗum.",
+      "Kiinaaji men dow golle ɗe'e ɗum ɗon ɓadi e ɗuuɗal ko ndaa yoɓi dow golle ɗe'e, ko laawol yamiri. Ɗum ɗon ɓeydaaki hakkeeji maaɗa ɗi laawol hoolni."
+     ]
+    },
+    {
+     "t": "9. Laawol jokkotoongol",
+     "b": [
+      "Sarɗiiji ɗi'i ɗon jokka laawol Renndo Indoneesi. So haɗa fuɗɗi, men tanii ɗum sarta e kaalaaji. So sartii waɗaayi, haɗa ɗum sarta ko e suudu jaagorgol ɗo Indoneesi ɗo ɗum jeyi."
+     ]
+    },
+    {
+     "t": "10. Waylooji e jokkondiral",
+     "b": [
+      "Sarɗiiji ɗi'i hesɗitinte tuma e tuma; ñalnde hesɗitinol cakitiiɗol holle e dow ɗerewol. Ko aɗa yiɗi ɗaɓɓitaade, winndu nocodingindonesia@gmail.com malla WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Dawrol Cookie",
+   "description": "Cookie e mooftirgo ɗo browser ɗe sawru Nocoding kuutinirta, ko ɗum ngam, e no ɗum yiilete.",
+   "sections": [
+    {
+     "t": "1. Ko cookie ngoni",
+     "b": [
+      "Cookie ko fayilooji pamarooji ɗi sawru mooftata ɗo browser maaɗa. Mooftirgo ɗo browser e mooftirgo saanga ngollata no ɗum yeeso, ammaa ɗum nelataa serweer ko hoore maajum. Ɗo ɗerewol ndu, men ɗon ewnita ɗum fuu cookie."
+     ]
+    },
+    {
+     "t": "2. Ko sawru ɗu'um ɗon ɗaɓɓita ngam ngolla",
+     "b": [
+      "Ɗum mooftaama ɗo browser maaɗa e ɗum nelaaka e serweer men:",
+      "- nocoding-language e nocoding-language-set: wolde ndaa suɓi malla ɗum yiyaama ko e browser maaɗa.",
+      "- nocoding-pricing (saanga): kaalis e ɓeydaare ɗe limtaama, ngam ceede naa limtee fahin ɗo ɗerewol fuu.",
+      "- Maandorɗe winndannde: so ndaa jaɓɓii, yi'ii malla lollini winndannde, ngam limle naa ɓeydee ɗiɗi.",
+      "- Maandorgel seɗɗa ngam nokku ɗo ndaa hootii tuma ndaa yaha hakkunde ɗerewol sawru."
+     ]
+    },
+    {
+     "t": "3. Lootugol",
+     "b": [
+      "Tuma ɗum ɗon kuutini, golle lootugol ɗiɗi ɗon ɗaɓɓita caggal ndaa jokkondirii e ɗerewol (ndaa suɓii, ndaa fiɗi malla ndaa fiɗi tiimiruki):",
+      "- Google Analytics 4 (cookie bana _ga e _ga_*, ɗum ɗon wuurii haa duuɓi 2 no ɗum wara): limle yahrugol.",
+      "- Microsoft Clarity (cookie bana _clck, _clsk, CLID e MUID, ɗum ɗon wuurii haa duuɓi 1 no ɗum wara): heatmap e ñaamdu jokkondiral naa anndaaɗo.",
+      "Hoodiiɓe CDN e hoolaare ngaaɗi waɗugo cookie teknik ngam hoolugol sawru e yahdu bonnɗu."
+     ]
+    },
+    {
+     "t": "4. No cookie yiilete",
+     "b": [
+      "Aɗa waawi ittugol malla haɗugol cookie ɗo suɓaare browser maaɗa. Aɗa waawi fahin ɓesdugol add-on ɓamtaare Google ngam salaade Google Analytics. So cookie lootugol haɗaama, sawru ɗu'um ɗon ngolla fahin; so mooftirgo ɗo browser ɗum ittaama, suɓaare wolde maaɗa ɗum ɗon hootoo e ko ɗum wonnoo."
+     ]
+    },
+    {
+     "t": "5. Ɗaɓɓitaade",
+     "b": [
+      "Ngam ɗaɓɓitaade dow dawrol ndu, jokkondir e nocodingindonesia@gmail.com. No data jeyeteeɗa kuutinirtee ɗum ɗon fahminee ɓeydaare ɗo Dawrol Suuɗaare. So fahmaare feerti e janngirde, wolde Indoneesi ko jeyeteeɗo."
+     ]
+    }
+   ]
+  }
+ }
+}

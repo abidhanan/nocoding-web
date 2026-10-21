@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Päivitetty viimeksi",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Tietosuojakäytäntö",
+   "description": "Mitä tietoja Nocoding kerää, mihin niitä käytetään, kuka niitä käsittelee ja mitkä oikeudet sinulla on henkilötietoihisi.",
+   "sections": [
+    {
+     "t": "1. Keitä me olemme",
+     "b": [
+      "Nocoding (nocoding.web.id) on verkkosivusto-, sovellus-, tietojärjestelmä- ja automaatiopalvelu, jota Abid Hanan Wicaksono pyörittää Indonesiassa. Tämä käytäntö kertoo, miten käsittelemme henkilötietojasi, kun vierailet tällä sivustolla tai otat meihin yhteyttä.",
+      "Kysymykset tästä käytännöstä voi lähettää osoitteeseen nocodingindonesia@gmail.com tai WhatsApp-numeroon +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Keräämämme tiedot",
+     "b": [
+      "- Tiedot, jotka annat meille: nimesi, WhatsApp-numerosi, sähköpostiosoitteesi ja projektisi kuvaus, kun otat meihin yhteyttä WhatsAppilla tai sähköpostilla. Tällä sivustolla ei ole käyttäjätilejä eikä rekisteröitymislomakkeita.",
+      "- Automaattisesti käsiteltävät tekniset tiedot: IP-osoite, laitteen ja selaimen tyyppi sekä avaamasi sivut. Palvelinhotellin ja CDN:n tarjoajamme käsittelevät niitä sivuston näyttämiseksi ja sen suojaamiseksi väärinkäytöksiltä.",
+      "- Likimääräinen maa: jotta hinnat voidaan näyttää valuutassasi, maasi arvioidaan CDN:n tietojen tai selaimesi kielen perusteella. Emme tallenna sitä palvelimillemme.",
+      "- Analytiikkatiedot: Google Analytics 4 ja Microsoft Clarity (kun ne on otettu käyttöön) keräävät käyttötilastoja, kuten avatut sivut, vierailun kesto, laitetyyppi ja anonyymit vuorovaikutustallenteet. Ne latautuvat vasta, kun olet toiminut sivulla.",
+      "- Selaimen tallennustila: kielivalintasi, merkinnät siitä, että olet jo tykännyt artikkelista, katsonut sen tai jakanut sen, sekä tilapäinen hinta-arvio. Tiedot löytyvät evästekäytännöstä.",
+      "- Artikkelien katselu-, tykkäys- ja jakomäärät tallennetaan yhteenlaskettuina lukuina ilman vierailijan henkilöllisyyttä."
+     ]
+    },
+    {
+     "t": "3. Mihin tietoja käytetään",
+     "b": [
+      "- Kysymystesi vastaamiseen, tarjousten valmisteluun ja projektisi toteuttamiseen.",
+      "- Sivuston tarjoamiseen, suojaamiseen ja nopeana pitämiseen.",
+      "- Sen ymmärtämiseen, miten sivustoa käytetään, jotta voimme parantaa sitä.",
+      "- Lakisääteisten velvoitteiden täyttämiseen.",
+      "Emme myy henkilötietojasi."
+     ]
+    },
+    {
+     "t": "4. Mukana olevat kolmannet osapuolet",
+     "b": [
+      "- Vercel: sivuston isännöinti ja tarjoaminen.",
+      "- Cloudflare: CDN ja tietoturva.",
+      "- Google (Google Analytics 4) ja Microsoft (Clarity): sivuston käyttötilastot.",
+      "- Meta (WhatsApp) ja Google (Gmail): kun otat meihin yhteyttä tämän sivuston WhatsApp- tai sähköpostilinkkien kautta.",
+      "- Valuuttakurssien tarjoaja: saa palvelimeltamme vain kurssipyyntöjä, ei vierailijoiden tietoja.",
+      "Nämä palveluntarjoajat voivat käsitellä tietoja Indonesian ulkopuolella omien käytäntöjensä mukaisesti."
+     ]
+    },
+    {
+     "t": "5. Kuinka kauan tietoja säilytetään",
+     "b": [
+      "Keskusteluja ja projektiaineistoa säilytetään niin kauan kuin on tarpeen palvelun tuottamiseksi, tuen antamiseksi ja lakisääteisten velvoitteiden täyttämiseksi, minkä jälkeen ne poistetaan tai anonymisoidaan. Analytiikkatietojen osalta noudatetaan niiden tarjoajan säilytysasetuksia. Selaimessasi olevat tiedot säilyvät, kunnes poistat ne."
+     ]
+    },
+    {
+     "t": "6. Oikeutesi",
+     "b": [
+      "Indonesian henkilötietojen suojaa koskevan lain nro 27 vuodelta 2022 mukaan sinulla on oikeus:",
+      "- saada tietää ja saada kopio henkilötiedoista, joita meillä on sinusta;",
+      "- pyytää virheellisten tietojen oikaisemista;",
+      "- pyytää tietojesi poistamista tai peruuttaa suostumuksesi;",
+      "- vastustaa tiettyä käsittelyä.",
+      "Lähetä pyyntösi osoitteeseen nocodingindonesia@gmail.com. Vastaamme kohtuullisessa ajassa."
+     ]
+    },
+    {
+     "t": "7. Tietoturva ja lapset",
+     "b": [
+      "Tämä sivusto käyttää HTTPS-yhteyttä, ja projektitietoihin pääsy on rajattu. Mikään tietojen siirto- tai tallennustapa ei ole täysin riskitön, joten emme voi taata ehdotonta turvallisuutta.",
+      "Palvelumme on tarkoitettu vähintään 18-vuotiaille. Emme tietoisesti kerää lasten henkilötietoja."
+     ]
+    },
+    {
+     "t": "8. Tämän käytännön muutokset",
+     "b": [
+      "Tätä käytäntöä voidaan päivittää aika ajoin. Viimeisimmän päivityksen päivämäärä näkyy sivun yläreunassa. Jos kieliversioiden merkitys poikkeaa toisistaan, sovelletaan indonesiankielistä versiota."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Käyttöehdot",
+   "description": "Nocodingin sivuston ja palveluiden käyttösäännöt: paketit, hinnat, työn tekemisen tapa, immateriaalioikeudet ja vastuun rajoitukset.",
+   "sections": [
+    {
+     "t": "1. Ehtojen hyväksyminen",
+     "b": [
+      "Avaamalla tämän sivuston tai käyttämällä Nocodingin palveluita hyväksyt nämä käyttöehdot. Jos et hyväksy niitä, älä käytä sivustoamme tai palveluitamme."
+     ]
+    },
+    {
+     "t": "2. Palvelut",
+     "b": [
+      "Nocoding rakentaa portfolio- tai CV-verkkosivustoja, laskeutumissivuja ja yritysesittelyjä, tieto- ja toimintajärjestelmiä sekä liiketoimintaprosessien automaatiota. Työn laajuus, ominaisuudet, aikataulu ja kustannukset sovitaan kanssasi WhatsAppilla tai sähköpostilla ennen työn alkua.",
+      "Konsultaatio on aina ilmainen, milloin tahansa sitä tarvitset, eikä se velvoita sinua tilaamaan."
+     ]
+    },
+    {
+     "t": "3. Paketit ja hinnat",
+     "b": [
+      "- Pieni paketti: alkaen Rp 500 000 vuodessa, sisältää ilmaisen ylläpidon ja verkkotunnuksen 1 vuodeksi.",
+      "- Suuri paketti: alkaen Rp 2 000 000 vuodessa, sisältää ilmaisen ylläpidon ja palvelinhotellin 1 vuodeksi.",
+      "Sivustolla näytetyt hinnat ovat lähtöhintoja. Lopullinen summa sovitaan konsultaation jälkeen tarpeidesi perusteella. Indonesian ulkopuolisille vierailijoille hinnat näytetään paikallisessa valuutassa arviona päivittäisen valuuttakurssin perusteella; sovittu rupiasumma on se, jota sovelletaan. Lisäkustannuksista, kuten lisäominaisuuksista tai uusimisesta ilmaisen jakson päätyttyä, kerromme sinulle ennen työn tekemistä."
+     ]
+    },
+    {
+     "t": "4. Työn tekeminen ja sinun vastuusi",
+     "b": [
+      "Suunnittelu tarkistetaan ja hyväksytään kanssasi ennen tuotantoa. Muutokset tehdään sovitusti.",
+      "Olet vastuussa siitä, että toimitat aineistot (logo, tekstit, valokuvat, tiedot) ajoissa ja että sinulla on oikeus käyttää niitä. Aineistojen tai palautteen viivästyminen voi vaikuttaa aikatauluun."
+     ]
+    },
+    {
+     "t": "5. Ylläpito",
+     "b": [
+      "1 vuoden ilmainen ylläpito kattaa työmme virheiden korjaamisen ja perustason tietoturvapäivitykset. Uudet ominaisuudet, suuret ulkoasumuutokset ja alkuperäisen sopimuksen ulkopuolinen työ laskutetaan erikseen."
+     ]
+    },
+    {
+     "t": "6. Immateriaalioikeudet",
+     "b": [
+      "Toimittamasi aineistot pysyvät ominasi. Valmis työ luovutetaan sinulle, kun sovittu maksu on kokonaan suoritettu. Nocoding voi esitellä toteutettuja töitä esimerkkeinä portfoliossaan, ellet pyydä kirjallisesti, ettei niitä näytetä.",
+      "Sivuston nocoding.web.id ulkoasu, tekstit ja artikkelit kuuluvat Nocodingille. Voit jakaa linkkejä niihin, mutta et saa kopioida ja käyttää niitä kaupallisesti ilman lupaa. Artikkelien valokuvat ovat peräisin Unsplashista ja noudattavat sen lisenssiä; lähde mainitaan jokaisen kuvan alla."
+     ]
+    },
+    {
+     "t": "7. Sivuston kielet",
+     "b": [
+      "Tämä sivusto on saatavilla monella kielellä. Käännökset, erityisesti vähemmän puhutuille kielille, eivät välttämättä ole täydellisiä. Jos merkitys poikkeaa, sovelletaan indonesiankielistä versiota. Nämä oikeudelliset sivut ovat saatavilla indonesiaksi ja englanniksi."
+     ]
+    },
+    {
+     "t": "8. Vastuun rajoitukset",
+     "b": [
+      "Pyrimme tuottamaan hyviä tuloksia, mutta emme lupaa tiettyjä liiketoiminnallisia tuloksia, kuten hakusijoituksia, kävijämääriä tai myyntiä. Emme vastaa kolmansien osapuolten, kuten palvelinhotellin, verkkotunnusten tai maksupalveluiden tarjoajien, aiheuttamista häiriöistä emmekä välillisistä vahingoista.",
+      "Vastuumme palvelusta rajoittuu siitä palvelusta maksamaasi summaan siinä määrin kuin laki sallii. Tämä ei heikennä lain suojaamia oikeuksiasi."
+     ]
+    },
+    {
+     "t": "9. Sovellettava laki",
+     "b": [
+      "Näihin ehtoihin sovelletaan Indonesian tasavallan lakeja. Jos riita syntyy, yritämme ensin ratkaista sen keskustelemalla. Jos yhteisymmärrystä ei saavuteta, riita ratkaistaan Indonesian toimivaltaisissa tuomioistuimissa."
+     ]
+    },
+    {
+     "t": "10. Muutokset ja yhteystiedot",
+     "b": [
+      "Näitä ehtoja voidaan päivittää aika ajoin; viimeisimmän päivityksen päivämäärä näkyy sivun yläreunassa. Kysymykset voi lähettää osoitteeseen nocodingindonesia@gmail.com tai WhatsApp-numeroon +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Evästekäytäntö",
+   "description": "Evästeet ja paikallinen tallennustila, joita Nocodingin sivusto käyttää, mihin niitä tarvitaan ja miten niitä hallitaan.",
+   "sections": [
+    {
+     "t": "1. Mitä evästeet ovat",
+     "b": [
+      "Evästeet ovat pieniä tiedostoja, joita sivusto tallentaa selaimeesi. Paikallinen tallennustila ja istuntotallennustila toimivat samankaltaisesti, mutta niitä ei lähetetä palvelimelle automaattisesti. Tällä sivulla kutsumme niitä kaikkia evästeiksi."
+     ]
+    },
+    {
+     "t": "2. Mitä sivusto tarvitsee toimiakseen",
+     "b": [
+      "Tallennetaan selaimeesi eikä lähetetä palvelimillemme:",
+      "- nocoding-language ja nocoding-language-set: valitsemasi tai selaimestasi tunnistettu kieli.",
+      "- nocoding-pricing (istunto): arvioitu valuutta ja kurssi, jotta hintoja ei lasketa uudelleen jokaisella sivulla.",
+      "- Artikkelimerkinnät: oletko jo tykännyt artikkelista, katsonut sen tai jakanut sen, jotta määriä ei lasketa kahteen kertaan.",
+      "- Tilapäinen vierityskohdan merkintä siirryttäessä sivuston osien välillä."
+     ]
+    },
+    {
+     "t": "3. Analytiikka",
+     "b": [
+      "Kun ne on otettu käyttöön, kaksi analytiikkapalvelua latautuu, kun olet toiminut sivulla (vierittänyt, napauttanut tai painanut näppäintä):",
+      "- Google Analytics 4 (evästeet kuten _ga ja _ga_*, voimassa enintään noin 2 vuotta): vierailutilastot.",
+      "- Microsoft Clarity (evästeet kuten _clck, _clsk, CLID ja MUID, voimassa enintään noin 1 vuoden): lämpökartat ja anonyymit vuorovaikutustallenteet.",
+      "CDN- ja tietoturvapalveluiden tarjoajat voivat myös asettaa teknisiä evästeitä suojatakseen sivustoa haitalliselta liikenteeltä."
+     ]
+    },
+    {
+     "t": "4. Evästeiden hallinta",
+     "b": [
+      "Voit poistaa tai estää evästeet selaimesi asetuksissa. Voit myös asentaa Googlen virallisen Google Analytics -poisvalintalisäosan. Jos analytiikkaevästeet estetään, sivusto toimii silti; jos paikallinen tallennustila tyhjennetään, kielivalintasi palaa oletukseen."
+     ]
+    },
+    {
+     "t": "5. Kysymykset",
+     "b": [
+      "Jos sinulla on kysyttävää tästä käytännöstä, ota yhteyttä osoitteeseen nocodingindonesia@gmail.com. Henkilötietojen käyttöä selitetään tarkemmin tietosuojakäytännössä. Jos kieliversioiden merkitys poikkeaa toisistaan, sovelletaan indonesiankielistä versiota."
+     ]
+    }
+   ]
+  }
+ }
+}

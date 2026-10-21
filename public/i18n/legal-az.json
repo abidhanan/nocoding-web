@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Son yenilənmə",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Məxfilik Siyasəti",
+   "description": "Nocoding hansı məlumatları toplayır, onlardan nə üçün istifadə olunur, onları kim emal edir və şəxsi məlumatlarınız üzrə hüquqlarınız.",
+   "sections": [
+    {
+     "t": "1. Biz kimik",
+     "b": [
+      "Nocoding (nocoding.web.id) İndoneziyada Abid Hanan Wicaksono tərəfindən idarə olunan vebsayt, tətbiq, informasiya sistemi və avtomatlaşdırma xidmətidir. Bu siyasət bu saytı ziyarət etdiyiniz və ya bizimlə əlaqə saxladığınız zaman şəxsi məlumatlarınıza necə yanaşdığımızı izah edir.",
+      "Bu siyasətlə bağlı suallarınızı nocodingindonesia@gmail.com ünvanına və ya WhatsApp +62 853-2651-3324 nömrəsinə göndərə bilərsiniz."
+     ]
+    },
+    {
+     "t": "2. Topladığımız məlumatlar",
+     "b": [
+      "- Sizin özünüzün verdiyi məlumatlar: bizimlə WhatsApp və ya e-poçt vasitəsilə əlaqə saxladığınız zaman adınız, WhatsApp nömrəniz, e-poçt ünvanınız və layihənizin təsviri. Bu saytda istifadəçi hesabları və ya qeydiyyat formaları yoxdur.",
+      "- Avtomatik emal olunan texniki məlumatlar: IP ünvanı, cihaz və brauzer növü, həmçinin açdığınız səhifələr. Bu məlumatları hostinq və CDN provayderlərimiz saytı göstərmək və sui-istifadədən qorumaq üçün emal edir.",
+      "- Təxmini ölkə: qiymətlərin sizin valyutanızda göstərilməsi üçün ölkəniz CDN məlumatlarından və ya brauzerin dil parametrlərindən təxmin edilir. Biz bunu serverlərimizdə saxlamırıq.",
+      "- Analitik məlumatlar: Google Analytics 4 və Microsoft Clarity (aktiv olduqda) açılan səhifələr, ziyarət müddəti, cihaz növü və şəxsiyyəti göstərməyən qarşılıqlı əlaqə qeydləri kimi istifadə statistikasını toplayır. Onlar yalnız siz səhifə ilə qarşılıqlı əlaqəyə girdikdən sonra yüklənir.",
+      "- Brauzerdə saxlanılan məlumatlar: dil seçiminiz, məqaləni artıq bəyəndiyinizi, gördüyünüzü və ya paylaşdığınızı göstərən işarələr və müvəqqəti qiymət təxmini. Təfərrüatlar Kuki Siyasətində verilib.",
+      "- Məqalələrin baxış, bəyənmə və paylaşım sayları ziyarətçinin şəxsiyyəti olmadan ümumi rəqəmlər kimi saxlanılır."
+     ]
+    },
+    {
+     "t": "3. Məlumatlardan nə üçün istifadə olunur",
+     "b": [
+      "- Suallarınızı cavablandırmaq, təkliflər hazırlamaq və layihənizi həyata keçirmək.",
+      "- Saytı göstərmək, qorumaq və sürətli saxlamaq.",
+      "- Saytdan necə istifadə olunduğunu anlamaq ki, onu təkmilləşdirə bilək.",
+      "- Qüvvədə olan hüquqi öhdəlikləri yerinə yetirmək.",
+      "Biz şəxsi məlumatlarınızı satmırıq."
+     ]
+    },
+    {
+     "t": "4. Cəlb olunan üçüncü tərəflər",
+     "b": [
+      "- Vercel: saytın hostinqi və göstərilməsi.",
+      "- Cloudflare: CDN və təhlükəsizlik.",
+      "- Google (Google Analytics 4) və Microsoft (Clarity): saytın istifadə statistikası.",
+      "- Meta (WhatsApp) və Google (Gmail): bizimlə bu saytdakı WhatsApp və ya e-poçt keçidləri vasitəsilə əlaqə saxladığınız zaman.",
+      "- Valyuta məzənnəsi provayderi: yalnız serverimizdən məzənnə sorğuları alır, ziyarətçi məlumatlarını almır.",
+      "Bu provayderlər məlumatları öz siyasətlərinə uyğun olaraq İndoneziyadan kənarda emal edə bilər."
+     ]
+    },
+    {
+     "t": "5. Məlumatlar nə qədər saxlanılır",
+     "b": [
+      "Yazışmalar və layihə materialları xidməti göstərmək, dəstək vermək və hüquqi öhdəlikləri yerinə yetirmək üçün lazım olduğu müddətdə saxlanılır, sonra silinir və ya anonimləşdirilir. Analitik məlumatlar provayderinin saxlama parametrlərinə uyğundur. Brauzerinizdəki məlumatlar siz onları silənə qədər qalır."
+     ]
+    },
+    {
+     "t": "6. Sizin hüquqlarınız",
+     "b": [
+      "İndoneziyanın Şəxsi Məlumatların Qorunması haqqında 2022-ci il tarixli 27 nömrəli Qanununa əsasən, aşağıdakı hüquqlara maliksiniz:",
+      "- haqqınızda saxladığımız şəxsi məlumatları öyrənmək və onların surətini almaq;",
+      "- yanlış məlumatların düzəldilməsini tələb etmək;",
+      "- məlumatlarınızın silinməsini tələb etmək və ya razılığınızı geri götürmək;",
+      "- müəyyən emal növlərinə etiraz etmək.",
+      "Sorğunuzu nocodingindonesia@gmail.com ünvanına göndərin. Biz ağlabatan müddət ərzində cavab verəcəyik."
+     ]
+    },
+    {
+     "t": "7. Təhlükəsizlik və uşaqlar",
+     "b": [
+      "Bu sayt HTTPS-dən istifadə edir və layihə məlumatlarına giriş məhdudlaşdırılıb. Məlumatın ötürülməsinin və ya saxlanmasının heç bir üsulu tam risksiz deyil, ona görə də mütləq təhlükəsizliyə zəmanət verə bilmərik.",
+      "Xidmətlərimiz 18 yaşdan yuxarı şəxslər üçün nəzərdə tutulub. Biz uşaqların şəxsi məlumatlarını bilərəkdən toplamırıq."
+     ]
+    },
+    {
+     "t": "8. Siyasətdə dəyişikliklər",
+     "b": [
+      "Bu siyasət vaxtaşırı yenilənə bilər. Son yenilənmə tarixi səhifənin yuxarı hissəsində göstərilir. Dillər arasında məna fərqi olarsa, İndoneziya dilindəki versiya qüvvədədir."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Şərtlər və Qaydalar",
+   "description": "Nocoding saytından və xidmətlərindən istifadə qaydaları: paketlər, qiymətlər, işin necə görülməsi, əqli mülkiyyət və məsuliyyətin hədləri.",
+   "sections": [
+    {
+     "t": "1. Şərtlərin qəbulu",
+     "b": [
+      "Bu saytı açmaqla və ya Nocoding xidmətlərindən istifadə etməklə siz bu şərtlər və qaydalarla razılaşırsınız. Razı deyilsinizsə, xahiş edirik saytımızdan və xidmətlərimizdən istifadə etməyin."
+     ]
+    },
+    {
+     "t": "2. Xidmətlər",
+     "b": [
+      "Nocoding portfolio və ya CV vebsaytları, landing səhifələr və şirkət profilləri, informasiya və əməliyyat sistemləri, həmçinin biznes proseslərinin avtomatlaşdırılmasını hazırlayır. İşin əhatə dairəsi, funksiyalar, cədvəl və xərc iş başlamazdan əvvəl sizinlə WhatsApp və ya e-poçt vasitəsilə razılaşdırılır.",
+      "Məsləhətləşmə həmişə pulsuzdur, nə vaxt lazım olsa, və sizi sifariş verməyə məcbur etmir."
+     ]
+    },
+    {
+     "t": "3. Paketlər və qiymətlər",
+     "b": [
+      "- Kiçik paket: ildə Rp 500.000-dan başlayaraq, 1 il müddətinə pulsuz texniki xidmət və domen daxil olmaqla.",
+      "- Böyük paket: ildə Rp 2.000.000-dan başlayaraq, 1 il müddətinə pulsuz texniki xidmət və hostinq daxil olmaqla.",
+      "Saytdakı qiymətlər başlanğıc qiymətlərdir. Yekun məbləğ məsləhətləşmədən sonra ehtiyaclarınıza əsasən razılaşdırılır. İndoneziyadan kənardakı ziyarətçilər üçün qiymətlər gündəlik məzənnəyə əsaslanan təxmini məbləğ kimi yerli valyutada göstərilir; razılaşdırdığımız rupi məbləği isə qüvvədə olan məbləğdir. Əlavə funksiyalar və ya pulsuz müddət bitdikdən sonra yenilənmə kimi əlavə xərclər iş görülməzdən əvvəl sizə bildirilir."
+     ]
+    },
+    {
+     "t": "4. İşin necə görülməsi və sizin məsuliyyətləriniz",
+     "b": [
+      "Dizayn istehsaldan əvvəl sizinlə birlikdə nəzərdən keçirilir və təsdiqlənir. Düzəlişlər razılaşdırıldığı kimi həyata keçirilir.",
+      "Materialları (loqo, mətn, foto, məlumat) vaxtında təqdim etmək və onlardan istifadə etmək hüququnuzun olmasını təmin etmək sizin məsuliyyətinizdir. Materialların və ya rəyin gecikməsi cədvələ təsir edə bilər."
+     ]
+    },
+    {
+     "t": "5. Texniki xidmət",
+     "b": [
+      "1 illik pulsuz texniki xidmət işimizdəki səhvlərin düzəldilməsini və əsas təhlükəsizlik yeniləmələrini əhatə edir. Yeni funksiyalar, dizaynda böyük dəyişikliklər və ilkin razılaşmadan kənar işlər ayrıca ödənilir."
+     ]
+    },
+    {
+     "t": "6. Əqli mülkiyyət",
+     "b": [
+      "Sizin təqdim etdiyiniz materiallar sizin olaraq qalır. Hazır iş razılaşdırılmış ödəniş tam başa çatdıqdan sonra sizə təhvil verilir. Siz yazılı şəkildə göstərilməməsini xahiş etməyincə, Nocoding yayımda olan işləri portfoliosunda nümunə kimi göstərə bilər.",
+      "nocoding.web.id saytındakı dizayn, mətnlər və məqalələr Nocoding-ə məxsusdur. Onların keçidlərini paylaşa bilərsiniz, lakin icazə olmadan kopyalayıb kommersiya məqsədilə istifadə edə bilməzsiniz. Məqalə fotoları Unsplash-dan götürülüb və onun lisenziyasına tabedir; mənbə hər fotonun altında göstərilir."
+     ]
+    },
+    {
+     "t": "7. Saytın dilləri",
+     "b": [
+      "Bu sayt bir çox dildə mövcuddur. Tərcümələr, xüsusilə danışanı az olan dillər üçün, mükəmməl olmaya bilər. Məna fərqi olarsa, İndoneziya dilindəki versiya qüvvədədir. Bu hüquqi səhifələr İndoneziya və ingilis dillərində mövcuddur."
+     ]
+    },
+    {
+     "t": "8. Məsuliyyətin hədləri",
+     "b": [
+      "Biz yaxşı nəticələr təqdim etməyə çalışırıq, lakin axtarış reytinqi, ziyarətçi sayı və ya satışlar kimi müəyyən biznes nəticələrinə söz vermirik. Hostinq, domen və ya ödəniş provayderləri kimi üçüncü tərəflərdən qaynaqlanan fasilələrə, eləcə də dolayı zərərlərə görə məsuliyyət daşımırıq.",
+      "Bir xidmət üzrə məsuliyyətimiz qanunun icazə verdiyi həddə həmin xidmətə görə ödədiyiniz məbləğlə məhdudlaşır. Bu, qanunla qorunan hüquqlarınızı azaltmır."
+     ]
+    },
+    {
+     "t": "9. Tətbiq olunan hüquq",
+     "b": [
+      "Bu şərtlər İndoneziya Respublikasının qanunvericiliyinə tabedir. Mübahisə yaranarsa, əvvəlcə onu müzakirə yolu ilə həll etməyə çalışırıq. Razılıq əldə olunmazsa, mübahisə İndoneziyadakı səlahiyyətli məhkəmələr tərəfindən həll edilir."
+     ]
+    },
+    {
+     "t": "10. Dəyişikliklər və əlaqə",
+     "b": [
+      "Bu şərtlər vaxtaşırı yenilənə bilər; son yenilənmə tarixi səhifənin yuxarı hissəsində göstərilir. Suallarınızı nocodingindonesia@gmail.com ünvanına və ya WhatsApp +62 853-2651-3324 nömrəsinə göndərə bilərsiniz."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Kuki Siyasəti",
+   "description": "Nocoding saytının istifadə etdiyi kukilər və yerli yaddaş, onların nə üçün olduğu və necə idarə olunduğu.",
+   "sections": [
+    {
+     "t": "1. Kukilər nədir",
+     "b": [
+      "Kukilər saytın brauzerinizdə saxladığı kiçik fayllardır. Yerli yaddaş (local storage) və sessiya yaddaşı (session storage) oxşar şəkildə işləyir, lakin serverə avtomatik göndərilmir. Bu səhifədə hamısını kuki adlandırırıq."
+     ]
+    },
+    {
+     "t": "2. Saytın işləməsi üçün lazım olanlar",
+     "b": [
+      "Brauzerinizdə saxlanılır və serverlərimizə göndərilmir:",
+      "- nocoding-language və nocoding-language-set: seçdiyiniz və ya brauzerinizdən aşkar edilən dil.",
+      "- nocoding-pricing (sessiya): təxmini valyuta və məzənnə, belə ki, qiymətlər hər səhifədə yenidən hesablanmasın.",
+      "- Məqalə işarələri: məqaləni artıq bəyəndiyinizi, gördüyünüzü və ya paylaşdığınızı göstərir, belə ki, say ikiqat artmasın.",
+      "- Saytın hissələri arasında keçid zamanı müvəqqəti sürüşdürmə mövqeyi işarəsi."
+     ]
+    },
+    {
+     "t": "3. Analitika",
+     "b": [
+      "Aktiv olduqda, iki analitika xidməti siz səhifə ilə qarşılıqlı əlaqəyə girdikdən sonra (sürüşdürmə, toxunma və ya düyməyə basma) yüklənir:",
+      "- Google Analytics 4 (_ga və _ga_* kimi kukilər, qüvvədə olma müddəti təxminən 2 ilə qədər): ziyarət statistikası.",
+      "- Microsoft Clarity (_clck, _clsk, CLID və MUID kimi kukilər, qüvvədə olma müddəti təxminən 1 ilə qədər): istilik xəritələri və şəxsiyyəti göstərməyən qarşılıqlı əlaqə qeydləri.",
+      "CDN və təhlükəsizlik provayderləri də saytı zərərli trafikdən qorumaq üçün texniki kukilər təyin edə bilər."
+     ]
+    },
+    {
+     "t": "4. Kukiləri necə idarə etmək olar",
+     "b": [
+      "Kukiləri brauzer parametrlərində silə və ya bloklaya bilərsiniz. Həmçinin Google Analytics üçün Google-un rəsmi imtina əlavəsini quraşdıra bilərsiniz. Analitik kukilər bloklanarsa, sayt yenə də işləyir; yerli yaddaş təmizlənərsə, dil seçiminiz standart vəziyyətə qayıdır."
+     ]
+    },
+    {
+     "t": "5. Suallar",
+     "b": [
+      "Bu siyasətlə bağlı suallar üçün nocodingindonesia@gmail.com ünvanı ilə əlaqə saxlayın. Şəxsi məlumatlardan necə istifadə olunduğu Məxfilik Siyasətində daha ətraflı izah edilir. Dillər arasında məna fərqi olarsa, İndoneziya dilindəki versiya qüvvədədir."
+     ]
+    }
+   ]
+  }
+ }
+}

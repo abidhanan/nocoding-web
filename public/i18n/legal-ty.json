@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Faaapuraa hopea",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Faatureraa Faufaa Hio",
+   "description": "Te mau parau ta Nocoding e haaputu, eaha te faaohipa-raa, na vai e faatupu, e to oe mau tiaraa i nia i ta oe mau parau taata iho.",
+   "sections": [
+    {
+     "t": "1. O vai matou",
+     "b": [
+      "O Nocoding (nocoding.web.id) te hoê taviniraa pu tuatiraa tarenga, farereiraa, faanahoraa parau apî e te rave-iho-raa, ta Abid Hanan Wicaksono e faatere i Initonezia. Te faataa ra teie faatureraa i to matou haapao-raa i ta oe mau parau taata iho ia haere mai oe i teie tarenga e ia tae mai oe ia matou.",
+      "E nehenehe te mau uiraa no nia i teie faatureraa e tono-hia i nocodingindonesia@gmail.com aore ra i WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Te mau parau ta matou e haaputu",
+     "b": [
+      "- Te mau parau ta oe e horoa mai: to oe i'oa, to oe numera WhatsApp, to oe imeri e te hoê tapao no ta oe ohipa ia tae mai oe ia matou na roto i WhatsApp aore ra imeri. Aita teie tarenga e mau tuhaa faaohipa aore ra mau parau hoo-i'oa.",
+      "- Te mau parau ite-hanga e faatupu-hia na roto i te mau mana: te àpitiraa IP, te huru mataitai e te vaharapa, e te mau api ta oe e tuu. Na ta matou mau taata hopoi-mai i te hosting e te CDN e faatupu i te reira no te hopoi mai i te tarenga e no te dopa i te reira i te faaohipa-ino-raa.",
+      "- Te fenua hoê hoho: ia nehenehe te mau ouo e faaite-hia i to moni, e hoê hoho te fenua no oe na roto i te mau parau CDN aore ra te reo o to vaharapa. Aita matou e tape i te reira i nia i ta matou mau tapura.",
+      "- Te mau parau tuatapapa: Google Analytics 4 e Microsoft Clarity (ia ora) e haaputu i te mau numera faaohipa mai te mau api i matara, te maoro o te hereraa, te huru mataitai e te mau hoê-roaraa tairururaa aita i faaiteraa i te taata. E ruru-noa-hia i muri a'e i to oe faatairururaa i te api.",
+      "- Te vaharapa tape: te maitiraa reo, te mau tapao e ua au-a oe, ua ite-a oe aore ra ua tufa-a oe i te hoê api papai, e te hoê hoho ouo no te taime poto. Te mau auraa e vai ra i roto i te Faatureraa Cookie.",
+      "- Te numera mataitai, te au e te tufaraa o te mau api papai e tape-hia ei mau numera hoê-pu-hia, aita te hoê taata e matara-hia."
+     ]
+    },
+    {
+     "t": "3. Eaha te faaohipa-raa i te mau parau",
+     "b": [
+      "- Te pahonoraa i ta oe mau uiraa, te faaineineraa i te mau tuhaa ouo e te faatupuraa i ta oe ohipa.",
+      "- Te hopoi-mai-raa, te dopaa e te tapea-raa i te tarenga ia vitiviti.",
+      "- Te maramarama i te huru o te faaohipa-raa i te tarenga ia nehenehe ia matou ia faaitoito.",
+      "- Te faatupuraa i te mau hopoia ture.",
+      "Aita matou e hoo i ta oe mau parau taata iho."
+     ]
+    },
+    {
+     "t": "4. Te mau taata toru e tuatapapa",
+     "b": [
+      "- Vercel: te hosting e te hopoi-mai-raa i te tarenga.",
+      "- Cloudflare: CDN e te dopaa.",
+      "- Google (Google Analytics 4) e Microsoft (Clarity): te mau numera faaohipa o te tarenga.",
+      "- Meta (WhatsApp) e Google (Gmail): ia tae mai oe ia matou na roto i te mau taairaa WhatsApp aore ra imeri i nia i teie tarenga.",
+      "- Te taata hopoi-mai i te faito moni: e farii noa i te mau ani faito mai ta matou tapura mai, aita i te mau parau o te feia haere mai.",
+      "E nehenehe teie mau taata hopoi-mai e faatupu i te mau parau i rapae i Initonezia ia au i ta ratou iho mau faatureraa."
+     ]
+    },
+    {
+     "t": "5. Te maoro o te tapearaa i te mau parau",
+     "b": [
+      "E tape-hia te mau paraparau e te mau mea o te ohipa mai te maoro e titauhia no te faatere i te taviniraa, no te horoa i te tauturu e no te faatupu i te mau hopoia ture, e muri iho e tapiri-ê-hia aore ra e faatupu-hia ei mau parau aita e taata i matara. E pee te mau parau tuatapapa i te mau faanahoraa tapearaa a to ratou taata hopoi-mai. Te mau parau i roto i to vaharapa e vai noa ïa tae noa i te taime e tapiri-ê oe i te reira."
+     ]
+    },
+    {
+     "t": "6. To oe mau tiaraa",
+     "b": [
+      "I raro a'e i te Ture Numera 27 no te matahiti 2022 a Initonezia no nia i te Dopaa i te mau Parau Taata iho, te vai ra ia oe te tiaraa e:",
+      "- ite e e noaa mai te hoê hohoa o te mau parau taata iho ta matou e vai nei no oe;",
+      "- ani i te faaaifaitoraa i te mau parau hape;",
+      "- ani ia tapiri-ê-hia ta oe mau parau aore ra ia huti-fou oe i to farii-raa;",
+      "- patoi i te tahi mau faatupuraa.",
+      "Tono i ta oe ani i nocodingindonesia@gmail.com. E pahono matou i roto i te hoê taime au."
+     ]
+    },
+    {
+     "t": "7. Te dopaa e te mau tamarii",
+     "b": [
+      "E faaohipa teie tarenga i te HTTPS e ua opani-hia te haereraa i te mau parau o te ohipa. Aita e ravea e tono ai aore ra e tape ai i te mau parau aita roa e ati, no reira eore e nehenehe ia matou e haapapu i te dopaa tia roa.",
+      "Ua faanahohia ta matou mau taviniraa no te feia e 18 matahiti e te hau atu. Aita matou e haaputu ma te ite i te mau parau taata iho a te mau tamarii."
+     ]
+    },
+    {
+     "t": "8. Te mau tauiraa i teie faatureraa",
+     "b": [
+      "E nehenehe teie faatureraa e faaapuraa-hia i te tahi taime. Te faaite-hia ra te mahana faaapuraa hopea i nia a'e i te api. Ia taa-ê te mau reo i te auraa, o te huru Initonezia te faaohipa-hia."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Te mau Faaauraa e te mau Tuhaa",
+   "description": "Te mau ture no te faaohipa i te tarenga e te mau taviniraa a Nocoding: te mau pute, te mau ouo, te huru o te rave-raa i te ohipa, te tiaraa no te mana feruriraa e te mau otia o te hopoia.",
+   "sections": [
+    {
+     "t": "1. Te farii-raa i teie mau faaauraa",
+     "b": [
+      "Ia matara oe i teie tarenga aore ra ia faaohipa oe i te mau taviniraa a Nocoding, te farii nei oe i teie mau faaauraa e mau tuhaa. Mai te peu e aita oe e farii, a tamau ore i te faaohipa i ta matou tarenga aore ra mau taviniraa."
+     ]
+    },
+    {
+     "t": "2. Te mau taviniraa",
+     "b": [
+      "E hamani o Nocoding i te mau tarenga portfolio aore ra CV, te mau api taeraa e te hoho-ite o te taiete, te mau faanahoraa parau e te ohipa, e te rave-iho-raa i te mau ohipa hoo. Te rahi o te ohipa, te mau tuhaa, te faanahoraa taime e te tahua ua faaau-hia e oe na roto i WhatsApp aore ra imeri ia ore e haamata te ohipa.",
+      "E ore e tahua te aniraa ao-haapao, i te mau taime atoa e hinaaro ai oe, e aita e faahepo ia oe ia faaue."
+     ]
+    },
+    {
+     "t": "3. Te mau pute e te mau ouo",
+     "b": [
+      "- Te pute iti: mai Rp 500.000 i te matahiti hoê, e ua amui te tauturuaraa aita e tahua e te domaine no te matahiti hoê.",
+      "- Te pute rahi: mai Rp 2.000.000 i te matahiti hoê, e ua amui te tauturuaraa aita e tahua e te hosting no te matahiti hoê.",
+      "Te mau ouo i nia i te tarenga, e mau ouo haamataraa ïa. Te moni hopea e faaau-hia i muri a'e i te aniraa ao-haapao, ia au i ta oe mau hinaaro. No te feia e tae mai i rapae i Initonezia, te faaite-hia ra te mau ouo i te moni o te vahi ei hoho i niuhia i nia i te faito tauiraa o te mahana; o te moni rupiah ta tatou i faaau te faaohipa-hia. Te mau tahua faaperehia, mai te mau tuhaa faaarahia aore ra te faaapuraa i muri a'e i te opuaraa o te taime aita e tahua, e parau-hia ia oe i mua i te rave-raa i te ohipa."
+     ]
+    },
+    {
+     "t": "4. Te huru o te rave-raa i te ohipa e to oe mau hopoia",
+     "b": [
+      "E hi'opoa-hia te hoho e e farii-hia e oe i mua i te hamaniraa. E rave-hia te mau faaapuraa mai ta tatou i faaau.",
+      "O oe te hopoia i te horoa mai i te mau mea (reta-hoho, papai, hoho-ata, mau parau) i te taime e te vai ra te tiaraa ia faaohipa i te reira. E nehenehe te maturuaraa o te mau mea aore ra o te pahonoraa e tuati i te faanahoraa taime."
+     ]
+    },
+    {
+     "t": "5. Te tauturuaraa",
+     "b": [
+      "Te tauturuaraa aita e tahua i te matahiti hoê, e hope i te faaaifaitoraa i te mau hape o ta matou ohipa e te mau faaapuraa dopaa tumu. E tuhaa-ê-hia te tahua no te mau tuhaa apî, te mau tauiraa rahi i te hoho e te ohipa i rapae i te faaauraa matamua."
+     ]
+    },
+    {
+     "t": "6. Te tiaraa no te mana feruriraa",
+     "b": [
+      "To oe iho te mau mea ta oe e horoa mai. E tuu-atea-hia te ohipa oti ia oe ia oti te ofanora'a mai ta tatou i faaau. E nehenehe o Nocoding e faaite i te mau ohipa ora ei hi'oraa i roto i ta'na portfolio, maori râ ia ani oe na roto i te papai ia ore e faaite-hia.",
+      "O Nocoding te tiaraa i te hoho, te mau papai e te mau api papai i nia i nocoding.web.id. E nehenehe ia oe e tufa i to ratou mau taairaa, aita râ e nehenehe e hoho-fou e e faaohipa i te reira no te hoo, ma te ore e farii-hia. Te mau hoho-ata o te mau api papai e tae mai i Unsplash e e pee i ta'na parau faatia; te tumu e tuu-hia i raro a'e i te hoho-ata tataitahi."
+     ]
+    },
+    {
+     "t": "7. Te mau reo o te tarenga",
+     "b": [
+      "E vai teie tarenga i roto i te mau reo e rave rahi. Te mau huriraa, mai te mau reo e iti te feia parau, e ore paha e maitai roa. Ia taa-ê i te auraa, o te huru Initonezia te faaohipa-hia. E vai teie mau api ture i te reo Initonezia e te reo Marite."
+     ]
+    },
+    {
+     "t": "8. Te mau otia o te hopoia",
+     "b": [
+      "E rave matou i te ohipa no te horoa i te mau hopea maitai, aita râ matou e fafau i te mau hopea hoo taa-ê mai te tuhaa i roto i te imiraa, te numera o te feia haere mai aore ra te hooraa. Aita matou i hopoia i te mau haaparuparuraa e tae mai i te mau taata toru mai te mau taata hopoi-mai i te hosting, domaine aore ra ofanoraa, aore ra i te mau mauiui tuea-ore.",
+      "Te otia-hia ra ta matou hopoia no te hoê taviniraa i te moni ta oe i ofa no te taviniraa ra, mai te faito e fariihia e te ture. Aita te reira e faaiti i to oe mau tiaraa ta te ture e dopa."
+     ]
+    },
+    {
+     "t": "9. Te ture faatere",
+     "b": [
+      "Te faatere-hia ra teie mau faaauraa e te mau ture a te Repubilita Initonezia. Ia tupu te hoê aroraa, e tamata matou mamua i te faaoti na roto i te paraparauraa. Mai te peu e aita e faaauraa i noaa, e faaoti-hia te aroraa e te mau tiripuna tia i Initonezia."
+     ]
+    },
+    {
+     "t": "10. Te mau tauiraa e te taaraa",
+     "b": [
+      "E nehenehe teie mau faaauraa e faaapu-hia i te tahi taime; te faaite-hia ra te mahana faaapuraa hopea i nia a'e i te api. E nehenehe te mau uiraa e tono-hia i nocodingindonesia@gmail.com aore ra i WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Faatureraa Cookie",
+   "description": "Te mau cookie e te vaharapa tape i te vahi o ta te tarenga Nocoding e faaohipa, ta ratou faufaa, e te huru e faatere ai i te reira.",
+   "sections": [
+    {
+     "t": "1. Eaha te mau cookie",
+     "b": [
+      "O te mau cookie, e mau hoê parau iti ta te hoê tarenga e tape i roto i to vaharapa. Te vaharapa tape i te vahi e te vaharapa tape o te taime faaohipa e rave i te reira huru, aita râ e tono-hia i te hoê tapura ma te huru. I nia i teie api, te parau nei matou i te reira atoa mau cookie."
+     ]
+    },
+    {
+     "t": "2. Ta te tarenga e hinaaro ia ohipa",
+     "b": [
+      "E tape-hia i roto i to vaharapa e aita e tono-hia i ta matou mau tapura:",
+      "- nocoding-language e nocoding-language-set: te reo ta oe i maiti aore ra i itehia mai to vaharapa.",
+      "- nocoding-pricing (taime faaohipa): te moni e te faito i hoho-hia, ia ore te mau ouo e tatau-fou-hia i nia i te api tataitahi.",
+      "- Te mau tapao o te mau api papai: ua au-a oe, ua ite-a oe aore ra ua tufa-a oe i te hoê api papai, ia ore te mau numera e tuea-piti-hia.",
+      "- Te hoê tapao no te taime poto o te vahi huri-ata-raa ia haere oe i te tahi atu tuhaa o te tarenga."
+     ]
+    },
+    {
+     "t": "3. Te tuatapapa",
+     "b": [
+      "Ia ora, e ruru-hia e piti taviniraa tuatapapa i muri a'e i to oe faatairururaa i te api (te huri-ata-raa, te tapuraa aore ra te papairaa i te hoê tuhaa):",
+      "- Google Analytics 4 (te mau cookie mai _ga e _ga_*, e ora tae noa i te 2 matahiti): te mau numera hereraa.",
+      "- Microsoft Clarity (te mau cookie mai _clck, _clsk, CLID e MUID, e ora tae noa i te 1 matahiti): te mau hoho-fenua auahi e te mau hoê-roaraa tairururaa aita i faaiteraa i te taata.",
+      "E nehenehe te mau taata hopoi-mai i te CDN e te dopaa e tuu atoa i te mau cookie ite-hanga no te dopa i te tarenga i te mau mauiui."
+     ]
+    },
+    {
+     "t": "4. Te huru e faatere ai i te mau cookie",
+     "b": [
+      "E nehenehe ia oe e tapiri-ê aore ra e opani i te mau cookie i roto i te mau faanahoraa o to vaharapa. E nehenehe atoa ia oe e tuu i te mau tauturu faaoti a Google no te haere ê i Google Analytics. Mai te peu e opani-hia te mau cookie tuatapapa, te ohipa noa ra te tarenga; mai te peu e faaea-hia te vaharapa tape i te vahi, e hoki mai te maitiraa reo i te mea tumu."
+     ]
+    },
+    {
+     "t": "5. Te mau uiraa",
+     "b": [
+      "No te mau uiraa no nia i teie faatureraa, a tae mai i nocodingindonesia@gmail.com. Te huru o te faaohipa-raa i te mau parau taata iho, ua faataa-hia ïa i roto i te Faatureraa Faufaa Hio. Ia taa-ê te mau reo i te auraa, o te huru Initonezia te faaohipa-hia."
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Hloov tshiab zaum kawg",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Txoj Cai Ceev Cia Tus Kheej",
+   "description": "Nocoding sau cov ntaub ntawv dab tsi, siv rau dab tsi, leej twg ua haujlwm rau cov ntaub ntawv ntawd, thiab koj muaj cai dab tsi rau koj cov ntaub ntawv ntiag tug.",
+   "sections": [
+    {
+     "t": "1. Peb yog leej twg",
+     "b": [
+      "Nocoding (nocoding.web.id) yog ib qho kev pab txog lub vev xaib, app, kev ua haujlwm nrog cov ntaub ntawv thiab kev ua haujlwm tsis tas siv neeg, uas Abid Hanan Wicaksono khiav hauv Indonesia. Txoj cai no piav seb peb tuav koj cov ntaub ntawv ntiag tug li cas thaum koj tuaj saib lub vev xaib no lossis hu rau peb.",
+      "Cov lus nug txog txoj cai no xa tau mus rau nocodingindonesia@gmail.com lossis ntawm WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Cov ntaub ntawv uas peb sau",
+     "b": [
+      "- Cov ntaub ntawv koj muab rau peb: koj lub npe, tus lej WhatsApp, email thiab kev piav txog koj qhov haujlwm thaum koj hu rau peb ntawm WhatsApp lossis email. Lub vev xaib no tsis muaj tus account siv lossis daim ntawv sau npe.",
+      "- Cov ntaub ntawv kev siv tshuab uas ua tau nws tus kheej: IP address, hom khoom siv thiab browser, thiab cov nplooj ntawv koj qhib. Peb cov neeg muab kev pab tuav lub vev xaib thiab CDN ua haujlwm rau lawv kom thiaj muab lub vev xaib tuaj rau koj thiab tiv thaiv kev siv tsis zoo.",
+      "- Lub tebchaws kwv yees: kom thiaj qhia tau tus nqi ua koj cov nyiaj, peb kwv yees koj lub tebchaws los ntawm cov ntaub ntawv CDN lossis hom lus ntawm koj lub browser. Peb tsis khaws nws rau peb cov server.",
+      "- Cov ntaub ntawv txheeb xyuas: Google Analytics 4 thiab Microsoft Clarity (thaum qhib) sau cov txheeb cais kev siv xws li cov nplooj ntawv qhib, ntev npaum li cas ntawm kev tuaj saib, hom khoom siv thiab kev thaij cov kev ua tsis qhia npe. Lawv tsuas thauj tom qab koj tau ua dab tsi rau ntawm nplooj ntawv.",
+      "- Chaw khaws hauv browser: koj qhov kev xaiv hom lus, cov cim qhia tias koj twb nyiam, saib lossis qhia ib tsab xov xwm lawm, thiab ib qho kwv yees tus nqi ib ntus. Cov ntsiab lus nyob hauv Txoj Cai Cookie.",
+      "- Cov naj npawb ntawm kev saib, nyiam thiab qhia tsab xov xwm khaws ua cov naj npawb ntxiv ua ke, tsis muaj leej twg tus kheej."
+     ]
+    },
+    {
+     "t": "3. Cov ntaub ntawv siv rau dab tsi",
+     "b": [
+      "- Teb koj cov lus nug, npaj cov nqi thiab ua koj qhov haujlwm.",
+      "- Muab lub vev xaib tuaj, tiv thaiv nws thiab ua kom nws ceev.",
+      "- Nkag siab txog yuav siv lub vev xaib li cas kom peb thiaj ua tau zoo dua.",
+      "- Ua raws li cov luag haujlwm raws li txoj cai.",
+      "Peb tsis muag koj cov ntaub ntawv ntiag tug."
+     ]
+    },
+    {
+     "t": "4. Cov tog thib peb uas koom nrog",
+     "b": [
+      "- Vercel: tuav thiab muab lub vev xaib tuaj.",
+      "- Cloudflare: CDN thiab kev ruaj ntseg.",
+      "- Google (Google Analytics 4) thiab Microsoft (Clarity): cov txheeb cais kev siv lub vev xaib.",
+      "- Meta (WhatsApp) thiab Google (Gmail): thaum koj hu rau peb los ntawm cov txuas WhatsApp lossis email ntawm lub vev xaib no.",
+      "- Tus muab tus nqi pauv nyiaj: tsuas tau txais kev thov tus nqi los ntawm peb lub server, tsis yog cov ntaub ntawv ntawm cov neeg tuaj saib.",
+      "Cov neeg muab kev pab no yuav ua haujlwm rau cov ntaub ntawv sab nraud Indonesia raws li lawv tej cai."
+     ]
+    },
+    {
+     "t": "5. Khaws cov ntaub ntawv ntev npaum li cas",
+     "b": [
+      "Cov lus sib tham thiab cov ntaub ntawv haujlwm raug khaws ntev npaum li yuav tsum tau rau kev khiav kev pab, muab kev txhawb nqa thiab ua raws li cov luag haujlwm raws li txoj cai, tom qab ntawd rho tawm lossis ua kom tsis muaj npe. Cov ntaub ntawv txheeb xyuas ua raws li tus neeg muab kev pab qhov chaw teeb tsa kev khaws. Cov ntaub ntawv hauv koj lub browser nyob mus txog thaum koj rho tawm."
+     ]
+    },
+    {
+     "t": "6. Koj cov cai",
+     "b": [
+      "Raws li Txoj Cai Indonesia Naj Npawb 27 Xyoo 2022 txog Kev Tiv Thaiv Cov Ntaub Ntawv Ntiag Tug, koj muaj cai:",
+      "- paub thiab tau ib daim luam ntawm cov ntaub ntawv ntiag tug uas peb tuav txog koj;",
+      "- thov kom kho cov ntaub ntawv tsis raug;",
+      "- thov kom rho koj cov ntaub ntawv tawm lossis thim koj qhov kev pom zoo;",
+      "- tawm tsam qee yam kev ua haujlwm.",
+      "Xa koj qhov kev thov mus rau nocodingindonesia@gmail.com. Peb yuav teb sai li sai tau raws li tsim nyog."
+     ]
+    },
+    {
+     "t": "7. Kev ruaj ntseg thiab menyuam yaus",
+     "b": [
+      "Lub vev xaib no siv HTTPS thiab kev nkag mus rau cov ntaub ntawv haujlwm raug txwv. Tsis muaj txoj kev xa lossis khaws cov ntaub ntawv twg uas tsis muaj kev pheej hmoo kiag li, yog li peb tsis tuaj yeem lees tias muaj kev ruaj ntseg tag nrho.",
+      "Peb cov kev pab yog rau cov neeg muaj 18 xyoo thiab laus dua. Peb tsis paub txog sau menyuam yaus cov ntaub ntawv ntiag tug."
+     ]
+    },
+    {
+     "t": "8. Kev hloov rau txoj cai no",
+     "b": [
+      "Txoj cai no yuav hloov tshiab tej zaum. Hnub hloov tshiab zaum kawg qhia nyob rau saum nplooj ntawv. Yog hom lus txawv txoj kev txhais, tus Indonesian version yog tus siv."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Cov Lus Cog Tseg thiab Cov Cai",
+   "description": "Cov cai rau kev siv lub vev xaib thiab cov kev pab ntawm Nocoding: cov pob, tus nqi, yuav ua haujlwm li cas, cov cuab yeej txawj ntse thiab kev txwv kev lav phib xaub.",
+   "sections": [
+    {
+     "t": "1. Txais cov lus cog tseg no",
+     "b": [
+      "Thaum koj qhib lub vev xaib no lossis siv Nocoding cov kev pab, koj pom zoo rau cov lus cog tseg thiab cov cai no. Yog koj tsis pom zoo, thov tsis txhob siv peb lub vev xaib lossis cov kev pab."
+     ]
+    },
+    {
+     "t": "2. Cov kev pab",
+     "b": [
+      "Nocoding tsim cov vev xaib portfolio lossis CV, nplooj ntawv landing thiab cov ntaub ntawv tuam txhab, cov kev ua haujlwm nrog cov ntaub ntawv thiab kev ua lag luam, thiab kev ua cov txheej txheem lag luam tsis tas siv neeg. Cov ntsiab lus ntawm haujlwm, cov yam ntxwv, sijhawm teem thiab tus nqi yuav pom zoo nrog koj ntawm WhatsApp lossis email ua ntej pib ua haujlwm.",
+      "Kev sab laj yeej pub dawb ib txwm, txhua lub sijhawm koj xav tau, thiab tsis yuam koj kom txib khoom."
+     ]
+    },
+    {
+     "t": "3. Cov pob thiab tus nqi",
+     "b": [
+      "- Pob me: pib ntawm Rp 500.000 ib xyoos, suav nrog kev saib xyuas pub dawb thiab lub npe domain 1 xyoos.",
+      "- Pob loj: pib ntawm Rp 2.000.000 ib xyoos, suav nrog kev saib xyuas pub dawb thiab chaw tuav vev xaib 1 xyoos.",
+      "Cov nqi ntawm lub vev xaib yog cov nqi pib. Tus nqi kawg yuav pom zoo tom qab sab laj, raws li koj xav tau. Rau cov neeg tuaj saib sab nraud Indonesia, cov nqi qhia ua cov nyiaj hauv lub tebchaws ua qhov kwv yees raws li tus nqi pauv nyiaj txhua hnub; tus nqi rupiah uas peb pom zoo yog tus siv. Cov nqi ntxiv, xws li cov yam ntxwv ntxiv lossis kev txuas ntxiv tom qab lub sijhawm pub dawb xaus, yuav qhia rau koj ua ntej ua haujlwm."
+     ]
+    },
+    {
+     "t": "4. Yuav ua haujlwm li cas thiab koj lub luag haujlwm",
+     "b": [
+      "Daim ntawv tsim yuav tshuaj xyuas thiab pom zoo nrog koj ua ntej tsim tawm. Kev kho yuav ua raws li pom zoo.",
+      "Koj muaj lub luag haujlwm muab cov ntaub ntawv (logo, ntawv, duab, ntaub ntawv) raws sijhawm thiab muaj cai siv lawv. Kev ncua ntawm cov ntaub ntawv lossis kev tawm tswv yim yuav cuam tshuam rau sijhawm teem."
+     ]
+    },
+    {
+     "t": "5. Kev saib xyuas",
+     "b": [
+      "Kev saib xyuas pub dawb 1 xyoos suav nrog kev kho qhov yuam kev hauv peb txoj haujlwm thiab kev hloov tshiab kev ruaj ntseg yooj yim. Cov yam ntxwv tshiab, kev hloov loj ntawm daim ntawv tsim thiab haujlwm sab nraud qhov kev pom zoo thawj raug them nyias."
+     ]
+    },
+    {
+     "t": "6. Cov cuab yeej txawj ntse",
+     "b": [
+      "Cov ntaub ntawv koj muab tseem yog koj li. Txoj haujlwm ua tiav yuav muab rau koj thaum them nyiaj tag raws li pom zoo. Nocoding yuav qhia cov haujlwm uas khiav lawm ua piv txwv hauv nws portfolio, tshwj tsis yog koj thov sau cia tias tsis txhob qhia.",
+      "Daim ntawv tsim, ntawv thiab cov xov xwm ntawm nocoding.web.id yog Nocoding li. Koj qhia tau cov txuas rau lawv, tiam sis koj tsis tuaj yeem luam thiab siv lawv rau kev lag luam yam tsis tau tso cai. Cov duab xov xwm los ntawm Unsplash thiab ua raws li nws daim ntawv tso cai; qhov chaw los tau hais nyob hauv qab txhua daim duab."
+     ]
+    },
+    {
+     "t": "7. Cov lus ntawm lub vev xaib",
+     "b": [
+      "Lub vev xaib no muaj ntau hom lus. Cov lus txhais, tshwj xeeb rau cov lus uas muaj neeg hais tsawg, yuav tsis zoo tag. Yog txawv txoj kev txhais, tus Indonesian version yog tus siv. Cov nplooj ntawv cai no muaj ua lus Indonesian thiab lus Askiv."
+     ]
+    },
+    {
+     "t": "8. Kev txwv kev lav phib xaub",
+     "b": [
+      "Peb ua haujlwm kom tau txiaj ntsig zoo, tiam sis peb tsis cog lus txog qee yam txiaj ntsig lag luam xws li qib hauv kev tshawb nrhiav, naj npawb neeg tuaj saib lossis kev muag khoom. Peb tsis lav phib xaub rau kev cuam tshuam los ntawm cov tog thib peb xws li cov neeg muab chaw tuav vev xaib, domain lossis kev them nyiaj, lossis rau kev poob tsis ncaj qha.",
+      "Peb lub luag haujlwm rau ib qho kev pab raug txwv rau tus nqi koj tau them rau qhov kev pab ntawd, raws li txoj cai tso cai. Qhov no tsis txo koj cov cai uas txoj cai tiv thaiv."
+     ]
+    },
+    {
+     "t": "9. Txoj cai siv",
+     "b": [
+      "Cov lus cog tseg no raug tswj los ntawm cov cai ntawm Lub Tebchaws Indonesia. Yog muaj kev tsis sib haum xeeb, peb yuav sim daws nws los ntawm kev sib tham ua ntej. Yog tsis tau pom zoo, kev tsis sib haum xeeb yuav daws los ntawm cov tsev hais plaub muaj hwj chim hauv Indonesia."
+     ]
+    },
+    {
+     "t": "10. Kev hloov thiab kev hu rau",
+     "b": [
+      "Cov lus cog tseg no yuav hloov tshiab tej zaum; hnub hloov tshiab zaum kawg qhia nyob rau saum nplooj ntawv. Cov lus nug xa tau mus rau nocodingindonesia@gmail.com lossis ntawm WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Txoj Cai Cookie",
+   "description": "Cov cookie thiab chaw khaws hauv zos uas lub vev xaib Nocoding siv, lawv siv rau dab tsi, thiab yuav tswj lawv li cas.",
+   "sections": [
+    {
+     "t": "1. Cookie yog dab tsi",
+     "b": [
+      "Cookie yog cov ntaub ntawv me me uas lub vev xaib khaws rau hauv koj lub browser. Local storage thiab session storage ua haujlwm zoo ib yam tiam sis tsis raug xa mus rau server ncaj qha. Ntawm nplooj ntawv no peb hu lawv txhua yam ua cookie."
+     ]
+    },
+    {
+     "t": "2. Dab tsi uas lub vev xaib xav tau kom ua haujlwm",
+     "b": [
+      "Khaws hauv koj lub browser thiab tsis raug xa mus rau peb cov server:",
+      "- nocoding-language thiab nocoding-language-set: hom lus koj xaiv lossis uas tshawb pom los ntawm koj lub browser.",
+      "- nocoding-pricing (session): cov nyiaj thiab tus nqi pauv kwv yees, kom tsis txhob suav tus nqi dua tshiab ntawm txhua nplooj ntawv.",
+      "- Cov cim tsab xov xwm: seb koj twb nyiam, saib lossis qhia ib tsab xov xwm lawm, kom cov naj npawb tsis suav ob zaug.",
+      "- Ib lub cim ib ntus ntawm qhov chaw scroll thaum txav ntawm cov ntu ntawm lub vev xaib."
+     ]
+    },
+    {
+     "t": "3. Kev txheeb xyuas",
+     "b": [
+      "Thaum qhib, ob qho kev pab txheeb xyuas thauj tom qab koj ua dab tsi rau ntawm nplooj ntawv (scroll, kov lossis nias ib lub nyees khawm):",
+      "- Google Analytics 4 (cov cookie xws li _ga thiab _ga_*, siv tau txog li 2 xyoos): kev txheeb cais kev tuaj saib.",
+      "- Microsoft Clarity (cov cookie xws li _clck, _clsk, CLID thiab MUID, siv tau txog li 1 xyoos): heatmap thiab kev thaij cov kev ua tsis qhia npe.",
+      "Cov neeg muab CDN thiab kev ruaj ntseg kuj yuav teeb cov cookie kev siv tshuab los tiv thaiv lub vev xaib ntawm kev khiav tsheb phem."
+     ]
+    },
+    {
+     "t": "4. Yuav tswj cookie li cas",
+     "b": [
+      "Koj rho tawm lossis thaiv cookie tau hauv koj lub browser qhov chaw teeb tsa. Koj kuj tseem nruab tau Google tus add-on tawm nom tswv rau Google Analytics. Yog thaiv cov cookie txheeb xyuas, lub vev xaib tseem ua haujlwm; yog tshem local storage, koj qhov kev xaiv hom lus rov qab mus rau qhov qub."
+     ]
+    },
+    {
+     "t": "5. Cov lus nug",
+     "b": [
+      "Rau cov lus nug txog txoj cai no, hu rau nocodingindonesia@gmail.com. Yuav siv cov ntaub ntawv ntiag tug li cas piav ntxiv hauv Txoj Cai Ceev Cia Tus Kheej. Yog hom lus txawv txoj kev txhais, tus Indonesian version yog tus siv."
+     ]
+    }
+   ]
+  }
+ }
+}

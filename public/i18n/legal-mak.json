@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Riamalaki kamma-kammaya",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Kabijakan Privasi",
+   "description": "Data apa nipare tompo Nocoding, nipake lanri apa, inai angngoloi, siagang hakka' kita' ri data pribadi kita'.",
+   "sections": [
+    {
+     "t": "1. Inai kamma",
+     "b": [
+      "Nocoding (nocoding.web.id) iami layanang pangngaramula website, aplikasi, sistem informasi, siagang otomasi ni-pammanaki Abid Hanan Wicaksono ri Indonesia. Kabijakan ini angngallei bicara kammayatompa kamma angngurusuki data pribadi kita' punna kita' anggappa situs ini eroki anggaukang kamma.",
+      "Pakkutana battu ri kabijakan ini kulle nipassuro ri nocodingindonesia@gmail.com eroki WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data nipappalaku kamma",
+     "b": [
+      "- Data nipassareang kita' mae: areng, nomor WhatsApp, email, siagang katarangang kabutuhang proyek kita' punna kita' anggaukang kamma ri WhatsApp eroki email. Situs ini tena akun pamake eroki formulir pandaftaran.",
+      "- Data teknis nipangngoloi otomatis: alamat IP, jenis alat siagang browser, siagang halaman nibuka'. Pammanaki hosting siagang CDN kamma angngoloi data ini untuk ampakitakang situs siagang appalinrung pole battu ri panyalahgunaan.",
+      "- Kira-kira pa'rasanganga: sollanna harga nipakkita ri doe' kita', pa'rasanganga nikira-kira battu ri informasi CDN eroki bahasa browser kita'. Tena nisimpang ri server kamma.",
+      "- Data analitik: Google Analytics 4 siagang Microsoft Clarity (punna aktif) anggappa statistik pamakeang kammayatompa halaman nibuka', allo-allona bandang, jenis alat, siagang rekaman interaksi tena identitas. Ia rua ro nipasiri'na nampa battu ri kita' anggaukang siagang halaman.",
+      "- Panyimpanang ri browser: pilihang bahasa, tanda angnganre kita' appalaku, appakkita, eroki ampabagi sibatu artikel, siagang kira-kira harga sementara. Rincianna ana' ri Kabijakan Cookie.",
+      "- Kaotta battu ri nipakkita, nipalaku, siagang nipabagi artikel nisimpang kammayatompa angka gabungan tena identitas pangunjung."
+     ]
+    },
+    {
+     "t": "3. Lanri apa data nipake",
+     "b": [
+      "- Angngaddaka pakkutana kita', ampasaring penawaran, siagang angngerangi proyek kita'.",
+      "- Ampakkita, appalinrung, siagang angngajaga kacipatang situs.",
+      "- Angngerang bicara kamma situs nipake sollanna kulle kamma antamai baji'.",
+      "- Mannuruki kawajiban hukung ni-eja'.",
+      "Takkamma ambaluki data pribadi kita'."
+     ]
+    },
+    {
+     "t": "4. Pihak katallu nipappisiri",
+     "b": [
+      "- Vercel: hosting siagang pammakkitang situs.",
+      "- Cloudflare: CDN siagang kaamanang.",
+      "- Google (Google Analytics 4) siagang Microsoft (Clarity): statistik pamakeang situs.",
+      "- Meta (WhatsApp) siagang Google (Gmail): punna kita' anggaukang kamma lewa' tautang WhatsApp eroki email ri situs ini.",
+      "- Pammanaki kurs doe': anggappa pakkamaseang kurs mae battu ri server kamma, tena data pangunjung.",
+      "Pammanaki ro kulle angngoloi data ri sirinna Indonesia mannuruki aturang sipa'-sipa'na."
+     ]
+    },
+    {
+     "t": "5. Pira allo data nisimpang",
+     "b": [
+      "Ba'bala siagang bahang proyek nisimpang sipirang-pirangna nisulle' untuk angngoloi layanang, ampassareang dukungang, siagang mannuruki kawajiban hukung, nampa nisapui eroki ni-anonim. Data analitik mannuruki pangngaturang panyimpanang battu ri pammanakina. Data ri browser kita' tala'bu sipirang-pirangna kita' appassapui."
+     ]
+    },
+    {
+     "t": "6. Hakka' kita'",
+     "b": [
+      "Mannuruki Undang-Undang Nomor 27 Taung 2022 anrinni Pallinrungang Data Pribadi, kita' atoa hakka' untuk:",
+      "- angngatahui siagang angngalle salinan data pribadi kita' nisimpang ri kamma;",
+      "- anggappa pa'bajiki' data ni-salaha;",
+      "- anggappa data kita' nisapui eroki ampa'jari'i pisalaku kita';",
+      "- angngerang pa'bokoang ri pangngoloang tertentu.",
+      "Passuro pakkutana kita' ri nocodingindonesia@gmail.com. Kamma angngaddaka ri wattu na patuju."
+     ]
+    },
+    {
+     "t": "7. Kaamanang siagang ana'-ana'",
+     "b": [
+      "Situs ini angngallei HTTPS siagang akses ri data proyek nibatasi. Tena cara angngerang eroki angnyimpang data tena risiko, jari takkulle kamma annyareangi kaamanang mutlak.",
+      "Layanang kamma nipasaring untuk tau ni umuru' 18 taung ri ate'. Takkamma ambangkei anggappa data pribadi ana'-ana'."
+     ]
+    },
+    {
+     "t": "8. Parobahang kabijakan",
+     "b": [
+      "Kabijakan ini kulle nipabbaji'-baji' ri sambarang wattu. Tanggala pamarbarui ia riolo nitulisi ri ate' halaman. Punna ana' bedana batang bahasa, versi Bahasa Indonesia ia nipake."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Syarat siagang Ketentuang",
+   "description": "Aturang pamakeang situs siagang layanang Nocoding: paket, harga, cara angngerangi, hakka' kakayyang intelektual, siagang batasa tanggung jawab.",
+   "sections": [
+    {
+     "t": "1. Angngallei syarat",
+     "b": [
+      "Ri pammbukaang situs ini eroki pamakeang layanang Nocoding, kita' assetujui syarat siagang ketentuang ini. Punna kita' tena assetujui, tapakamma anggappai situs siagang layanang kamma."
+     ]
+    },
+    {
+     "t": "2. Layanang",
+     "b": [
+      "Nocoding ampare website portofolio eroki CV, landing page siagang profil parusahaang, sistem informasi siagang operasional, siagang otomasi proses bisnis. Cakupang pakkerjang, fitur, jadwal, siagang biaya nipasitaba' siagang kita' lewa' WhatsApp eroki email sa'bangna pakkerjang nipammulai.",
+      "Konsultasi sallu gratis, kapang-kapang kita' butuhang, siagang tena ampakawajiba kita' appesang."
+     ]
+    },
+    {
+     "t": "3. Paket siagang harga",
+     "b": [
+      "- Paket Ca'di: pammulaang Rp 500.000 sitaung, sitau gratis maintenance siagang domain untuk 1 taung.",
+      "- Paket Lompo: pammulaang Rp 2.000.000 sitaung, sitau gratis maintenance siagang hosting untuk 1 taung.",
+      "Harga ri situs iami harga pammulaang. Nilai pamungkasa nipasitaba' passa'bangna konsultasi mannuruki kabutuhang kita'. Untuk pangunjung battu ri sirinna Indonesia, harga nipakkita ri doe' pa'rasangang sebagai kira-kira mannuruki kurs allo-allo; ia nipake iami nilai ri rupiah nipasitaba'. Biaya tambahang, kammayatompa fitur ekstra eroki perpanjangang passa'bangna wattu gratis, nipakilalaki riolo sa'bangna nikerangi."
+     ]
+    },
+    {
+     "t": "4. Cara angngerangi siagang tanggung jawab kita'",
+     "b": [
+      "Rancangang nipareksa siagang nisetujui siagang kita' sa'bangna ma'rimpa produksi. Revisi nikerangi mannuruki kasitabaang.",
+      "Kita' tanggung jawab ampassareang bahang (logo, teks, foto, data) ri wattu na patuju siagang annyareangi kita' hakka' angngallei ia. Katalambaang bahang eroki masukang kulle angngaruhi jadwal."
+     ]
+    },
+    {
+     "t": "5. Maintenance",
+     "b": [
+      "Maintenance gratis untuk 1 taung angngallei pa'bajikang kasalahang ri pakkerjang kamma siagang pamarbarui kaamanang dasar. Fitur baru, parobahang lompo ri desain, siagang pakkerjang ri sirinna kasitabaang mula nipitung sipa'-sipa'."
+     ]
+    },
+    {
+     "t": "6. Hakka' kakayyang intelektual",
+     "b": [
+      "Bahang nipassarea kita' tala'bu nijari pa'ngasseng kita'. Ba'bala pakkerjang nipassarea ri kita' pole'na bayara' mannuruki kasitabaang lunas. Nocoding kulle ampakkita karya nipabbaji' sebagai conto ri portofolio, tenapa punna kita' appesang ri tulisang untuk tanipakkita.",
+      "Desain, teks, siagang artikel ri situs nocoding.web.id iami pa'ngasseng Nocoding. Kita' kulle ampabagi tautanna, tapi tena kulle anyalin siagang angngalle sacara komersial tena izing. Foto artikel battu ri Unsplash siagang mannuruki lisensina; sumbera nitulisi ri babana foto."
+     ]
+    },
+    {
+     "t": "7. Bahasa situs",
+     "b": [
+      "Situs ini ana' ri akbiraka bahasa. Tarjamah, kammayatompa untuk bahasa nisedikit panuturna, kulle tenapa sampurna. Punna ana' bedana batang, versi Bahasa Indonesia ia nipake. Halaman legal ini ana' ri Bahasa Indonesia siagang Inggris."
+     ]
+    },
+    {
+     "t": "8. Batasa tanggung jawab",
+     "b": [
+      "Kamma anggaukang untuk ampassareang hasil baji', tapi takkamma amjanjiangi hasil bisnis tertentu kammayatompa peringkat pammanaki, kaotta pangunjung, eroki pambaluang. Takkamma tanggung jawab ri ganggua battu ri pihak katallu kammayatompa pammanaki hosting, domain, eroki pambayarang, siagang ri karugiang tena langsung.",
+      "Tanggung jawab kamma ri sibatu layanang nibatasi sipirang nilai ia nibayara' kita' untuk layanang ero, sipirang-pirang hukung ampa'beneki. Ketentuang ini tena ampakurang hakka' kita' ia nipallinrung ri hukung."
+     ]
+    },
+    {
+     "t": "9. Hukung nipake",
+     "b": [
+      "Syarat ini tunduk ri hukung Republik Indonesia. Punna ana' parselisihang, kamma nacobaki riolo nipasalesai siagang musyawarah. Punna tena kasitabaang, parselisihang nipasalesai lewa' pangadilang ia ana' wewenanga ri Indonesia."
+     ]
+    },
+    {
+     "t": "10. Parobahang siagang kontak",
+     "b": [
+      "Syarat ini kulle nipabbaji'-baji' ri sambarang wattu; tanggala pamarbarui ia riolo nitulisi ri ate' halaman. Pakkutana kulle nipassuro ri nocodingindonesia@gmail.com eroki WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Kabijakan Cookie",
+   "description": "Cookie siagang panyimpanang lokal nipake situs Nocoding, lanri apa, siagang cara angngoloina.",
+   "sections": [
+    {
+     "t": "1. Apa cookie",
+     "b": [
+      "Cookie iami berkas ca'di nisimpang sibatu situs ri browser kita'. Panyimpanang lokal (local storage siagang session storage) anggaukang sama tapi tena nipassuro otomatis ri server. Ri halaman ini ia rua nisareang cookie."
+     ]
+    },
+    {
+     "t": "2. Ia nibutuhang situs untuk anggaukang",
+     "b": [
+      "Nisimpang ri browser kita' siagang tena nipassuro ri server kamma:",
+      "- nocoding-language siagang nocoding-language-set: bahasa nipilih kita' eroki nitarima battu ri browser.",
+      "- nocoding-pricing (sesi): kira-kira doe' siagang kurs sollanna harga tena nipitung ulang ri tiap halaman.",
+      "- Tanda artikel: nia' tongeng kita' appalaku, appakkita, eroki ampabagi sibatu artikel, sollanna kaota tena nipitung rua kali.",
+      "- Tanda posisi gulir sementara punna ma'rimpa antara bagian situs."
+     ]
+    },
+    {
+     "t": "3. Analitik",
+     "b": [
+      "Punna nipaaktifa, rua layanang analitik nipasiri' pole'na kita' anggaukang siagang halaman (ngulir, ngetok, eroki angnginrang tombol):",
+      "- Google Analytics 4 (cookie kammayatompa _ga siagang _ga_*, berlaku sampe kira-kira 2 taung): statistik pangunjung.",
+      "- Microsoft Clarity (cookie kammayatompa _clck, _clsk, CLID, siagang MUID, berlaku sampe kira-kira 1 taung): peta panas siagang rekaman interaksi tena identitas.",
+      "Pammanaki CDN siagang kaamanang kulle atoa ampasa'bang cookie teknis untuk appalinrung situs battu ri lalu lintas ia karuga."
+     ]
+    },
+    {
+     "t": "4. Cara angngoloi cookie",
+     "b": [
+      "Kita' kulle appassapui eroki ambatesi cookie ri pangngaturang browser. Kita' kulle atoa anrinni add-on panolakang resmi battu ri Google untuk Google Analytics. Punna cookie analitik niblokir, situs tala'bu anggaukang; punna panyimpanang lokal nisapui, pilihang bahasa kita' mangka' ri pangngaturang rioloa."
+     ]
+    },
+    {
+     "t": "5. Pakkutana",
+     "b": [
+      "Untuk pakkutana anrinni kabijakan ini, hubungi nocodingindonesia@gmail.com. Pamakeang data pribadi nijelasa assa'bang ri Kabijakan Privasi. Punna ana' bedana batang bahasa, versi Bahasa Indonesia ia nipake."
+     ]
+    }
+   ]
+  }
+ }
+}

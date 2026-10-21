@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Qhipa musuqchasqa",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Pakasqa willay kamachiy",
+   "description": "Nocoding ima willaykunata huñun, imapaq llamkachin, pikunan chaykunata llamkapun, hinallataq hukllapi willaykikunamanta ima hayñiykikuna kanman.",
+   "sections": [
+    {
+     "t": "1. Pikuna kanchis",
+     "b": [
+      "Nocoding (nocoding.web.id) kanmi websitekuna, appkuna, willay yachaykuna hinallataq automatización ruwana llamkay, Indonesiapi Abid Hanan Wicaksono apachisqan. Kay kamachiyqa willan imayna kikin willaykikunata qhawarisqaykuta kay sitiota watukuspa icha ñuqaykuwan rimaspa.",
+      "Kay kamachiymanta tapukuykunata nocodingindonesia@gmail.com man icha WhatsApp +62 853-2651-3324 man apachiy atikun."
+     ]
+    },
+    {
+     "t": "2. Ima willaykunata huñuchkaniku",
+     "b": [
+      "- Qamkuna kikiyki qowasqaykiku willaykuna: sutiyki, WhatsApp yupay, email, hinallataq proyectoykimanta willakuy, WhatsApp icha emailwan ñuqaykuwan rimaspa. Kay sitioqa manan usuario cuentakunayuqchu nitaq qillqachikuna formulariokunayuqchu.",
+      "- Kikillanmanta llamkapusqa técnica willaykuna: IP kitu, ima ruwana tuyru hinallataq browser, hinallataq kicharisqayki p'anqakuna. Hostingniykuna hinallataq CDN qowaqkuna chaykunata llamkapunku sitiota rikuchinankupaq hinallataq mana allin ruwaymanta waqaychanankupaq.",
+      "- Aproximado suyu: qullqi chaninkuna qullqiykipi rikhurinankupaq, suyuykita CDN willaymanta icha browserniykipa simimanta yuyaymanayku. Manan chayta servidorniykupi waqaychaykuchu.",
+      "- Analytics willaykuna: Google Analytics 4 hinallataq Microsoft Clarity (kichasqa kaptinqa) huñunku ima hina llamkachisqa kasqanmanta yupaykuna, hina p'anqakuna kicharisqa, hayk'aq tiyarqa, ima ruwana tuyru, hinallataq mana pipa riqsisqa ruwaykuna ñawpaqman churasqa. Chaykunaqa p'anqawan ruwaspa qhipallanpi apamunku.",
+      "- Browserpi waqaychay: simi akllasqayki, rikuchiq ch'ata imaynachus huk qillqata kuyasqaykita, rikusqaykita icha rakisqaykita, hinallataq chaninpa mana wiñaylla yuyaynin. Willakuy kachkan Cookie kamachiypi.",
+      "- Qillqakunata rikusqa, kuyasqa hinallataq rakisqa yupaykunaqa huñusqa yupaykuna hina waqaychasqa kachkan, mana watukuqkunapa riqsisqanwan."
+     ]
+    },
+    {
+     "t": "3. Imapaq willaykuna llamkachisqa",
+     "b": [
+      "- Tapukuyniykikunata kutichiy, qhawariykuna churay hinallataq proyectoykita ruway.",
+      "- Sitiota rikuchiy, waqaychay hinallataq utqaylla kananpaq waqaychay.",
+      "- Imayna sitio llamkachisqa kasqanta hamutay allinchanapaq.",
+      "- Kamachiykuna kamachisqakunata hunt'ay.",
+      "Manan hukllapi willaykikunataqa vendenikuchu."
+     ]
+    },
+    {
+     "t": "4. Hukkuna yanapaqkuna",
+     "b": [
+      "- Vercel: hosting hinallataq sitio rikuchiy.",
+      "- Cloudflare: CDN hinallataq waqaychay.",
+      "- Google (Google Analytics 4) hinallataq Microsoft (Clarity): sitio llamkachisqa yupaykuna.",
+      "- Meta (WhatsApp) hinallataq Google (Gmail): kay sitiopi WhatsApp icha email ñanwan ñuqaykuwan rimaspa.",
+      "- Qullqi cambio qowaq: servidorniykumanta cambio mañakuykunallata chaskin, manan watukuqpa willayninta.",
+      "Kay qowaqkunaqa Indonesiamanta hawapi willaykunata llamkapuyta atinku kikinkunapa kamachiyninman hina."
+     ]
+    },
+    {
+     "t": "5. Hayk'a pachatan willaykuna waqaychasqa",
+     "b": [
+      "Rimaykuna hinallataq proyecto yanapakuna waqaychasqa kachkan llamkayta puririchinapaq, yanapayta qonapaq hinallataq kamachiykuna hunt'anapaq munasqa pachakama, chaymanta pichasqa icha mana riqsisqa kachun. Analytics willaykunaqa qowaqninpa waqaychay churasqanta qatin. Browserniykipi willaykunaqa qanmi pichanaykikama qhipakun."
+     ]
+    },
+    {
+     "t": "6. Hayñiykikuna",
+     "b": [
+      "Indonesia suyupa 2022 wata 27 yupayniyuq kamachiyman hina, hukllapi willaykunata amachanamanta, qamqa hayñiyuq kanki:",
+      "- ñuqaykupi hukllapi willaykikuna ima kasqanta yachanaykipaq hinallataq copiata chaskinaykipaq;",
+      "- mana allin willaykuna allichasqa kananpaq mañakuy;",
+      "- willaykikuna pichasqa kananpaq mañakuy icha uyarisqaykita kutichiy;",
+      "- wakin llamkapuykunaman mana munaspa rimay.",
+      "Mañakuyniykita nocodingindonesia@gmail.com man apachiy. Allin pachapi kutichisaqku."
+     ]
+    },
+    {
+     "t": "7. Waqaychay hinallataq wawakuna",
+     "b": [
+      "Kay sitioqa HTTPS llamkachin hinallataq proyecto willaykunaman haykuyqa wateqasqa. Mana mayqin ñanpas willaykunata apachinapaq icha waqaychanapaq hunt'asqata mana imaymanayuq, chayrayku manan hunt'asqa waqaychayta niyta atiniykuchu.",
+      "Llamkayninchikqa 18 watayuq icha aswan kuraq runakunapaqmi. Manan yachaspa wawakunapa hukllapi willayninta huñuniykuchu."
+     ]
+    },
+    {
+     "t": "8. Kay kamachiy tikrakuna",
+     "b": [
+      "Kay kamachiyqa kaq kutipi musuqchasqa kanman. Qhipa musuqchasqa p'unchawqa p'anqapa uranpi rikuchisqa. Simikuna ima niyninpi mana kaqlla kaptinqa, Indonesia simipi qillqasqa kaqmi kamachin."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Kamachikuykuna hinallataq rimanakuykuna",
+   "description": "Nocoding sitiota hinallataq llamkaykunata llamkachinapaq kamachikuykuna: paquetekuna, chaninkuna, imayna llamkay ruwasqa, yuyayninpa kaynin hinallataq huchamanta kamachiy kaq saphichay.",
+   "sections": [
+    {
+     "t": "1. Kay rimanakuykunata chaskiy",
+     "b": [
+      "Kay sitiota kicharispa icha Nocodingpa llamkaykunata llamkachispa, kay kamachikuykunawan hinallataq rimanakuykunawan kuska kanki. Mana kuskaña kaspaqa, ama sitioykutapas llamkaykutapas llamkachiychu."
+     ]
+    },
+    {
+     "t": "2. Llamkaykuna",
+     "b": [
+      "Nocoding ruwan portafolio icha CV websitekunata, landing pagekunata hinallataq empresa profilekunata, willay hinallataq llamkay yachaykunata, hinallataq negocio ruwaykunapa automatizacionninta. Llamkaypa sayayninta, ima ruwayninkunata, pachanta hinallataq qullqinta qanwan rimanakuspa WhatsApp icha emailwan llamkay qallarinanchikpaq.",
+      "Tapukuy yanapayqa mana qullqiyuqmi, kaqkama munaspaykipas, hinallataq manan qanta mañanaykipaq obligawanchu."
+     ]
+    },
+    {
+     "t": "3. Paquetekuna hinallataq chaninkuna",
+     "b": [
+      "- Huch'uy paquete: Rp 500.000 watapaq qallarispa, mana qullqiyuq waqaychay hinallataq 1 watapaq dominio yaykuchisqa.",
+      "- Hatun paquete: Rp 2.000.000 watapaq qallarispa, mana qullqiyuq waqaychay hinallataq 1 watapaq hosting yaykuchisqa.",
+      "Sitiopi chaninkunaqa qallariy chaninkunam. Tukuchay chaninqa tapukuy yanapay qhipanpi rimanakusqa, necesitasqaykiman hina. Indonesiamanta hawa watukuqkunapaq, chaninkunaqa llaqta qullqipi rikuchisqa yuyaymanay hina sapa p'unchaw cambiomanta; rupiapi rimanakusqayku chaninmi kamachin. Aswan qullqikuna, hinacha aswan ruwayninkuna icha mana qullqiyuq pacha tukusqa qhipa musuqchay, llamkay ruwasqa kanaqpa ñawpaqnin qanman willasqa."
+     ]
+    },
+    {
+     "t": "4. Imayna llamkay ruwasqa hinallataq qampa ruwanaykikuna",
+     "b": [
+      "Ruwana rikuchiyqa qanwan qhawarisqa hinallataq chaskisqa ruwayman yaykunanchikpaq. Allichaykunaqa rimanakusqa hina ruwasqa.",
+      "Qanmi ruwanayki imakunata (logo, qillqa, rikch'ay, willay) pachanpi qonaykipaq hinallataq chaykunata llamkachinapaq hayñiyuq kanaykipaq. Imakunata icha niykunata qhipaman churaspaqa pacha tupuyman yaykunman."
+     ]
+    },
+    {
+     "t": "5. Waqaychay",
+     "b": [
+      "1 wata mana qullqiyuq waqaychayqa llamkayniykupi pantaykunata allichayta hinallataq tiksi waqaychay musuqchaykunata yaykuchin. Musuq ruwayninkuna, hatun ruwana tikrakuna hinallataq ñawpaq rimanakuymanta hawapi llamkaykunaqa sapaq cobrasqa."
+     ]
+    },
+    {
+     "t": "6. Yuyaypa kaynin",
+     "b": [
+      "Qonqasqayki imakunaqa qampuni kachkan. Tukusqa llamkayqa qanman quykusqa kanqa rimanakusqa hina pagasqa hunt'asqa kaptin. Nocodingqa rikuchiyta atin kachkaq llamkaykunata portafoliopi ejemplo hina, mana qanqa qillqasqawan mañaspaqa mana rikuchisqa kananpaq.",
+      "Ruwana, qillqa hinallataq qillqakuna nocoding.web.id pi Nocodingpam. Chaykunapa ñankunata rakiyta atinki, ichaqa mana saqemanta copiaspa hinallataq negocio hina llamkachiyta atinkichu. Qillqakunapa rikch'aynin Unsplashmanta hamun hinallataq licencianta qatin; maymanta kasqanqa sapa rikch'ay uranpi qillqasqa."
+     ]
+    },
+    {
+     "t": "7. Sitiopa simikuna",
+     "b": [
+      "Kay sitioqa achka simipi kachkan. Tikrasqakunaqa, aswanpas pisi rimaqniyuq simikunapaq, mana hunt'asqachu kanman. Ima niyninpi mana kaqlla kaptinqa, Indonesia simipi qillqasqa kaqmi kamachin. Kay kamachiy p'anqakunaqa Indonesia simipi hinallataq Ingles simipi kachkan."
+     ]
+    },
+    {
+     "t": "8. Huchamanta kamachiypa saphichay",
+     "b": [
+      "Allin ruwayta munaspa llamkanchik, ichaqa manan wakin negocio ruwaykunata nikuchu hina maskhaypi churasqa kayta, watukuqkunapa yupayninta icha rantiykunata. Manan hukkunamanta chinkarisqakunapaq responsablechu kanchis hina hosting, dominio icha pago qowaqkuna, nitaq mana chiqap chinkachisqakunapaq.",
+      "Huk llamkaymanta huchamanta kamachiyniykuqa qanpa chay llamkaypaq pagasqayki yupayman sayarisqa, kamachiy saqesqanman hina. Kayqa manan kamachiypa amachasqan hayñiykikunata pisiyachinchu."
+     ]
+    },
+    {
+     "t": "9. Kamachiq kamachiy",
+     "b": [
+      "Kay rimanakuykunaqa Indonesia Republicapa kamachiykunapa uranpi kachkan. Mana kuskachasqa kaptinqa, ñawpaqta rimanakuspa allichayta tukuy. Mana rimanakuy hunt'asqa kaptinqa, mana kuskachasqa Indonesiapi atiyniyuq hukñiqinkuna tantakuypi allichasqa."
+     ]
+    },
+    {
+     "t": "10. Tikrakuna hinallataq tinkuy",
+     "b": [
+      "Kay rimanakuykunaqa kaq kutipi musuqchasqa kanman; qhipa musuqchasqa p'unchawqa p'anqapa uranpi rikuchisqa. Tapukuykunata nocodingindonesia@gmail.com man icha WhatsApp +62 853-2651-3324 man apachiy atikun."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Cookie kamachiy",
+   "description": "Nocoding sitiopa llamkachisqan cookiekuna hinallataq local storage, imapaq kasqan, hinallataq imayna kamachiyta atinki.",
+   "sections": [
+    {
+     "t": "1. Ima cookiekuna",
+     "b": [
+      "Cookiekunaqa huch'uy willay k'ancharikunam huk sitio browserniykipi waqaychan. Local storage hinallataq session storage rikch'akuqlla llamkanku ichaqa manan kikillanmanta servidorman apachisqachu. Kay p'anqapi tukuyninkuta cookie niyku."
+     ]
+    },
+    {
+     "t": "2. Imatan sitio llamkananpaq necesitan",
+     "b": [
+      "Browserniykipi waqaychasqa hinallataq mana servidorniykuman apachisqa:",
+      "- nocoding-language hinallataq nocoding-language-set: akllasqayki simi icha browserniykimanta tarisqa.",
+      "- nocoding-pricing (sesión): qullqi hinallataq cambio yuyaymanasqa, chaninkuna sapa p'anqapi mana kutipi yupasqa kananpaq.",
+      "- Qillqapa ch'atankuna: huk qillqata kuyasqaykita, rikusqaykita icha rakisqaykita, yupaykuna mana iskayyaq kananpaq.",
+      "- Sitiopa kuskankunapi puriykunapi pisi pacha scroll maypi kasqanpa ch'atan."
+     ]
+    },
+    {
+     "t": "3. Analytics",
+     "b": [
+      "Kichasqa kaptinqa, iskay analytics llamkaykuna apamunku p'anqawan ruwaspa qhipan (scroll ruwaspa, ñitispa icha tecla ñitispa):",
+      "- Google Analytics 4 (_ga hinallataq _ga_* hina cookiekuna, aswan 2 watakama allin): watukuy yupaykuna.",
+      "- Microsoft Clarity (_clck, _clsk, CLID hinallataq MUID hina cookiekuna, aswan 1 watakama allin): heatmapkuna hinallataq mana pipa riqsisqa ruwaykuna ñawpaqman churasqa.",
+      "CDN hinallataq waqaychay qowaqkunapas technica cookiekunata churayta atinku sitiota millay tránsitumanta amachanankupaq."
+     ]
+    },
+    {
+     "t": "4. Imayna cookiekunata kamachiy",
+     "b": [
+      "Cookiekunata pichayta icha wateqayta atinki browser churaykunapi. Google Analytics paqpas Googlepa kikin lluqsiy add-onninta churaytapas atinki. Analytics cookiekuna wateqasqa kaptinpas sitioqa llamkallanmi; local storage pichasqa kaptinqa, simi akllasqaykiqa ñawpaq churasqamanmi kutin."
+     ]
+    },
+    {
+     "t": "5. Tapukuykuna",
+     "b": [
+      "Kay kamachiymanta tapukuykunapaq, nocodingindonesia@gmail.com wan tinkuy. Imayna hukllapi willaykuna llamkachisqa kasqanqa aswan allinta willasqa Pakasqa willay kamachiypi. Ima niyninpi mana kaqlla kaptinqa, Indonesia simipi qillqasqa kaqmi kamachin."
+     ]
+    }
+   ]
+  }
+ }
+}

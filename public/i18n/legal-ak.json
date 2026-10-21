@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Bere a wɔyɛɛ no foforo etwa to",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Kokoam Nhyehyɛe",
+   "description": "Nsɛm a Nocoding boaboa ano, nea wɔde di dwuma, obi a ɔhwehwɛ mu, ne wo hokwan a ɛfa woankasa nsɛm ho.",
+   "sections": [
+    {
+     "t": "1. Yɛne hwan",
+     "b": [
+      "Nocoding (nocoding.web.id) yɛ wɛbsaet, app, nsɛm nhyehyɛe ne adwuma a ɛyɛ ade ankasa dwumadi a Abid Hanan Wicaksono di so wɔ Indonesia. Nhyehyɛe yi kyerɛkyerɛ sɛnea yɛfa wo ankasa nsɛm no bere a wokɔ saet yi so anaa wode yɛne wo kasa no.",
+      "Wobetumi de nsɛmmisa a ɛfa nhyehyɛe yi ho akɔ nocodingindonesia@gmail.com anaa WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Nsɛm a yɛboaboa ano",
+     "b": [
+      "- Nsɛm a wo ankasa fi: w'din, w'WhatsApp nɔma, email ne w'adwuma no ho nkyerɛkyerɛmu bere a wode WhatsApp anaa email kɔ yɛn nkyɛn. Saet yi nni ɔfa a ɔde ne ho kɔhyɛ mu anaa nsɛm a wɔhyɛ mu.",
+      "- Nsɛm a ɛfa tɛknɔlɔgyi ho a wɔhwehwɛ mu ankasa: IP address, adwinnade ne browser ahorow, ne nkrataa a wobue. Yɛn hosting ne CDN nkyɛmu no hwehwɛ mu de kyerɛ saet no ne sɛ wɔbɛbɔ ho ban afi atirimɔdensɛm ho.",
+      "- Ɔman a wɔkyerɛ sɛ ɛte saa: sɛnea ebetumi ama wɔakyerɛ nneɛma bo wɔ wo sika mu no, wɔkyerɛ w'ɔman fi CDN nsɛm mu anaa w'browser kasa mu. Yɛnkora no wɔ yɛn server so.",
+      "- Nsɛm a wɔhwehwɛ de ahu sɛnea wɔde di dwuma: Google Analytics 4 ne Microsoft Clarity (bere a wɔakyerɛ) boaboa dwumadi ho nsɛm te sɛ nkrataa a wobue, bere a wodii, adwinnade ahorow, ne ahyɛde a wɔtwerɛ a wontumi nhu obi. Wɔbɛtumi adi dwuma bere a woabɔ nkrataa no ho adwuma nko ara.",
+      "- Browser mu nkora: w'kasa a wopaw, nsɛnkyerɛnne a ɛkyerɛ sɛ woatwa abɔ anaa woahu anaa woakyɛ asɛm bi, ne bo a wɔtwa kakra. Nsɛm pii wɔ Cookie Nhyehyɛe no mu.",
+      "- Asɛm a wɔahu, wɔatwa abɔ, ne wɔakyɛ no dodow no, wɔkora so sɛ ɛkɔ baako a nnipa ananmu nni mu."
+     ]
+    },
+    {
+     "t": "3. Nea wɔde nsɛm no di dwuma",
+     "b": [
+      "- Mmuaeɛ a wɔde ma wo nsɛmmisa, nsiesie bo ne wo adwuma no yɛ.",
+      "- Saet no a wɔbɛkyerɛ, wɔbɛbɔ ho ban ne wɔbɛma ayɛ ntɛm.",
+      "- Sɛnea wɔde saet no di dwuma a yɛbɛte ase, na yɛasiesie no.",
+      "- Mmara mu nhyehyɛe a yɛbɛdi so.",
+      "Yɛntɔn wo ankasa nsɛm."
+     ]
+    },
+    {
+     "t": "4. Nkyɛmu a wɔka ho",
+     "b": [
+      "- Vercel: saet no hosting ne ne nkyerɛ.",
+      "- Cloudflare: CDN ne ahobammɔ.",
+      "- Google (Google Analytics 4) ne Microsoft (Clarity): saet no dwumadi ho nsɛm.",
+      "- Meta (WhatsApp) ne Google (Gmail): bere a wode saet yi so WhatsApp anaa email nkitahodi kɔ yɛn nkyɛn.",
+      "- Sika bo ho nsɛm a wɔma: yɛn server nko na ɛfa sika bo ho mmisa, ɛnyɛ nsɛm a ɛfa wɔn a wɔkɔ saet no so ho.",
+      "Saa nkyɛmu yi betumi ahwehwɛ nsɛm no mu wɔ Indonesia akyi sɛnea wɔn ankasa nhyehyɛe te."
+     ]
+    },
+    {
+     "t": "5. Bere tenten a wɔkora nsɛm no",
+     "b": [
+      "Nkɔmmɔ ne adwuma no ho nneɛma no, wɔkora so bere tenten a ehia sɛ wɔde yɛ adwuma no, wɔma mmoa, ne wɔdi mmara mu nhyehyɛe so, na afei wɔtu no anaa wɔyi ananmu fi mu. Analytics nsɛm di wɔn nkyɛmu no kora nhyehyɛe akyi. Nsɛm a ɛwɔ w'browser mu no gyina hɔ kosi sɛ wobɛtu."
+     ]
+    },
+    {
+     "t": "6. Wo hokwan",
+     "b": [
+      "Sɛnea Indonesia Mmara No. 27 a ɛfa afe 2022 ho a ɛfa Ankasa Nsɛm Ahobammɔ ho te no, wowɔ hokwan sɛ:",
+      "- wobɛhu na woanya wo ankasa nsɛm a yɛwɔ ho kopi;",
+      "- wobɛsrɛ sɛ wɔnsiesie nsɛm a ɛnteɛ;",
+      "- wobɛsrɛ sɛ wɔntu w'nsɛm anaa woayi wo ho ase;",
+      "- wobɛpow nsɛm bi a wɔhwehwɛ mu.",
+      "Fa wo adesrɛ no kɔ nocodingindonesia@gmail.com. Yɛbɛma wo mmuaeɛ wɔ bere a ɛfata mu."
+     ]
+    },
+    {
+     "t": "7. Ahobammɔ ne mmofra",
+     "b": [
+      "Saet yi de HTTPS di dwuma, na wɔahyɛ hyɛ adwuma no nsɛm so ban. Akwan biara a wɔfa so de nsɛm kɔ anaa wɔkora so no nni asiane koraa, enti yɛntumi nka ahobammɔ a ɛyɛ pɛpɛɛpɛ ho bɔ.",
+      "Yɛn adwuma no yɛ ma nnipa a wɔadi mfe 18 ne nea ɛboro so. Yɛmfa nnim nboaboa mmofra ankasa nsɛm."
+     ]
+    },
+    {
+     "t": "8. Nhyehyɛe yi nsakrae",
+     "b": [
+      "Wobetumi ayɛ nhyehyɛe yi foforo bere ne bere. Da a wɔyɛɛ no foforo etwa to no da nkrataa no ano. Sɛ kasa ahorow no ntease ntam yɛ soronko a, Indonesia kasa mu nsɛm no na ɛyɛ adwuma."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Mmara ne Nhyehyɛe",
+   "description": "Mmara a ɛfa Nocoding saet ne ne adwuma a wɔde di dwuma ho: nneɛma kuw, bo, sɛnea wɔyɛ adwuma, adwene mu agyapadeɛ, ne nhyɛso a ɛfa mfitiaseɛ ho.",
+   "sections": [
+    {
+     "t": "1. Mmara yi a wobegye atom",
+     "b": [
+      "Sɛ wobue saet yi anaa wode Nocoding adwuma di dwuma a, wobɛyɛ mmara ne nhyehyɛe yi so. Sɛ wonnye ntom a, yɛsrɛ wo, mfa yɛn saet anaa yɛn adwuma nni dwuma."
+     ]
+    },
+    {
+     "t": "2. Adwuma no",
+     "b": [
+      "Nocoding yɛ portfolio anaa CV wɛbsaet, landing page ne adwumakuw ho nsɛm, nsɛm ne dwumadi nhyehyɛe, ne adwuma ho nhyehyɛe a ɛyɛ ankasa. Adwuma no kɛseɛ, nneɛma a ɛwom, bere ne ɛka no, yɛne wo di agyina so denam WhatsApp anaa email so ansa na adwuma no refi ase.",
+      "Afotuo no yɛ kwa daa, bere biara a wohia, na ɛmma ɛnhyɛ wo sɛ wobɛtɔ ade."
+     ]
+    },
+    {
+     "t": "3. Nneɛma kuw ne bo",
+     "b": [
+      "- Kuw ketewa: efi Rp 500.000 afe biara, ka ho nsiesie kwa ne domain mfe 1.",
+      "- Kuw kɛse: efi Rp 2.000.000 afe biara, ka ho nsiesie kwa ne hosting mfe 1.",
+      "Bo a ɛwɔ saet no so no yɛ mfitiaseɛ bo. Bo a etwa to no, wɔne wo di agyina so wɔ afotuo akyi sɛnea wo ahiade te. Ma wɔn a wɔwɔ Indonesia akyi no, wɔkyerɛ bo wɔ wɔn man sika mu sɛ nkyerɛaseɛ a egyina da biara sika nsakrae so; sika dodow a yɛdi ho agyina wɔ rupiah mu no na ɛyɛ adwuma. Ka foforo, te sɛ nneɛma a wɔde ka ho anaa nkabom a wɔyɛ bere a bere a ɛyɛ kwa no aba awieeɛ, wɔka kyerɛ wo ansa na wɔayɛ adwuma no."
+     ]
+    },
+    {
+     "t": "4. Sɛnea wɔyɛ adwuma ne w'asɛyɛde",
+     "b": [
+      "Wɔhwɛ nhyehyɛe no mu na wɔne wo gye tom ansa na wɔafi ase ayɛ. Wɔyɛ nsakrae sɛnea yɛadi agyina so.",
+      "Wo na wo asɛyɛde ne sɛ wobɛma nneɛma (logo, nsɛm, mfonini, nsɛm) wɔ bere pa mu na wobɛhwɛ sɛ wowɔ ho hokwan. Nneɛma no anaa nsɛm a wobɛka a ɛbɛkyɛ no betumi ama bere no asesa."
+     ]
+    },
+    {
+     "t": "5. Nsiesie",
+     "b": [
+      "Nsiesie kwa a ɛkɔ so mfe 1 no kata mfomsoɔ a ɛwɔ yɛn adwuma mu a wɔbɛsiesie ne ahobammɔ ho nsɛm foforo a ɛyɛ mfitiaseɛ. Nneɛma foforo, adwuma no ho nsakrae akɛse, ne adwuma a ɛnyɛ nea yɛdi agyina so mfiase no, wɔtua ho ka koraa."
+     ]
+    },
+    {
+     "t": "6. Adwene mu agyapadeɛ",
+     "b": [
+      "Nneɛma a wode ma no da so yɛ wo dea. Adwuma a ayɛ awie no, wɔde ma wo bere a woatua sika no nyinaa sɛnea yɛadi agyina so. Nocoding betumi akyerɛ adwuma a ayɛ awie no sɛ nhwɛsoɔ wɔ n'portfolio mu, gye sɛ wosrɛ wɔ nkyerɛwee mu sɛ wɔnnkyerɛ.",
+      "Nhyehyɛe, nsɛm ne nsɛm a ɛwɔ nocoding.web.id so no yɛ Nocoding dea. Wobetumi akyɛ ne links, nanso wɔmma wo ho kwan sɛ wobɛtwerɛ na woadi dwuma wɔ aguadi mu a wonsrɛ kwan. Nsɛm no mfonini fi Unsplash na ɛdi n'tumi nhyehyɛe akyi; wɔkyerɛ baabi a ɛfiri wɔ mfonini biara ase."
+     ]
+    },
+    {
+     "t": "7. Saet no kasa ahorow",
+     "b": [
+      "Saet yi wɔ kasa pii mu. Nkyerɛaseɛ, titiriw wɔ kasa a nnipa kakra na ɛka no mu, betumi anyɛ pɛpɛɛpɛ. Sɛ ntease ntam yɛ soronko a, Indonesia kasa mu nsɛm no na ɛyɛ adwuma. Mmara nkrataa yi wɔ Indonesia ne Borɔfo kasa mu."
+     ]
+    },
+    {
+     "t": "8. Nhyɛso a ɛfa mfitiaseɛ ho",
+     "b": [
+      "Yɛyɛ adwuma sɛ yɛbɛma wo nea eye, nanso yɛnhyɛ bɔ sɛ aguadi mu nea ebefi mu aba te sɛ search rankings, nnipa dodow a wɔbɛba, anaa ntɔe. Yɛmfa ho nsɛm a ɛfi nkyɛmu a wɔka ho te sɛ hosting, domain, anaa tua sika nkyɛmu, anaa mfitiaseɛ a ɛnyɛ tẽẽ.",
+      "Yɛn mfitiaseɛ a ɛfa adwuma bi ho no, wɔhyɛ so sɛ sika a woatua ama saa adwuma no, sɛnea mmara ma ho kwan. Eyi nte wo hokwan a mmara bɔ ho ban no so."
+     ]
+    },
+    {
+     "t": "9. Mmara a wɔde di dwuma",
+     "b": [
+      "Mmara yi gyina Indonesia Man no mmara so. Sɛ akasakasa bi si a, yɛbɛhwɛ kan sɛ yɛbɛsiesie denam nkɔmmɔ so. Sɛ yɛanya nkyekyɛmu a, wɔbɛsiesie akasakasa no wɔ Indonesia asɔre a wɔwɔ tumi mu."
+     ]
+    },
+    {
+     "t": "10. Nsakrae ne nkitahodi",
+     "b": [
+      "Wobetumi ayɛ mmara yi foforo bere ne bere; da a wɔyɛɛ no foforo etwa to no da nkrataa no ano. Wobetumi de nsɛmmisa akɔ nocodingindonesia@gmail.com anaa WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Cookie Nhyehyɛe",
+   "description": "Cookies ne local storage a Nocoding saet no de di dwuma, nea wɔde yɛ adwuma, ne sɛnea wobɛhwɛ so.",
+   "sections": [
+    {
+     "t": "1. Nea cookies yɛ",
+     "b": [
+      "Cookies yɛ nkratafa nkumaa a saet bi kora wɔ w'browser mu. Local storage ne session storage yɛ adwuma sɛ ebi nanso wɔmfa nkɔ server so ankasa. Wɔ nkrataa yi so no, yɛfrɛ ne nyinaa cookies."
+     ]
+    },
+    {
+     "t": "2. Nea saet no hia sɛ ɛyɛ adwuma",
+     "b": [
+      "Wɔkora w'browser mu na wɔmfa nkɔ yɛn server so:",
+      "- nocoding-language ne nocoding-language-set: kasa a wopaw anaa nea wɔhui fi w'browser mu.",
+      "- nocoding-pricing (session): sika a wɔkyerɛ sɛ ɛte saa ne nsakrae, na wɔnkyerɛ bo bio wɔ nkrataa biara so.",
+      "- Asɛm nsɛnkyerɛnne: sɛ woatwa abɔ, woahu anaa woakyɛ asɛm, na dodow no mmɔ mmienu.",
+      "- Baabi a wokɔɔ so ase bere kakra bere a wotu fi saet no fa baako kɔ fa foforo."
+     ]
+    },
+    {
+     "t": "3. Analytics",
+     "b": [
+      "Bere a wɔakyerɛ no, analytics adwuma mmienu bue bere a woabɔ nkrataa no ho adwuma (woatwe, woatɔ so anaa woato bɔtɔn bi):",
+      "- Google Analytics 4 (cookies te sɛ _ga ne _ga_*, a ɛkɔ so kosi mfe 2 sɛ nkyerɛaseɛ): nnipa a wɔba ho nsɛm.",
+      "- Microsoft Clarity (cookies te sɛ _clck, _clsk, CLID ne MUID, a ɛkɔ so kosi afe 1 sɛ nkyerɛaseɛ): heatmaps ne ahyɛde a wɔtwerɛ a wontumi nhu obi.",
+      "CDN ne ahobammɔ nkyɛmu nso betumi de tɛknɔlɔgyi cookies ahyɛ so de abɔ saet no ho ban afi trafik a ɛyɛ bɔne ho."
+     ]
+    },
+    {
+     "t": "4. Sɛnea wobɛhwɛ cookies so",
+     "b": [
+      "Wobetumi atu anaa woasiw cookies wɔ w'browser nhyehyɛe mu. Wobetumi nso ahyɛ Google adwuma a ɛma wokame no ho wɔ Google Analytics so. Sɛ wosiw analytics cookies a, saet no da so yɛ adwuma; sɛ wotu local storage a, w'kasa a wopaw no san kɔ nea ɛdi kan no."
+     ]
+    },
+    {
+     "t": "5. Nsɛmmisa",
+     "b": [
+      "Sɛ wowɔ nsɛmmisa a ɛfa nhyehyɛe yi ho a, di nkitaho nocodingindonesia@gmail.com. Sɛnea wɔde ankasa nsɛm di dwuma no, wɔkyerɛkyerɛ mu pii wɔ Kokoam Nhyehyɛe mu. Sɛ ntease ntam yɛ soronko a, Indonesia kasa mu nsɛm no na ɛyɛ adwuma."
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Paskutinį kartą atnaujinta",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Privatumo politika",
+   "description": "Kokius duomenis Nocoding renka, kam jie naudojami, kas juos tvarko ir kokias teises turite savo asmens duomenų atžvilgiu.",
+   "sections": [
+    {
+     "t": "1. Kas mes esame",
+     "b": [
+      "Nocoding (nocoding.web.id) yra svetainių, programėlių, informacinių sistemų ir automatizavimo paslauga, kurią Indonezijoje teikia Abid Hanan Wicaksono. Šioje politikoje paaiškinama, kaip elgiamės su jūsų asmens duomenimis, kai lankotės šioje svetainėje arba susisiekiate su mumis.",
+      "Klausimus apie šią politiką galite siųsti adresu nocodingindonesia@gmail.com arba per WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Duomenys, kuriuos renkame",
+     "b": [
+      "- Jūsų pateikiami duomenys: vardas, WhatsApp numeris, el. pašto adresas ir jūsų projekto aprašymas, kai susisiekiate su mumis per WhatsApp arba el. paštu. Šioje svetainėje nėra vartotojų paskyrų ar registracijos formų.",
+      "- Automatiškai tvarkomi techniniai duomenys: IP adresas, įrenginio ir naršyklės tipas bei atidaromi puslapiai. Mūsų talpinimo ir CDN paslaugų teikėjai juos tvarko, kad svetainė veiktų ir būtų apsaugota nuo piktnaudžiavimo.",
+      "- Apytikslė šalis: kad kainos būtų rodomos jūsų valiuta, jūsų šalis nustatoma apytiksliai pagal CDN informaciją arba naršyklės kalbą. Jos savo serveriuose nesaugome.",
+      "- Analitikos duomenys: Google Analytics 4 ir Microsoft Clarity (kai įjungti) renka naudojimo statistiką, pavyzdžiui, atidarytus puslapius, apsilankymo trukmę, įrenginio tipą ir anonimiškus sąveikos įrašus. Jie įkeliami tik jums pradėjus sąveikauti su puslapiu.",
+      "- Naršyklės saugykla: jūsų kalbos pasirinkimas, žymos, kad jau pamėgote straipsnį, jį peržiūrėjote ar pasidalijote juo, ir laikina kainos apskaičiavimo reikšmė. Išsami informacija pateikta Slapukų politikoje.",
+      "- Straipsnių peržiūrų, patiktukų ir pasidalijimų skaičiai saugomi kaip bendri skaičiai, nenurodant lankytojo tapatybės."
+     ]
+    },
+    {
+     "t": "3. Kam naudojami duomenys",
+     "b": [
+      "- Atsakyti į jūsų klausimus, parengti pasiūlymus ir įgyvendinti jūsų projektą.",
+      "- Teikti svetainę, ją saugoti ir užtikrinti jos greitį.",
+      "- Suprasti, kaip svetainė naudojama, kad galėtume ją tobulinti.",
+      "- Vykdyti teisinius įsipareigojimus.",
+      "Savo asmens duomenų neparduodame."
+     ]
+    },
+    {
+     "t": "4. Dalyvaujančios trečiosios šalys",
+     "b": [
+      "- Vercel: svetainės talpinimas ir pateikimas.",
+      "- Cloudflare: CDN ir saugumas.",
+      "- Google (Google Analytics 4) ir Microsoft (Clarity): svetainės naudojimo statistika.",
+      "- Meta (WhatsApp) ir Google (Gmail): kai susisiekiate su mumis per šioje svetainėje esančias WhatsApp ar el. pašto nuorodas.",
+      "- Valiutų kursų teikėjas: gauna tik mūsų serverio kursų užklausas, o ne lankytojų duomenis.",
+      "Šie teikėjai gali tvarkyti duomenis už Indonezijos ribų pagal savo politikas."
+     ]
+    },
+    {
+     "t": "5. Kiek laiko duomenys saugomi",
+     "b": [
+      "Pokalbiai ir projekto medžiaga saugomi tiek, kiek reikia paslaugai teikti, pagalbai suteikti ir teisiniams įsipareigojimams vykdyti, o vėliau ištrinami arba anonimizuojami. Analitikos duomenims taikomi jų teikėjo saugojimo nustatymai. Jūsų naršyklėje esantys duomenys išlieka, kol juos ištrinate."
+     ]
+    },
+    {
+     "t": "6. Jūsų teisės",
+     "b": [
+      "Pagal Indonezijos 2022 m. Įstatymą Nr. 27 dėl asmens duomenų apsaugos turite teisę:",
+      "- žinoti, kokius jūsų asmens duomenis turime, ir gauti jų kopiją;",
+      "- reikalauti ištaisyti neteisingus duomenis;",
+      "- reikalauti ištrinti jūsų duomenis arba atšaukti sutikimą;",
+      "- nesutikti su tam tikru tvarkymu.",
+      "Prašymą siųskite adresu nocodingindonesia@gmail.com. Atsakysime per pagrįstą laiką."
+     ]
+    },
+    {
+     "t": "7. Saugumas ir vaikai",
+     "b": [
+      "Ši svetainė naudoja HTTPS, o prieiga prie projekto duomenų ribojama. Joks duomenų perdavimo ar saugojimo būdas nėra visiškai be rizikos, todėl negalime garantuoti absoliutaus saugumo.",
+      "Mūsų paslaugos skirtos 18 metų ir vyresniems asmenims. Sąmoningai nerenkame vaikų asmens duomenų."
+     ]
+    },
+    {
+     "t": "8. Šios politikos pakeitimai",
+     "b": [
+      "Ši politika gali būti retkarčiais atnaujinama. Paskutinio atnaujinimo data nurodyta puslapio viršuje. Jei kalbų versijų prasmė skiriasi, taikoma indoneziečių kalbos versija."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Taisyklės ir sąlygos",
+   "description": "Nocoding svetainės ir paslaugų naudojimo taisyklės: paketai, kainos, darbų atlikimo tvarka, intelektinė nuosavybė ir atsakomybės ribos.",
+   "sections": [
+    {
+     "t": "1. Sąlygų priėmimas",
+     "b": [
+      "Atidarydami šią svetainę arba naudodamiesi Nocoding paslaugomis, sutinkate su šiomis taisyklėmis ir sąlygomis. Jei nesutinkate, prašome nenaudoti mūsų svetainės ar paslaugų."
+     ]
+    },
+    {
+     "t": "2. Paslaugos",
+     "b": [
+      "Nocoding kuria portfolio ar CV svetaines, nukreipimo puslapius ir įmonių profilius, informacines bei veiklos sistemas ir verslo procesų automatizavimą. Darbų apimtis, funkcijos, terminai ir kaina su jumis suderinami per WhatsApp arba el. paštu prieš pradedant darbus.",
+      "Konsultacija visada nemokama, kai tik jos prireikia, ir neįpareigoja jūsų užsakyti."
+     ]
+    },
+    {
+     "t": "3. Paketai ir kainos",
+     "b": [
+      "- Mažasis paketas: nuo Rp 500.000 per metus, įskaitant nemokamą priežiūrą ir domeną 1 metams.",
+      "- Didysis paketas: nuo Rp 2.000.000 per metus, įskaitant nemokamą priežiūrą ir talpinimą 1 metams.",
+      "Svetainėje nurodytos kainos yra pradinės kainos. Galutinė suma suderinama po konsultacijos, atsižvelgiant į jūsų poreikius. Lankytojams ne iš Indonezijos kainos rodomos vietine valiuta kaip apskaičiavimas pagal dienos valiutų kursą; taikoma ta suma rupijomis, dėl kurios susitarėme. Papildomos išlaidos, pavyzdžiui, papildomos funkcijos ar atnaujinimas pasibaigus nemokamam laikotarpiui, jums pranešamos prieš atliekant darbus."
+     ]
+    },
+    {
+     "t": "4. Darbų atlikimo tvarka ir jūsų atsakomybė",
+     "b": [
+      "Dizainas peržiūrimas ir su jumis suderinamas prieš gamybą. Pataisymai atliekami kaip sutarta.",
+      "Jūs atsakote už tai, kad medžiagą (logotipą, tekstus, nuotraukas, duomenis) pateiktumėte laiku ir kad turėtumėte teisę ją naudoti. Medžiagos ar atsiliepimų vėlavimas gali paveikti terminus."
+     ]
+    },
+    {
+     "t": "5. Priežiūra",
+     "b": [
+      "Nemokama 1 metų priežiūra apima mūsų darbo klaidų taisymą ir pagrindinius saugumo atnaujinimus. Naujos funkcijos, dideli dizaino pakeitimai ir darbai, nenumatyti pirminiame susitarime, apmokestinami atskirai."
+     ]
+    },
+    {
+     "t": "6. Intelektinė nuosavybė",
+     "b": [
+      "Jūsų pateikta medžiaga lieka jūsų. Baigtas darbas jums perduodamas, kai visiškai sumokama pagal susitarimą. Nocoding gali rodyti veikiančius darbus kaip pavyzdžius savo portfolio, nebent raštu paprašysite jų nerodyti.",
+      "Dizainas, tekstai ir straipsniai svetainėje nocoding.web.id priklauso Nocoding. Galite dalytis nuorodomis į juos, tačiau be leidimo jų kopijuoti ir naudoti komerciniais tikslais negalima. Straipsnių nuotraukos gautos iš Unsplash ir jiems taikoma jos licencija; šaltinis nurodytas po kiekviena nuotrauka."
+     ]
+    },
+    {
+     "t": "7. Svetainės kalbos",
+     "b": [
+      "Ši svetainė pateikiama daugeliu kalbų. Vertimai, ypač kalbų, kuriomis kalba mažiau žmonių, gali būti netobuli. Jei prasmė skiriasi, taikoma indoneziečių kalbos versija. Šie teisiniai puslapiai pateikiami indoneziečių ir anglų kalbomis."
+     ]
+    },
+    {
+     "t": "8. Atsakomybės ribos",
+     "b": [
+      "Stengiamės pasiekti gerų rezultatų, tačiau nežadame konkrečių verslo rezultatų, pavyzdžiui, vietos paieškos rezultatuose, lankytojų skaičiaus ar pardavimų. Neatsakome už trečiųjų šalių, pavyzdžiui, talpinimo, domenų ar mokėjimų paslaugų teikėjų, sutrikimus ar netiesioginius nuostolius.",
+      "Mūsų atsakomybė už paslaugą ribojama suma, kurią sumokėjote už tą paslaugą, kiek tai leidžia įstatymai. Tai nemažina jūsų teisių, kurias saugo įstatymai."
+     ]
+    },
+    {
+     "t": "9. Taikytina teisė",
+     "b": [
+      "Šioms sąlygoms taikomi Indonezijos Respublikos įstatymai. Kilus ginčui, pirmiausia bandome jį išspręsti derybomis. Jei susitarti nepavyksta, ginčą sprendžia kompetentingi Indonezijos teismai."
+     ]
+    },
+    {
+     "t": "10. Pakeitimai ir kontaktai",
+     "b": [
+      "Šios sąlygos gali būti retkarčiais atnaujinamos; paskutinio atnaujinimo data nurodyta puslapio viršuje. Klausimus galite siųsti adresu nocodingindonesia@gmail.com arba per WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Slapukų politika",
+   "description": "Slapukai ir vietinė saugykla, kuriuos naudoja Nocoding svetainė, jų paskirtis ir kaip jais valdyti.",
+   "sections": [
+    {
+     "t": "1. Kas yra slapukai",
+     "b": [
+      "Slapukai yra maži failai, kuriuos svetainė saugo jūsų naršyklėje. Vietinė saugykla ir sesijos saugykla veikia panašiai, bet nėra automatiškai siunčiamos į serverį. Šiame puslapyje visus juos vadiname slapukais."
+     ]
+    },
+    {
+     "t": "2. Ko reikia svetainei veikti",
+     "b": [
+      "Saugoma jūsų naršyklėje ir nesiunčiama į mūsų serverius:",
+      "- nocoding-language ir nocoding-language-set: kalba, kurią pasirinkote arba kuri buvo nustatyta pagal jūsų naršyklę.",
+      "- nocoding-pricing (sesija): apskaičiuota valiuta ir kursas, kad kainos nebūtų skaičiuojamos iš naujo kiekviename puslapyje.",
+      "- Straipsnių žymos: ar jau pamėgote straipsnį, jį peržiūrėjote ar pasidalijote juo, kad skaičiai nebūtų dubliuojami.",
+      "- Laikina slinkties vietos žymė, kai pereinama tarp svetainės dalių."
+     ]
+    },
+    {
+     "t": "3. Analitika",
+     "b": [
+      "Kai įjungtos, dvi analitikos paslaugos įkeliamos jums pradėjus sąveikauti su puslapiu (slinkti, paliesti ar paspausti klavišą):",
+      "- Google Analytics 4 (slapukai, pavyzdžiui, _ga ir _ga_*, galioja iki maždaug 2 metų): apsilankymų statistika.",
+      "- Microsoft Clarity (slapukai, pavyzdžiui, _clck, _clsk, CLID ir MUID, galioja iki maždaug 1 metų): šilumos žemėlapiai ir anonimiški sąveikos įrašai.",
+      "CDN ir saugumo paslaugų teikėjai taip pat gali nustatyti techninius slapukus, kad apsaugotų svetainę nuo žalingo srauto."
+     ]
+    },
+    {
+     "t": "4. Kaip valdyti slapukus",
+     "b": [
+      "Slapukus galite ištrinti arba užblokuoti savo naršyklės nustatymuose. Taip pat galite įsidiegti oficialų Google atsisakymo priedą, skirtą Google Analytics. Jei analitikos slapukai užblokuoti, svetainė vis tiek veikia; jei vietinė saugykla išvaloma, jūsų kalbos pasirinkimas grįžta į numatytąjį."
+     ]
+    },
+    {
+     "t": "5. Klausimai",
+     "b": [
+      "Klausimais apie šią politiką kreipkitės adresu nocodingindonesia@gmail.com. Kaip naudojami asmens duomenys, plačiau paaiškinta Privatumo politikoje. Jei kalbų versijų prasmė skiriasi, taikoma indoneziečių kalbos versija."
+     ]
+    }
+   ]
+  }
+ }
+}

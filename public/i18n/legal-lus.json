@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "A hnuhnung ber a thar chhuah",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Thuruat Hriat Tel Dan (Privacy Policy)",
+   "description": "Nocoding in data eng nge a la khawm, eng atan nge hman a, tupawhin nge a enkawl, leh i mimal data chungchanga i dikna te.",
+   "sections": [
+    {
+     "t": "1. Kan nihna",
+     "b": [
+      "Nocoding (nocoding.web.id) hi Indonesia ram a Abid Hanan Wicaksono'n a enkawl website, app, information system leh automation siamna service a ni. He dan hian he site i tlawh hunah emaw min i rawn biak hunah emaw i mimal data kan enkawl dan a sawi a ni.",
+      "He dan chungchanga zawhna tur chu nocodingindonesia@gmail.com emaw WhatsApp +62 853-2651-3324 ah thlah theih a ni."
+     ]
+    },
+    {
+     "t": "2. Data kan khawn te",
+     "b": [
+      "- Nangmah i pek data: i hming, WhatsApp number, email leh WhatsApp emaw email hmanga min i rawn biak hunah i project chungchang sawina. He site hian user account emaw sign-up form a nei lo.",
+      "- Automatic taka enkawl technical data: IP address, device leh browser chi, leh i lehkhabu hawng page te. Site kan pek theih nan leh hman sual lakah a venhim nan kan hosting leh CDN provider-te'n an enkawl.",
+      "- Ram chungchang chhut tur: i sum chhiah a price lantir theih nan, CDN information emaw i browser ṭawng atang a i ram hi chhut a ni. Kan server a kan vawn lo.",
+      "- Analytics data: Google Analytics 4 leh Microsoft Clarity (a hman a nih chuan) hian page hawn, tlawh rei zawng, device chi leh hming hriat theih loh interaction record te ang hian hman dan statistics an khawm. Page i hman hnuah chauh an load.",
+      "- Browser storage: i ṭawng thlan, thuziak i duat tawh, i en tawh emaw i share tawh tih hriat nan chhinchhiahna, leh price chhut ṭhin nghet lo. A chipchiar chu Cookie Policy ah a awm.",
+      "- Thuziak en, like leh share zat hi mi tlawh hming hriat theih loh a, chhut khawm number angin vawn a ni."
+     ]
+    },
+    {
+     "t": "3. Data hman dan",
+     "b": [
+      "- I zawhna chhanna, price rawn siam leh i project ti zawh nan.",
+      "- Site pek, venhim leh chak taka a awm reng nan.",
+      "- Site hman dan hriat a, kan ti ṭha tur nan.",
+      "- Dan phuahchawp hlen nan.",
+      "I mimal data kan hralh lo."
+     ]
+    },
+    {
+     "t": "4. Pawl thumal tel te",
+     "b": [
+      "- Vercel: site hosting leh pe chhuah.",
+      "- Cloudflare: CDN leh venhimna.",
+      "- Google (Google Analytics 4) leh Microsoft (Clarity): site hman dan statistics.",
+      "- Meta (WhatsApp) leh Google (Gmail): he site a WhatsApp emaw email link hmangin min i rawn biak hunah.",
+      "- Sum thleng rate pe: kan server atanga rate dilna chauh an dawng, mi tlawh data an dawng lo.",
+      "He provider-te hian an dan ang zelin Indonesia chhung ram pawn lamah data an enkawl thei."
+     ]
+    },
+    {
+     "t": "5. Data vawn rei dan",
+     "b": [
+      "Inbiakna leh project thil te chu service tihpuitlin, support pek leh dan phuahchawp hlen nan a mamawh chhung vawn a ni a, chumi hnuah paih emaw hming hriat theih loh a siam a ni. Analytics data chu an provider vawn rei dan setting ang zelin a awm. I browser a data chu i paih hma loh chuan a awm reng."
+     ]
+    },
+    {
+     "t": "6. I dikna te",
+     "b": [
+      "Indonesia ram Law No. 27 of 2022, Mimal Data Humhalhna Dan (Personal Data Protection) hnuaiah hian, i dikna chu:",
+      "- kan vawn i mimal data hriat a copy dil;",
+      "- data dik lo siam ṭha tir;",
+      "- i data paih tir emaw i remtihna hnuh;",
+      "- enkawl dan thenkhat dodal.",
+      "I dilna chu nocodingindonesia@gmail.com ah thlah rawh. Hun tha tak chhungin kan chhang ang."
+     ]
+    },
+    {
+     "t": "7. Venhimna leh naupang te",
+     "b": [
+      "He site hian HTTPS a hmang a, project data hman theihna chu khap a ni. Data thlah emaw vawn dan reng reng hi hlauhawm nei lo hi a awm lo, chuvangin venhimna famkim kan tiam thei lo.",
+      "Kan service hi kum 18 leh a chunglam mite atan a ni. Naupang mimal data kan hre reng chunga kan khawn lo."
+     ]
+    },
+    {
+     "t": "8. He dan thlak danglam",
+     "b": [
+      "He dan hi hun hunah tihthar a ni thei. A hnuhnung ber a tihthar ni chu page chung ber ah a lang. Ṭawng inang lo lai hi a awmzia a danglam a nih chuan Indonesian version hi a thawk."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Dan leh Tehkhin (Terms and Conditions)",
+   "description": "Nocoding site leh service hman dan dan: package, price, hna thawh dan, intellectual property leh mawhphurhna bial.",
+   "sections": [
+    {
+     "t": "1. He dan pawm",
+     "b": [
+      "He site i hawn emaw Nocoding service i hman chuan he dan leh tehkhin hi i pawm a ni. I pawm loh chuan, kan site leh service hi hman lo turin kan ngen."
+     ]
+    },
+    {
+     "t": "2. Service te",
+     "b": [
+      "Nocoding hian portfolio emaw CV website, landing page leh company profile, information leh operations system, leh business process automation a siam. Hna thawh tur bial, feature, hun leh man chu hna kan thawk hma in WhatsApp emaw email hmangin i hnenah kan remti ṭhin.",
+      "Ṭhurawn hi tun reng free a ni a, i mamawh hunah ni se, order tur a ni lo."
+     ]
+    },
+    {
+     "t": "3. Package leh price",
+     "b": [
+      "- Package Te: kum khat atan Rp 500.000 atanga, maintenance free leh domain kum 1 pawh tel.",
+      "- Package Lian: kum khat atan Rp 2.000.000 atanga, maintenance free leh hosting kum 1 pawh tel.",
+      "Site a price hi a tan price a ni. A tâwp man chu i mamawh ang zelin ṭhurawn zawh hnuah remti a ni. Indonesia ram pawn lam mi tlawh te atan chuan price hi ni tin exchange rate ang zela chhut tirh a, a ram sum in a lang a; kan remtih rupiah man chu a thawk. Man belhchhah, feature belh emaw free hun a tawp hnua renew ang chite chu, hna thawh hma in i hrilh ang."
+     ]
+    },
+    {
+     "t": "4. Hna thawh dan leh i mawhphurhna",
+     "b": [
+      "Design chu production a tan hma in i hnenah en a, remti a ni. Revision te chu remtihna ang zelin ti a ni.",
+      "Thil pek (logo, thuziak, thlalak, data) hun taka pek leh hman tur dikna i neih hi i mawhphurhna a ni. Thil pek emaw ngaihdan pek tlai chuan hun tihchhan a ni thei."
+     ]
+    },
+    {
+     "t": "5. Maintenance",
+     "b": [
+      "Kum 1 free maintenance hian kan hna thawh a dik lohna siam ṭha leh venhimna update bul bik a huam. Feature thar, design danglamna lian leh remtihna bul a tel lo hna chu a bik in man a nei."
+     ]
+    },
+    {
+     "t": "6. Intellectual property",
+     "b": [
+      "I pek thil chu i ta a ni reng. Hna zawh chu remtihna ang zela pawisa pek zawh hnuah i hnenah hlan a ni. Nocoding hian a portfolio ah hna thawh tawh live a hmang thei a, i dil a, ziakin a lantir loh turin i ngen loh chuan.",
+      "nocoding.web.id a design, thuziak leh thuziak chu Nocoding ta a ni. Link i share thei a, mahse phalna lo chuan copy a, sumdawnna atan i hmang tur a ni lo. Thuziak thlalak chu Unsplash atanga lo chhuak a, a licence a zawm a; thlalak tin hnuaiah a hmun hming ziak a ni."
+     ]
+    },
+    {
+     "t": "7. Site ṭawng",
+     "b": [
+      "He site hi ṭawng tam tak in a awm. Ṭawng thawnna, a bik takin ṭawng mi tlêm te ṭawng chu famkim lo a ni thei. A awmzia a inang lo chuan Indonesian version hi a thawk. He dan page te hi Indonesian leh English in a awm."
+     ]
+    },
+    {
+     "t": "8. Mawhphurhna bial",
+     "b": [
+      "Hna ṭha pe tura kan thawk a, mahse search ranking, mi tlawh zat emaw hralh zat ang chi business result bik kan tiam lo. Hosting, domain emaw pawisa pek provider ang pawl thum te harsatna emaw, hlauhawm lam hlawh chhiat chungchang hi kan mawhphurhna a ni lo.",
+      "Service pakhat chungchanga kan mawhphurhna chu dan in a phalna tawp thlenin, service chu atana i pek man ang chauh a ni. Hei hian dan a venhim i dikna a tihtlem lo."
+     ]
+    },
+    {
+     "t": "9. Dan thawk",
+     "b": [
+      "He dan hi Republic of Indonesia dan ang zelin a ni. Inhnialna a awm chuan hmasa berin inbiakpawh in kan siam ṭha tum ang. Remtihna a awm loh chuan, inhnialna chu Indonesia ram a rorelna hmun fimkhur tak in a tihfel ang."
+     ]
+    },
+    {
+     "t": "10. Thlak danglam leh inbiakna",
+     "b": [
+      "He dan hi hun hunah tihthar a ni thei; a hnuhnung ber a tihthar ni chu page chung ber ah a lang. Zawhna chu nocodingindonesia@gmail.com emaw WhatsApp +62 853-2651-3324 ah thlah theih a ni."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Cookie Dan (Cookie Policy)",
+   "description": "Nocoding site in cookie leh local storage a hman te, eng atan nge an nih, leh an enkawl dan.",
+   "sections": [
+    {
+     "t": "1. Cookie chu eng nge",
+     "b": [
+      "Cookie chu site in i browser ah a vawn file te tê a ni. Local storage leh session storage te pawh a inang deuh, mahse server ah automatic in thlah a ni lo. He page ah hian a zawng zawng hi cookie tiin kan sawi."
+     ]
+    },
+    {
+     "t": "2. Site thawh theih nan a mamawh",
+     "b": [
+      "I browser ah vawn a ni a, kan server ah thlah a ni lo:",
+      "- nocoding-language leh nocoding-language-set: i thlan emaw i browser atanga hriat chhuah ṭawng.",
+      "- nocoding-pricing (session): page tin a price chhut nawn loh nan, sum chi leh rate chhut.",
+      "- Thuziak chhinchhiahna: thuziak i duat tawh, en tawh emaw share tawh, chhut zat a pahnih nih loh nan.",
+      "- Site thenkhat inkara i kal laia scroll hmun chhinchhiahna remchang tê."
+     ]
+    },
+    {
+     "t": "3. Analytics",
+     "b": [
+      "A hman a nih chuan, page i hman hnuah (scroll, tap emaw key nem) analytics service pahnih an load:",
+      "- Google Analytics 4 (cookie _ga leh _ga_* ang chi, kum 2 vel thleng a hman theih): tlawh statistics.",
+      "- Microsoft Clarity (cookie _clck, _clsk, CLID leh MUID ang chi, kum 1 vel thleng a hman theih): heatmap leh hming hriat theih loh interaction record.",
+      "CDN leh security provider-te pawhin site tihchhiat tur traffic lak a venhim nan technical cookie an dah thei."
+     ]
+    },
+    {
+     "t": "4. Cookie enkawl dan",
+     "b": [
+      "I browser setting ah cookie i paih emaw i khap thei. Google Analytics atan Google official opt-out add-on pawh i install thei. Analytics cookie khap a nih pawhin site chu a thawk a; local storage paih a nih chuan i ṭawng thlan chu bul lam ah a kir leh ang."
+     ]
+    },
+    {
+     "t": "5. Zawhna",
+     "b": [
+      "He dan chungchanga zawhna nei tur chuan nocodingindonesia@gmail.com biak rawh. Mimal data hman dan chu Thuruat Hriat Tel Dan ah a sawi chhunzawm. Ṭawng inang lo lai hi a awmzia a danglam a nih chuan Indonesian version hi a thawk."
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Pas-ghuntèna ghellâ'",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Aturan Privasi",
+   "description": "Data apa sè èkompol Nocoding, ghâbây apa èangghuy, sapa sè ngoprosès, bân hak sampèyan ka data pribâdi.",
+   "sections": [
+    {
+     "t": "1. Sapa kamè'",
+     "b": [
+      "Nocoding (nocoding.web.id) jâ' layanan ghâbây website, aplikasi, sistem informasi, bân otomasi sè èolà ban Abid Hanan Wicaksono è Indonesia. Aturan reya nerrangaghi bâgaimâna kamè' ngatora data pribâdi sampèyan bâ'na sampèyan ngonjunghi situs reya otabâ nyambung ka kamè'.",
+      "Patanyaan dâri aturan reya bisa èkèrèm ka nocodingindonesia@gmail.com otabâ WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data sè kamè' kompol",
+     "b": [
+      "- Data sè sampèyan bhârâ'agi dhibi': nyama, nomer WhatsApp, email, bân katerangan perlo proyek sampèyan bâ'na sampèyan nyambung ka kamè' lèwat WhatsApp otabâ email. Situs reya tadâ' akun pamakè otabâ formulir pandaptaran.",
+      "- Data tèknis sè èoproses otomatis: alamat IP, jenis parabot bân browser, bân kaca sè èbukak. Panyadiya hosting bân CDN kamè' ngoprosès data reya ghâbây nampelaghi situs bân ajhâgâ polana tak èsalahghunaaghi.",
+      "- Parkèraan nagarâ: sopaja arga ètampelaghi bi' mata ucang sampèyan, nagarâ èparkèra dâri informasi CDN otabâ pangaturan bhâsa browser. Data reya tak kamè' simpen è server.",
+      "- Data analitik: Google Analytics 4 bân Microsoft Clarity (mon aktif) ngompol statistik panggunaan akadhi kaca sè èbukak, laman kunjungan, jenis parabot, bân rekaman interaksi tanpa idèntitas. Dhuwâ'na paghun èmuat saellana sampèyan aintèraksi bân kaca.",
+      "- Panyimpenan è browser: pèlihan bhâsa, tanda sopaja sampèyan la ngarasa dhâddhi, ningalin, otabâ ngabâghi sabuwâ artikel, bân parkèraan arga samantara. Rincianna bâdâ è Aturan Cookie.",
+      "- Cacaban sè ningalin, sè nyokai, bân sè ngabâghi artikel èsimpen akadhi angka gabungan tanpa idèntitas pangonjung."
+     ]
+    },
+    {
+     "t": "3. Ghâbây apa data èangghuy",
+     "b": [
+      "- Majâbâ patanyaan, nyiapaghi panawaran, bân ngèrjaaghi proyek sampèyan.",
+      "- Nampelaghi, ngamanaghi, bân ajhâgâ kacèpatan situs.",
+      "- Ngartè bâgaimâna situs èangghuy sopaja bisa kamè' lebbhi' bhâghus.",
+      "- Mènuhi kawajiban hokom sè bâdâ.",
+      "Kamè' tak ngobâl data pribâdi sampèyan."
+     ]
+    },
+    {
+     "t": "4. Pihak katello sè acarèta",
+     "b": [
+      "- Vercel: hosting bân panampelan situs.",
+      "- Cloudflare: CDN bân kaamanan.",
+      "- Google (Google Analytics 4) bân Microsoft (Clarity): statistik panggunaan situs.",
+      "- Meta (WhatsApp) bân Google (Gmail): bâ'na sampèyan nyambung ka kamè' lèwat tautan WhatsApp otabâ email è situs reya.",
+      "- Panyadiya kurs mata ucang: ghun narema panyaratan kurs dâri server kamè', ba'na data pangonjung.",
+      "Panyadiya reya bisa ngoprosès data è lowar Indonesia asarta aturan dhibi'na."
+     ]
+    },
+    {
+     "t": "5. Brâmpa laman data èsimpen",
+     "b": [
+      "Pangoca'an bân bahan proyek èsimpen sakaparlona ghâbây ngolà layanan, aghâbây dukungan, bân mènuhi kawajiban hokom, saellana jâ' èbungkos otabâ èanonimkan. Data analitik nurut pangaturan panyimpenan dâri panyadiyana. Data è browser sampèyan ghun bâdâ sampè sampèyan ngabungkos."
+     ]
+    },
+    {
+     "t": "6. Hak sampèyan",
+     "b": [
+      "Nurut Undang-Undang Nomer 27 Taon 2022 parkara Palindungan Data Pribâdi, sampèyan atoman hak ghâbây:",
+      "- ngataoè bân menta salinan data pribâdi sampèyan sè kamè' simpen;",
+      "- menta sopaja data sè salah èparbhâghus;",
+      "- menta sopaja data sampèyan èbungkos otabâ ngalèbâr paratojuan sampèyan;",
+      "- ngaberrâ'i ka pamrosesan sè tartèntu.",
+      "Kèrèm panyaratan sampèyan ka nocodingindonesia@gmail.com. Kamè' ajhâwâb è wâktu sè wajar."
+     ]
+    },
+    {
+     "t": "7. Kaamanan bân kanak-kanak",
+     "b": [
+      "Situs reya ngangghuy HTTPS bân akses ka data proyek èbatesi. Tadâ' cara ngèrèm otabâ nyimpen data sè lepas dâri risiko, dâddi kamè' tak bisa njamin kaamanan sè mutlak.",
+      "Layanan kamè' èpajhâ'ghâghi ghâbây oreng sè omor 18 taon ka attas. Kamè' tak sadhâr ngompol data pribâdi kanak-kanak."
+     ]
+    },
+    {
+     "t": "8. Parobhâ'an aturan",
+     "b": [
+      "Aturan reya bisa èparbhâghus samarang-marang. Tanggâl pamarbhârun pas-ghuntèna ètoreh è attas kaca. Mon bâdâ bèdâ arti antara bhâsa, vèrsi Bhâsa Indonesia sè kapake."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Sarat bân Katantowan",
+   "description": "Aturan ngangghuy situs bân layanan Nocoding: paket, arga, cara ngèrjaaghi, hak kakajâ'an intelektual, bân watês tanggung jhâwâb.",
+   "sections": [
+    {
+     "t": "1. Narema sarat",
+     "b": [
+      "Bi' mbukak situs reya otabâ ngangghuy layanan Nocoding, sampèyan nyètujui sarat bân katantowan reya. Mon sampèyan tak nyètujui, tolong ja' ngangghuy situs bân layanan kamè'."
+     ]
+    },
+    {
+     "t": "2. Layanan",
+     "b": [
+      "Nocoding aghâbây website portofolio otabâ CV, landing page bân profil parusahan, sistem informasi bân operasional, saarta otomasi proses bisnis. Cakupan pakèrjaan, fitur, jadwal, bân biaya èatoro bhârâng sampèyan lèwat WhatsApp otabâ email sabellunna pakèrjaan èmolaè.",
+      "Konsultasi salaksana gratis, kapan bhâi sampèyan perlo, bân tak ngawajibaghi sampèyan mesen."
+     ]
+    },
+    {
+     "t": "3. Paket bân arga",
+     "b": [
+      "- Paket Kènè': molaè Rp 500.000 saèaon, kaasta gratis maintenance bân domain parmanan 1 taon.",
+      "- Paket Rajhâ: molaè Rp 2.000.000 saèaon, kaasta gratis maintenance bân hosting parmanan 1 taon.",
+      "Arga è situs jâ' arga awal. Nilai pamungkas èsapakati saellana konsultasi nurut parlonan sampèyan. Ghâbây pangonjung dâri lowar Indonesia, arga ètampelaghi bi' mata ucang setempat akadhi parkèraan nurut kurs arè-arè; sè kapake jâ' nilai è rupiah sè èsapakati. Biaya tambhâ'an, akadhi fitur ekstra otabâ parpanjhângan saellana mase gratis entar, èkabâridhi samabellun èkèrjaaghi."
+     ]
+    },
+    {
+     "t": "4. Cara ngèrjaaghi bân tanggung jhâwâb sampèyan",
+     "b": [
+      "Rancangan èpareksa bân èsètujui bhârâng sampèyan sabellunna masok produksi. Revisi èkèrjaaghi nurut kasapakatan.",
+      "Sampèyan tanggung jhâwâb nyadhiyaghi bahan (logo, tèks, foto, data) tèpat wâktu bân njamin sampèyan atoman hak ngangghuyna. Katèlat-ghânan bahan otabâ masokan bisa angèngè' jadwal."
+     ]
+    },
+    {
+     "t": "5. Maintenance",
+     "b": [
+      "Maintenance gratis parmanan 1 taon ngalèbâr parbhâghusan kasalahan è hasèl kèrja kamè' bân pamarbhârun kaamanan dasar. Fitur anyar, parobhâ'an rajhâ è desain, bân pakèrjaan è lowar kasapakatan awal èetong bhâkal."
+     ]
+    },
+    {
+     "t": "6. Hak kakajâ'an intelektual",
+     "b": [
+      "Bahan sè sampèyan bâgi tetep dâddi kaoleh sampèyan. Hasèl pakèrjaan èsarah ka sampèyan saellana bhâyar sasuai kasapakatan lunas. Nocoding bisa ningalaghi karya sè la tayang akadhi conto è portofolio, kajhâbâ sampèyan menta bi' tolès sopaja ta' èpakatonjuk.",
+      "Desain, tèks, bân artikel è situs nocoding.web.id kaoleh Nocoding. Sampèyan bisa ngabâghi tautannya, tape tak olle nyalin bân ngangghuy sacara komèrsial tanpa izin. Foto artikel dâri Unsplash bân nurut lisènsèna; sombèrra èpasang è baba' foto."
+     ]
+    },
+    {
+     "t": "7. Bhâsa situs",
+     "b": [
+      "Situs reya bâdâ è bânnyak bhâsa. Tarjhâmahan, apalagi ghâbây bhâsa sè sakèdhik panutorra, bisa lom sampurna. Mon bâdâ bèdâ arti, vèrsi Bhâsa Indonesia sè kapake. Kaca legal reya bâdâ è Bhâsa Indonesia bân Inggris."
+     ]
+    },
+    {
+     "t": "8. Watês tanggung jhâwâb",
+     "b": [
+      "Kamè' ausaha maparèng hasèl sè bhâghus, tape tak ajhânji hasèl bisnis tartèntu akadhi paringkat pancarian, cacaban pangonjung, otabâ pajuwalan. Kamè' tak tanggung jhâwâb ka ganggu'an dâri pihak katello akadhi panyadiya hosting, domain, otabâ pambhâyaran, ataupon ka karogiyan sè tak langsung.",
+      "Tanggung jhâwâb kamè' ka sabuwâ layanan èbatesi sabharâ nilai sè la sampèyan bhâyar ghâbây layanan jârèya, sajhâ'an hokom ngèzinaghi. Katentowan reya tak ngorangi hak sampèyan sè èlindhungi bi' hokom."
+     ]
+    },
+    {
+     "t": "9. Hokom sè kapake",
+     "b": [
+      "Sarat reya tonduk ka hokom Republik Indonesia. Mon bâdâ parsèlèsèhan, kamè' bhâkal nyoba nyèlèsaaghi dhisè' lèwat musyawarah. Mon tak kasapakatan, parsèlèsèhan èbhârsaaghi lèwat pangadilan sè bâdâ wènangnga è Indonesia."
+     ]
+    },
+    {
+     "t": "10. Parobhâ'an bân kontak",
+     "b": [
+      "Sarat reya bisa èparbhâghus samarang-marang; tanggâl pamarbhârun pas-ghuntèna ètoreh è attas kaca. Patanyaan bisa èkèrèm ka nocodingindonesia@gmail.com otabâ WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Aturan Cookie",
+   "description": "Cookie bân panyimpenan lokal sè èangghuy situs Nocoding, ghâbây apa, bân cara ngolana.",
+   "sections": [
+    {
+     "t": "1. Apa jâ' cookie",
+     "b": [
+      "Cookie jâ' barka' kènè' sè èsimpen sabuwâ situs è browser sampèyan. Panyimpenan lokal (local storage bân session storage) ngolè sarupa tape tak èkèrèm otomatis ka server. È kaca reya dhuwâ'na èsebbut cookie."
+     ]
+    },
+    {
+     "t": "2. Sè èparlowaghi ghâbây situs bisa kèrja",
+     "b": [
+      "Èsimpen è browser sampèyan bân tak èkèrèm ka server kamè':",
+      "- nocoding-language bân nocoding-language-set: bhâsa sè sampèyan pèlih otabâ sè ètemmo dâri browser.",
+      "- nocoding-pricing (sesi): parkèraan mata ucang bân kurs sopaja arga tak èetong morèng è saban kaca.",
+      "- Tanda artikel: apa sampèyan la nyokai, ningalin, otabâ ngabâghi sabuwâ artikel, sopaja cacaban tak ghândâ.",
+      "- Tanda posisi gulir samantara bâ'na malèbhât antarabâgiyan situs."
+     ]
+    },
+    {
+     "t": "3. Analitik",
+     "b": [
+      "Mon èaktifaghi, dhuwâ layanan analitik èmuat saellana sampèyan aintèraksi bân kaca (ngulir, ngètok, otabâ nètèk tombol):",
+      "- Google Analytics 4 (cookie akadhi _ga bân _ga_*, mase brâmpa sampè kèra-kèra 2 taon): statistik kunjungan.",
+      "- Microsoft Clarity (cookie akadhi _clck, _clsk, CLID, bân MUID, mase brâmpa sampè kèra-kèra 1 taon): peta panas bân rekaman interaksi tanpa idèntitas.",
+      "Panyadiya CDN bân kaamanan bisa kèngèng masang cookie tèknis ghâbây ajhâgâ situs dâri lalu lintas sè bhâdhâ."
+     ]
+    },
+    {
+     "t": "4. Cara ngolà cookie",
+     "b": [
+      "Sampèyan bisa ngabungkos otabâ ngabâtesi cookie è pangaturan browser. Sampèyan bisa masang add-on panolakan resmi dâri Google ghâbây Google Analytics. Mon cookie analitik èblokir, situs tetep kèrja; mon panyimpenan lokal èbungkos, pèlihan bhâsa sampèyan abâli ka pangaturan awal."
+     ]
+    },
+    {
+     "t": "5. Patanyaan",
+     "b": [
+      "Ghâbây patanyaan parkara aturan reya, hubunghi nocodingindonesia@gmail.com. Panggunaan data pribâdi èjelasaghi lebbhi lanjhut è Aturan Privasi. Mon bâdâ bèdâ arti antara bhâsa, vèrsi Bhâsa Indonesia sè kapake."
+     ]
+    }
+   ]
+  }
+ }
+}

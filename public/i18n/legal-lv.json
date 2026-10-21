@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Pēdējo reizi atjaunināts",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Privātuma politika",
+   "description": "Kādus datus Nocoding vāc, kam tie tiek izmantoti, kas tos apstrādā un kādas tiesības jums ir attiecībā uz saviem personas datiem.",
+   "sections": [
+    {
+     "t": "1. Kas mēs esam",
+     "b": [
+      "Nocoding (nocoding.web.id) ir tīmekļa vietņu, lietotņu, informācijas sistēmu un automatizācijas pakalpojums, ko Indonēzijā sniedz Abid Hanan Wicaksono. Šajā politikā paskaidrots, kā mēs rīkojamies ar jūsu personas datiem, kad apmeklējat šo vietni vai sazināties ar mums.",
+      "Jautājumus par šo politiku varat sūtīt uz nocodingindonesia@gmail.com vai caur WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Dati, ko mēs vācam",
+     "b": [
+      "- Dati, ko sniedzat jūs: vārds, WhatsApp numurs, e-pasts un jūsu projekta apraksts, kad sazināties ar mums caur WhatsApp vai e-pastu. Šajā vietnē nav lietotāju kontu vai reģistrācijas veidlapu.",
+      "- Automātiski apstrādāti tehniskie dati: IP adrese, ierīces un pārlūkprogrammas veids un atvērtās lapas. Mūsu hostinga un CDN pakalpojumu sniedzēji tos apstrādā, lai nodrošinātu vietnes darbību un pasargātu to no ļaunprātīgas izmantošanas.",
+      "- Aptuvenā valsts: lai cenas varētu rādīt jūsu valūtā, jūsu valsts tiek aptuveni noteikta pēc CDN informācijas vai pārlūkprogrammas valodas. Mēs to nesaglabājam savos serveros.",
+      "- Analītikas dati: Google Analytics 4 un Microsoft Clarity (kad iespējoti) vāc lietošanas statistiku, piemēram, atvērtās lapas, apmeklējuma ilgumu, ierīces veidu un anonīmus mijiedarbības ierakstus. Tie tiek ielādēti tikai pēc tam, kad esat mijiedarbojies ar lapu.",
+      "- Pārlūkprogrammas krātuve: jūsu valodas izvēle, atzīmes, ka jau esat atzīmējis ar patīk rakstu, to skatījies vai kopīgojis, un pagaidu cenu aprēķins. Plašāka informācija ir sīkdatņu politikā.",
+      "- Rakstu skatījumu, atzīmju Patīk un kopīgošanas reižu skaits tiek glabāts kā apkopoti skaitļi, neuzrādot apmeklētāja identitāti."
+     ]
+    },
+    {
+     "t": "3. Kam dati tiek izmantoti",
+     "b": [
+      "- Lai atbildētu uz jūsu jautājumiem, sagatavotu piedāvājumus un īstenotu jūsu projektu.",
+      "- Lai nodrošinātu vietni, to aizsargātu un uzturētu ātru.",
+      "- Lai saprastu, kā vietne tiek izmantota, un varētu to uzlabot.",
+      "- Lai izpildītu juridiskos pienākumus.",
+      "Mēs nepārdodam jūsu personas datus."
+     ]
+    },
+    {
+     "t": "4. Iesaistītās trešās puses",
+     "b": [
+      "- Vercel: vietnes hostings un piegāde.",
+      "- Cloudflare: CDN un drošība.",
+      "- Google (Google Analytics 4) un Microsoft (Clarity): vietnes lietošanas statistika.",
+      "- Meta (WhatsApp) un Google (Gmail): kad sazināties ar mums, izmantojot šīs vietnes WhatsApp vai e-pasta saites.",
+      "- Valūtas kursu sniedzējs: saņem tikai mūsu servera kursu pieprasījumus, nevis apmeklētāju datus.",
+      "Šie pakalpojumu sniedzēji var apstrādāt datus ārpus Indonēzijas saskaņā ar savām politikām."
+     ]
+    },
+    {
+     "t": "5. Cik ilgi dati tiek glabāti",
+     "b": [
+      "Sarunas un projekta materiāli tiek glabāti tik ilgi, cik nepieciešams pakalpojuma sniegšanai, atbalsta nodrošināšanai un juridisko pienākumu izpildei, pēc tam tie tiek dzēsti vai anonimizēti. Analītikas datiem tiek piemēroti to sniedzēja glabāšanas iestatījumi. Dati jūsu pārlūkprogrammā saglabājas, līdz tos izdzēšat."
+     ]
+    },
+    {
+     "t": "6. Jūsu tiesības",
+     "b": [
+      "Saskaņā ar Indonēzijas 2022. gada likumu Nr. 27 par personas datu aizsardzību jums ir tiesības:",
+      "- zināt, kādus jūsu personas datus mēs glabājam, un saņemt to kopiju;",
+      "- pieprasīt neprecīzu datu labošanu;",
+      "- pieprasīt savu datu dzēšanu vai atsaukt savu piekrišanu;",
+      "- iebilst pret noteiktu apstrādi.",
+      "Savu pieprasījumu sūtiet uz nocodingindonesia@gmail.com. Mēs atbildēsim saprātīgā termiņā."
+     ]
+    },
+    {
+     "t": "7. Drošība un bērni",
+     "b": [
+      "Šī vietne izmanto HTTPS, un piekļuve projekta datiem ir ierobežota. Neviena datu pārsūtīšanas vai glabāšanas metode nav pilnīgi bez riska, tāpēc mēs nevaram garantēt absolūtu drošību.",
+      "Mūsu pakalpojumi paredzēti personām no 18 gadu vecuma. Mēs apzināti nevācam bērnu personas datus."
+     ]
+    },
+    {
+     "t": "8. Šīs politikas izmaiņas",
+     "b": [
+      "Šī politika laiku pa laikam var tikt atjaunināta. Pēdējā atjauninājuma datums ir norādīts lapas augšdaļā. Ja valodu versiju nozīme atšķiras, spēkā ir indonēziešu valodas versija."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Noteikumi un nosacījumi",
+   "description": "Nocoding vietnes un pakalpojumu izmantošanas noteikumi: paketes, cenas, darba izpilde, intelektuālais īpašums un atbildības ierobežojumi.",
+   "sections": [
+    {
+     "t": "1. Noteikumu pieņemšana",
+     "b": [
+      "Atverot šo vietni vai izmantojot Nocoding pakalpojumus, jūs piekrītat šiem noteikumiem un nosacījumiem. Ja nepiekrītat, lūdzu, neizmantojiet mūsu vietni vai pakalpojumus."
+     ]
+    },
+    {
+     "t": "2. Pakalpojumi",
+     "b": [
+      "Nocoding veido portfolio vai CV vietnes, galvenās lapas un uzņēmumu profilus, informācijas un darbības sistēmas un biznesa procesu automatizāciju. Darba apjoms, funkcijas, termiņš un izmaksas ar jums tiek saskaņotas caur WhatsApp vai e-pastu pirms darba sākšanas.",
+      "Konsultācija vienmēr ir bezmaksas, kad vien tā nepieciešama, un neuzliek jums pienākumu pasūtīt."
+     ]
+    },
+    {
+     "t": "3. Paketes un cenas",
+     "b": [
+      "- Mazā pakete: no Rp 500.000 gadā, ieskaitot bezmaksas uzturēšanu un domēnu uz 1 gadu.",
+      "- Lielā pakete: no Rp 2.000.000 gadā, ieskaitot bezmaksas uzturēšanu un hostingu uz 1 gadu.",
+      "Vietnē norādītās cenas ir sākuma cenas. Galīgā summa tiek saskaņota pēc konsultācijas, pamatojoties uz jūsu vajadzībām. Apmeklētājiem ārpus Indonēzijas cenas tiek rādītas vietējā valūtā kā aprēķins pēc dienas maiņas kursa; spēkā ir tā summa rūpijās, par kuru esam vienojušies. Papildu izmaksas, piemēram, papildu funkcijas vai atjaunošana pēc bezmaksas perioda beigām, tiek paziņotas jums pirms darba veikšanas."
+     ]
+    },
+    {
+     "t": "4. Darba izpilde un jūsu pienākumi",
+     "b": [
+      "Dizains tiek pārskatīts un ar jums saskaņots pirms izstrādes. Labojumi tiek veikti, kā esam vienojušies.",
+      "Jūs esat atbildīgs par materiālu (logotips, teksts, fotogrāfijas, dati) iesniegšanu laikā un par to, ka jums ir tiesības tos izmantot. Materiālu vai atsauksmju kavēšanās var ietekmēt termiņu."
+     ]
+    },
+    {
+     "t": "5. Uzturēšana",
+     "b": [
+      "Bezmaksas uzturēšana 1 gadu ietver mūsu darba kļūdu labošanu un pamata drošības atjauninājumus. Jaunas funkcijas, lielas dizaina izmaiņas un darbi ārpus sākotnējās vienošanās tiek apmaksāti atsevišķi."
+     ]
+    },
+    {
+     "t": "6. Intelektuālais īpašums",
+     "b": [
+      "Jūsu sniegtie materiāli paliek jūsu īpašums. Pabeigtais darbs tiek nodots jums pēc tam, kad ir pilnībā veikts maksājums, kā esam vienojušies. Nocoding drīkst rādīt darbojošos darbus kā piemērus savā portfolio, ja vien jūs rakstiski nepieprasāt tos nerādīt.",
+      "Dizains, teksti un raksti vietnē nocoding.web.id pieder Nocoding. Jūs drīkstat dalīties ar saitēm uz tiem, taču bez atļaujas nedrīkstat tos kopēt un izmantot komerciāliem nolūkiem. Rakstu fotogrāfijas ir no Unsplash un uz tām attiecas tās licence; avots ir norādīts zem katras fotogrāfijas."
+     ]
+    },
+    {
+     "t": "7. Vietnes valodas",
+     "b": [
+      "Šī vietne ir pieejama daudzās valodās. Tulkojumi, īpaši valodām ar mazāku runātāju skaitu, var nebūt ideāli. Ja nozīme atšķiras, spēkā ir indonēziešu valodas versija. Šīs juridiskās lapas ir pieejamas indonēziešu un angļu valodā."
+     ]
+    },
+    {
+     "t": "8. Atbildības ierobežojumi",
+     "b": [
+      "Mēs strādājam, lai sasniegtu labus rezultātus, taču neapsolām konkrētus biznesa rezultātus, piemēram, vietu meklēšanas rezultātos, apmeklētāju skaitu vai pārdošanas apjomu. Mēs neatbildam par trešo pušu, piemēram, hostinga, domēnu vai maksājumu pakalpojumu sniedzēju, traucējumiem vai netiešiem zaudējumiem.",
+      "Mūsu atbildība par pakalpojumu ir ierobežota līdz summai, ko esat samaksājis par šo pakalpojumu, ciktāl to pieļauj likums. Tas neierobežo jūsu tiesības, ko aizsargā likums."
+     ]
+    },
+    {
+     "t": "9. Piemērojamie tiesību akti",
+     "b": [
+      "Šiem noteikumiem piemēro Indonēzijas Republikas tiesību aktus. Ja rodas strīds, mēs vispirms mēģinām to atrisināt sarunu ceļā. Ja vienošanās netiek panākta, strīdu izšķir kompetentas tiesas Indonēzijā."
+     ]
+    },
+    {
+     "t": "10. Izmaiņas un kontakti",
+     "b": [
+      "Šie noteikumi laiku pa laikam var tikt atjaunināti; pēdējā atjauninājuma datums ir norādīts lapas augšdaļā. Jautājumus varat sūtīt uz nocodingindonesia@gmail.com vai caur WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Sīkdatņu politika",
+   "description": "Sīkdatnes un lokālā krātuve, ko izmanto Nocoding vietne, to nolūks un kā tās pārvaldīt.",
+   "sections": [
+    {
+     "t": "1. Kas ir sīkdatnes",
+     "b": [
+      "Sīkdatnes ir nelieli faili, ko vietne saglabā jūsu pārlūkprogrammā. Lokālā krātuve un sesijas krātuve darbojas līdzīgi, taču netiek automātiski sūtītas uz serveri. Šajā lapā mēs tās visas saucam par sīkdatnēm."
+     ]
+    },
+    {
+     "t": "2. Kas vietnei nepieciešams darbam",
+     "b": [
+      "Tiek glabāts jūsu pārlūkprogrammā un netiek sūtīts uz mūsu serveriem:",
+      "- nocoding-language un nocoding-language-set: valoda, ko izvēlējāties vai kas tika noteikta pēc jūsu pārlūkprogrammas.",
+      "- nocoding-pricing (sesija): aprēķinātā valūta un kurss, lai cenas netiktu pārrēķinātas katrā lapā.",
+      "- Rakstu atzīmes: vai jau esat atzīmējis rakstu ar patīk, to skatījies vai kopīgojis, lai skaitļi netiktu dubultoti.",
+      "- Pagaidu ritināšanas pozīcijas atzīme, pārejot starp vietnes daļām."
+     ]
+    },
+    {
+     "t": "3. Analītika",
+     "b": [
+      "Kad iespējoti, divi analītikas pakalpojumi tiek ielādēti pēc tam, kad esat mijiedarbojies ar lapu (ritinājāt, pieskārāties vai nospiedāt taustiņu):",
+      "- Google Analytics 4 (sīkdatnes, piemēram, _ga un _ga_*, derīgas līdz aptuveni 2 gadiem): apmeklējumu statistika.",
+      "- Microsoft Clarity (sīkdatnes, piemēram, _clck, _clsk, CLID un MUID, derīgas līdz aptuveni 1 gadam): siltuma kartes un anonīmi mijiedarbības ieraksti.",
+      "CDN un drošības pakalpojumu sniedzēji var arī iestatīt tehniskās sīkdatnes, lai pasargātu vietni no kaitīgas datplūsmas."
+     ]
+    },
+    {
+     "t": "4. Kā pārvaldīt sīkdatnes",
+     "b": [
+      "Sīkdatnes varat dzēst vai bloķēt savas pārlūkprogrammas iestatījumos. Varat arī instalēt oficiālo Google atteikšanās pievienojumprogrammu Google Analytics. Ja analītikas sīkdatnes ir bloķētas, vietne joprojām darbojas; ja lokālā krātuve tiek notīrīta, jūsu valodas izvēle atgriežas pie noklusējuma."
+     ]
+    },
+    {
+     "t": "5. Jautājumi",
+     "b": [
+      "Jautājumus par šo politiku sūtiet uz nocodingindonesia@gmail.com. Plašāk par personas datu izmantošanu paskaidrots privātuma politikā. Ja valodu versiju nozīme atšķiras, spēkā ir indonēziešu valodas versija."
+     ]
+    }
+   ]
+  }
+ }
+}

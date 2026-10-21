@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Meuubah buet keuneulheuh",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Kebijakan Privasi",
+   "description": "Data peu nyang geupeuteubit le Nocoding, keu peue geupeuguna, siapa nyang geupeuproses, dan hak droeneuh ateuh data pribadi droeneuh.",
+   "sections": [
+    {
+     "t": "1. Soe kamoe",
+     "b": [
+      "Nocoding (nocoding.web.id) nakeuh layanan situs web, aplikasi, sistem informasi dan otomatisasi nyang geujalankan le Abid Hanan Wicaksono di Indonesia. Kebijakan nyoe geupeuhah cara kamoe meungurus data pribadi droeneuh watee droeneuh jak keu situs nyoe atawa meuhubông ngon kamoe.",
+      "Peutanyoeng tentang kebijakan nyoe jeut geukirem u nocodingindonesia@gmail.com atawa WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Data nyang kamoe kumpoh",
+     "b": [
+      "- Data nyang droeneuh bri keu kamoe: nama, nomor WhatsApp, surel dan gamba'an proyek droeneuh watee droeneuh meuhubông ngon kamoe ngon WhatsApp atawa surel. Situs nyoe hana akun pengguna atawa formulir pendaftaran.",
+      "- Data teknis nyang geuproses sijeuh-jeuh: alamat IP, jeunis perangkat dan browser, dan laman nyang droeneuh peuhah. Penyedia hosting dan CDN kamoe geuproses nyoe keu geupeulayani situs dan geujaga nyoe nibak penyalahgunaan.",
+      "- Nanggroe pukeuh-pukeuh: beu jeut harga geupeuleumah dalam mata uang droeneuh, nanggroe droeneuh geukira-kira nibak informasi CDN atawa bahsa browser droeneuh. Kamoe hana geusimpan di server kamoe.",
+      "- Data analitik: Google Analytics 4 dan Microsoft Clarity (watee geuaktifkan) geukumpoh statistik penggunaan lagee laman nyang geupeuhah, lamanya kunjungan, jeunis perangkat dan rekaman interaksi tanpa nama. Nyan cuma geumuat lheuh droeneuh meuinteraksi ngon laman.",
+      "- Panyimpanan browser: pilehan bahsa droeneuh, tanda bahwa droeneuh ka geupeuhah, geutom atawa geupeubagi sipeuet artikel, dan perkiraan harga sementara. Rincian na dalam Kebijakan Cookie.",
+      "- Jumlah geutom, geulike dan geupeubagi artikel geusimpan sebagoe angka gabungan, tanpa identitas peungunjong."
+     ]
+    },
+    {
+     "t": "3. Keu peue data geupeuguna",
+     "b": [
+      "- Keu geujawab peutanyoeng droeneuh, geupeuteuntee penawaran dan geujalankan proyek droeneuh.",
+      "- Keu geupeulayani, geujaga dan geupeuteugeuh situs.",
+      "- Keu geuteupeue cara situs geupeuguna, beu kamoe jeut geupeubagoih.",
+      "- Keu geupeuhoe kewajiban hukom.",
+      "Kamoe hana geujual data pribadi droeneuh."
+     ]
+    },
+    {
+     "t": "4. Pihak ketiga nyang teurlibat",
+     "b": [
+      "- Vercel: hosting dan geupeulayani situs.",
+      "- Cloudflare: CDN dan keamanan.",
+      "- Google (Google Analytics 4) dan Microsoft (Clarity): statistik penggunaan situs.",
+      "- Meta (WhatsApp) dan Google (Gmail): watee droeneuh meuhubông ngon kamoe ngon tautan WhatsApp atawa surel di situs nyoe.",
+      "- Penyedia kurs mata uang: cuma geuteurimong peumintaan kurs nibak server kamoe, kon data peungunjong.",
+      "Penyedia nyoe jeut geuproses data di luwa Indonesia meunurot kebijakan awak nyan surang."
+     ]
+    },
+    {
+     "t": "5. Padum treb data geusimpan",
+     "b": [
+      "Peubicara dan bahan proyek geusimpan sapat nyang teupeureulee keu geujalankan layanan, geubri dukungan dan geupeuhoe kewajiban hukom, lheuh nyan geupeuhapus atawa geupeuhilang identitasnyan. Data analitik meuikot pengaturan penyimpanan penyedia nyan. Data dalam browser droeneuh teutap sampoe droeneuh peuhapus."
+     ]
+    },
+    {
+     "t": "6. Hak droeneuh",
+     "b": [
+      "Meunurot Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi Indonesia, droeneuh na hak keu:",
+      "- geuteupeue dan geuteurimong salinan data pribadi droeneuh nyang kamoe simpan;",
+      "- geuminta data nyang salah geuperbaiki;",
+      "- geuminta data droeneuh geupeuhapus atawa geutarek peuteumeung droeneuh;",
+      "- geukeubah tuntotan nibak peuproses teutentee.",
+      "Kirem peumintaan droeneuh u nocodingindonesia@gmail.com. Kamoe geujawab dalam waktee nyang patot."
+     ]
+    },
+    {
+     "t": "7. Keamanan dan aneuk miet",
+     "b": [
+      "Situs nyoe geupeuguna HTTPS dan akses u data proyek geupeubatah. Hana cara keu geukirem atawa geusimpan data nyang bebas risiko sapeu, jadi kamoe hana jeut geujamin keamanan nyang mutlak.",
+      "Layanan kamoe keu ureueng umu 18 thon u ateuh. Kamoe hana geupeukumpoh data pribadi aneuk miet ngon geuteupeue."
+     ]
+    },
+    {
+     "t": "8. Perubahan kebijakan nyoe",
+     "b": [
+      "Kebijakan nyoe jeut geupeubaro watee-watee. Tanggai pembaruan keuneulheuh geupeuleumah di ateuh laman. Intat bahsa na bida makna, versi bahsa Indonesia nyang berlaku."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Syarat dan Ketentuan",
+   "description": "Aturan peuguna situs dan layanan Nocoding: paket, harga, cara buet geujalankan, hak kekayaan intelektual dan batas tanggong jaweueb.",
+   "sections": [
+    {
+     "t": "1. Geuteurimong syarat nyoe",
+     "b": [
+      "Ngon geupeuhah situs nyoe atawa geupeuguna layanan Nocoding, droeneuh geusetujui syarat dan ketentuan nyoe. Intat droeneuh hana geusetujui, tulong bek geupeuguna situs atawa layanan kamoe."
+     ]
+    },
+    {
+     "t": "2. Layanan",
+     "b": [
+      "Nocoding geupeubuet situs web portofolio atawa CV, landing page dan profil perusahaan, sistem informasi dan operasional, dan otomatisasi proses bisnis. Lingkup buet, fitur, jadwal dan biaya geusepakati ngon droeneuh ngon WhatsApp atawa surel sebelum buet geumulai.",
+      "Konsultasi selalu gratis, bak watee droeneuh peureulee, dan hana geuwajibkan droeneuh keu geupeusuroh."
+     ]
+    },
+    {
+     "t": "3. Paket dan harga",
+     "b": [
+      "- Paket ubit: mulai nibak Rp 500.000 per thon, teumasok perawatan gratis dan domain 1 thon.",
+      "- Paket rayek: mulai nibak Rp 2.000.000 per thon, teumasok perawatan gratis dan hosting 1 thon.",
+      "Harga di situs nakeuh harga awai. Jumlah akhe geusepakati lheuh konsultasi, meunurot keupeureulee droeneuh. Keu peungunjong di luwa Indonesia, harga geupeuleumah dalam mata uang lokal sebagoe perkiraan meunurot kurs harian; jumlah dalam rupiah nyang geusepakati nyang berlaku. Biaya tambahan, lagee fitur tambahan atawa perpanjangan lheuh masa gratis habeh, geupeugah keu droeneuh sebelum buet geujalankan."
+     ]
+    },
+    {
+     "t": "4. Cara buet geujalankan dan tanggong jaweueb droeneuh",
+     "b": [
+      "Desain geumeurunoe dan geusetujui ngon droeneuh sebelum produksi. Revisi geujalankan meunurot kesepakatan.",
+      "Droeneuh tanggong jaweueb keu geubri bahan (logo, teks, foto, data) tepat waktee dan na hak keu geupeuguna nyan. Teurlambat bahan atawa masukan jeut geupeungaroh jadwal."
+     ]
+    },
+    {
+     "t": "5. Perawatan",
+     "b": [
+      "Perawatan gratis 1 thon geupeuleumah geuperbaiki kesalahan dalam buet kamoe dan pembaruan keamanan dasar. Fitur barô, perubahan desain rayek dan buet di luwa kesepakatan awai geubayeue teuh."
+     ]
+    },
+    {
+     "t": "6. Kekayaan intelektual",
+     "b": [
+      "Bahan nyang droeneuh bri teutap milik droeneuh. Hasé buet nyang ka seuleusoe geuserahkan keu droeneuh lheuh pembayaran meunurot kesepakatan leungkap. Nocoding jeut geupeuleumah hasé buet nyang jalan sebagoe contoh dalam portofolio, kecuali droeneuh geumeuminta ngon tulisan bek geupeuleumah.",
+      "Desain, teks dan artikel di nocoding.web.id milik Nocoding. Droeneuh jeut geupeubagi tautan nyan, tapi hana jeut geusalin dan geupeuguna keu komersial tanpa izin. Foto artikel teuka nibak Unsplash dan meuikot lisensinyan; sumber geupeuteuntee di bawah tiep foto."
+     ]
+    },
+    {
+     "t": "7. Bahsa situs",
+     "b": [
+      "Situs nyoe na dalam banyak bahsa. Terjemahan, khusus keu bahsa nyang sidroe ureueng peugah sikureuek, hana mungken sempurna. Intat na bida makna, versi bahsa Indonesia nyang berlaku. Laman hukom nyoe na dalam bahsa Indonesia dan Inggeris."
+     ]
+    },
+    {
+     "t": "8. Batas tanggong jaweueb",
+     "b": [
+      "Kamoe geubuet keu geubri hasé nyang got, tapi kamoe hana geujanji hasé bisnis teuntee lagee peringkat peuteunggoe, jumlah peungunjong atawa penjualan. Kamoe hana tanggong jaweueb ateuh gangguan nibak pihak ketiga lagee penyedia hosting, domain atawa pembayaran, atawa keu kerugian hana langsong.",
+      "Tanggong jaweueb kamoe keu sipeuet layanan geupeubatah sampoe jumlah nyang droeneuh ka bayeue keu layanan nyan, sampoe batas nyang geuizinkan le hukom. Nyoe hana geupeukureueng hak droeneuh nyang geujaga le hukom."
+     ]
+    },
+    {
+     "t": "9. Hukom nyang berlaku",
+     "b": [
+      "Syarat nyoe diatur le hukom Republik Indonesia. Intat na seungketa, kamoe geuusahakan geupeuseulesai dilee ngon musyawarah. Intat hana jeut sepakat, seungketa geupeuseulesai le peungadelan nyang berwenang di Indonesia."
+     ]
+    },
+    {
+     "t": "10. Perubahan dan kontak",
+     "b": [
+      "Syarat nyoe jeut geupeubaro watee-watee; tanggai pembaruan keuneulheuh geupeuleumah di ateuh laman. Peutanyoeng jeut geukirem u nocodingindonesia@gmail.com atawa WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Kebijakan Cookie",
+   "description": "Cookie dan penyimpanan lokal nyang geupeuguna le situs Nocoding, keu peue nyan, dan cara geuatô nyan.",
+   "sections": [
+    {
+     "t": "1. Peue nakeuh cookie",
+     "b": [
+      "Cookie nakeuh berkas ubit nyang geusimpan le situs dalam browser droeneuh. Penyimpanan lokal dan penyimpanan sesi jeut lagee nyan tapi hana geukirem sijeuh-jeuh u server. Di laman nyoe, kamoe teuka peugah ban saban cookie."
+     ]
+    },
+    {
+     "t": "2. Peue nyang peureulee situs keu jalan",
+     "b": [
+      "Geusimpan dalam browser droeneuh dan hana geukirem u server kamoe:",
+      "- nocoding-language dan nocoding-language-set: bahsa nyang droeneuh pileh atawa nyang geuteupeue nibak browser droeneuh.",
+      "- nocoding-pricing (sesi): perkiraan mata uang dan kurs, beu harga bek geuhitong ulang di tiep laman.",
+      "- Tanda artikel: na droeneuh ka geulike, geutom atawa geupeubagi sipeuet artikel, beu jumlah bek jeut dua kali.",
+      "- Tanda sementara posisi geulung watee geupeupinah antara bagian situs."
+     ]
+    },
+    {
+     "t": "3. Analitik",
+     "b": [
+      "Watee geuaktifkan, dua layanan analitik geumuat lheuh droeneuh meuinteraksi ngon laman (geulung, ketuk atawa tekan tombol):",
+      "- Google Analytics 4 (cookie lagee _ga dan _ga_*, berlaku sampoe kira-kira 2 thon): statistik kunjungan.",
+      "- Microsoft Clarity (cookie lagee _clck, _clsk, CLID dan MUID, berlaku sampoe kira-kira 1 thon): peta panas dan rekaman interaksi tanpa nama.",
+      "Penyedia CDN dan keamanan jeut geupeuteuntee cookie teknis keu geujaga situs nibak lalu lintas nyang meubahaya."
+     ]
+    },
+    {
+     "t": "4. Cara geuatô cookie",
+     "b": [
+      "Droeneuh jeut geupeuhapus atawa geublokir cookie dalam pengaturan browser droeneuh. Droeneuh jeut geupasang tamba'an keu geupeuteuk Google Analytics nyang resmi nibak Google. Intat cookie analitik geublokir, situs teutap jalan; intat penyimpanan lokal geupeuhapus, pilehan bahsa droeneuh geukeumbali u standar."
+     ]
+    },
+    {
+     "t": "5. Peutanyoeng",
+     "b": [
+      "Keu peutanyoeng tentang kebijakan nyoe, meuhubông nocodingindonesia@gmail.com. Cara data pribadi geupeuguna geupeuhah leubèh jeulah dalam Kebijakan Privasi. Intat bahsa na bida makna, versi bahsa Indonesia nyang berlaku."
+     ]
+    }
+   ]
+  }
+ }
+}

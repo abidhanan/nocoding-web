@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Nuashonraithe go deireanach",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Beartas Príobháideachta",
+   "description": "Na sonraí a bhailíonn Nocoding, cad chuige a n-úsáidtear iad, cé a phróiseálann iad, agus do chearta maidir le do shonraí pearsanta.",
+   "sections": [
+    {
+     "t": "1. Cé muid",
+     "b": [
+      "Is seirbhís suíomh gréasáin, aipeanna, córais faisnéise agus uathoibrithe í Nocoding (nocoding.web.id) a reáchtálann Abid Hanan Wicaksono san Indinéis. Míníonn an beartas seo conas a láimhseálaimid do shonraí pearsanta nuair a thugann tú cuairt ar an suíomh seo nó nuair a dhéanann tú teagmháil linn.",
+      "Is féidir ceisteanna faoin mbeartas seo a sheoladh chuig nocodingindonesia@gmail.com nó trí WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Na sonraí a bhailímid",
+     "b": [
+      "- Sonraí a thugann tú dúinn: d'ainm, d'uimhir WhatsApp, do ríomhphost agus cur síos ar do thionscadal nuair a dhéanann tú teagmháil linn trí WhatsApp nó ríomhphost. Níl cuntais úsáideora ná foirmeacha clárúcháin ar an suíomh seo.",
+      "- Sonraí teicniúla a phróiseáiltear go huathoibríoch: seoladh IP, cineál gléis agus brabhsálaí, agus na leathanaigh a osclaíonn tú. Próiseálann ár soláthraithe óstála agus CDN iad chun an suíomh a sheirbheáil agus a chosaint ar mhí-úsáid.",
+      "- Tír thuairimeach: ionas gur féidir praghsanna a thaispeáint i do airgeadra, déantar do thír a mheas ó fhaisnéis CDN nó ó theanga do bhrabhsálaí. Ní stórálaimid ar ár bhfreastalaithe é.",
+      "- Sonraí anailísíochta: bailíonn Google Analytics 4 agus Microsoft Clarity (nuair a bhíonn siad cumasaithe) staitisticí úsáide ar nós leathanaigh a osclaíodh, fad cuairte, cineál gléis agus taifeadtaí gan ainm d'idirghníomhaíochtaí. Ní luchtaítear iad ach tar éis duit idirghníomhú leis an leathanach.",
+      "- Stóras brabhsálaí: do rogha teanga, marcóirí go bhfuil alt ar thaitin leat, a bhfaca tú nó a roinn tú cheana, agus meastachán sealadach praghais. Tá sonraí sa Bheartas Fianán.",
+      "- Stóráiltear líon na bhféachana, na dtaitneamh agus na roinnte alt mar uimhreacha comhiomlánaithe, gan céannacht an chuairteora."
+     ]
+    },
+    {
+     "t": "3. Cad chuige a n-úsáidtear na sonraí",
+     "b": [
+      "- Freagra a thabhairt ar do cheisteanna, ráitis praghais a ullmhú agus do thionscadal a chur i gcrích.",
+      "- An suíomh a sheirbheáil, a chosaint agus a choinneáil tapa.",
+      "- Tuiscint a fháil ar an gcaoi a n-úsáidtear an suíomh ionas gur féidir linn é a fheabhsú.",
+      "- Oibleagáidí dlíthiúla a chomhlíonadh.",
+      "Ní dhíolaimid do shonraí pearsanta."
+     ]
+    },
+    {
+     "t": "4. Tríú páirtithe atá páirteach",
+     "b": [
+      "- Vercel: an suíomh a óstáil agus a sheirbheáil.",
+      "- Cloudflare: CDN agus slándáil.",
+      "- Google (Google Analytics 4) agus Microsoft (Clarity): staitisticí úsáide an tsuímh.",
+      "- Meta (WhatsApp) agus Google (Gmail): nuair a dhéanann tú teagmháil linn trí na naisc WhatsApp nó ríomhphoist ar an suíomh seo.",
+      "- Soláthraí rátaí airgeadra: ní fhaigheann sé ach iarratais ar rátaí óna bhfreastalaí, ní sonraí cuairteoirí.",
+      "Is féidir leis na soláthraithe seo sonraí a phróiseáil lasmuigh den Indinéis de réir a mbeartas féin."
+     ]
+    },
+    {
+     "t": "5. Cá fhad a choinnítear sonraí",
+     "b": [
+      "Coinnítear comhráite agus ábhair thionscadail chomh fada agus is gá chun an tseirbhís a reáchtáil, tacaíocht a thabhairt agus oibleagáidí dlíthiúla a chomhlíonadh, agus ansin scriostar nó déantar iad a dhéanamh gan ainm. Leanann sonraí anailísíochta socruithe coinneála a soláthraí. Fanann sonraí i do bhrabhsálaí go dtí go scriosfaidh tú iad."
+     ]
+    },
+    {
+     "t": "6. Do chearta",
+     "b": [
+      "Faoi Dhlí Uimh. 27 de 2022 na hIndinéise maidir le Cosaint Sonraí Pearsanta, tá sé de cheart agat:",
+      "- a fháil amach cad iad na sonraí pearsanta atá againn fút agus cóip díobh a fháil;",
+      "- iarraidh go gceartófaí sonraí mícheart;",
+      "- iarraidh go scriosfar do shonraí nó do thoiliú a tharraingt siar;",
+      "- agóid a dhéanamh i gcoinne próiseála áirithe.",
+      "Seol d'iarratas chuig nocodingindonesia@gmail.com. Freagróimid laistigh de thréimhse réasúnta."
+     ]
+    },
+    {
+     "t": "7. Slándáil agus leanaí",
+     "b": [
+      "Úsáideann an suíomh seo HTTPS agus tá rochtain ar shonraí tionscadail srianta. Níl aon mhodh chun sonraí a tharchur nó a stóráil saor ó riosca go hiomlán, mar sin ní féidir linn slándáil iomlán a ráthú.",
+      "Tá ár seirbhísí beartaithe do dhaoine 18 mbliana d'aois agus os a chionn. Ní bhailímid sonraí pearsanta leanaí d'aon turas."
+     ]
+    },
+    {
+     "t": "8. Athruithe ar an mbeartas seo",
+     "b": [
+      "Féadfar an beartas seo a nuashonrú ó am go chéile. Taispeántar dáta an nuashonraithe dheireanaigh ag barr an leathanaigh. Má bhíonn difríocht idir na teangacha ó thaobh brí de, is ag an leagan Indinéiseach atá an forlámhas."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Téarmaí agus Coinníollacha",
+   "description": "Na rialacha maidir le suíomh agus seirbhísí Nocoding a úsáid: pacáistí, praghsanna, an chaoi a ndéantar obair, maoin intleachtúil agus teorainneacha dliteanais.",
+   "sections": [
+    {
+     "t": "1. Na téarmaí seo a ghlacadh",
+     "b": [
+      "Tríd an suíomh seo a oscailt nó seirbhísí Nocoding a úsáid, aontaíonn tú leis na téarmaí agus coinníollacha seo. Mura n-aontaíonn tú, ná húsáid ár suíomh ná ár seirbhísí."
+     ]
+    },
+    {
+     "t": "2. Na seirbhísí",
+     "b": [
+      "Tógann Nocoding suíomhanna gréasáin punainne nó CV, leathanaigh tuirlingthe agus próifílí cuideachta, córais faisnéise agus oibríochtaí, agus uathoibriú próiseas gnó. Socraítear raon feidhme na hoibre, na gnéithe, an sceideal agus an costas leat trí WhatsApp nó ríomhphost sula dtosaíonn an obair.",
+      "Is saor in aisce i gcónaí an chomhairliúchán, aon uair a theastaíonn sé uait, agus ní chuireann sé d'oibleagáid ort ordú a chur."
+     ]
+    },
+    {
+     "t": "3. Pacáistí agus praghsanna",
+     "b": [
+      "- Pacáiste beag: ó Rp 500,000 in aghaidh na bliana, lena n-áirítear cothabháil saor in aisce agus fearann ar feadh 1 bhliain.",
+      "- Pacáiste mór: ó Rp 2,000,000 in aghaidh na bliana, lena n-áirítear cothabháil saor in aisce agus óstáil ar feadh 1 bhliain.",
+      "Is praghsanna tosaigh iad na praghsanna ar an suíomh. Socraítear an méid deiridh tar éis comhairliúcháin, de réir do chuid riachtanas. I gcás cuairteoirí lasmuigh den Indinéis, taispeántar praghsanna san airgeadra áitiúil mar mheastachán bunaithe ar an ráta malairte laethúil; is é an méid i rupiah a aontaímid air an ceann atá i bhfeidhm. Cuirtear costais bhreise, amhail gnéithe breise nó athnuachan tar éis don tréimhse saor in aisce dul in éag, in iúl duit sula ndéantar an obair."
+     ]
+    },
+    {
+     "t": "4. An chaoi a ndéantar an obair agus do fhreagrachtaí",
+     "b": [
+      "Déantar an dearadh a athbhreithniú agus a cheadú leat sula dtosaíonn an táirgeadh. Déantar athbhreithnithe mar a comhaontaíodh.",
+      "Tá tú freagrach as ábhair (lógó, téacs, grianghraif, sonraí) a sholáthar in am agus as an gceart a bheith agat iad a úsáid. Is féidir le moilleanna in ábhair nó i bhfreagairt tionchar a imirt ar an sceideal."
+     ]
+    },
+    {
+     "t": "5. Cothabháil",
+     "b": [
+      "Clúdaíonn cothabháil saor in aisce ar feadh 1 bhliain earráidí inár gcuid oibre a cheartú agus nuashonruithe bunúsacha slándála. Gearrtar táille ar leith as gnéithe nua, mórathruithe dearaidh agus obair lasmuigh den chomhaontú bunaidh."
+     ]
+    },
+    {
+     "t": "6. Maoin intleachtúil",
+     "b": [
+      "Fanann na hábhair a sholáthraíonn tú ina maoin agat. Aistrítear an obair chríochnaithe chugat nuair a bhíonn an íocaíocht mar a comhaontaíodh iomlán. Féadfaidh Nocoding obair bheo a thaispeáint mar shamplaí ina phunann, ach amháin má iarrann tú i scríbhinn gan é a thaispeáint.",
+      "Is le Nocoding an dearadh, an téacs agus na hailt ar nocoding.web.id. Is féidir leat naisc chuige a roinnt, ach ní féidir leat iad a chóipeáil agus a úsáid go tráchtála gan cead. Tagann grianghraif na n-alt ó Unsplash agus leanann siad a cheadúnas; tugtar creidmheas don fhoinse faoi gach grianghraf."
+     ]
+    },
+    {
+     "t": "7. Teangacha an tsuímh",
+     "b": [
+      "Tá an suíomh seo ar fáil i go leor teangacha. Seans nach mbeidh na haistriúcháin foirfe, go háirithe i gcás teangacha a bhfuil níos lú cainteoirí acu. Má bhíonn difríocht idir iad ó thaobh brí de, is ag an leagan Indinéiseach atá an forlámhas. Tá na leathanaigh dhlíthiúla seo ar fáil in Indinéisis agus i mBéarla."
+     ]
+    },
+    {
+     "t": "8. Teorainneacha dliteanais",
+     "b": [
+      "Oibrímid chun torthaí maithe a sholáthar, ach ní gheallaimid torthaí gnó ar leith amhail rangú cuardaigh, líon cuairteoirí nó díolacháin. Níl muid freagrach as suaitheadh ó thríú páirtithe amhail soláthraithe óstála, fearainn nó íocaíochta, ná as caillteanais indíreacha.",
+      "Tá ár ndliteanas as seirbhís teoranta don mhéid a d'íoc tú as an tseirbhís sin, a mhéid a cheadaíonn an dlí. Ní laghdaíonn sé seo cearta atá agat a chosnaíonn an dlí."
+     ]
+    },
+    {
+     "t": "9. An dlí rialaithe",
+     "b": [
+      "Rialaíonn dlíthe Phoblacht na hIndinéise na téarmaí seo. Má thagann díospóid chun cinn, déanaimid iarracht í a réiteach trí phlé ar dtús. Mura mbaintear comhaontú amach, réitíonn na cúirteanna inniúla san Indinéis an díospóid."
+     ]
+    },
+    {
+     "t": "10. Athruithe agus teagmháil",
+     "b": [
+      "Féadfar na téarmaí seo a nuashonrú ó am go chéile; taispeántar dáta an nuashonraithe dheireanaigh ag barr an leathanaigh. Is féidir ceisteanna a sheoladh chuig nocodingindonesia@gmail.com nó trí WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Beartas Fianán",
+   "description": "Na fianáin agus an stóras áitiúil a úsáideann suíomh Nocoding, cad chuige a bhfuil siad, agus conas iad a bhainistiú.",
+   "sections": [
+    {
+     "t": "1. Cad is fianáin ann",
+     "b": [
+      "Is comhaid bheaga iad fianáin a stórálann suíomh i do bhrabhsálaí. Oibríonn stóras áitiúil agus stóras seisiúin ar bhealach cosúil leo ach ní sheoltar chuig freastalaí go huathoibríoch iad. Ar an leathanach seo, tugaimid fianáin orthu go léir."
+     ]
+    },
+    {
+     "t": "2. Na rudaí a theastaíonn ón suíomh chun oibriú",
+     "b": [
+      "Stóráilte i do bhrabhsálaí agus ní sheoltar chuig ár bhfreastalaithe iad:",
+      "- nocoding-language agus nocoding-language-set: an teanga a roghnaigh tú nó a braitheadh ó do bhrabhsálaí.",
+      "- nocoding-pricing (seisiún): an t-airgeadra measta agus an ráta, ionas nach ríomhtar praghsanna arís ar gach leathanach.",
+      "- Marcóirí alt: cibé ar thaitin alt leat, ar bhreathnaigh tú air nó ar roinn tú cheana é, ionas nach ndúbailtear na huimhreacha.",
+      "- Marcóir sealadach seasamh scrollaithe agus tú ag bogadh idir codanna den suíomh."
+     ]
+    },
+    {
+     "t": "3. Anailísíocht",
+     "b": [
+      "Nuair a bhíonn siad cumasaithe, luchtaíonn dhá sheirbhís anailísíochta tar éis duit idirghníomhú leis an leathanach (scrollú, tapáil nó eochair a bhrú):",
+      "- Google Analytics 4 (fianáin ar nós _ga agus _ga_*, bailí ar feadh thart ar 2 bhliain ar a mhéad): staitisticí cuairte.",
+      "- Microsoft Clarity (fianáin ar nós _clck, _clsk, CLID agus MUID, bailí ar feadh thart ar 1 bhliain ar a mhéad): teimpléid teasa agus taifeadtaí gan ainm d'idirghníomhaíochtaí.",
+      "Féadfaidh soláthraithe CDN agus slándála fianáin theicniúla a shocrú freisin chun an suíomh a chosaint ar thrácht díobhálach."
+     ]
+    },
+    {
+     "t": "4. Conas fianáin a bhainistiú",
+     "b": [
+      "Is féidir leat fianáin a scriosadh nó a bhlocáil i socruithe do bhrabhsálaí. Is féidir leat breiseán oifigiúil diúltaithe Google do Google Analytics a shuiteáil freisin. Má bhlocáiltear fianáin anailísíochta, oibríonn an suíomh i gcónaí; má ghlantar an stóras áitiúil, filleann do rogha teanga ar an réamhshocrú."
+     ]
+    },
+    {
+     "t": "5. Ceisteanna",
+     "b": [
+      "Le haghaidh ceisteanna faoin mbeartas seo, déan teagmháil le nocodingindonesia@gmail.com. Mínítear tuilleadh sa Bheartas Príobháideachta conas a úsáidtear sonraí pearsanta. Má bhíonn difríocht idir na teangacha ó thaobh brí de, is ag an leagan Indinéiseach atá an forlámhas."
+     ]
+    }
+   ]
+  }
+ }
+}

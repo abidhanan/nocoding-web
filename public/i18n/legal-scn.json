@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Ùrtimu aggiurnamentu",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Pulìtica di Privacy",
+   "description": "Chi dati raccogghi Nocoding, pi cchi sèrvinu, cu li tratta e li to dritti supra li to dati pirsunali.",
+   "sections": [
+    {
+     "t": "1. Cu semu",
+     "b": [
+      "Nocoding (nocoding.web.id) è nu sirvizzu pi crïari siti web, app, sistemi informativi e automazzioni, gestutu di Abid Hanan Wicaksono n Indonesia. Sta pulìtica spiega comu trattamu li to dati pirsunali quannu visiti stu situ o ni cuntatti.",
+      "Li dumanni supra sta pulìtica ponnu èssiri mannati a nocodingindonesia@gmail.com o ntô WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Li dati ca raccugghiemu",
+     "b": [
+      "- Li dati ca nni duni tu: lu to nomu, lu nùmmaru di WhatsApp, l'email e na discrizzioni di lu to prugettu quannu ni cuntatti pi WhatsApp o pi email. Stu situ nun havi accounts d'utenti né moduli d'iscrizzioni.",
+      "- Dati tècnici trattati n manera automàtica: indirizzu IP, tipu di dispusitivu e di browser, e li pàggini ca grapi. Li trattanu li nostri fornituri di hosting e CDN pi fari funziunari lu situ e prutèggiri di l'abusi.",
+      "- Paisi apprussimativu: pi mustrari li prezzi nta la to muneta, lu to paisi veni stimatu di l'nfurmazzioni di lu CDN o di la lingua di lu to browser. Nun lu cunsirvamu nta li nostri server.",
+      "- Dati d'analisi: Google Analytics 4 e Microsoft Clarity (quannu sunnu attivati) raccògghianu statìstichi d'usu comu li pàggini grapùti, la durata di la visita, lu tipu di dispusitivu e rigistrazzioni anònimi di l'nterazzioni. Si carricanu sulu dopu ca nteragisci câ pàggina.",
+      "- Mimòria di lu browser: la lingua scigghiuta, li signali ca già mittisti mi piaci, vidisti o cundivisisti n articulu, e na stima tempuranea di lu prezzu. Li dittàgghi sunnu nta la Pulìtica di li Cookie.",
+      "- Lu nùmmaru di visualizzazzioni, mi piaci e cundivisioni di l'articuli veni cunsirvatu comu nùmmari aggregati, senza l'identità di lu visitaturi."
+     ]
+    },
+    {
+     "t": "3. Pi cchi sèrvinu li dati",
+     "b": [
+      "- Rispunniri ê to dumanni, priparari prupposti e purtari avanti lu to prugettu.",
+      "- Fari funziunari, prutèggiri e tèniri vilòci lu situ.",
+      "- Capiri comu veni usatu lu situ pi putillu migghiurari.",
+      "- Rispittari l'obblighi di liggi.",
+      "Nun vinnemu li to dati pirsunali."
+     ]
+    },
+    {
+     "t": "4. Terzi cunvòlti",
+     "b": [
+      "- Vercel: hosting e distribuzzioni di lu situ.",
+      "- Cloudflare: CDN e sicurizza.",
+      "- Google (Google Analytics 4) e Microsoft (Clarity): statìstichi d'usu di lu situ.",
+      "- Meta (WhatsApp) e Google (Gmail): quannu ni cuntatti pi li link WhatsApp o email ca sunnu nta stu situ.",
+      "- Fornituri di li tassi di cangiu: arriceva sulu li richiesti di tassi di lu nostru server, no li dati di li visitaturi.",
+      "Sti fornituri ponnu trattari dati fora di l'Indonesia sicunnu li so pulìtichi."
+     ]
+    },
+    {
+     "t": "5. Pi quantu tempu si cunsèrvanu li dati",
+     "b": [
+      "Li cunvirsazzioni e li matiriali di lu prugettu si cunsèrvanu finu a quannu sèrvinu pi gestiri lu sirvizzu, dari assistenza e rispittari l'obblighi di liggi, doppu vènunu cancillati o fatti anònimi. Li dati d'analisi sèquinu li mpustazzioni di cunsirvazzioni di lu fornituri. Li dati nta lu to browser ristanu finu a quannu l'elimini tu."
+     ]
+    },
+    {
+     "t": "6. Li to dritti",
+     "b": [
+      "Sicunnu la Liggi n. 27 dô 2022 supra la Prutizzioni di li Dati Pirsunali di l'Indonesia, hai lu drittu di:",
+      "- sapiri e ottèniri na copia di li dati pirsunali ca tinemu supra di tia;",
+      "- addumannari ca li dati sbagghiati vèninu currèggiuti;",
+      "- addumannari la cancillazzioni di li to dati o rivucari lu to cunsensu;",
+      "- opponiri a certi trattamenti.",
+      "Manna la to richiesta a nocodingindonesia@gmail.com. Rispunnemu nta nu tempu raggiunèvuli."
+     ]
+    },
+    {
+     "t": "7. Sicurizza e picciriddi",
+     "b": [
+      "Stu situ usa HTTPS e l'accessu ê dati di lu prugettu è limitatu. Nuddu mètudu di trasmissioni o cunsirvazzioni di li dati è completamenti senza rischi, accussì nun semu n gradu di garantiri na sicurizza assoluta.",
+      "Li nostri sirvizzi sunnu pi pirsuni cu almenu 18 anni o chiù. Nun raccugghiemu a scenti dati pirsunali di picciriddi."
+     ]
+    },
+    {
+     "t": "8. Canci ê sta pulìtica",
+     "b": [
+      "Sta pulìtica pò èssiri aggiurnata di tantu n tantu. La data di l'ùrtimu aggiurnamentu appari ncapu â pàggina. Si li lingui hannu significati diffirenti, vali la virsioni n indonesianu."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Tèrmini e Cunnizzioni",
+   "description": "Li règuli pi usari lu situ e li sirvizzi di Nocoding: pacchetti, prezzi, comu si fa lu travagghiu, pruprietà intillittuali e limiti di rispunsabbilità.",
+   "sections": [
+    {
+     "t": "1. Accittazzioni di li tèrmini",
+     "b": [
+      "Grapennu stu situ o usannu li sirvizzi di Nocoding, accetti sti tèrmini e cunnizzioni. Si nun si' d'accordu, pi favuri nun usari lu nostru situ o li nostri sirvizzi."
+     ]
+    },
+    {
+     "t": "2. Li sirvizzi",
+     "b": [
+      "Nocoding fa siti web di portfòliu o CV, landing page e prufili d'azienni, sistemi informativi e uperativi, e automazzioni di li prucessi d'azienna. L'ambitu di lu travagghiu, li funzioni, lu calannariu e lu custu vènunu cuncurdati cu tia pi WhatsApp o pi email prima ca lu travagghiu accumenza.",
+      "La cunsulenza è sempri gratis, quannu ti servi, e nun t'obbliga a urdinari."
+     ]
+    },
+    {
+     "t": "3. Pacchetti e prezzi",
+     "b": [
+      "- Pacchettu nicu: di Rp 500.000 all'annu, cumpresa la manutinzioni gratis e nu dominiu pi 1 annu.",
+      "- Pacchettu granni: di Rp 2.000.000 all'annu, cumpresa la manutinzioni gratis e l'hosting pi 1 annu.",
+      "Li prezzi nta lu situ sunnu prezzi di partenza. L'mpurtu finali veni cuncurdatu doppu na cunsulenza, sicunnu li to bisogna. Pî visitaturi di fora di l'Indonesia, li prezzi sunnu mustrati nta la muneta lucali comu stima basata supra lu tassu di cangiu giurnalieru; vali l'mpurtu n rupii ca avemu cuncurdatu. Li costi n chiù, comu funzioni addizziunali o lu rinnovu quannu finisci lu pirìudu gratis, ti vènunu cumunicati prima ca lu travagghiu veni fattu."
+     ]
+    },
+    {
+     "t": "4. Comu si fa lu travagghiu e li to rispunsabbilità",
+     "b": [
+      "Lu prugettu veni rivistu e appruvatu cu tia prima di la produzzioni. Li rivisioni si fannu comu cuncurdatu.",
+      "Si' rispunsabbili di furniri li matiriali (logo, testi, foto, dati) n tempu e d'aviri lu drittu d'usarli. Li ritardi nta li matiriali o nta li cummenti ponnu influenzari lu calannariu."
+     ]
+    },
+    {
+     "t": "5. Manutinzioni",
+     "b": [
+      "La manutinzioni gratis pi 1 annu cumprenni la currizzioni di l'erruri nta lu nostru travagghiu e l'aggiurnamenti di sicurizza di basi. Funzioni novi, canci granni di prugettu e travagghi fora di l'accordu uriginariu vènunu fatturati a parti."
+     ]
+    },
+    {
+     "t": "6. Pruprietà intillittuali",
+     "b": [
+      "Li matiriali ca furnisci ristanu toi. Lu travagghiu finutu ti veni cunsignatu quannu lu pagamentu cuncurdatu è cumpletu. Nocoding pò mustrari travagghi già pubblicati comu esempi nta lu so portfòliu, a menu ca tu addumanni pi scrittu di nun mustrarli.",
+      "Lu prugettu, li testi e l'articuli di nocoding.web.id sunnu di Nocoding. Poi cundivìdiri li link, ma nun poi cupiàrili e usàrili pi scopi cummirciali senza pirmissu. Li foto di l'articuli vènunu di Unsplash e sèquinu la so licenza; la fonti è ndicata sutta ogni foto."
+     ]
+    },
+    {
+     "t": "7. Lingui di lu situ",
+     "b": [
+      "Stu situ è dispunìbbili n tanti lingui. Li traduzzioni, specialmenti pî lingui cu mancu parlanti, ponnu nun èssiri pirfetti. Si hannu significati diffirenti, vali la virsioni n indonesianu. Sti pàggini ligali sunnu dispunìbbili n indonesianu e n ngrisi."
+     ]
+    },
+    {
+     "t": "8. Limiti di rispunsabbilità",
+     "b": [
+      "Travagghiamu pi dari bboni risultati, ma nun prumittemu risultati di business specifici comu pusizzioni nta li ricerchi, nùmmaru di visitaturi o vinnuti. Nun semu rispunsabbili di li disservizi di terzi comu fornituri di hosting, dominiu o pagamenti, né di li danni nnirètti.",
+      "La nostra rispunsabbilità pi nu sirvizzu è limitata ô mpurtu ca pagasti pi chiddu sirvizzu, ntô limiti ca la liggi cunsenti. Chistu nun riduci li to dritti prutiggiuti di la liggi."
+     ]
+    },
+    {
+     "t": "9. Liggi appricabbili",
+     "b": [
+      "Sti tèrmini sunnu rigulati di li liggi di la Ripùbblica d'Indonesia. Si nasci na cuntruvirsia, prima circamu di risòlviri cu lu dialugu. Si nun si arrivi a n'accordu, la cuntruvirsia veni risolta di li tribunali cumpitenti n Indonesia."
+     ]
+    },
+    {
+     "t": "10. Canci e cuntattu",
+     "b": [
+      "Sti tèrmini ponnu èssiri aggiurnati di tantu n tantu; la data di l'ùrtimu aggiurnamentu appari ncapu â pàggina. Li dumanni ponnu èssiri mannati a nocodingindonesia@gmail.com o ntô WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Pulìtica di li Cookie",
+   "description": "Li cookie e la mimòria lucali ca usa lu situ di Nocoding, pi cchi sèrvinu e comu gestìrili.",
+   "sections": [
+    {
+     "t": "1. Chi sunnu li cookie",
+     "b": [
+      "Li cookie sunnu nichi file ca nu situ cunsirva nta lu to browser. La mimòria lucali (local storage) e chidda di sissioni (session storage) funziònanu n manera simili ma nun vènunu mannati n automàticu a nu server. Nta sta pàggina li chiamamu tutti cookie."
+     ]
+    },
+    {
+     "t": "2. Chiddu ca sèrvi pi fari funziunari lu situ",
+     "b": [
+      "Cunsirvati nta lu to browser e nun mannati ê nostri server:",
+      "- nocoding-language e nocoding-language-set: la lingua ca scigghisti o ca fu rilivata di lu to browser.",
+      "- nocoding-pricing (sissioni): la muneta e lu tassu stimati, pi nun ricalculari li prezzi a ogni pàggina.",
+      "- Signali di l'articuli: si già mittisti mi piaci, vidisti o cundivisisti n articulu, accussì li cunti nun si raddoppianu.",
+      "- Nu signali tempuraneu di la pusizzioni di scorrimentu quannu ti spòsti tra li parti di lu situ."
+     ]
+    },
+    {
+     "t": "3. Analisi",
+     "b": [
+      "Quannu sunnu attivati, dui sirvizzi d'analisi si carricanu dopu ca nteragisci câ pàggina (scorri, tocchi o primi nu tastu):",
+      "- Google Analytics 4 (cookie comu _ga e _ga_*, validi finu a circa 2 anni): statìstichi di li visiti.",
+      "- Microsoft Clarity (cookie comu _clck, _clsk, CLID e MUID, validi finu a circa 1 annu): mappi di calùri e rigistrazzioni anònimi di l'nterazzioni.",
+      "Li fornituri di CDN e di sicurizza ponnu mpustari macari cookie tècnici pi prutèggiri lu situ di lu trafficu dannusu."
+     ]
+    },
+    {
+     "t": "4. Comu gestìri li cookie",
+     "b": [
+      "Poi cancillari o bluccari li cookie nta li mpustazzioni di lu to browser. Poi puru nstallari l'add-on ufficiali di Google pi disattivari Google Analytics. Si li cookie d'analisi vènunu bluccati, lu situ cuntinua a funziunari; si la mimòria lucali veni cancillata, la to lingua scigghiuta torna a chidda predifinuta."
+     ]
+    },
+    {
+     "t": "5. Dumanni",
+     "b": [
+      "Pi dumanni supra sta pulìtica, cuntatta nocodingindonesia@gmail.com. Comu vènunu usati li dati pirsunali è spiegatu cchiù n dittagghiu nta la Pulìtica di Privacy. Si li lingui hannu significati diffirenti, vali la virsioni n indonesianu."
+     ]
+    }
+   ]
+  }
+ }
+}

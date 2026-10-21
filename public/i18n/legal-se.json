@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Maŋimuš ođasmahttin",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Čielggadusa birra priváhta dieđuid",
+   "description": "Makkár dieđuid Nocoding čohkke, mii várás daid atná, geat daid meannudit, ja makkár vuoigatvuođat dus leat iežat persovnnalaš dieđuide.",
+   "sections": [
+    {
+     "t": "1. Geat mii leat",
+     "b": [
+      "Nocoding (nocoding.web.id) lea neahttabáiki-, app-, diehtojearranvuogádat- ja automatiserenbálvalus maid Abid Hanan Wicaksono jođiha Indonesias. Dát čielggadus čilge mo mii meannudit iežat persovnnalaš dieđuid go don guorahalat dán siiddu dahje váldá midjiin oktavuođa.",
+      "Gažaldagaid dán čielggadusa birra sáhttá sáddet nocodingindonesia@gmail.com dahje WhatsApp +62 853-2651-3324 numerii."
+     ]
+    },
+    {
+     "t": "2. Dieđut maid mii čohkkejit",
+     "b": [
+      "- Dieđut maid don ieš addet: du namma, WhatsApp-nummir, e-boasta ja prošeavtta govvádus go váldá midjiin oktavuođa WhatsAppa dahje e-boastta bokte. Dán siiddus eai leat geavaheaddjiguoddalagat iige registreren-skovit.",
+      "- Teknihkalaš dieđut mat meannuduvvojit iešvuššiid: IP-čujuhus, ovttastusa ja bláđđeráiddu šládja, ja siiddut maid rahpat. Min hosting- ja CDN-fállit meannudit dáid vai siidu doaibmá ja suddjejuvvo ill-geavaheamis.",
+      "- Árvvoštallojuvvon riika: vai hattit sáhttet čájehuvvot du valuhtas, du riika árvvoštallojuvvo CDN-dieđuid dahje du bláđđeráiddu gielas. Mii eat vurke dan iežamet serveriidda.",
+      "- Analytihkkadieđut: Google Analytics 4 ja Microsoft Clarity (go leaba aktiivan) čohkkejit geavahanstatistihka nu go rahppojuvvon siidduid, guossohanáiggi, ovttastusa šládja ja dovdameahttun vuorrováikkuhusdovdagiid. Dat luđiiduvvojit dušše maŋŋel go don leat vuorrováikkuhan siidduin.",
+      "- Bláđđeráiddu vuorká: du gielvalljen, mearkkat ahte don leat juo dohkkehan, geahččan dahje juogadan artihkkala, ja gaskaboddosaš hattiárvvoštallan. Dárkilet dieđut leat Cookie-čielggadusas.",
+      "- Artihkkaliid geahččanmeriid, dohkkehusaid ja juogadusaid meroštallan vurkejuvvo ovttastahtton lohkun, almmá guossi identitehta haga."
+     ]
+    },
+    {
+     "t": "3. Mii várás dieđuid atná",
+     "b": [
+      "- Vástidit du gažaldagaide, ráhkadit fálaldagaid ja čađahit du prošeavtta.",
+      "- Fállat, sihkkarastit ja doallat siiddu jođánin.",
+      "- Áddet mo siidu geavahuvvo vai sáhttit buoridit dan.",
+      "- Deavdit lágalaš geatnegasvuođaid.",
+      "Mii eat vuovdde du persovnnalaš dieđuid."
+     ]
+    },
+    {
+     "t": "4. Mielde leahkki goalmmátoasit",
+     "b": [
+      "- Vercel: siiddu hosting ja fállan.",
+      "- Cloudflare: CDN ja sihkkarvuohta.",
+      "- Google (Google Analytics 4) ja Microsoft (Clarity): siiddu geavahanstatistihkka.",
+      "- Meta (WhatsApp) ja Google (Gmail): go váldá midjiin oktavuođa dán siiddu WhatsApp- dahje e-boastačujuhusaid bokte.",
+      "- Valuhtakurssa fálli: oažžu dušše kurssabivdagiid min serveris, ii guossedieđuid.",
+      "Dát fállit sáhttet meannudit dieđuid Indonesia olggobealde iežaset njuolggadusaid vuođul."
+     ]
+    },
+    {
+     "t": "5. Man guhká dieđut vurkejuvvojit",
+     "b": [
+      "Sáhtteságaid ja prošeaktamateriálaid vurket nu guhká go dat dárbbašuvvojit bálvalusa čađaheapmái, doarjjan addimii ja lágalaš geatnegasvuođaid deavdimii, ja dasto sii sihkkojuvvojit dahje dahkkojuvvojit dovdameahttumin. Analytihkkadieđut čuvvot iežaset fálli vurkenáigebeaivvi ásahusaid. Dieđut du bláđđeráiddus orrot dassážii go don sihkut daid."
+     ]
+    },
+    {
+     "t": "6. Du vuoigatvuođat",
+     "b": [
+      "Indonesia lága nr. 27 jagi 2022 persovnnalaš dieđuid suodjaleami birra (Law No. 27 of 2022) vuođul dus lea vuoigatvuohta:",
+      "- diehtit ja oažžut kopiija persovnnalaš dieđuin maid mii doallat du birra;",
+      "- bivdit boastu dieđuid divvuma;",
+      "- bivdit dieđuid sihkkuma dahje geassit ruovttoluotta du mieđuštusa;",
+      "- vuostálastit muhtin meannudeami.",
+      "Sádde du bivdda nocodingindonesia@gmail.com. Mii vástidit dohkálaš áiggis."
+     ]
+    },
+    {
+     "t": "7. Sihkkarvuohta ja mánát",
+     "b": [
+      "Dát siidu geavaha HTTPS ja beassan prošeaktadieđuide lea ráddjejuvvon. Ii oktage dieđuid sáddema dahje vurkema vuohki leat ollásit riskkahis, ja danne mii eat sáhte lohpidit áibbas sihkkarvuođa.",
+      "Min bálvalusat leat várrejuvvon olbmuide geat leat 18 jagi dahje boarráseappot. Mii eat čohkke dihtomielalaččat mánáid persovnnalaš dieđuid."
+     ]
+    },
+    {
+     "t": "8. Rievdadusat dán čielggadusas",
+     "b": [
+      "Dát čielggadus sáhttá ođasmuvvat áiggi mielde. Maŋimuš ođasmahttima beaivi čájehuvvo siiddu bajimus oasis. Jus gielat leat sisdoalu dáfus earáláganat, de indonesialaš veršuvdna fátmmasta."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Ehtut ja dilálašvuođat",
+   "description": "Njuolggadusat Nocoding-siiddu ja bálvalusaid geavaheapmái: páhkat, hattit, mo bargu čađahuvvo, vuoigatvuohta jurddalaš opmodahkii ja ovddasvástádusa rájit.",
+   "sections": [
+    {
+     "t": "1. Dát ehtut dohkkehuvvojit",
+     "b": [
+      "Go rahpat dán siiddu dahje geavahat Nocoding-bálvalusaid, don dohkket dáid ehtuid ja dilálašvuođaid. Jus it dohket, de ale geavat min siiddu dahje bálvalusaid."
+     ]
+    },
+    {
+     "t": "2. Bálvalusat",
+     "b": [
+      "Nocoding ráhkada portfolio- dahje CV-neahttabáikkiid, landing-siidduid ja fitnodatprofiilaid, diehtu- ja doaibmavuogádagaid ja fitnodatproseassaid automatiseremiid. Bargogaskkas, doaibmagaskkat, áigeplána ja gaskkat soahpaluvvojit dutnje WhatsAppa dahje e-boastta bokte ovdal bargu álgá.",
+      "Konsultašuvdna lea álo nuvttá, goas dárbbašat, ja dat ii geatnegahte du diŋgot maidege."
+     ]
+    },
+    {
+     "t": "3. Páhkat ja hattit",
+     "b": [
+      "- Smávva páhkka: Rp 500.000 jagis ja badjelii, mielde nuvttá dikšun ja domeaidna 1 jagi.",
+      "- Stuorra páhkka: Rp 2.000.000 jagis ja badjelii, mielde nuvttá dikšun ja hosting 1 jagi.",
+      "Siiddu hattit leat álgohattit. Loahpalaš mearri soahpaluvvo konsultašuvnna maŋŋel du dárbbuid vuođul. Guossiide geat leat Indonesia olggobealde hattit čájehuvvojit báikkálaš valuhtas árvvoštallamin beaivválaš valuhtakurssa vuođul; dat rupiamearri maid mii soahpat lea dat mii gusto. Lasseháhkamat, nu go lasseeavttut dahje ođasmahttin nuvttá áigodaga nogadeami maŋŋel, muitaluvvojit dutnje ovdal go bargu dahkko."
+     ]
+    },
+    {
+     "t": "4. Mo bargu čađahuvvo ja du ovddasvástádus",
+     "b": [
+      "Hábmen geahčaluvvo ja dohkkehuvvo du ektui ovdal buvttadeapmi. Divvumat dahkkojit nu go soahpaluvvon.",
+      "Don leat ovddasvástideaddji ahte addát materiálaid (logo, teavsta, govat, dieđut) áigegod ja ahte dus lea vuoigatvuohta geavahit daid. Materiálaid dahje máhcahaga šaddat maŋiduvvon sáhttá váikkuhit áigeplánii."
+     ]
+    },
+    {
+     "t": "5. Dikšun",
+     "b": [
+      "Nuvttá dikšun 1 jagi sisttisdoallá min barggu huksemiid divvuma ja vuođđosihkkarvuođa ođasmahttimiid. Ođđa doaimmat, stuorra hábmenrievdadusat ja bargu mii lea álgosoahpamuša olggobealde mávsojuvvojit sierra."
+     ]
+    },
+    {
+     "t": "6. Jurddalaš opmodat",
+     "b": [
+      "Materiálat maid don addet bissot dutnje. Gárvvis bargu dollojuvvo dutnje maŋŋel go soahpan mávssu lea ollásit máksojuvvon. Nocoding sáhttá čájehit juo doaibmi bargguid ovdamearkan portfolios, jus it čálalaččat bivdde ahte dat ii čájehuvvo.",
+      "Hábmen, teavsttat ja artihkkalat nocoding.web.id siiddus gullet Nocodingii. Don sáhtát juogadit daid čujuhusaid, muhto it oaččo kopierit ja geavahit daid gávppálaččat almmá lohpi haga. Artihkkalgovat leat Unsplash-ás ja čuvvot dan liseanssa; gáldu namuhuvvo juohke govva vuolde."
+     ]
+    },
+    {
+     "t": "7. Siiddu gielat",
+     "b": [
+      "Dát siidu lea olamuttos ollu gielain. Jorgalusat, earenoamážit gielaid mat hállojuvvojit unnán olbmuin, eai leat vealahis. Jus sisdoallu lea earáláganat, de indonesialaš veršuvdna fátmmasta. Dát lágalaš siiddut leat indonesia- ja eaŋgalsgielain."
+     ]
+    },
+    {
+     "t": "8. Ovddasvástádusa rájit",
+     "b": [
+      "Mii bargat addit buori boađu, muhto mii eat lohpit sierra fitnodatboađuid nu go ohcanrivttiid, guossemeriid dahje vuovdimiid. Mii eat leat ovddasvástideaddjit goalmmátoasiid, nu go hosting-, domeaidna- dahje mávssufálliid, hehttehusain dahje eahpenjuolggalaš vahágiin.",
+      "Min ovddasvástádus bálvalusas lea ráddjejuvvon dan mearrái maid don leat mávssán dan bálvalusas, nu guhkás go láhka dohkke. Dát ii unnit dus vuoigatvuođaid maid láhka suodjala."
+     ]
+    },
+    {
+     "t": "9. Gustovaš láhka",
+     "b": [
+      "Dáid ehtuid stivre Indonesia dásseváldelága láhkaásahusat. Jus riidu šaddá, de álggos geahččalit čoavdit dan ságastallamiin. Jus soahpamuš ii šatta, riidu čovdojuvvo Indonesia gelbbolaš duopmostuoluin."
+     ]
+    },
+    {
+     "t": "10. Rievdadusat ja oktavuohta",
+     "b": [
+      "Dát ehtut sáhttet ođasmuvvat áiggi mielde; maŋimuš ođasmahttima beaivi čájehuvvo siiddu bajimus oasis. Gažaldagaid sáhttá sáddet nocodingindonesia@gmail.com dahje WhatsApp +62 853-2651-3324 numerii."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Cookie-čielggadus",
+   "description": "Cookiet ja báikkálaš vuorká maid Nocoding-siidu geavaha, mii várás dat leat, ja mo daid hálddaša.",
+   "sections": [
+    {
+     "t": "1. Mat cookiet leat",
+     "b": [
+      "Cookiet leat smávva fiillat maid siidu vurke du bláđđeráiddus. Báikkálaš vuorká ja sešuvdnavuorká (session storage) doibmet seammaláhkai muhto eai sáddejuvvo iešvuššiid serverii. Dán siiddus mii gohčodat buot daid cookiin."
+     ]
+    },
+    {
+     "t": "2. Mii siidui dárbbašuvvo doaibmat",
+     "b": [
+      "Vurkejuvvo du bláđđeráiddus ja ii sáddejuvvo min serveriidda:",
+      "- nocoding-language ja nocoding-language-set: giella maid don válljet dahje mii lea gávdnojuvvon du bláđđeráiddus.",
+      "- nocoding-pricing (session): árvvoštallojuvvon valuhta ja kurssa, vai hattit eai rehkenaston ođđasit juohke siiddus.",
+      "- Artihkkalmearkkat: leat go don juo dohkkehan, geahččan dahje juogadan artihkkala, vai merit eai guovdásit.",
+      "- Gaskaboddosaš mearka rullenbáikkis go lihkut siiddu osiid gaskkas."
+     ]
+    },
+    {
+     "t": "3. Analytihkka",
+     "b": [
+      "Go leaba aktiivan, guokte analytihkkabálvalusa luđiiduvvojit maŋŋel go don leat vuorrováikkuhan siiddu ektui (rulle, tabet dahje coahkkal boallobiergasa):",
+      "- Google Analytics 4 (cookiet nu go _ga ja _ga_*, mat gustojit measta 2 jagi): guossohanstatistihkka.",
+      "- Microsoft Clarity (cookiet nu go _clck, _clsk, CLID ja MUID, mat gustojit measta 1 jagi): ruovdemáhppat ja dovdameahttun vuorrováikkuhusdovdagat.",
+      "CDN- ja sihkkarvuođafállit sáhttet maiddái bidjat teknihkalaš cookiid vai siidu suodjaluvvo vahátlaš johtalusas."
+     ]
+    },
+    {
+     "t": "4. Mo cookiid hálddaša",
+     "b": [
+      "Don sáhtát sihkkut dahje hehttet cookiid du bláđđeráiddu ásahusain. Don sáhtát maiddái ásahit Google almmolaš opt-out-lasáhusa Google Analyticsii. Jus analytihkkacookiet hehttejuvvojit, siidu lea ain doaibmi; jus báikkálaš vuorká sihkkojuvvo, du gielvalljen máhccá standárdii."
+     ]
+    },
+    {
+     "t": "5. Gažaldagat",
+     "b": [
+      "Gažaldagaid dán čielggadusa birra sáddes nocodingindonesia@gmail.com. Mo persovnnalaš dieđut atnojuvvojit čilgejuvvo dárkileappot Čielggadusas birra priváhta dieđuid. Jus gielat leat sisdoalu dáfus earáláganat, de indonesialaš veršuvdna fátmmasta."
+     ]
+    }
+   ]
+  }
+ }
+}

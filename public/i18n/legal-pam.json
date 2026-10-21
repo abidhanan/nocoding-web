@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Huling na-update",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Patakaran king Privacy",
+   "description": "Ing data a kukulektan ning Nocoding, nung nanu yang gagamit, nukarin ing mamrosesu, at ing karapatan mu keng personal a data mu.",
+   "sections": [
+    {
+     "t": "1. Ninu kami",
+     "b": [
+      "Ing Nocoding (nocoding.web.id) metung yang serbisyu para king website, app, sistema ning impormasyon at automation a pamanyiwalan ni Abid Hanan Wicaksono king Indonesia. Ing patakaran a ini ilawaran na nung makananu mi atrata ing personal a data mu istung bumisita ka keng site a ini o kontakan mu kami.",
+      "Ing tanung tungkul keng patakaran a ini mapalub a ipadala king nocodingindonesia@gmail.com o WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Ing data a kukulektan mi",
+     "b": [
+      "- Data a ibie mu keka kekami: ing lagyu mu, numero ning WhatsApp, email at deskripsyon ning proyekto mu istung kontakan mu kami king WhatsApp o email. Ing site a ini alang user account o form para king pamagrehistro.",
+      "- Teknikal a data a awtomatiku nang mapagproseso: IP address, klase ning device at browser, at ding pahina a bukasan mu. Ipaproseso ya ding provider mi king hosting at CDN para mapaglingkuran ya ing site at maprotektayan ya king abuso.",
+      "- Mangatau-tau a bansa: para ipakit ding presyu king pera mu, ing bansa mu tantyanan ya manibala king impormasyon ning CDN o king amanu ning browser mu. Aliwa mi ya isave king server mi.",
+      "- Data ning analytics: ing Google Analytics 4 at Microsoft Clarity (istung peganaan) kukulektan da la ding estadistika ning pamanggamit like ning pahinang binuklat, katagal ning bisita, klase ning device at ding rekording ning interaksyon a alang pangalan. Mag-load la peta kaibat mu makiugnayan king pahina.",
+      "- Storage ning browser: ing pinili mung amanu, ding marka a nilike mu, nakit mu o ibahagi mu na ing metung a artikulo, at metung a temporaryu a estimate ning presyu. Ing detalye atin la king Patakaran king Cookie.",
+      "- Ding bilang ning pamakit, like at pamagbahagi ning artikulo isave la bilang pinagsamang numero, alang identidad ning bisita."
+     ]
+    },
+    {
+     "t": "3. Nung nanu yang gagamit ing data",
+     "b": [
+      "- Pamagsagut king tanung mu, pamaghanda ning quote at pamagpapalaus king proyekto mu.",
+      "- Pamaglingkod, pamagprotekta at pamagpanatili king site a mabilis.",
+      "- Pamagintindi nung makananu yang gagamit ing site para mapasulung mi ya.",
+      "- Pamagtupad king obligasyung legal.",
+      "Ali mi ibenta ing personal a data mu."
+     ]
+    },
+    {
+     "t": "4. Ding katlung grupu a kayabe",
+     "b": [
+      "- Vercel: pamaghosting at pamaglingkod king site.",
+      "- Cloudflare: CDN at seguridad.",
+      "- Google (Google Analytics 4) at Microsoft (Clarity): estadistika ning pamanggamit ning site.",
+      "- Meta (WhatsApp) at Google (Gmail): istung kontakan mu kami king link ning WhatsApp o email keng site a ini.",
+      "- Provider ning rate ning pera: tatanggap la ya kareng pamanyuyu king rate manibala king server mi, ali data ding bisita.",
+      "Ding provider a ini mapalyu la mamroseso ning data king labas ning Indonesia ayon king gawang patakaran da."
+     ]
+    },
+    {
+     "t": "5. Nung makatagal a isave ing data",
+     "b": [
+      "Ding salitaan at material ning proyekto isave la anggang kailangan para king pamagpapalaus ning serbisyu, pamagbie ning suporta at pamagtupad king obligasyung legal, kaibat buburan o gawan la alang pangalan. Ing data ning analytics sasaplang ya king setting ning retention ning provider na. Ing data king browser mu mamalagi ya anggang buburan mu."
+     ]
+    },
+    {
+     "t": "6. Ding karapatan mu",
+     "b": [
+      "Ilalam ning Batas Blg. 27 ning 2022 ning Indonesia tungkul king Proteksyon ning Personal a Data, atin kang karapatan a:",
+      "- mamalam at tumanggap ning kopya ning personal a data a atin kami tungkul keka;",
+      "- magpasaliwa ning maling data;",
+      "- magpabura ning data mu o bawian ing pamamaluban mu;",
+      "- tumutul king balang pamagproseso.",
+      "Ipadala mu ing kahilingan mu king nocodingindonesia@gmail.com. Sasagutan mi ya king makatuliang panaun."
+     ]
+    },
+    {
+     "t": "7. Seguridad at anak",
+     "b": [
+      "Ing site a ini gagamit yang HTTPS at limitado ing pamagpasuk king data ning proyekto. Alang paralan ning pamagpadala o pamagsave ning data a ganap a alang panganib, kaya ali mi maseguradu ing ganap a seguridad.",
+      "Ding serbisyu mi para la kareng taung 18 anyos pataas. Ali mi pasadya a kukulektan ing personal a data ning anak."
+     ]
+    },
+    {
+     "t": "8. Ding pamagbalbal keng patakaran a ini",
+     "b": [
+      "Ing patakaran a ini mapalyu yang i-update king balang kapanaunan. Ing petsa ning huling update makit ya king bandang atas ning pahina. Nung mayatin diperensya king kahulugan ding amanu, ing bersyon a Indonesian ing susunuran."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Mapagkayabe at Kondisyon",
+   "description": "Ding tuntunan king pamanggamit ning site at serbisyu ning Nocoding: pakete, presyu, nung makananu gagawan ing gawa, intelektual a pagmamayari at ding limitasyon ning pananagutan.",
+   "sections": [
+    {
+     "t": "1. Pamamaluban kareng mapagkayabe",
+     "b": [
+      "King pamagbukas keng site a ini o pamanggamit kareng serbisyu ning Nocoding, mamalub ka kareng mapagkayabe at kondisyon a ini. Nung ali ka mamalub, pakiusap a ali mu gamitan ing site o serbisyu mi."
+     ]
+    },
+    {
+     "t": "2. Ding serbisyu",
+     "b": [
+      "Ing Nocoding gagawa yang website para king portfolio o CV, landing page at profile ning kumpanya, sistema ning impormasyon at operasyon, at automation ning proseso ning negosyu. Ing sakop ning gawa, ding feature, iskedyul at gastos pagkayabeyan keka king WhatsApp o email bayu mag-umpisa ing gawa.",
+      "Libri keng kapilan man ing konsultasyon, istung kailangan mu ya, at alang obligasyun mung mag-order."
+     ]
+    },
+    {
+     "t": "3. Ding pakete at presyu",
+     "b": [
+      "- Maliit a pakete: manibala king Rp 500,000 balang banua, kayabe ing libring maintenance at domain para king 1 banua.",
+      "- Malaki a pakete: manibala king Rp 2,000,000 balang banua, kayabe ing libring maintenance at hosting para king 1 banua.",
+      "Ding presyu keng site presyung pamagumpisa la. Ing urian a halaga pagkayabeyan kaibat ning konsultasyon, ayon kareng kailangan mu. Para kareng bisita king labas ning Indonesia, ipakit da ding presyu king lokal a pera bilang estimate ayon king aldo-aldo a exchange rate; ing halaga king rupiah a pigkayabean tamu ya ing mamalating. Ding dagdag a gastos, ala ning dagdag a feature o pamagpabayu kaibat mi ning libring panaun, sasabyan mi ka bayu gawan ing gawa."
+     ]
+    },
+    {
+     "t": "4. Nung makananu gagawan ing gawa at ding pananagutan mu",
+     "b": [
+      "Ing disenyu pakikitan at aprobaran kayabe ka bayu ing produksyon. Ding rebisyon gagawan ya ayon king pigkayabean.",
+      "Mananagutan ka king pamagbie ning material (logo, teksto, litrato, data) king tamang oras at king pamagkaroon ning karapatan a gamitan la. Ding pamagpatagal ning material o feedback mapalyu yang makapekto king iskedyul."
+     ]
+    },
+    {
+     "t": "5. Maintenance",
+     "b": [
+      "Ing libring maintenance para king 1 banua sakupan na ing pamagpasaliwa ning mali king gawa mi at ding batayan a update ning seguridad. Ding bayung feature, malaki a pamagbalbal ning disenyu at gawa king labas ning orihinal a kasunduan singilan la nung makabukud."
+     ]
+    },
+    {
+     "t": "6. Intelektual a pagmamayari",
+     "b": [
+      "Ding material a ibie mu keka na la namung kekayu. Ing gawa a mapupus ibie ya keka istung kumpletu na ing bayad a ayon king pigkayabean. Mapalyung ipakit ning Nocoding ding gawang buhay bilang halimbawa king portfolio na, malaksid nung hilingan mu king sulat a ali ipakit.",
+      "Ing disenyu, teksto at ding artikulo king nocoding.web.id kayabe la ning Nocoding. Mapalyu mung ibahagi ding link da, mu ali mung mapalyung kopyan at gamitan king komersyal a alang pamamaluban. Ding litrato ning artikulo manibala la king Unsplash at sumunud la king lisensya na; ing pikuanan ipakit king babo ning balang litrato."
+     ]
+    },
+    {
+     "t": "7. Ding amanu ning site",
+     "b": [
+      "Ing site a ini atin yang dakal a amanu. Ding salin, lalung lalu na kareng amanung makaditak la ding magsalita, mapalyung ali yang perpekto. Nung mayatin diperensya king kahulugan, ing bersyon a Indonesian ing susunuran. Ding pahinang legal a ini atin la king Indonesian at Ingles."
+     ]
+    },
+    {
+     "t": "8. Ding limitasyon ning pananagutan",
+     "b": [
+      "Magaganap kami para magbie ning mayap a resulta, mu ali kami mangaku ning espesipiku a resulta ning negosyu ala ning ranking king search, bilang ning bisita o benta. Ali kami mananagutan kareng gulo a manibala kareng katlung grupu ala ning provider ning hosting, domain o bayad, o kareng ali direktang pamangalugi.",
+      "Ing pananagutan mi para king metung a serbisyu limitado ya king halaga a binayad mu para king serbisyung ita, anggang king pasuk ning batas. Ini ali yang magpaliit kareng karapatan mu a protektadu ning batas."
+     ]
+    },
+    {
+     "t": "9. Ing batas a mamamuntuk",
+     "b": [
+      "Ding mapagkayabe a ini pamamuntukan da ding batas ning Republika ning Indonesia. Nung atin yang pagkasalungsungan, subukan mi mulang ayusan ya king pamagsalita. Nung alang pagkayabe, ing pagkasalungsungan ayusan ya ding husgadung may kapangyarihan king Indonesia."
+     ]
+    },
+    {
+     "t": "10. Pamagbalbal at kontak",
+     "b": [
+      "Ding mapagkayabe a ini mapalyu yang i-update king balang kapanaunan; ing petsa ning huling update makit ya king bandang atas ning pahina. Ding tanung mapalub a ipadala king nocodingindonesia@gmail.com o WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Patakaran king Cookie",
+   "description": "Ding cookie at lokal a storage a gagamitan ning site ning Nocoding, nung nanu la, at nung makananu da pamamayuan.",
+   "sections": [
+    {
+     "t": "1. Nanu ding cookie",
+     "b": [
+      "Ding cookie maliit la a file a isasave ning metung a site king browser mu. Ing local storage at session storage magsilbi la king pareho a paralan mu ali la awtomatikung ipadala king server. Keng pahina a ini, cookie ya ing tawag mi karela ngan."
+     ]
+    },
+    {
+     "t": "2. Nung nanu ing kailangan ning site para gumana",
+     "b": [
+      "Isave la king browser mu at ali la ipadala kareng server mi:",
+      "- nocoding-language at nocoding-language-set: ing amanung pinili mu o ing nakit manibala king browser mu.",
+      "- nocoding-pricing (sesyon): ing tantiyang pera at rate, para ali ya bilangan pasibayu ing presyu king balang pahina.",
+      "- Marka ning artikulo: nung nilike, nakit o ibahagi mu na ing metung a artikulo, para ali dumuang ding bilang.",
+      "- Temporaryung marka ning posisyon ning scroll istung lalakad ka karing bageng ning site."
+     ]
+    },
+    {
+     "t": "3. Analytics",
+     "b": [
+      "Istung peganaan, dalawang serbisyu ning analytics ing mag-load kaibat mu makiugnayan king pahina (scroll, tap o pindut ning key):",
+      "- Google Analytics 4 (cookie a ala ning _ga at _ga_*, valid anggang mga 2 banua): estadistika ning bisita.",
+      "- Microsoft Clarity (cookie a ala ning _clck, _clsk, CLID at MUID, valid anggang mga 1 banua): heatmap at rekording ning interaksyon a alang pangalan.",
+      "Ding provider ning CDN at seguridad mapalyu da ring mamagtakda ning teknikal a cookie para maprotektayan ya ing site king makasakit a trapiko."
+     ]
+    },
+    {
+     "t": "4. Nung makananu pamamayuan ding cookie",
+     "b": [
+      "Mapalyu mung bura o harangan ding cookie king setting ning browser mu. Mapalyu mu ring i-install ing opisyal a opt-out add-on ning Google para king Google Analytics. Nung hinarang ding cookie ning analytics, gagana pa ing site; nung linis ing local storage, bumalik ya ing pinili mung amanu king default."
+     ]
+    },
+    {
+     "t": "5. Ding tanung",
+     "b": [
+      "Para kareng tanung tungkul keng patakaran a ini, kontakan mu ing nocodingindonesia@gmail.com. Ing pamanggamit ning personal a data ilawaran ya pa king Patakaran king Privacy. Nung mayatin diperensya king kahulugan ding amanu, ing bersyon a Indonesian ing susunuran."
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Soňky täzelenme",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Gizlinlik syýasaty",
+   "description": "Nocoding haýsy maglumatlary ýygnaýar, olar näme üçin ulanylýar, kim tarapyndan işlenýär we şahsy maglumatlaryňyz babatda haýsy hukuklaryňyz bar.",
+   "sections": [
+    {
+     "t": "1. Biz kim",
+     "b": [
+      "Nocoding (nocoding.web.id) Indoneziýada Abid Hanan Wicaksono tarapyndan dolandyrylýan web sahypa, programma, maglumat ulgamy we awtomatlaşdyryş hyzmatydyr. Bu syýasat bu sahypa gireniňizde ýa-da biz bilen habarlaşanyňyzda şahsy maglumatlaryňyza nähili garaýandygymyzy düşündirýär.",
+      "Bu syýasat barada soraglary nocodingindonesia@gmail.com salgysyna ýa-da WhatsApp +62 853-2651-3324 belgisine iberip bilersiňiz."
+     ]
+    },
+    {
+     "t": "2. Biziň ýygnaýan maglumatlarymyz",
+     "b": [
+      "- Özüňiziň berýän maglumatlaryňyz: biz bilen WhatsApp ýa-da e-poçta arkaly habarlaşanyňyzda adyňyz, WhatsApp belgiňiz, e-poçta salgyňyz we taslama zerurlygyňyzyň beýany. Bu sahypada ulanyjy hasaplary ýa-da hasaba alyş formalary ýok.",
+      "- Awtomatiki işlenýän tehniki maglumatlar: IP salgy, enjamyň we brauzeriň görnüşi hem-de açylan sahypalar. Bu maglumatlary sahypany görkezmek we ony hyýanatçylykdan goramak üçin hosting we CDN üpjünçilerimiz işleýär.",
+      "- Takmynan ýurt: bahalaryň siziň walýutaňyzda görkezilmegi üçin ýurduňyz CDN maglumatyndan ýa-da brauzeriňiziň dil sazlamasyndan takmynan kesgitlenýär. Biz bu maglumaty serwerimizde saklamaýarys.",
+      "- Analitik maglumatlar: Google Analytics 4 we Microsoft Clarity (işjeň bolanda) açylan sahypalar, gezelenç wagty, enjam görnüşi we şahsyýetsiz özara täsir ýazgylary ýaly ulanyş statistikasyny ýygnaýar. Olar diňe siz sahypa bilen özara täsir edenden soň ýüklenýär.",
+      "- Brauzerde saklanýan maglumatlar: dil saýlawyňyz, makalany öň halanyňyzy, görenizi ýa-da paýlaşanyňyzy görkezýän belgiler we wagtlaýyn baha takmynlamasy. Jikme-jiklikler Kuki syýasatynda bar.",
+      "- Makalalaryň görlen, halanylan we paýlaşylan sanlary ziýaratçylaryň şahsyýetisiz, umumylaşdyrylan san hökmünde saklanýar."
+     ]
+    },
+    {
+     "t": "3. Maglumatlar näme üçin ulanylýar",
+     "b": [
+      "- Soraglaryňyzy jogaplamak, teklip taýýarlamak we taslamaňyzy ýerine ýetirmek.",
+      "- Sahypany görkezmek, goramak we çalt saklamak.",
+      "- Sahypanyň nähili ulanylýandygyny düşünmek, şeýlelikde ony kämilleşdirmek.",
+      "- Hukuk borçlaryny ýerine ýetirmek.",
+      "Biz şahsy maglumatlaryňyzy satmaýarys."
+     ]
+    },
+    {
+     "t": "4. Gatnaşýan üçünji taraplar",
+     "b": [
+      "- Vercel: sahypany hostlamak we görkezmek.",
+      "- Cloudflare: CDN we howpsuzlyk.",
+      "- Google (Google Analytics 4) we Microsoft (Clarity): sahypanyň ulanyş statistikasy.",
+      "- Meta (WhatsApp) we Google (Gmail): bu sahypadaky WhatsApp ýa-da e-poçta salgylary arkaly biz bilen habarlaşanyňyzda.",
+      "- Walýuta kursy üpjünçisi: diňe biziň serwerimizden kurs soraglaryny alýar, ziýaratçy maglumatlaryny däl.",
+      "Bu üpjünçiler maglumatlary Indoneziýanyň daşynda öz syýasatlaryna laýyklykda işläp bilerler."
+     ]
+    },
+    {
+     "t": "5. Maglumatlar näçe wagtlap saklanýar",
+     "b": [
+      "Gepleşikler we taslama materiallary hyzmaty ýerine ýetirmek, goldaw bermek we hukuk borçlaryny ýerine ýetirmek üçin zerur bolan wagtyna çenli saklanýar, soňra pozulýar ýa-da şahsyýetsizleşdirilýär. Analitik maglumatlar öz üpjünçisiniň saklama sazlamalaryna eýerýär. Brauzeriňizdäki maglumatlar siz ony pozýançaňyz galýar."
+     ]
+    },
+    {
+     "t": "6. Siziň hukuklaryňyz",
+     "b": [
+      "Indoneziýanyň Şahsy maglumatlary goramak baradaky 2022-nji ýylyň 27-nji belgili Kanunyna laýyklykda, siziň aşakdaky hukuklaryňyz bar:",
+      "- biz saklaýan şahsy maglumatlaryňyzy bilmek we olaryň nusgasyny almak;",
+      "- nädogry maglumatlaryň düzedilmegini haýyş etmek;",
+      "- maglumatlaryňyzyň pozulmagyny haýyş etmek ýa-da razylygyňyzy yzyna almak;",
+      "- käbir işlemlere garşy çykmak.",
+      "Haýyşyňyzy nocodingindonesia@gmail.com salgysyna iberiň. Biz oňa ýerlikli wagtyň içinde jogap bereris."
+     ]
+    },
+    {
+     "t": "7. Howpsuzlyk we çagalar",
+     "b": [
+      "Bu sahypa HTTPS ulanýar we taslama maglumatlaryna girmek çäklendirilendir. Maglumatlary ibermegiň ýa-da saklamagyň hiç bir usuly doly howpsuz däldir, şonuň üçin biz mutlak howpsuzlygy kepillendirip bilmeris.",
+      "Biziň hyzmatlarymyz 18 ýaşdaky we ondan ulular üçin niýetlenendir. Biz çagalaryň şahsy maglumatlaryny bilkastlaýyn ýygnamaýarys."
+     ]
+    },
+    {
+     "t": "8. Syýasatyň üýtgemegi",
+     "b": [
+      "Bu syýasat wagtal-wagtal täzelenip bilner. Soňky täzelenme senesi sahypanyň ýokarsynda görkezilýär. Diller arasynda many tapawudy bar bolsa, Indoneziýa dilindäki görnüşi güýje eýedir."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Şertler we düzgünler",
+   "description": "Nocoding sahypasyny we hyzmatlaryny ulanmagyň düzgünleri: paketler, bahalar, işiň ýerine ýetirilişi, intellektual eýeçilik we jogapkärçiligiň çäkleri.",
+   "sections": [
+    {
+     "t": "1. Şertleri kabul etmek",
+     "b": [
+      "Bu sahypany açmak ýa-da Nocoding hyzmatlaryndan peýdalanmak bilen siz şu şertler we düzgünler bilen ylalaşýarsyňyz. Eger ylalaşmaýan bolsaňyz, sahypamyzy we hyzmatlarymyzy ulanmaň."
+     ]
+    },
+    {
+     "t": "2. Hyzmatlar",
+     "b": [
+      "Nocoding portfolio ýa-da CV web sahypalaryny, landing page we kompaniýa profillerini, maglumat we amal ulgamlaryny hem-de biznes proseslerini awtomatlaşdyrmagy ýerine ýetirýär. Işiň göwrümi, aýratynlyklary, tertibi we bahasy iş başlanmazdan öň siz bilen WhatsApp ýa-da e-poçta arkaly ylalaşylýar.",
+      "Maslahat islendik wagt hemişe mugtdyr we sargyt etmäge borçly etmeýär."
+     ]
+    },
+    {
+     "t": "3. Paketler we bahalar",
+     "b": [
+      "- Kiçi paket: ýylda Rp 500.000 -dan başlap, 1 ýyl mugt tehniki hyzmat we domen goşulýar.",
+      "- Uly paket: ýylda Rp 2.000.000 -dan başlap, 1 ýyl mugt tehniki hyzmat we hosting goşulýar.",
+      "Sahypadaky bahalar başlangyç bahalardyr. Jemleýji mukdar maslahatdan soň, zerurlyklaryňyza görä ylalaşylýar. Indoneziýanyň daşyndaky ziýaratçylar üçin bahalar gündelik walýuta kursuna esaslanan takmynan baha hökmünde ýerli walýutada görkezilýär; ylalaşylan rupiýadaky mukdar güýje eýedir. Goşmaça aýratynlyklar ýa-da mugt döwür gutarandan soň uzaltmak ýaly goşmaça çykdajylar iş ýerine ýetirilmänkä size habar berilýär."
+     ]
+    },
+    {
+     "t": "4. Işiň ýerine ýetirilişi we siziň jogapkärçiligiňiz",
+     "b": [
+      "Dizaýn önümçilige geçmänkä siz bilen gözden geçirilýär we tassyklanylýar. Düzedişler ylalaşylyşy ýaly ýerine ýetirilýär.",
+      "Materiallary (logotip, tekst, suratlar, maglumatlar) wagtynda bermek we olary ulanmaga hukugyňyzyň bardygyny üpjün etmek siziň jogapkärçiligiňizdir. Materiallaryň ýa-da jogabyň gijikmegi tertibe täsir edip biler."
+     ]
+    },
+    {
+     "t": "5. Tehniki hyzmat",
+     "b": [
+      "1 ýyllyk mugt tehniki hyzmat biziň işimizdäki säwlikleri düzetmegi we esasy howpsuzlyk täzelenmelerini öz içine alýar. Täze aýratynlyklar, dizaýndaky uly üýtgeşmeler we başdaky ylalaşykdan daşary işler aýratyn tölenýär."
+     ]
+    },
+    {
+     "t": "6. Intellektual eýeçilik",
+     "b": [
+      "Siziň berýän materiallaryňyz size degişli bolmagynda galýar. Tamamlanan iş ylalaşylyşy ýaly töleg doly tölenenden soň size tabşyrylýar. Nocoding, siz ýazmaça görnüşde görkezilmezligini haýyş etmeseňiz, işleýän işlerini portfolioda mysal hökmünde görkezip biler.",
+      "nocoding.web.id sahypasyndaky dizaýn, tekstler we makalalar Nocoding-e degişlidir. Siz olaryň salgylaryny paýlaşyp bilersiňiz, ýöne rugsatsyz göçürip, täjirçilik maksatly ulanyp bilmersiňiz. Makalalardaky suratlar Unsplash-dan alnandyr we onuň lisenziýasyna eýerýär; çeşme her suratyň aşagynda görkezilýär."
+     ]
+    },
+    {
+     "t": "7. Sahypanyň dilleri",
+     "b": [
+      "Bu sahypa köp dilde elýeterlidir. Terjimeler, esasanam gepleýänleri az bolan diller üçin, kämil bolmazlygy mümkin. Many tapawudy bar bolsa, Indoneziýa dilindäki görnüşi güýje eýedir. Bu hukuk sahypalary Indoneziýa we iňlis dillerinde elýeterlidir."
+     ]
+    },
+    {
+     "t": "8. Jogapkärçiligiň çäkleri",
+     "b": [
+      "Biz gowy netije bermek üçin işleýäris, ýöne gözleg reýtingleri, ziýaratçy sany ýa-da satuw ýaly belli bir biznes netijelerini wada bermeýäris. Hosting, domen ýa-da töleg üpjünçileri ýaly üçünji taraplardan gelip çykýan bökdençlikler, şeýle hem gytaklaýyn ziýanlar üçin jogapkär däldiris.",
+      "Bir hyzmat üçin jogapkärçiligimiz kanunyň rugsat berýän derejesinde şol hyzmat üçin tölän mukdaryňyz bilen çäklendirilýär. Bu kanun bilen goralýan hukuklaryňyzy azaltmaýar."
+     ]
+    },
+    {
+     "t": "9. Ulanylýan hukuk",
+     "b": [
+      "Bu şertler Indoneziýa Respublikasynyň kanunlaryna tabyn. Jedel ýüze çyksa, ilki ony gepleşik arkaly çözmäge synanyşýarys. Ylalaşyga gelinmese, jedel Indoneziýadaky ygtyýarly kazyýetler tarapyndan çözülýär."
+     ]
+    },
+    {
+     "t": "10. Üýtgeşmeler we aragatnaşyk",
+     "b": [
+      "Bu şertler wagtal-wagtal täzelenip bilner; soňky täzelenme senesi sahypanyň ýokarsynda görkezilýär. Soraglary nocodingindonesia@gmail.com salgysyna ýa-da WhatsApp +62 853-2651-3324 belgisine iberip bilersiňiz."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Kuki syýasaty",
+   "description": "Nocoding sahypasynyň ulanýan kukileri we ýerli saklanyşy, olaryň näme üçindigi we olary nähili dolandyrmaly.",
+   "sections": [
+    {
+     "t": "1. Kukiler näme",
+     "b": [
+      "Kukiler sahypanyň brauzeriňizde saklaýan kiçi faýllarydyr. Ýerli saklanyş (local storage) we sessiýa saklanyşy (session storage) meňzeş işleýär, ýöne serwere awtomatiki ugradylmaýar. Bu sahypada olaryň hemmesine kuki diýýäris."
+     ]
+    },
+    {
+     "t": "2. Sahypanyň işlemegi üçin zerur zatlar",
+     "b": [
+      "Brauzeriňizde saklanýar we biziň serwerlerimize ugradylmaýar:",
+      "- nocoding-language we nocoding-language-set: saýlan ýa-da brauzeriňizden kesgitlenen diliňiz.",
+      "- nocoding-pricing (sessiýa): bahalar her sahypada täzeden hasaplanmazlygy üçin takmynan walýuta we kurs.",
+      "- Makala belgileri: makalany öň halanyňyzy, görenizi ýa-da paýlaşanyňyzy görkezýär, şeýlelikde sanlar goşa hasaplanmaýar.",
+      "- Sahypanyň bölümleri arasynda geçilende wagtlaýyn aýlanma ýagdaýynyň belgisi."
+     ]
+    },
+    {
+     "t": "3. Analitika",
+     "b": [
+      "Işjeň bolanda, iki analitik hyzmaty siz sahypa bilen özara täsir edenden soň (aýlananyňyzda, ýüzüne degenden ýa-da bir düwmä basanyňyzda) ýüklenýär:",
+      "- Google Analytics 4 (_ga we _ga_* ýaly kukiler, takmynan 2 ýyla çenli güýçde): gezelenç statistikasy.",
+      "- Microsoft Clarity (_clck, _clsk, CLID we MUID ýaly kukiler, takmynan 1 ýyla çenli güýçde): ýylylyk kartalary we şahsyýetsiz özara täsir ýazgylary.",
+      "CDN we howpsuzlyk üpjünçileri sahypany zyýanly traffikden goramak üçin tehniki kukileri hem goýup bilerler."
+     ]
+    },
+    {
+     "t": "4. Kukileri nähili dolandyrmaly",
+     "b": [
+      "Kukileri brauzeriňiziň sazlamalarynda pozup ýa-da petikläp bilersiňiz. Şeýle hem Google Analytics üçin Google-yň resmi ret ediş goşundysyny gurup bilersiňiz. Analitik kukiler petiklenen bolsa, sahypa işlemegini dowam etdirýär; ýerli saklanyş arassalanan bolsa, dil saýlawyňyz ilkibaşky sazlama gaýdyp gelýär."
+     ]
+    },
+    {
+     "t": "5. Soraglar",
+     "b": [
+      "Bu syýasat barada soraglar üçin nocodingindonesia@gmail.com salgysyna ýüz tutuň. Şahsy maglumatlaryň nähili ulanylýandygy Gizlinlik syýasatynda has jikme-jik düşündirilýär. Diller arasynda many tapawudy bar bolsa, Indoneziýa dilindäki görnüşi güýje eýedir."
+     ]
+    }
+   ]
+  }
+ }
+}

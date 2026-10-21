@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Oxirgi yangilanish",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Maxfiylik siyosati",
+   "description": "Nocoding qanday ma'lumotlarni yig'adi, ular nima uchun ishlatiladi, kim qayta ishlaydi va shaxsiy ma'lumotlaringiz bo'yicha qanday huquqlaringiz bor.",
+   "sections": [
+    {
+     "t": "1. Biz kimmiz",
+     "b": [
+      "Nocoding (nocoding.web.id) - Indoneziyada Abid Hanan Wicaksono tomonidan yuritiladigan veb-sayt, ilova, axborot tizimi va avtomatlashtirish xizmati. Ushbu siyosat siz saytga kirganingizda yoki biz bilan bog'langaningizda shaxsiy ma'lumotlaringizga qanday munosabatda bo'lishimizni tushuntiradi.",
+      "Ushbu siyosat haqidagi savollarni nocodingindonesia@gmail.com manziliga yoki WhatsApp +62 853-2651-3324 raqamiga yuborishingiz mumkin."
+     ]
+    },
+    {
+     "t": "2. Biz yig'adigan ma'lumotlar",
+     "b": [
+      "- O'zingiz bergan ma'lumotlar: biz bilan WhatsApp yoki elektron pochta orqali bog'langaningizda ismingiz, WhatsApp raqamingiz, elektron pochtangiz va loyihangiz haqidagi tavsif. Bu saytda foydalanuvchi hisoblari yoki ro'yxatdan o'tish shakllari yo'q.",
+      "- Avtomatik qayta ishlanadigan texnik ma'lumotlar: IP-manzil, qurilma va brauzer turi hamda ochilgan sahifalar. Ularni hosting va CDN provayderlarimiz saytni ko'rsatish va suiiste'moldan himoya qilish uchun qayta ishlaydi.",
+      "- Taxminiy mamlakat: narxlar sizning valyutangizda ko'rsatilishi uchun mamlakatingiz CDN ma'lumotlari yoki brauzer tilidan taxminan aniqlanadi. Biz uni o'z serverlarimizda saqlamaymiz.",
+      "- Tahlil ma'lumotlari: Google Analytics 4 va Microsoft Clarity (yoqilgan bo'lsa) ochilgan sahifalar, tashrif davomiyligi, qurilma turi va anonim o'zaro ta'sir yozuvlari kabi foydalanish statistikasini yig'adi. Ular faqat siz sahifa bilan o'zaro ta'sirga kirishganingizdan keyin yuklanadi.",
+      "- Brauzer xotirasi: til tanlovingiz, maqolani allaqachon yoqtirganingiz, ko'rganingiz yoki ulashganingizni bildiruvchi belgilar hamda vaqtinchalik narx taxmini. Tafsilotlar Cookie siyosatida keltirilgan.",
+      "- Maqolalarning ko'rilishlari, yoqtirishlari va ulashishlari soni tashrif buyuruvchi shaxsisiz, umumlashtirilgan raqamlar sifatida saqlanadi."
+     ]
+    },
+    {
+     "t": "3. Ma'lumotlar nima uchun ishlatiladi",
+     "b": [
+      "- Savollaringizga javob berish, taklif tayyorlash va loyihangizni bajarish.",
+      "- Saytni ko'rsatish, himoya qilish va tez ishlashini ta'minlash.",
+      "- Saytdan qanday foydalanilishini tushunish, shunda uni yaxshilay olamiz.",
+      "- Qonuniy majburiyatlarni bajarish.",
+      "Biz shaxsiy ma'lumotlaringizni sotmaymiz."
+     ]
+    },
+    {
+     "t": "4. Jalb qilingan uchinchi tomonlar",
+     "b": [
+      "- Vercel: saytni joylashtirish va taqdim etish.",
+      "- Cloudflare: CDN va xavfsizlik.",
+      "- Google (Google Analytics 4) va Microsoft (Clarity): saytdan foydalanish statistikasi.",
+      "- Meta (WhatsApp) va Google (Gmail): siz ushbu saytdagi WhatsApp yoki elektron pochta havolalari orqali biz bilan bog'langaningizda.",
+      "- Valyuta kursi provayderi: faqat serverimizdan kurs so'rovlarini oladi, tashrif buyuruvchilar ma'lumotlarini emas.",
+      "Bu provayderlar ma'lumotlarni o'z siyosatlariga muvofiq Indoneziyadan tashqarida ham qayta ishlashi mumkin."
+     ]
+    },
+    {
+     "t": "5. Ma'lumotlar qancha vaqt saqlanadi",
+     "b": [
+      "Yozishmalar va loyiha materiallari xizmatni yuritish, yordam ko'rsatish va qonuniy majburiyatlarni bajarish uchun zarur bo'lgan muddat davomida saqlanadi, so'ngra o'chiriladi yoki anonimlashtiriladi. Tahlil ma'lumotlari o'z provayderining saqlash sozlamalariga amal qiladi. Brauzeringizdagi ma'lumotlar siz o'chirmaguningizcha qoladi."
+     ]
+    },
+    {
+     "t": "6. Sizning huquqlaringiz",
+     "b": [
+      "Indoneziyaning 2022-yildagi 27-sonli Shaxsiy ma'lumotlarni himoya qilish to'g'risidagi qonuniga ko'ra, sizning quyidagi huquqlaringiz bor:",
+      "- bizda saqlanayotgan shaxsiy ma'lumotlaringizni bilish va ularning nusxasini olish;",
+      "- noto'g'ri ma'lumotlarning tuzatilishini so'rash;",
+      "- ma'lumotlaringizning o'chirilishini so'rash yoki rozilikni qaytarib olish;",
+      "- ayrim qayta ishlashlarga e'tiroz bildirish.",
+      "So'rovingizni nocodingindonesia@gmail.com manziliga yuboring. Biz o'rinli muddat ichida javob beramiz."
+     ]
+    },
+    {
+     "t": "7. Xavfsizlik va bolalar",
+     "b": [
+      "Ushbu sayt HTTPS dan foydalanadi va loyiha ma'lumotlariga kirish cheklangan. Ma'lumotlarni uzatish yoki saqlashning hech bir usuli butunlay xavfsiz emas, shuning uchun mutlaq xavfsizlikni kafolatlay olmaymiz.",
+      "Xizmatlarimiz 18 yosh va undan katta shaxslar uchun mo'ljallangan. Biz bolalarning shaxsiy ma'lumotlarini bila turib yig'maymiz."
+     ]
+    },
+    {
+     "t": "8. Ushbu siyosatdagi o'zgarishlar",
+     "b": [
+      "Ushbu siyosat vaqti-vaqti bilan yangilanishi mumkin. Oxirgi yangilanish sanasi sahifaning yuqori qismida ko'rsatilgan. Tillar o'rtasida ma'no farqi bo'lsa, indonez tilidagi variant amal qiladi."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Foydalanish shartlari",
+   "description": "Nocoding sayti va xizmatlaridan foydalanish qoidalari: paketlar, narxlar, ishning bajarilish tartibi, intellektual mulk va javobgarlik chegaralari.",
+   "sections": [
+    {
+     "t": "1. Shartlarni qabul qilish",
+     "b": [
+      "Ushbu saytni ochish yoki Nocoding xizmatlaridan foydalanish orqali siz ushbu foydalanish shartlariga rozilik bildirasiz. Agar rozi bo'lmasangiz, iltimos, saytimiz va xizmatlarimizdan foydalanmang."
+     ]
+    },
+    {
+     "t": "2. Xizmatlar",
+     "b": [
+      "Nocoding portfolio yoki rezyume saytlari, lending sahifalar va kompaniya profillari, axborot va operatsion tizimlar hamda biznes jarayonlarini avtomatlashtirishni yaratadi. Ish hajmi, imkoniyatlar, jadval va xarajat ish boshlanishidan oldin siz bilan WhatsApp yoki elektron pochta orqali kelishiladi.",
+      "Maslahat har doim bepul, qachon kerak bo'lsa, va sizni buyurtma berishga majburlamaydi."
+     ]
+    },
+    {
+     "t": "3. Paketlar va narxlar",
+     "b": [
+      "- Kichik paket: yiliga Rp 500 000 dan, 1 yillik bepul texnik xizmat ko'rsatish va domen bilan.",
+      "- Katta paket: yiliga Rp 2 000 000 dan, 1 yillik bepul texnik xizmat ko'rsatish va hosting bilan.",
+      "Saytdagi narxlar boshlang'ich narxlardir. Yakuniy summa maslahatdan keyin ehtiyojlaringizga qarab kelishiladi. Indoneziyadan tashqaridagi tashrif buyuruvchilar uchun narxlar kunlik almashuv kursi asosida taxminiy ravishda mahalliy valyutada ko'rsatiladi; kelishilgan rupiy summasi amal qiladi. Qo'shimcha xarajatlar, masalan, qo'shimcha imkoniyatlar yoki bepul davr tugagach muddatni uzaytirish, ish bajarilishidan oldin sizga aytiladi."
+     ]
+    },
+    {
+     "t": "4. Ishning bajarilish tartibi va sizning mas'uliyatingiz",
+     "b": [
+      "Dizayn ishlab chiqarishdan oldin siz bilan ko'rib chiqiladi va tasdiqlanadi. O'zgartirishlar kelishuvga muvofiq bajariladi.",
+      "Materiallarni (logotip, matn, suratlar, ma'lumotlar) o'z vaqtida taqdim etish va ulardan foydalanish huquqiga ega bo'lish sizning mas'uliyatingizdir. Materiallar yoki fikr-mulohazalarning kechikishi jadvalga ta'sir qilishi mumkin."
+     ]
+    },
+    {
+     "t": "5. Texnik xizmat ko'rsatish",
+     "b": [
+      "1 yillik bepul texnik xizmat ko'rsatish ishimizdagi xatolarni tuzatish va asosiy xavfsizlik yangilanishlarini o'z ichiga oladi. Yangi imkoniyatlar, dizayndagi katta o'zgarishlar va dastlabki kelishuvdan tashqari ishlar alohida to'lanadi."
+     ]
+    },
+    {
+     "t": "6. Intellektual mulk",
+     "b": [
+      "Siz taqdim etgan materiallar sizniki bo'lib qoladi. Tayyor ish kelishilgan to'lov to'liq amalga oshirilgach sizga topshiriladi. Nocoding, agar siz yozma ravishda ko'rsatmaslikni so'ramasangiz, ishga tushirilgan ishlarni portfoliosida namuna sifatida ko'rsatishi mumkin.",
+      "nocoding.web.id dagi dizayn, matnlar va maqolalar Nocoding ga tegishli. Siz ularning havolalarini ulashishingiz mumkin, lekin ruxsatsiz nusxalab, tijorat maqsadida ishlatishingiz mumkin emas. Maqola suratlari Unsplash dan olingan va uning litsenziyasiga bo'ysunadi; manba har bir surat ostida ko'rsatilgan."
+     ]
+    },
+    {
+     "t": "7. Sayt tillari",
+     "b": [
+      "Ushbu sayt ko'p tillarda mavjud. Tarjimalar, ayniqsa so'zlashuvchilari kamroq tillarda, mukammal bo'lmasligi mumkin. Ma'no jihatidan farq bo'lsa, indonez tilidagi variant amal qiladi. Ushbu huquqiy sahifalar indonez va ingliz tillarida mavjud."
+     ]
+    },
+    {
+     "t": "8. Javobgarlik chegaralari",
+     "b": [
+      "Biz yaxshi natijalar berishga harakat qilamiz, lekin qidiruv reytingi, tashrif buyuruvchilar soni yoki savdo kabi aniq biznes natijalarini va'da qilmaymiz. Biz hosting, domen yoki to'lov provayderlari kabi uchinchi tomonlardan kelib chiqqan uzilishlar yoki bilvosita zararlar uchun javobgar emasmiz.",
+      "Xizmat bo'yicha javobgarligimiz qonun ruxsat bergan darajada ushbu xizmat uchun siz to'lagan summa bilan cheklanadi. Bu qonun bilan himoyalangan huquqlaringizni kamaytirmaydi."
+     ]
+    },
+    {
+     "t": "9. Qo'llaniladigan qonun",
+     "b": [
+      "Ushbu shartlar Indoneziya Respublikasi qonunlariga bo'ysunadi. Nizo yuzaga kelsa, biz avval uni muhokama yo'li bilan hal qilishga harakat qilamiz. Kelishuvga erishilmasa, nizo Indoneziyadagi vakolatli sudlar tomonidan hal qilinadi."
+     ]
+    },
+    {
+     "t": "10. O'zgarishlar va aloqa",
+     "b": [
+      "Ushbu shartlar vaqti-vaqti bilan yangilanishi mumkin; oxirgi yangilanish sanasi sahifaning yuqori qismida ko'rsatilgan. Savollarni nocodingindonesia@gmail.com manziliga yoki WhatsApp +62 853-2651-3324 raqamiga yuborishingiz mumkin."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Cookie siyosati",
+   "description": "Nocoding sayti ishlatadigan cookie fayllari va mahalliy xotira, ular nima uchun kerakligi va ularni qanday boshqarish.",
+   "sections": [
+    {
+     "t": "1. Cookie nima",
+     "b": [
+      "Cookie fayllari - sayt brauzeringizda saqlaydigan kichik fayllar. Mahalliy xotira (local storage) va seans xotirasi (session storage) xuddi shunday ishlaydi, lekin serverga avtomatik yuborilmaydi. Ushbu sahifada biz ularning hammasini cookie deb ataymiz."
+     ]
+    },
+    {
+     "t": "2. Sayt ishlashi uchun nima kerak",
+     "b": [
+      "Brauzeringizda saqlanadi va serverlarimizga yuborilmaydi:",
+      "- nocoding-language va nocoding-language-set: siz tanlagan yoki brauzeringizdan aniqlangan til.",
+      "- nocoding-pricing (seans): taxminiy valyuta va kurs, shunda narxlar har bir sahifada qayta hisoblanmaydi.",
+      "- Maqola belgilari: maqolani allaqachon yoqtirganingiz, ko'rganingiz yoki ulashganingiz, shunda sanoqlar ikki baravar bo'lmaydi.",
+      "- Sayt qismlari orasida o'tishda sahifani aylantirish o'rnining vaqtinchalik belgisi."
+     ]
+    },
+    {
+     "t": "3. Tahlil",
+     "b": [
+      "Yoqilgan bo'lsa, siz sahifa bilan o'zaro ta'sirga kirishganingizdan keyin (aylantirsangiz, bossangiz yoki tugma bossangiz) ikkita tahlil xizmati yuklanadi:",
+      "- Google Analytics 4 (_ga va _ga_* kabi cookie fayllari, amal qilish muddati taxminan 2 yilgacha): tashrif statistikasi.",
+      "- Microsoft Clarity (_clck, _clsk, CLID va MUID kabi cookie fayllari, amal qilish muddati taxminan 1 yilgacha): issiqlik xaritalari va anonim o'zaro ta'sir yozuvlari.",
+      "CDN va xavfsizlik provayderlari saytni zararli trafikdan himoya qilish uchun texnik cookie fayllarini ham o'rnatishi mumkin."
+     ]
+    },
+    {
+     "t": "4. Cookie fayllarini qanday boshqarish",
+     "b": [
+      "Cookie fayllarini brauzer sozlamalarida o'chirishingiz yoki bloklashingiz mumkin. Shuningdek, Google Analytics uchun Google'ning rasmiy rad etish qo'shimchasini o'rnatishingiz mumkin. Agar tahlil cookie fayllari bloklansa, sayt baribir ishlaydi; agar mahalliy xotira tozalansa, til tanlovingiz standart holatga qaytadi."
+     ]
+    },
+    {
+     "t": "5. Savollar",
+     "b": [
+      "Ushbu siyosat haqidagi savollar uchun nocodingindonesia@gmail.com manziliga murojaat qiling. Shaxsiy ma'lumotlardan foydalanish Maxfiylik siyosatida batafsilroq tushuntirilgan. Tillar o'rtasida ma'no farqi bo'lsa, indonez tilidagi variant amal qiladi."
+     ]
+    }
+   ]
+  }
+ }
+}

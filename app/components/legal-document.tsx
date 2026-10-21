@@ -1,13 +1,76 @@
 "use client";
 
 import Link from "next/link";
-import type { ReactNode } from "react";
+import { useEffect, useSyncExternalStore, type ReactNode } from "react";
 import DocumentTitle from "./document-title";
 import { useLanguage } from "./i18n";
 import type { LegalDoc } from "./legal-content";
 import { LocalizedText } from "./localized-text";
 
-/** Renders a legal page: Indonesian when the site is in Indonesian, English for every other language. */
+// ---------- the legal pages in every language (static files, fetched when a language is chosen) ----------
+
+type LegalCopy = {
+  updatedLabel: string;
+  docs: Record<string, { name: string; description: string; sections: Array<{ t: string; b: string[] }> }>;
+};
+
+const copies: Record<string, LegalCopy> = {};
+const requested = new Set<string>();
+const listeners = new Set<() => void>();
+let version = 0;
+
+function subscribe(listener: () => void) {
+  listeners.add(listener);
+
+  return () => {
+    listeners.delete(listener);
+  };
+}
+
+function loadLegal(code: string) {
+  if (code === "id" || copies[code] || requested.has(code)) {
+    return;
+  }
+
+  requested.add(code);
+
+  fetch(`/i18n/legal-${code}.json`)
+    .then((response) => (response.ok ? (response.json() as Promise<LegalCopy>) : null))
+    .then((data) => {
+      if (data) {
+        copies[code] = data;
+        version += 1;
+        listeners.forEach((listener) => listener());
+      } else {
+        requested.delete(code);
+      }
+    })
+    .catch(() => requested.delete(code));
+}
+
+/** The translated legal pages for the visitor's language (English where missing); undefined in Indonesian. */
+function useLegalCopy(): LegalCopy | undefined {
+  const language = useLanguage();
+
+  useEffect(() => {
+    if (language !== "id") {
+      loadLegal(language);
+      loadLegal("en");
+    }
+  }, [language]);
+
+  useSyncExternalStore(
+    subscribe,
+    () => version,
+    () => 0,
+  );
+
+  return language === "id" ? undefined : (copies[language] ?? copies.en);
+}
+
+// ---------- the page ----------
+
+/** Paragraphs and "- " list items, justified like the articles. */
 function renderBody(lines: string[]) {
   const nodes: ReactNode[] = [];
   let items: string[] = [];
@@ -17,7 +80,9 @@ function renderBody(lines: string[]) {
       nodes.push(
         <ul key={`list-${nodes.length}`} className="mb-5 list-disc space-y-2 pl-6 leading-7 marker:text-brand-cyan">
           {items.map((item) => (
-            <li key={item}>{item}</li>
+            <li key={item} className="text-justify">
+              {item}
+            </li>
           ))}
         </ul>,
       );
@@ -31,7 +96,7 @@ function renderBody(lines: string[]) {
     } else {
       flush();
       nodes.push(
-        <p key={`p-${nodes.length}`} className="mb-5 leading-7">
+        <p key={`p-${nodes.length}`} className="mb-5 text-justify leading-7">
           {line}
         </p>,
       );
@@ -42,15 +107,27 @@ function renderBody(lines: string[]) {
   return nodes;
 }
 
+function formatDate(iso: string, language: string) {
+  try {
+    return new Intl.DateTimeFormat(language === "id" ? "id-ID" : language, { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" }).format(new Date(iso));
+  } catch {
+    return new Intl.DateTimeFormat("en", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" }).format(new Date(iso));
+  }
+}
+
 export default function LegalDocument({ doc }: { doc: LegalDoc }) {
   const language = useLanguage();
-  const text = language === "id" ? "id" : "en";
-  const updated = new Intl.DateTimeFormat(language === "id" ? "id-ID" : "en", {
-    day: "numeric",
-    month: "long",
-    year: "numeric",
-    timeZone: "UTC",
-  }).format(new Date(doc.updated));
+  const copy = useLegalCopy();
+
+  // Indonesian is the page as written; other languages use their file, English while it loads.
+  const translated = copy?.docs[doc.slug];
+  const name = language === "id" ? doc.name.id : (translated?.name ?? doc.name.en);
+  const description = language === "id" ? doc.description.id : (translated?.description ?? doc.description.en);
+  const sections =
+    language === "id"
+      ? doc.sections.map((section) => ({ t: section.title.id, b: section.body.id }))
+      : (translated?.sections ?? doc.sections.map((section) => ({ t: section.title.en, b: section.body.en })));
+  const updatedLabel = language === "id" ? "Terakhir diperbarui" : (copy?.updatedLabel ?? "Last updated");
 
   return (
     <main id="konten" className="min-h-screen">
@@ -66,27 +143,22 @@ export default function LegalDocument({ doc }: { doc: LegalDoc }) {
               </li>
               <li aria-hidden="true">/</li>
               <li aria-current="page" className="font-semibold text-brand-cyan">
-                {doc.name[text]}
+                {name}
               </li>
             </ol>
           </nav>
 
-          <h1 className="mt-6 text-3xl font-black leading-tight text-white sm:text-5xl">{doc.name[text]}</h1>
-          <p className="mt-4 text-lg leading-8 text-slate-300">{doc.description[text]}</p>
+          <h1 className="mt-6 text-3xl font-black leading-tight text-white sm:text-5xl">{name}</h1>
+          <p className="mt-4 text-justify text-lg leading-8 text-slate-300">{description}</p>
           <p className="mt-4 text-sm text-slate-400">
-            {text === "id" ? "Terakhir diperbarui" : "Last updated"}: <time dateTime={doc.updated}>{updated}</time>
+            {updatedLabel}: <time dateTime={doc.updated}>{formatDate(doc.updated, language)}</time>
           </p>
-          {language !== "id" && language !== "en" ? (
-            <p className="mt-4 rounded-xl border border-white/10 bg-white/[0.03] p-4 text-sm leading-6 text-slate-300">
-              This legal page is shown in English. If the languages differ in meaning, the Indonesian version applies.
-            </p>
-          ) : null}
 
           <div className="mt-10 text-slate-300">
-            {doc.sections.map((section) => (
-              <section key={section.title.id} className="mb-9">
-                <h2 className="mb-3 text-xl font-black leading-snug text-white sm:text-2xl">{section.title[text]}</h2>
-                {renderBody(section.body[text])}
+            {sections.map((section, index) => (
+              <section key={doc.sections[index]?.title.id ?? index} className="mb-9">
+                <h2 className="mb-3 text-xl font-black leading-snug text-white sm:text-2xl">{section.t}</h2>
+                {renderBody(section.b)}
               </section>
             ))}
           </div>

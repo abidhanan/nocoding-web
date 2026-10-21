@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Wotsɔ yeyee mlɔeba",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Nutoa Nyuiwɔɖiɖi",
+   "description": "Nyatakakawo Nocoding ƒoa ƒu, nusi ta wowɔa dɔ kplii, amesiwo wɔa dɔ kplii, kple wò gomenɔamesiwo le wò ɖokuitɔ nyatakakawo ŋu.",
+   "sections": [
+    {
+     "t": "1. Mía nye ame kawoe",
+     "b": [
+      "Nocoding (nocoding.web.id) nye webgbalẽ, dɔwɔnu, nyatakaka ɖoɖo kple dɔ si wowɔna ɖokui ɖi ƒe dɔɖoɖo si Abid Hanan Wicaksono kpɔa ŋu le Indonesia. Nyuiwɔɖiɖi sia ɖe alesi míedea asi wò ɖokuitɔ nyatakakawo ŋu ne èva sub webgbalẽ sia alo ne èkpɔ mí ɖo gbɔe.",
+      "Àteŋu aɖo biabia siwo ku ɖe nyuiwɔɖiɖi sia ŋu ɖe nocodingindonesia@gmail.com alo WhatsApp +62 853-2651-3324 dzi."
+     ]
+    },
+    {
+     "t": "2. Nyatakaka siwo míeƒoa ƒu",
+     "b": [
+      "- Nyatakaka siwo nètsɔna na mí: wò ŋkɔ, WhatsApp xexlẽme, email kple wò dɔ ƒe nuŋɔŋlɔ ne èkpɔ mí ɖo gbɔe to WhatsApp alo email dzi. Webgbalẽ sia mele zãla ƒe akaunt alo ŋkɔŋlɔfɔmawo o.",
+      "- Dɔwɔnu ƒe nyatakaka siwo wowɔa dɔ kplii ɖokui ɖe ɖokui: IP address, dɔwɔnu kple browser ƒe ɖeka, kple axa siwo èʋu. Míaƒe hosting kple CDN ƒe dɔwɔlawo wɔa dɔ kplii be woana webgbalẽ la nafia kple be woakpɔ eta tso nuwɔwɔ vɔ̃ ŋu.",
+      "- Dukɔ si wòdze abe wò dukɔ ene: be woaɖe asixɔxɔwo afia le wò gakpɔtɔ me, woɖoa wò dukɔ ɖe CDN ƒe nyatakaka alo wò browser ƒe gbe dzi. Míedoa eŋu ɖe míaƒe serverwo dzi o.",
+      "- Analytics ƒe nyatakaka: Google Analytics 4 kple Microsoft Clarity (ne wowɔ wo dɔ) ƒoa zazã ƒe xexlẽme ƒu abe axa siwo woʋu, ŋkeke si wòxɔ, dɔwɔnu ƒe ɖeka kple ɖokuisi ƒe nuwɔna ƒe ɖɔɖɔɖo. Wodoa ɖe edzi ke ne èwɔ nane kple axa la.",
+      "- Browser ƒe dedie: wò gbe ƒe nyonyo, dzesi siwo ɖe alesi èlɔ̃ ŋutinya aɖe xoxo, kpɔe alo ma eŋu, kple asixɔxɔ ƒe nuŋɔŋlɔ ɣeyiɣi kpui aɖe. Nuŋɔŋlɔ dometɔ le Cookie Nyuiwɔɖiɖi me.",
+      "- Ŋutinya ƒe kpɔkpɔ, lɔlɔ̃ kple mama ƒe xexlẽme wodea wo ɖe ƒu me, evɔ womeɖea ɖaseɖiɖi ƒe ame ɖe go o."
+     ]
+    },
+    {
+     "t": "3. Nusi ta wozãa nyatakakawo",
+     "b": [
+      "- Be míaɖo wò biabiawo ŋu, míadzra asixɔxɔ ɖo kple míawɔ wò dɔ.",
+      "- Be míana webgbalẽ la nafia, míakpɔ eta eye míana wòawɔ du.",
+      "- Be míase alesi wozãa webgbalẽ la gɔme ale be míawɔe nyuie wu.",
+      "- Be míawɔ se ƒe dɔdeasi siwo le mía dzi.",
+      "Míedzaa wò ɖokuitɔ nyatakakawo o."
+     ]
+    },
+    {
+     "t": "4. Ame bubu siwo le eme",
+     "b": [
+      "- Vercel: webgbalẽ la ƒe hosting kple nyanana.",
+      "- Cloudflare: CDN kple kpɔkpɔ.",
+      "- Google (Google Analytics 4) kple Microsoft (Clarity): webgbalẽ la ƒe zazã ƒe xexlẽme.",
+      "- Meta (WhatsApp) kple Google (Gmail): ne èkpɔ mí ɖo gbɔe to WhatsApp alo email ƒe lĩk siwo le webgbalẽ sia dzi.",
+      "- Gakpɔtɔ ƒe asixɔxɔ ƒe nunana: ekpɔa asixɔxɔ ƒe biabia ɖeɖe tso míaƒe server dzi ɖeɖe ko, menye sublawo ƒe nyatakakawo o.",
+      "Dɔwɔlawo sia ate ŋu awɔ dɔ kple nyatakakawo le Indonesia godo le woawo ŋutɔ ƒe nyuiwɔɖiɖiwo nu."
+     ]
+    },
+    {
+     "t": "5. Ɣeyiɣi didi si wodzea nyatakakawo ɖe go",
+     "b": [
+      "Nuƒoƒo kple dɔ ƒe nuwo wodzea wo ɖe go ɖe ɣeyiɣi si hiã be woawɔ dɔ la, ana kpekpeɖeŋu kple awɔ se ƒe dɔdeasiwo, emegbe woɖoa wo ɖa alo woƒoa wo ɖe go tsi be womaɖe ame ɖe go o. Analytics ƒe nyatakakawo dzea wo nɔnɔmetata nu ɖe ame si na wo ƒe dzidzɔ nu. Nyatakaka siwo le wò browser me nɔa afi ma va se ɖe esime nàɖoe ɖa."
+     ]
+    },
+    {
+     "t": "6. Wò gomenɔamesiwo",
+     "b": [
+      "Le Indonesia ƒe Se Nɔmba 27 si wowɔ le ƒe 2022 me tso Ɖokuitɔ Nyatakaka Ŋu Kpɔkpɔ ŋu nu la, wò gomenɔame le be:",
+      "- nànya eye nàxɔ ɖɔɖɔɖo ɖe ɖokuitɔ nyatakaka siwo le mía si tso ŋuwò;",
+      "- nàbia be woɖɔ nyatakaka siwo mele eteƒe o;",
+      "- nàbia be woaɖe wò nyatakakawo ɖa alo nàɖe wò ɖoɖo ɖa;",
+      "- nàtsi tre ɖe dɔwɔwɔ aɖewo ŋu.",
+      "Ɖo wò biabia ɖe nocodingindonesia@gmail.com. Míaɖo eŋu le ɣeyiɣi si nyo me."
+     ]
+    },
+    {
+     "t": "7. Kpɔkpɔ kple Vi sue wo",
+     "b": [
+      "Webgbalẽ sia zãa HTTPS eye woɖe mɔ ɖe dɔ ƒe nyatakakawo dzi. Mɔ aɖeke meli si me vɔ̃ aɖeke mele o be woaɖo nyatakakawo ɖa alo woadzra wo ɖe go o, eyata míate ŋu ana kpɔkpɔ blibo ƒe kakaɖedzi o.",
+      "Míaƒe dɔwɔwɔwo le ame siwo xɔ ƒe 18 kple edzi tɔ. Míeƒoa vi sue wo ƒe ɖokuitɔ nyatakakawo ƒu le nyae me o."
+     ]
+    },
+    {
+     "t": "8. Nyuiwɔɖiɖi sia ƒe tɔtrɔwo",
+     "b": [
+      "Ate ŋu wɔ yeye le nyuiwɔɖiɖi sia ŋu zi geɖe. Ŋkeke si woɖo mlɔeba la le axa ƒe tame. Ne gbewo ƒe gɔmesese to vovo la, Indonesia gbe ƒe ɖeka la gɔ̃ ɖe dzi."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Nuɖɔɖɔ kple Nuɖoɖowo",
+   "description": "Se siwo wozãa le Nocoding ƒe webgbalẽ kple dɔwɔwɔwo me: pakɛtiwo, asixɔxɔwo, alesi woawɔ dɔ la, tamesusu ƒe nunɔamesiwo kple akɔntabubu ƒe liƒowo.",
+   "sections": [
+    {
+     "t": "1. Nuɖɔɖɔ sia xɔxɔ",
+     "b": [
+      "Ne èʋu webgbalẽ sia alo ne èzã Nocoding ƒe dɔwɔwɔwo la, èɖoa nuɖɔɖɔ kple nuɖoɖo siawo ɖe dzi. Ne mèɖo ɖe dzi o la, taflatse mègazã míaƒe webgbalẽ alo dɔwɔwɔwo o."
+     ]
+    },
+    {
+     "t": "2. Dɔwɔwɔwo",
+     "b": [
+      "Nocoding tua portfolio alo CV webgbalẽwo, landing axawo kple fiasã ƒe nuŋɔŋlɔwo, nyatakaka kple dɔwɔwɔ ƒe ɖoɖowo, kple dɔwɔwɔ ƒe nuwɔwɔ ɖokui ɖe ɖokui. Dɔ la ƒe gɔmedzedze, nu siwo wòwɔna, ɣeyiɣi kple asi ƒe xexlẽme woɖoa wo kple wò to WhatsApp alo email dzi do ŋgɔ na dɔ la dzedze gɔme.",
+      "Aɖaŋuɖoɖo nye nusi wona dɔme ɣesiaɣi, ɣeyiɣi sia ɣeyiɣi si hiã, eye mehiã be nàɖo nane o."
+     ]
+    },
+    {
+     "t": "3. Pakɛtiwo kple asixɔxɔwo",
+     "b": [
+      "- Pakɛti sue: tso Rp 500.000 ɖe ƒe ɖeka me, si me dɔ ƒe dzɔdzɔ me kple domain ƒe ƒe 1 le dɔmedzoe me.",
+      "- Pakɛti gã: tso Rp 2.000.000 ɖe ƒe ɖeka me, si me dɔ ƒe dzɔdzɔ me kple hosting ƒe ƒe 1 le dɔmedzoe me.",
+      "Asixɔxɔ siwo le webgbalẽ la dzi nye gɔmedzedze ƒe asixɔxɔwo. Wotsɔ asi ƒe xexlẽme mlɔeba ɖoa mɔ ɖe aɖaŋuɖoɖo megbe, le wò nuhiahiãwo nu. Na sublawo siwo le Indonesia godo la, wofiaa asixɔxɔwo le dukɔ ma ƒe gakpɔtɔ me abe ɖɔɖɔɖo ene si ɖo ŋkeke sia ŋkeke ƒe gakpɔtɔ ƒe asixɔxɔ ŋu; asi ƒe xexlẽme le rupiah me si míeɖo kple wò la wɔa dɔ. Asi ƒe nuwo ɖe edzi abe nuwɔna ɖe edzi alo yeyedzedze ne ɣeyiɣi si woɖe asi le la wu megbe la, míeka ɖe ŋuwò do ŋgɔ na dɔ la wɔwɔ."
+     ]
+    },
+    {
+     "t": "4. Alesi woawɔ dɔ la kple wò dɔdeasiwo",
+     "b": [
+      "Wokpɔa nɔnɔme la eye woɖoa eɖe dzi kple wò do ŋgɔ na dɔwɔwɔ. Wowɔa ɖɔɖɔɖowo abe alesi woɖo ene.",
+      "Ènye ame si ƒe dɔdeasi nye be nàtsɔ nu siwo hiã (logo, nuŋɔŋlɔ, foto, nyatakakawo) ɖe ɣeyiɣi nu eye nàkpɔ egbɔ be mɔ le asiwò be nàzãe. Nuhiã siwo ɖe megbe alo nuŋɔŋlɔ ƒe ŋuɖoɖo ate ŋu aʋã ɣeyiɣi ɖoɖo la."
+     ]
+    },
+    {
+     "t": "5. Dzɔdzɔme",
+     "b": [
+      "Dzɔdzɔme le dɔmedzoe me ɖe ƒe 1 me ɖea vodada siwo le míaƒe dɔ me ɖa kple kpɔkpɔ ƒe yeyewɔwɔ vevitɔwo. Nuwɔna yeyewo, dzesi ƒe tɔtrɔ gãwo kple dɔ siwo mele ɖoɖo gbãtɔ me o la, woƒoa asi ɖe wo ŋu ɖe ɖokui."
+     ]
+    },
+    {
+     "t": "6. Tamesusu ƒe nunɔamesiwo",
+     "b": [
+      "Nu siwo nètsɔ nawo nye tɔwò. Wotsɔa dɔ si wowu la na wò ne woƒe asi ƒe xexlẽme abe alesi woɖo ene la blibo. Nocoding ate ŋu afia dɔ gbagbewo abe kpɔɖeŋuwo le eƒe portfolio me, negbe ne èbia le nuŋɔŋlɔ me be woagafia o.",
+      "Nɔnɔme, nuŋɔŋlɔ kple ŋutinyawo le nocoding.web.id nye Nocoding tɔ. Àteŋu ama lĩk siwo ku ɖe wo ŋu, gake mèteŋu ale wo ɖe asi be nàzãe le asitsatsa me ɖe mɔ manɔmee o. Ŋutinya ƒe fotowo tso Unsplash eye wowɔ ɖe eƒe mɔɖegbalẽ nu; wotsɔ nu ƒe dzɔtsoe ɖe afi sia afi le foto sia foto te."
+     ]
+    },
+    {
+     "t": "7. Webgbalẽ ƒe gbewo",
+     "b": [
+      "Webgbalẽ sia le gbe geɖe me. Gɔmeɖeɖewo, vevietɔ na gbe siwo ƒe dumevi mesɔ gbɔ o la, ate ŋu anɔ blibo o. Ne gɔmesese to vovo la, Indonesia gbe ƒe ɖeka la gɔ̃ ɖe dzi. Se ƒe axa siawo le Indonesia kple Eŋlisigbe me."
+     ]
+    },
+    {
+     "t": "8. Akɔntabubu ƒe liƒowo",
+     "b": [
+      "Míewɔa dɔ be míahe nuwo vɛ nyuie, gake míeɖoa ŋugbe be dɔ ƒe nuwo ana asitsatsa nanyo abe afi si wòdze le dɔ ƒe dzidzɔ me, sublawo ƒe xexlẽme alo asitsatsa o. Míenye agbanɔla na nuwo siwo ame bubuwo abe hosting, domain alo ga ɖeɖe ƒe dɔwɔlawo wɔ o, alo na dzɔdzɔ siwo mele kpɔkpɔ me o.",
+      "Míaƒe akɔntabubu na dɔwɔwɔ aɖe le liƒo ɖe ga si nètsɔ na dɔ ma ko me, abe alesi se la ɖe mɔ ene. Esia mebuna gomenɔamesi siwo se la kpɔa wò ta ŋu o."
+     ]
+    },
+    {
+     "t": "9. Se si wozãna",
+     "b": [
+      "Indonesia Dukɔ ƒe sewo ɖoa nuɖɔɖɔ siawo. Ne dzre dzɔ la, míedea nu me gbã to nuƒoƒo me. Ne nuɖoɖo mekpɔ mɔ o la, Indonesia ƒe ʋɔnudrɔ̃ƒewo si le ŋusẽ la ɖoa dzre la nu."
+     ]
+    },
+    {
+     "t": "10. Tɔtrɔwo kple kpɔkpɔ ɖe ame ŋu",
+     "b": [
+      "Ate ŋu wɔ yeye le nuɖɔɖɔ siawo ŋu zi geɖe; ŋkeke si woɖo mlɔeba la le axa ƒe tame. Àteŋu aɖo biabiawo ɖe nocodingindonesia@gmail.com alo WhatsApp +62 853-2651-3324 dzi."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Cookie Nyuiwɔɖiɖi",
+   "description": "Cookie kple local storage siwo Nocoding ƒe webgbalẽ zãa, nusi ta wozãa wo, kple alesi nàkpɔ wo ŋu.",
+   "sections": [
+    {
+     "t": "1. Cookie nye nu kae",
+     "b": [
+      "Cookie nye agbalẽ suewo si webgbalẽ doa ɖe wò browser me. Local storage kple session storage wɔa dɔ le mɔ ɖeka nu gake womedɔa wo ɖe server dzi ɖokui ɖe ɖokui o. Le axa sia dzi la, míeyɔa wo katã be cookie."
+     ]
+    },
+    {
+     "t": "2. Nusi webgbalẽ la hiã be wòawɔ dɔ",
+     "b": [
+      "Wodoa wo ɖe wò browser me eye womedɔa wo ɖe míaƒe serverwo dzi o:",
+      "- nocoding-language kple nocoding-language-set: gbe si nèɖe alo si wokpɔ le wò browser me.",
+      "- nocoding-pricing (session): gakpɔtɔ kple asixɔxɔ ƒe ɖɔɖɔɖo, be womagatsɔ asixɔxɔwo axlẽ zi geɖe le axa sia axa dzi o.",
+      "- Ŋutinya ƒe dzesiwo: ɖe èlɔ̃ ŋutinya aɖe xoxo, kpɔe alo ma eŋu, be womawɔ xexlẽme la zi evee o.",
+      "- Dzesi ɣeyiɣi kpui si ɖea afi si èdze le axa dzi afia ne èʋu tso webgbalẽ la ƒe akpa ɖeka dzi yia bubu me."
+     ]
+    },
+    {
+     "t": "3. Analytics",
+     "b": [
+      "Ne wowɔ wo dɔ la, analytics ƒe dɔwɔwɔ eve doa ɖe edzi ne èwɔ nane kple axa la (ʋu ɖe tame, ka eŋu alo ƒo ɖe bligbe dzi):",
+      "- Google Analytics 4 (cookie siwo abe _ga kple _ga_* ene, siwo nɔa te va ɖo ƒe 2 ɖeka sɔ gbɔ): sublawo ƒe xexlẽme.",
+      "- Microsoft Clarity (cookie siwo abe _clck, _clsk, CLID kple MUID ene, siwo nɔa te va ɖo ƒe 1 ɖeka sɔ gbɔ): ɖeka ƒe kpɔɖeŋuwo kple ɖokuisi ƒe nuwɔna ƒe ɖɔɖɔɖo.",
+      "CDN kple kpɔkpɔ ƒe dɔwɔlawo hã ate ŋu aɖo dɔwɔnu ƒe cookiewo be woakpɔ webgbalẽ la ta tso zɔzɔ vɔ̃wo gbɔ."
+     ]
+    },
+    {
+     "t": "4. Alesi nàkpɔ cookiewo ŋu",
+     "b": [
+      "Àteŋu aɖe cookiewo ɖa alo ate wo le wò browser ƒe ɖoɖowo me. Àteŋu atsɔ Google ƒe mɔɖegbalẽ si wòwɔ be woaɖe asi le Google Analytics ŋu hã. Ne wote analytics ƒe cookiewo la, webgbalẽ la ganɔa dɔ wɔm; ne wokɔ local storage ɖa la, wò gbe ƒe nyonyo trɔna yia nusi nɔ anyi tsã."
+     ]
+    },
+    {
+     "t": "5. Biabiawo",
+     "b": [
+      "Na biabia siwo ku ɖe nyuiwɔɖiɖi sia ŋu la, ɖo nya ɖe nocodingindonesia@gmail.com. Alesi woazã ɖokuitɔ nyatakakawo la, wotsɔ ɖe eme le Nutoa Nyuiwɔɖiɖi me. Ne gbewo ƒe gɔmesese to vovo la, Indonesia gbe ƒe ɖeka la gɔ̃ ɖe dzi."
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Darrera actualització",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Política de privadesa",
+   "description": "Quines dades recull Nocoding, per a què s'utilitzen, qui les tracta i quins drets teniu sobre les vostres dades personals.",
+   "sections": [
+    {
+     "t": "1. Qui som",
+     "b": [
+      "Nocoding (nocoding.web.id) és un servei de llocs web, aplicacions, sistemes d'informació i automatització gestionat per Abid Hanan Wicaksono a Indonèsia. Aquesta política explica com tractem les vostres dades personals quan visiteu aquest lloc o ens contacteu.",
+      "Podeu enviar les preguntes sobre aquesta política a nocodingindonesia@gmail.com o per WhatsApp al +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Dades que recollim",
+     "b": [
+      "- Dades que ens proporcioneu: el vostre nom, número de WhatsApp, correu electrònic i una descripció del vostre projecte quan ens contacteu per WhatsApp o per correu electrònic. Aquest lloc no té comptes d'usuari ni formularis de registre.",
+      "- Dades tècniques tractades automàticament: adreça IP, tipus de dispositiu i de navegador, i les pàgines que obriu. Els nostres proveïdors d'allotjament i de CDN les tracten per servir el lloc i protegir-lo contra abusos.",
+      "- País aproximat: perquè els preus es puguin mostrar en la vostra moneda, el vostre país s'estima a partir de la informació de la CDN o de l'idioma del navegador. No l'emmagatzemem als nostres servidors.",
+      "- Dades d'analítica: Google Analytics 4 i Microsoft Clarity (quan estan activats) recullen estadístiques d'ús, com ara les pàgines obertes, la durada de la visita, el tipus de dispositiu i enregistraments anònims d'interacció. Només es carreguen després que interaccioneu amb la pàgina.",
+      "- Emmagatzematge del navegador: l'idioma que heu triat, marques que indiquen que ja heu valorat, vist o compartit un article, i una estimació temporal de preus. Els detalls són a la Política de cookies.",
+      "- Els recomptes de visualitzacions, m'agrades i comparticions dels articles es guarden com a xifres agregades, sense la identitat dels visitants."
+     ]
+    },
+    {
+     "t": "3. Per a què s'utilitzen les dades",
+     "b": [
+      "- Respondre les vostres preguntes, preparar pressupostos i dur a terme el vostre projecte.",
+      "- Servir i protegir el lloc i mantenir-lo ràpid.",
+      "- Entendre com s'utilitza el lloc per poder-lo millorar.",
+      "- Complir les obligacions legals.",
+      "No venem les vostres dades personals."
+     ]
+    },
+    {
+     "t": "4. Tercers implicats",
+     "b": [
+      "- Vercel: allotjament i servei del lloc.",
+      "- Cloudflare: CDN i seguretat.",
+      "- Google (Google Analytics 4) i Microsoft (Clarity): estadístiques d'ús del lloc.",
+      "- Meta (WhatsApp) i Google (Gmail): quan ens contacteu mitjançant els enllaços de WhatsApp o de correu electrònic d'aquest lloc.",
+      "- Proveïdor de tipus de canvi: només rep sol·licituds de tipus de canvi del nostre servidor, no dades dels visitants.",
+      "Aquests proveïdors poden tractar dades fora d'Indonèsia segons les seves pròpies polítiques."
+     ]
+    },
+    {
+     "t": "5. Quant de temps es conserven les dades",
+     "b": [
+      "Les converses i els materials dels projectes es conserven durant el temps necessari per prestar el servei, donar suport i complir les obligacions legals, i després se suprimeixen o s'anonimitzen. Les dades d'analítica segueixen la configuració de conservació del seu proveïdor. Les dades del vostre navegador hi romanen fins que les elimineu."
+     ]
+    },
+    {
+     "t": "6. Els vostres drets",
+     "b": [
+      "D'acord amb la Llei núm. 27 de 2022 de protecció de dades personals d'Indonèsia, teniu dret a:",
+      "- conèixer i obtenir una còpia de les dades personals que tenim sobre vosaltres;",
+      "- demanar que es corregeixin les dades incorrectes;",
+      "- demanar que se suprimeixin les vostres dades o retirar el vostre consentiment;",
+      "- oposar-vos a determinats tractaments.",
+      "Envieu la vostra sol·licitud a nocodingindonesia@gmail.com. Respondrem en un termini raonable."
+     ]
+    },
+    {
+     "t": "7. Seguretat i menors",
+     "b": [
+      "Aquest lloc utilitza HTTPS i l'accés a les dades dels projectes és restringit. Cap mètode de transmissió o emmagatzematge de dades està completament exempt de riscos, per la qual cosa no podem garantir una seguretat absoluta.",
+      "Els nostres serveis estan pensats per a persones de 18 anys o més. No recollim conscientment dades personals de menors."
+     ]
+    },
+    {
+     "t": "8. Canvis en aquesta política",
+     "b": [
+      "Aquesta política es pot actualitzar de tant en tant. La data de l'última actualització es mostra a la part superior de la pàgina. Si els idiomes difereixen en el significat, preval la versió en indonesi."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Termes i condicions",
+   "description": "Les normes per utilitzar el lloc i els serveis de Nocoding: paquets, preus, com es fa la feina, propietat intel·lectual i límits de responsabilitat.",
+   "sections": [
+    {
+     "t": "1. Acceptació d'aquests termes",
+     "b": [
+      "En obrir aquest lloc o utilitzar els serveis de Nocoding, accepteu aquests termes i condicions. Si no hi esteu d'acord, no utilitzeu el nostre lloc ni els nostres serveis."
+     ]
+    },
+    {
+     "t": "2. Els serveis",
+     "b": [
+      "Nocoding crea llocs web de portafoli o de currículum, pàgines d'aterratge i perfils d'empresa, sistemes d'informació i d'operacions, i automatització de processos de negoci. L'abast de la feina, les funcionalitats, el calendari i el cost s'acorden amb vosaltres per WhatsApp o per correu electrònic abans de començar.",
+      "La consulta sempre és gratuïta, sempre que la necessiteu, i no us obliga a fer cap encàrrec."
+     ]
+    },
+    {
+     "t": "3. Paquets i preus",
+     "b": [
+      "- Paquet petit: a partir de Rp 500.000 l'any, amb manteniment gratuït i un domini durant 1 any.",
+      "- Paquet gran: a partir de Rp 2.000.000 l'any, amb manteniment gratuït i allotjament durant 1 any.",
+      "Els preus del lloc són preus inicials. L'import final s'acorda després d'una consulta, segons les vostres necessitats. Per als visitants de fora d'Indonèsia, els preus es mostren en la moneda local com a estimació basada en el tipus de canvi diari; l'import en rupies que acordem és el que s'aplica. Els costos addicionals, com ara funcionalitats suplementàries o la renovació un cop acabat el període gratuït, us ho comuniquem abans de fer la feina."
+     ]
+    },
+    {
+     "t": "4. Com es fa la feina i les vostres responsabilitats",
+     "b": [
+      "El disseny es revisa i s'aprova amb vosaltres abans de la producció. Les revisions es fan segons l'acordat.",
+      "Sou responsables de facilitar els materials (logotip, text, fotos, dades) a temps i de tenir dret a utilitzar-los. Els retards en els materials o en els comentaris poden afectar el calendari."
+     ]
+    },
+    {
+     "t": "5. Manteniment",
+     "b": [
+      "El manteniment gratuït d'1 any inclou la correcció d'errors en la nostra feina i les actualitzacions bàsiques de seguretat. Les noves funcionalitats, els canvis de disseny importants i la feina fora de l'acord original es cobren a part."
+     ]
+    },
+    {
+     "t": "6. Propietat intel·lectual",
+     "b": [
+      "Els materials que proporcioneu continuen sent vostres. L'obra acabada us és lliurada un cop completat el pagament acordat. Nocoding pot mostrar les obres en funcionament com a exemples en el seu portafoli, tret que demaneu per escrit que no es mostrin.",
+      "El disseny, els textos i els articles de nocoding.web.id pertanyen a Nocoding. Podeu compartir-ne els enllaços, però no els podeu copiar ni utilitzar amb finalitats comercials sense permís. Les fotos dels articles provenen d'Unsplash i segueixen la seva llicència; la font s'indica sota cada foto."
+     ]
+    },
+    {
+     "t": "7. Idiomes del lloc",
+     "b": [
+      "Aquest lloc està disponible en molts idiomes. Les traduccions, especialment les dels idiomes amb menys parlants, poden no ser perfectes. Si difereixen en el significat, preval la versió en indonesi. Aquestes pàgines legals estan disponibles en indonesi i en anglès."
+     ]
+    },
+    {
+     "t": "8. Límits de responsabilitat",
+     "b": [
+      "Treballem per aconseguir bons resultats, però no prometem resultats empresarials concrets, com ara posicions als cercadors, nombre de visitants o vendes. No ens fem responsables de les interrupcions causades per tercers, com ara proveïdors d'allotjament, de dominis o de pagaments, ni de les pèrdues indirectes.",
+      "La nostra responsabilitat per un servei es limita a l'import que hàgiu pagat per aquest servei, en la mesura que la llei ho permeti. Això no redueix els drets que teniu protegits per la llei."
+     ]
+    },
+    {
+     "t": "9. Llei aplicable",
+     "b": [
+      "Aquests termes es regeixen per les lleis de la República d'Indonèsia. Si sorgeix una disputa, primer intentem resoldre-la mitjançant el diàleg. Si no s'arriba a un acord, la disputa es resol davant els tribunals competents d'Indonèsia."
+     ]
+    },
+    {
+     "t": "10. Canvis i contacte",
+     "b": [
+      "Aquests termes es poden actualitzar de tant en tant; la data de l'última actualització es mostra a la part superior de la pàgina. Podeu enviar les preguntes a nocodingindonesia@gmail.com o per WhatsApp al +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Política de cookies",
+   "description": "Les cookies i l'emmagatzematge local que utilitza el lloc de Nocoding, per a què serveixen i com gestionar-los.",
+   "sections": [
+    {
+     "t": "1. Què són les cookies",
+     "b": [
+      "Les cookies són petits fitxers que un lloc web desa al vostre navegador. L'emmagatzematge local i l'emmagatzematge de sessió funcionen de manera semblant, però no s'envien automàticament a cap servidor. En aquesta pàgina els anomenem tots cookies."
+     ]
+    },
+    {
+     "t": "2. El que el lloc necessita per funcionar",
+     "b": [
+      "Es desen al vostre navegador i no s'envien als nostres servidors:",
+      "- nocoding-language i nocoding-language-set: l'idioma que heu triat o que s'ha detectat a partir del vostre navegador.",
+      "- nocoding-pricing (sessió): la moneda i el tipus de canvi estimats, perquè els preus no es tornin a calcular a cada pàgina.",
+      "- Marques d'articles: si ja heu valorat, vist o compartit un article, perquè els recomptes no es dupliquin.",
+      "- Una marca temporal de la posició de desplaçament en moure's entre parts del lloc."
+     ]
+    },
+    {
+     "t": "3. Analítica",
+     "b": [
+      "Quan estan activats, dos serveis d'analítica es carreguen després que interaccioneu amb la pàgina (desplaçament, toc o pulsació d'una tecla):",
+      "- Google Analytics 4 (cookies com _ga i _ga_*, vàlides fins a aproximadament 2 anys): estadístiques de visites.",
+      "- Microsoft Clarity (cookies com _clck, _clsk, CLID i MUID, vàlides fins a aproximadament 1 any): mapes de calor i enregistraments anònims d'interacció.",
+      "Els proveïdors de CDN i de seguretat també poden establir cookies tècniques per protegir el lloc del trànsit nociu."
+     ]
+    },
+    {
+     "t": "4. Com gestionar les cookies",
+     "b": [
+      "Podeu eliminar o bloquejar les cookies a la configuració del navegador. També podeu instal·lar el complement oficial de Google per desactivar Google Analytics. Si es bloquegen les cookies d'analítica, el lloc continua funcionant; si s'esborra l'emmagatzematge local, l'idioma triat torna al valor per defecte."
+     ]
+    },
+    {
+     "t": "5. Preguntes",
+     "b": [
+      "Per a preguntes sobre aquesta política, contacteu amb nocodingindonesia@gmail.com. A la Política de privadesa s'explica amb més detall com s'utilitzen les dades personals. Si els idiomes difereixen en el significat, preval la versió en indonesi."
+     ]
+    }
+   ]
+  }
+ }
+}

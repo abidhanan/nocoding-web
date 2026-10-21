@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Imġedded l-aħħar",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Politika tal-Privatezza",
+   "description": "Liema dejta Nocoding tiġbor, għal xiex tintuża, min jipproċessaha, u d-drittijiet tiegħek fuq id-dejta personali tiegħek.",
+   "sections": [
+    {
+     "t": "1. Min aħna",
+     "b": [
+      "Nocoding (nocoding.web.id) huwa servizz ta' websajts, applikazzjonijiet, sistemi ta' informazzjoni u awtomazzjoni mmexxi minn Abid Hanan Wicaksono fl-Indoneżja. Din il-politika tispjega kif nittrattaw id-dejta personali tiegħek meta żżur dan is-sit jew tikkuntattjana.",
+      "Mistoqsijiet dwar din il-politika jistgħu jintbagħtu lil nocodingindonesia@gmail.com jew permezz ta' WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Id-dejta li niġbru",
+     "b": [
+      "- Dejta li inti tagħtina: ismek, in-numru tal-WhatsApp tiegħek, l-email u deskrizzjoni tal-proġett tiegħek meta tikkuntattjana permezz ta' WhatsApp jew email. Dan is-sit m'għandu ebda kont tal-utenti jew formoli ta' reġistrazzjoni.",
+      "- Dejta teknika pproċessata awtomatikament: l-indirizz IP, it-tip ta' apparat u ta' browser, u l-paġni li tiftaħ. Il-fornituri tagħna tal-hosting u tas-CDN jipproċessawha biex iservu s-sit u jipproteġuh mill-abbuż.",
+      "- Pajjiż approssimattiv: biex il-prezzijiet jintwerew fil-munita tiegħek, il-pajjiż tiegħek jiġi stmat mill-informazzjoni tas-CDN jew mil-lingwa tal-browser tiegħek. Ma naħżnuhx fuq is-servers tagħna.",
+      "- Dejta tal-analitika: Google Analytics 4 u Microsoft Clarity (meta jkunu attivati) jiġbru statistiki dwar l-użu bħall-paġni miftuħa, it-tul tal-viżta, it-tip ta' apparat u reġistrazzjonijiet anonimi tal-interazzjoni. Jitgħabbew biss wara li tinteraġixxi mal-paġna.",
+      "- Ħażna tal-browser: l-għażla tal-lingwa tiegħek, sinjali li diġà għoġbitek, rajt jew qsamt artiklu, u stima temporanja tal-prezz. Id-dettalji jinsabu fil-Politika tal-Cookies.",
+      "- L-għadd ta' dehriet, likes u qsim tal-artikli jinħażen bħala numri aggregati, mingħajr l-identità tal-viżitatur."
+     ]
+    },
+    {
+     "t": "3. Għal xiex tintuża d-dejta",
+     "b": [
+      "- Biex inwieġbu l-mistoqsijiet tiegħek, nipprepraw kwotazzjonijiet u nwettqu l-proġett tiegħek.",
+      "- Biex is-sit jiġi servut, protett u jibqa' mgħaġġel.",
+      "- Biex nifhmu kif jintuża s-sit sabiex intejbuh.",
+      "- Biex nissodisfaw obbligi legali.",
+      "Aħna ma nbigħux id-dejta personali tiegħek."
+     ]
+    },
+    {
+     "t": "4. Partijiet terzi involuti",
+     "b": [
+      "- Vercel: hosting u servizz tas-sit.",
+      "- Cloudflare: CDN u sigurtà.",
+      "- Google (Google Analytics 4) u Microsoft (Clarity): statistiki dwar l-użu tas-sit.",
+      "- Meta (WhatsApp) u Google (Gmail): meta tikkuntattjana permezz tal-links tal-WhatsApp jew tal-email f'dan is-sit.",
+      "- Fornitur tar-rati tal-muniti: jirċievi biss talbiet għar-rati mis-server tagħna, mhux dejta tal-viżitaturi.",
+      "Dawn il-fornituri jistgħu jipproċessaw id-dejta barra mill-Indoneżja skont il-politiki tagħhom stess."
+     ]
+    },
+    {
+     "t": "5. Kemm iddum id-dejta miżmuma",
+     "b": [
+      "Il-konversazzjonijiet u l-materjali tal-proġett jinżammu sakemm ikun hemm bżonn biex inħaddmu s-servizz, nagħtu appoġġ u nissodisfaw l-obbligi legali, u mbagħad jitħassru jew isiru anonimi. Id-dejta tal-analitika ssegwi s-settings tal-ħażna tal-fornitur tagħha. Id-dejta fil-browser tiegħek tibqa' sakemm tħassarha inti."
+     ]
+    },
+    {
+     "t": "6. Id-drittijiet tiegħek",
+     "b": [
+      "Skont il-Liġi Nru. 27 tal-2022 tal-Indoneżja dwar il-Protezzjoni tad-Dejta Personali, għandek dritt li:",
+      "- tkun taf u tikseb kopja tad-dejta personali li żżomm fuqek;",
+      "- titlob li dejta mhux korretta tiġi rranġata;",
+      "- titlob li d-dejta tiegħek titħassar jew tirtira l-kunsens tiegħek;",
+      "- topponi għal ċertu ipproċessar.",
+      "Ibgħat it-talba tiegħek lil nocodingindonesia@gmail.com. Se nirrispondu fi żmien raġonevoli."
+     ]
+    },
+    {
+     "t": "7. Sigurtà u tfal",
+     "b": [
+      "Dan is-sit juża HTTPS u l-aċċess għad-dejta tal-proġetti huwa ristrett. L-ebda metodu ta' trasmissjoni jew ħżin tad-dejta ma huwa kompletament mingħajr riskju, għalhekk ma nistgħux niggarantixxu sigurtà assoluta.",
+      "Is-servizzi tagħna huma maħsuba għal persuni ta' 18-il sena jew aktar. Ma niġbrux apposta dejta personali ta' tfal."
+     ]
+    },
+    {
+     "t": "8. Bidliet f'din il-politika",
+     "b": [
+      "Din il-politika tista' tiġi aġġornata minn żmien għal żmien. Id-data tal-aħħar aġġornament tidher fuq nett tal-paġna. Jekk il-lingwi jkunu differenti fit-tifsira, tapplika l-verżjoni bl-Indoneżjan."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Termini u Kondizzjonijiet",
+   "description": "Ir-regoli għall-użu tas-sit u tas-servizzi ta' Nocoding: pakketti, prezzijiet, kif isir ix-xogħol, proprjetà intellettwali u limiti ta' responsabbiltà.",
+   "sections": [
+    {
+     "t": "1. Aċċettazzjoni ta' dawn it-termini",
+     "b": [
+      "Billi tiftaħ dan is-sit jew tuża s-servizzi ta' Nocoding, taqbel ma' dawn it-termini u kondizzjonijiet. Jekk ma taqbilx, jekk jogħġbok tużax is-sit jew is-servizzi tagħna."
+     ]
+    },
+    {
+     "t": "2. Is-servizzi",
+     "b": [
+      "Nocoding jibni websajts ta' portafoll jew CV, landing pages u profili ta' kumpaniji, sistemi ta' informazzjoni u operazzjonijiet, u awtomazzjoni ta' proċessi tan-negozju. L-ambitu tax-xogħol, il-karatteristiċi, l-iskeda u l-ispiża jiġu miftiehma miegħek permezz ta' WhatsApp jew email qabel ma jibda x-xogħol.",
+      "Il-konsultazzjoni hija dejjem b'xejn, kull meta jkollok bżonnha, u ma tobbligakx tordna."
+     ]
+    },
+    {
+     "t": "3. Pakketti u prezzijiet",
+     "b": [
+      "- Pakkett żgħir: minn Rp 500,000 fis-sena, inkluż manutenzjoni b'xejn u dominju għal sena (1).",
+      "- Pakkett kbir: minn Rp 2,000,000 fis-sena, inkluż manutenzjoni b'xejn u hosting għal sena (1).",
+      "Il-prezzijiet fuq is-sit huma prezzijiet tal-bidu. L-ammont finali jiġi miftiehem wara konsultazzjoni, abbażi tal-bżonnijiet tiegħek. Għall-viżitaturi minn barra l-Indoneżja, il-prezzijiet jintwerew fil-munita lokali bħala stima bbażata fuq ir-rata tal-kambju ta' kuljum; l-ammont f'rupiah li naqblu fuqu huwa dak li japplika. L-ispejjeż żejda, bħal karatteristiċi addizzjonali jew tiġdid wara li jintemm il-perjodu b'xejn, jiġu mgħarrfin lilek qabel isir ix-xogħol."
+     ]
+    },
+    {
+     "t": "4. Kif isir ix-xogħol u r-responsabbiltajiet tiegħek",
+     "b": [
+      "Id-disinn jiġi rivedut u approvat miegħek qabel il-produzzjoni. Ir-reviżjonijiet isiru kif miftiehem.",
+      "Inti responsabbli li tipprovdi l-materjali (logo, test, ritratti, dejta) fil-ħin u li jkollok id-dritt li tużahom. Dewmien fil-materjali jew fil-feedback jista' jaffettwa l-iskeda."
+     ]
+    },
+    {
+     "t": "5. Manutenzjoni",
+     "b": [
+      "Il-manutenzjoni b'xejn għal sena (1) tkopri t-tiswija ta' żbalji fix-xogħol tagħna u aġġornamenti bażiċi tas-sigurtà. Karatteristiċi ġodda, bidliet kbar fid-disinn u xogħol barra mill-ftehim oriġinali jitħallsu separatament."
+     ]
+    },
+    {
+     "t": "6. Proprjetà intellettwali",
+     "b": [
+      "Il-materjali li tipprovdi jibqgħu tiegħek. Ix-xogħol lest jiġi mgħoddi lilek malli jitlesta l-ħlas kif miftiehem. Nocoding jista' juri xogħol ħaj bħala eżempji fil-portafoll tiegħu, sakemm ma titlobx bil-miktub li ma jintweriex.",
+      "Id-disinn, it-test u l-artikli fuq nocoding.web.id jappartjenu lil Nocoding. Tista' taqsam links lejhom, imma ma tistax tikkopjahom u tużahom kummerċjalment mingħajr permess. Ir-ritratti tal-artikli jiġu minn Unsplash u jsegwu l-liċenzja tiegħu; is-sors huwa kkreditat taħt kull ritratt."
+     ]
+    },
+    {
+     "t": "7. Lingwi tas-sit",
+     "b": [
+      "Dan is-sit huwa disponibbli f'ħafna lingwi. It-traduzzjonijiet, speċjalment għal-lingwi bi ftit kelliema, jistgħu ma jkunux perfetti. Jekk ikunu differenti fit-tifsira, tapplika l-verżjoni bl-Indoneżjan. Dawn il-paġni legali huma disponibbli bl-Indoneżjan u bl-Ingliż."
+     ]
+    },
+    {
+     "t": "8. Limiti ta' responsabbiltà",
+     "b": [
+      "Aħna naħdmu biex nipprovdu riżultati tajbin, imma ma nwiegħdux riżultati speċifiċi tan-negozju bħall-pożizzjonijiet fil-mekkaniżmi tat-tiftix, in-numru ta' viżitaturi jew bejgħ. Aħna mhux responsabbli għal tfixkil minn partijiet terzi bħall-fornituri tal-hosting, tad-dominji jew tal-ħlas, jew għal telf indirett.",
+      "Ir-responsabbiltà tagħna għal servizz hija limitata għall-ammont li tkun ħallist għal dak is-servizz, sa fejn tippermetti l-liġi. Dan ma jnaqqasx id-drittijiet tiegħek li huma protetti bil-liġi."
+     ]
+    },
+    {
+     "t": "9. Liġi applikabbli",
+     "b": [
+      "Dawn it-termini huma rregolati mil-liġijiet tar-Repubblika tal-Indoneżja. Jekk titqajjem tilwima, l-ewwel nippruvaw insolvuha b'diskussjoni. Jekk ma jintlaħaq l-ebda ftehim, it-tilwima tiġi solvuta mill-qrati kompetenti fl-Indoneżja."
+     ]
+    },
+    {
+     "t": "10. Bidliet u kuntatt",
+     "b": [
+      "Dawn it-termini jistgħu jiġu aġġornati minn żmien għal żmien; id-data tal-aħħar aġġornament tidher fuq nett tal-paġna. Mistoqsijiet jistgħu jintbagħtu lil nocodingindonesia@gmail.com jew permezz ta' WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Politika tal-Cookies",
+   "description": "Il-cookies u l-ħażna lokali li juża s-sit ta' Nocoding, għal xiex huma, u kif tista' timmaniġġjahom.",
+   "sections": [
+    {
+     "t": "1. Xi inhuma l-cookies",
+     "b": [
+      "Il-cookies huma fajls żgħar li sit jaħżen fil-browser tiegħek. Il-ħażna lokali u l-ħażna tas-sessjoni jaħdmu b'mod simili imma ma jintbagħtux awtomatikament lil server. F'din il-paġna nsejħulhom kollha cookies."
+     ]
+    },
+    {
+     "t": "2. Dak li jeħtieġ is-sit biex jaħdem",
+     "b": [
+      "Maħżun fil-browser tiegħek u mhux mibgħut lis-servers tagħna:",
+      "- nocoding-language u nocoding-language-set: il-lingwa li għażilt jew li nstabet mill-browser tiegħek.",
+      "- nocoding-pricing (sessjoni): il-munita u r-rata stmati, biex il-prezzijiet ma jiġux ikkalkulati mill-ġdid f'kull paġna.",
+      "- Sinjali tal-artikli: jekk diġà għoġbitek, rajt jew qsamt artiklu, biex l-għadd ma jiġix irduppjat.",
+      "- Sinjal temporanju tal-pożizzjoni tal-iscroll meta timxi bejn partijiet tas-sit."
+     ]
+    },
+    {
+     "t": "3. Analitika",
+     "b": [
+      "Meta jkunu attivati, żewġ servizzi tal-analitika jitgħabbew wara li tinteraġixxi mal-paġna (scroll, tap jew meta tagħfas tast):",
+      "- Google Analytics 4 (cookies bħal _ga u _ga_*, validi sa madwar sentejn): statistiki tal-visti.",
+      "- Microsoft Clarity (cookies bħal _clck, _clsk, CLID u MUID, validi sa madwar sena): heatmaps u reġistrazzjonijiet anonimi tal-interazzjoni.",
+      "Il-fornituri tas-CDN u tas-sigurtà jistgħu wkoll jistabbilixxu cookies tekniċi biex jipproteġu s-sit minn traffiku ta' ħsara."
+     ]
+    },
+    {
+     "t": "4. Kif timmaniġġja l-cookies",
+     "b": [
+      "Tista' tħassar jew timblokka l-cookies fis-settings tal-browser tiegħek. Tista' wkoll tinstalla l-add-on uffiċjali ta' Google biex tagħżel li ma tiġix ittraċċat minn Google Analytics. Jekk il-cookies tal-analitika jiġu mblukkati, is-sit xorta jaħdem; jekk il-ħażna lokali titnaddaf, l-għażla tal-lingwa tiegħek terġa' lejn id-default."
+     ]
+    },
+    {
+     "t": "5. Mistoqsijiet",
+     "b": [
+      "Għal mistoqsijiet dwar din il-politika, ikkuntattja nocodingindonesia@gmail.com. Kif tintuża d-dejta personali hija spjegata aktar fil-Politika tal-Privatezza. Jekk il-lingwi jkunu differenti fit-tifsira, tapplika l-verżjoni bl-Indoneżjan."
+     ]
+    }
+   ]
+  }
+ }
+}

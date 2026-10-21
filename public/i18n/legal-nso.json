@@ -1,0 +1,195 @@
+{
+ "updatedLabel": "Ge go mpshafaditšwe la mafelelo",
+ "docs": {
+  "kebijakan-privasi": {
+   "name": "Pholisi ya Lekunutu",
+   "description": "Datha yeo Nocoding e e kgobokanyago, e dirišetšwago eng, ke mang yo a e šomago, le ditokelo tša gago tša datha ya gago ya motho ka noši.",
+   "sections": [
+    {
+     "t": "1. Re bomang",
+     "b": [
+      "Nocoding (nocoding.web.id) ke tirelo ya go bopa dikgaolo tša webo, diapolikheishene, ditshepedišo tša tshedimošo le tšweletšo ya ka noši, yeo e hlokometšwego ke Abid Hanan Wicaksono kua Indonesia. Pholisi ye e hlalosa ka fao re swarago datha ya gago ya motho ka noši ge o etela lefelo le goba o ikgokaganya le rena.",
+      "Dipotšišo ka ga pholisi ye di ka romelwa go nocodingindonesia@gmail.com goba go WhatsApp +62 853-2651-3324."
+     ]
+    },
+    {
+     "t": "2. Datha yeo re e kgobokanyago",
+     "b": [
+      "- Datha yeo o re fago yona: leina la gago, nomoro ya WhatsApp, imeile le tlhaloso ya projeke ya gago ge o ikgokaganya le rena ka WhatsApp goba ka imeile. Lefelo le ga le na diakhaonto tša bomadirišo goba difomo tša go ngwadiša.",
+      "- Datha ya tša theknolotši yeo e šomišwago ka boyona: aterese ya IP, mohuta wa sedirišwa le wa borausa, le matlakala ao o a bulago. Bafani ba rena ba housting le ba CDN ba e šoma gore ba tle ba direle lefelo le ba le šireletše go tšweletšo ya bobe.",
+      "- Naga ya kakanyo: gore ditlhwatlhwa di bontšhwe ka tšhelete ya gago, naga ya gago e akanywa go tšwa go tshedimošo ya CDN goba polelo ya borausa bja gago. Ga re e boloke diseveng tša rena.",
+      "- Datha ya tshekatsheko: Google Analytics 4 le Microsoft Clarity (ge di dirišwa) di kgoboketša dipalopalo tša tirišo bjalo ka matlakala ao a butšwego, nako ya ketelo, mohuta wa sedirišwa le diletlelo tša tshwaragano tše di sa utolleng motho. Di laišwa feela ka morago ga ge o sepelelana le letlakala.",
+      "- Polokelo ya borausa: kgetho ya gago ya polelo, dika tša gore o šetše o rate, wa bona goba wa abelana ka sengwalwa, le kakanyo ya nakwana ya tlhwatlhwa. Dintlha di ka hwetšwa Pholising ya Dikuki.",
+      "- Palo ya dipono, dithato le dikabelo tša sengwalwa di bolokwa e le dinomoro tše di kopantšwego, ntle le boitšhupo bja moeti."
+     ]
+    },
+    {
+     "t": "3. Datha e dirišetšwa eng",
+     "b": [
+      "- Go araba dipotšišo tša gago, go lokišetša dikoutšeišene le go phethagatša projeke ya gago.",
+      "- Go direla lefelo, go le šireletša le go le boloka le le akgofa.",
+      "- Go kwešiša ka fao lefelo le dirišwago ka gona gore re kgone go le kaonafatša.",
+      "- Go phethagatša dikgapeletšo tša molao.",
+      "Ga re rekiše datha ya gago ya motho ka noši."
+     ]
+    },
+    {
+     "t": "4. Mekgatlo ya boraro yeo e amegago",
+     "b": [
+      "- Vercel: housting le go direla lefelo.",
+      "- Cloudflare: CDN le tšhireletšo.",
+      "- Google (Google Analytics 4) le Microsoft (Clarity): dipalopalo tša tirišo ya lefelo.",
+      "- Meta (WhatsApp) le Google (Gmail): ge o ikgokaganya le rena ka dikgokagano tša WhatsApp goba tša imeile lefelong le.",
+      "- Mofani wa mekgwa ya diphapano tša tšhelete: o amogela feela dikgopelo tša mekgwa go tšwa go severi ya rena, e sego datha ya baeti.",
+      "Bafani ba ba ka šoma datha ka ntle ga Indonesia go ya ka dipholisi tša bona."
+     ]
+    },
+    {
+     "t": "5. Datha e bolokwa nako e kae",
+     "b": [
+      "Dipolelo le didirišwa tša projeke di bolokwa nako ye e nyakegago go phethagatša tirelo, go fana ka thušo le go phethagatša dikgapeletšo tša molao, ke moka di phumulwe goba di dirwe gore di se tsebje. Datha ya tshekatsheko e latela dipeakanyo tša polokelo tša mofani wa yona. Datha ya borausa bja gago e dula go fihlela o e phumula."
+     ]
+    },
+    {
+     "t": "6. Ditokelo tša gago",
+     "b": [
+      "Ka fase ga Molao wa Nomoro 27 wa Ngwaga wa 2022 wa Indonesia ka ga Tšhireletšo ya Datha ya Motho ka noši, o na le tokelo ya go:",
+      "- tseba le go hwetša kopi ya datha ya gago ya motho ka noši yeo re e swerego ka ga gago;",
+      "- kgopela gore datha ye e fošagetšego e lokišwe;",
+      "- kgopela gore datha ya gago e phumulwe goba o tloše tumelelo ya gago;",
+      "- ganetša mehuta ye mengwe ya go šoma datha.",
+      "Romela kgopelo ya gago go nocodingindonesia@gmail.com. Re tla araba ka nako ye e kwagalago."
+     ]
+    },
+    {
+     "t": "7. Tšhireletšo le bana",
+     "b": [
+      "Lefelo le le šomiša HTTPS gomme phihlelelo ya datha ya projeke e thibetšwe. Ga go na tsela ya go romela goba go boloka datha yeo e se nago kotsi ka go feletšego, ka gona ga re kgone go holofetša tšhireletšo ye e feletšego.",
+      "Ditirelo tša rena di tloga di lebane le batho bao ba nago le mengwaga ye 18 goba go feta. Ga re kgobokanye datha ya motho ka noši ya bana ka kgopolo."
+     ]
+    },
+    {
+     "t": "8. Diphetogo go pholisi ye",
+     "b": [
+      "Pholisi ye e ka mpshafatšwa ka nako le nako. Letšatši la mpshafatšo ya mafelelo le bontšhitšwe godimo ga letlakala. Ge dipolelo di fapana ka tlhalošo, mohuta wa Seindonesia o a diriša."
+     ]
+    }
+   ]
+  },
+  "syarat-ketentuan": {
+   "name": "Melawana le Maemo",
+   "description": "Melawana ya go diriša lefelo le ditirelo tša Nocoding: dipakete, ditlhwatlhwa, ka fao mošomo o dirwago ka gona, bohwa bja monagano le dithibelo tša maikarabelo.",
+   "sections": [
+    {
+     "t": "1. Go amogela melawana ye",
+     "b": [
+      "Ka go bula lefelo le goba go diriša ditirelo tša Nocoding, o dumela melawana le maemo a. Ge o sa dumele, hle o seke wa diriša lefelo la rena goba ditirelo tša rena."
+     ]
+    },
+    {
+     "t": "2. Ditirelo",
+     "b": [
+      "Nocoding e bopa dikgaolo tša webo tša poteforiyo goba CV, matlakala a go fihla le diprofaele tša khamphani, ditshepedišo tša tshedimošo le tša mešomo, le tšweletšo ya ka noši ya ditshepedišo tša kgwebo. Bophara bja mošomo, dikarolo, lenaneo la nako le ditshenyagalelo di dumelelanwa le wena ka WhatsApp goba ka imeile pele mošomo o thoma.",
+      "Kgakololo e tlwaelegile e se na tefo, neng le neng ge o e hloka, gomme ga e go gapeletše go dira kgopelo."
+     ]
+    },
+    {
+     "t": "3. Dipakete le ditlhwatlhwa",
+     "b": [
+      "- Pakete ye nyenyane: go thoma ka Rp 500,000 ka ngwaga, go akaretšwa tlhokomelo ya mahala le domeine ya ngwaga o 1.",
+      "- Pakete ye kgolo: go thoma ka Rp 2,000,000 ka ngwaga, go akaretšwa tlhokomelo ya mahala le housting ya ngwaga o 1.",
+      "Ditlhwatlhwa tšeo di lego lefelong ke ditlhwatlhwa tša go thoma. Tšhelete ya mafelelo e dumelelanwa ka morago ga kgakololo, go ya ka dinyakwa tša gago. Go baeti ba ka ntle ga Indonesia, ditlhwatlhwa di bontšhwa ka tšhelete ya lehae e le kakanyo yeo e theilwego go lekanyo ya go fapana ya tšhelete ya letšatši le letšatši; tšhelete ya rupiah yeo re e dumelelanego e tla diriša. Ditshenyagalelo tše dingwe, bjalo ka dikarolo tše di oketšegilego goba mpshafatšo ka morago ga ge nako ya mahala e fela, o botšwa pele mošomo o dirwa."
+     ]
+    },
+    {
+     "t": "4. Ka fao mošomo o dirwago ka gona le maikarabelo a gago",
+     "b": [
+      "Moralo o sekasekwa gomme wa dumelelwa le wena pele ga tlhagiso. Diphetošo di dirwa go ya ka tumelelano.",
+      "O ikarabela go neela didirišwa (logo, mongwalo, diswantšho, datha) ka nako le go ba le tokelo ya go di diriša. Go diegisa didirišwa goba maikutlo go ka ama lenaneo la nako."
+     ]
+    },
+    {
+     "t": "5. Tlhokomelo",
+     "b": [
+      "Tlhokomelo ya mahala ya ngwaga o 1 e akaretša go lokiša diphošo mošomong wa rena le dimpshafatšo tša motheo tša tšhireletšo. Dikarolo tše diswa, diphetogo tše kgolo tša moralo le mošomo ka ntle ga tumelelano ya mathomo di lefelwa ka go fapana."
+     ]
+    },
+    {
+     "t": "6. Bohwa bja monagano",
+     "b": [
+      "Didirišwa tšeo o di fago di dula e le tša gago. Mošomo wo o fedilego o filwe wena ge tefo go ya ka tumelelano e feditšwe. Nocoding e ka bontšha mošomo wo o phelago e le mehlala poteforiyong ya yona, ntle le ge o kgopela ka go ngwala gore o se bontšhwe.",
+      "Moralo, mongwalo le dingwalwa tša go nocoding.web.id ke tša Nocoding. O ka abelana ka dikgokagano tša tšona, eupša o ka se di kopiše le go di diriša kgwebong ntle le tumelelo. Diswantšho tša dingwalwa di tšwa go Unsplash gomme di latela laesense ya yona; mothopo o bontšhwa ka tlase ga seswantšho se sengwe le se sengwe."
+     ]
+    },
+    {
+     "t": "7. Dipolelo tša lefelo",
+     "b": [
+      "Lefelo le le hwetšagala ka dipolelo tše dintši. Ditoloko, kudu go dipolelo tšeo di bolelwago ke batho ba bannyane, di ka no se be tše di phethagetšego. Ge di fapana ka tlhalošo, mohuta wa Seindonesia o a diriša. Matlakala a a molao a hwetšagala ka Seindonesia le ka Sekgoa."
+     ]
+    },
+    {
+     "t": "8. Dithibelo tša maikarabelo",
+     "b": [
+      "Re šoma go fana ka dipoelo tše dibotse, eupša ga re holofetše dipoelo tše itšego tša kgwebo bjalo ka maemo a go nyakišiša, palo ya baeti goba thekiso. Ga re ikarabele ka dikgoreletšo go tšwa go mekgatlo ya boraro bjalo ka bafani ba housting, domeine goba tefo, goba ka ditahlegelo tše di sa lebanago.",
+      "Maikarabelo a rena go tirelo e itšego a thibetšwe go tšhelete yeo o e lefetšego tirelong yeo, go fihla moo molao o dumelelago. Se ga se fokotše ditokelo tša gago tšeo di šireleditšwego ke molao."
+     ]
+    },
+    {
+     "t": "9. Molao wo o laolago",
+     "b": [
+      "Melawana ye e laolwa ke melao ya Repabliki ya Indonesia. Ge go tsoga phapano, pele re leka go e rarolla ka poledišano. Ge go sa fihlelelwe tumelelano, phapano e rarollwa ke dikgoro tša molao tše di nago le matla kua Indonesia."
+     ]
+    },
+    {
+     "t": "10. Diphetogo le go ikgokaganya",
+     "b": [
+      "Melawana ye e ka mpshafatšwa ka nako le nako; letšatši la mpshafatšo ya mafelelo le bontšhitšwe godimo ga letlakala. Dipotšišo di ka romelwa go nocodingindonesia@gmail.com goba go WhatsApp +62 853-2651-3324."
+     ]
+    }
+   ]
+  },
+  "kebijakan-cookie": {
+   "name": "Pholisi ya Dikuki",
+   "description": "Dikuki le polokelo ya lehae yeo lefelo la Nocoding le e dirišago, di dirišetšwa eng, le ka fao o ka di laolago ka gona.",
+   "sections": [
+    {
+     "t": "1. Dikuki ke eng",
+     "b": [
+      "Dikuki ke difaele tše nnyane tšeo lefelo le di bolokago borauseng bja gago. Polokelo ya lehae (local storage) le polokelo ya seshene (session storage) di šoma ka mokgwa o swanago eupša ga di romelwe ka boyona go severi. Letlakaleng le re bitša ka moka dikuki."
+     ]
+    },
+    {
+     "t": "2. Seo lefelo le se hlokago gore le šome",
+     "b": [
+      "Di bolokwa borauseng bja gago gomme ga di romelwe diseveng tša rena:",
+      "- nocoding-language le nocoding-language-set: polelo yeo o e kgethilego goba yeo e lemogilwego go tšwa borauseng bja gago.",
+      "- nocoding-pricing (seshene): tšhelete ye e akanywago le lekanyo, gore ditlhwatlhwa di se ke tša balwa gape letlakaleng le lengwe le le lengwe.",
+      "- Dika tša dingwalwa: ge o šetše o rate, wa bona goba wa abelana ka sengwalwa, gore dipalo di se ke tša oketšega gabedi.",
+      "- Leswao la nakwana la lefelo la go rolla ge o sepela magareng ga dikarolo tša lefelo."
+     ]
+    },
+    {
+     "t": "3. Tshekatsheko",
+     "b": [
+      "Ge di dirišwa, ditirelo tše pedi tša tshekatsheko di laišwa ka morago ga ge o sepelelana le letlakala (go rolla, go kgoma goba go kgotla konope):",
+      "- Google Analytics 4 (dikuki bjalo ka _ga le _ga_*, tšeo di šomago go fihla go mengwaga ye 2 ka bonyane): dipalopalo tša ketelo.",
+      "- Microsoft Clarity (dikuki bjalo ka _clck, _clsk, CLID le MUID, tšeo di šomago go fihla go ngwaga o 1 ka bonyane): dimmapa tša mogote le diletlelo tša tshwaragano tše di sa utolleng motho.",
+      "Bafani ba CDN le tšhireletšo le bona ba ka bea dikuki tša theknolotši go šireletša lefelo go sephethephethe se se kotsi."
+     ]
+    },
+    {
+     "t": "4. Ka fao o ka laolago dikuki ka gona",
+     "b": [
+      "O ka phumula goba wa thibela dikuki dipeakanyong tša borausa bja gago. O ka kgona gape go beakanya sedirišwa sa semmušo sa Google sa go gana Google Analytics. Ge dikuki tša tshekatsheko di thibetšwe, lefelo le sa šoma; ge polokelo ya lehae e hlwekišitšwe, kgetho ya gago ya polelo e boela go ya mathomong."
+     ]
+    },
+    {
+     "t": "5. Dipotšišo",
+     "b": [
+      "Go dipotšišo ka ga pholisi ye, ikgokaganye le nocodingindonesia@gmail.com. Ka fao datha ya motho ka noši e dirišwago ka gona e hlalošwa kudu Pholising ya Lekunutu. Ge dipolelo di fapana ka tlhalošo, mohuta wa Seindonesia o a diriša."
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -36,7 +36,7 @@
     {
      "t": "4. Terții implicați",
      "b": [
-      "- Vercel: găzduirea și livrarea site-ului.",
+      "- Cloudflare: găzduirea și livrarea site-ului.",
       "- Cloudflare: CDN și securitate.",
       "- Google (Google Analytics 4) și Microsoft (Clarity): statistici de utilizare a site-ului.",
       "- Meta (WhatsApp) și Google (Gmail): atunci când ne contactați prin linkurile WhatsApp sau e-mail de pe acest site.",

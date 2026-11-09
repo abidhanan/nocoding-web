@@ -36,7 +36,7 @@
     {
      "t": "4. Bantfu bangaphandle lababandzakanyekile",
      "b": [
-      "- Vercel: kugcina nekuhlinzeka ngewebhusayithi.",
+      "- Cloudflare: kugcina nekuhlinzeka ngewebhusayithi.",
       "- Cloudflare: i-CDN nekuphepha.",
       "- Google (Google Analytics 4) ne-Microsoft (Clarity): tibalo tekusetjentiswa kwewebhusayithi.",
       "- Meta (WhatsApp) ne-Google (Gmail): uma uthintana nathi ngetixhumanisi te-WhatsApp noma te-imeyili kulewebhusayithi.",

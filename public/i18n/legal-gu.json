@@ -36,7 +36,7 @@
     {
      "t": "4. સંકળાયેલા તૃતીય પક્ષો",
      "b": [
-      "- Vercel: સાઇટનું હોસ્ટિંગ અને પ્રદાન.",
+      "- Cloudflare: સાઇટનું હોસ્ટિંગ અને પ્રદાન.",
       "- Cloudflare: CDN અને સુરક્ષા.",
       "- Google (Google Analytics 4) અને Microsoft (Clarity): સાઇટના ઉપયોગના આંકડા.",
       "- Meta (WhatsApp) અને Google (Gmail): જ્યારે તમે આ સાઇટ પરની WhatsApp અથવા ઇમેઇલ લિંક દ્વારા અમારો સંપર્ક કરો ત્યારે.",

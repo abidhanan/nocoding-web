@@ -36,7 +36,7 @@
     {
      "t": "4. Các bên thứ ba liên quan",
      "b": [
-      "- Vercel: lưu trữ và phục vụ trang web.",
+      "- Cloudflare: lưu trữ và phục vụ trang web.",
       "- Cloudflare: CDN và bảo mật.",
       "- Google (Google Analytics 4) và Microsoft (Clarity): thống kê sử dụng trang web.",
       "- Meta (WhatsApp) và Google (Gmail): khi bạn liên hệ với chúng tôi qua các liên kết WhatsApp hoặc email trên trang web này.",

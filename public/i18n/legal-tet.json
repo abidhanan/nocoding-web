@@ -36,7 +36,7 @@
     {
      "t": "4. Terseiru ne'ebé involve",
      "b": [
-      "- Vercel: hosting no fó site ne'e.",
+      "- Cloudflare: hosting no fó site ne'e.",
       "- Cloudflare: CDN no seguransa.",
       "- Google (Google Analytics 4) no Microsoft (Clarity): estatístika uzu site nian.",
       "- Meta (WhatsApp) no Google (Gmail): bainhira ita kontaktu ami liuhosi link WhatsApp ka emal iha site ida-ne'e.",

@@ -36,7 +36,7 @@
     {
      "t": "4. 涉及的第三方",
      "b": [
-      "- Vercel：网站托管与分发。",
+      "- Cloudflare：网站托管与分发。",
       "- Cloudflare：CDN 与安全防护。",
       "- Google（Google Analytics 4）和 Microsoft（Clarity）：网站使用统计。",
       "- Meta（WhatsApp）和 Google（Gmail）：当您通过本网站上的 WhatsApp 或电子邮件链接联系我们时。",

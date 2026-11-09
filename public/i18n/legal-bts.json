@@ -36,7 +36,7 @@
     {
      "t": "4. Pihak katolu na manumpak",
      "b": [
-      "- Vercel: hosting anjaha panuduhan situs.",
+      "- Cloudflare: hosting anjaha panuduhan situs.",
       "- Cloudflare: CDN anjaha kaamanan.",
       "- Google (Google Analytics 4) anjaha Microsoft (Clarity): statistik pamakeian situs.",
       "- Meta (WhatsApp) anjaha Google (Gmail): sanggah manghubungi hanami marhitei tautan WhatsApp atap email i situs on.",

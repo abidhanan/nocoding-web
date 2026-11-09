@@ -36,7 +36,7 @@
     {
      "t": "4. Tiercis parts coinvolgjudis",
      "b": [
-      "- Vercel: hosting e presentazion dal sît.",
+      "- Cloudflare: hosting e presentazion dal sît.",
       "- Cloudflare: CDN e sigurece.",
       "- Google (Google Analytics 4) e Microsoft (Clarity): statistichis di utilizazion dal sît.",
       "- Meta (WhatsApp) e Google (Gmail): cuant che tu nus contatis par mieç dai colegaments di WhatsApp o di email di chest sît.",

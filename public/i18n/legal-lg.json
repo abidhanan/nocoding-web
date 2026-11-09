@@ -36,7 +36,7 @@
     {
      "t": "4. Abantu abalala abeenyigira",
      "b": [
-      "- Vercel: hosting n'okuwa omukutu.",
+      "- Cloudflare: hosting n'okuwa omukutu.",
       "- Cloudflare: CDN n'obukuumi.",
       "- Google (Google Analytics 4) ne Microsoft (Clarity): ebibalo by'enkozesa y'omukutu.",
       "- Meta (WhatsApp) ne Google (Gmail): bw'otukubira ng'okozesa links za WhatsApp oba email ku mukutu guno.",

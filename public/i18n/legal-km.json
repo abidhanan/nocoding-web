@@ -36,7 +36,7 @@
     {
      "t": "4. ភាគីទីបីដែលពាក់ព័ន្ធ",
      "b": [
-      "- Vercel៖ បង្ហោះ និងបម្រើគេហទំព័រ។",
+      "- Cloudflare៖ បង្ហោះ និងបម្រើគេហទំព័រ។",
       "- Cloudflare៖ CDN និងសុវត្ថិភាព។",
       "- Google (Google Analytics 4) និង Microsoft (Clarity)៖ ស្ថិតិការប្រើប្រាស់គេហទំព័រ។",
       "- Meta (WhatsApp) និង Google (Gmail)៖ នៅពេលអ្នកទាក់ទងមកយើងតាមតំណ WhatsApp ឬអ៊ីមែលនៅលើគេហទំព័រនេះ។",

@@ -36,7 +36,7 @@
     {
      "t": "4. Jomachielo ma nigi pach e tichno",
      "b": [
-      "- Vercel: hosting kod miyo website.",
+      "- Cloudflare: hosting kod miyo website.",
       "- Cloudflare: CDN gi gengo.",
       "- Google (Google Analytics 4) gi Microsoft (Clarity): kwan mar tiyo gi website.",
       "- Meta (WhatsApp) gi Google (Gmail): ka ikwayowa kuom link mag WhatsApp kata email e website ni.",

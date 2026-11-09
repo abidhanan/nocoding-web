@@ -36,7 +36,7 @@
     {
      "t": "4. Saray sabi a partido a kasali",
      "b": [
-      "- Vercel: hosting tan pangiserbi ed site.",
+      "- Cloudflare: hosting tan pangiserbi ed site.",
       "- Cloudflare: CDN tan seguridad.",
       "- Google (Google Analytics 4) tan Microsoft (Clarity): usage statistics na site.",
       "- Meta (WhatsApp) tan Google (Gmail): no kontakin yo kami diad saray WhatsApp odino email link ed site ya.",

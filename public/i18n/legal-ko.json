@@ -36,7 +36,7 @@
     {
      "t": "4. 관련된 제3자",
      "b": [
-      "- Vercel: 사이트 호스팅 및 제공.",
+      "- Cloudflare: 사이트 호스팅 및 제공.",
       "- Cloudflare: CDN 및 보안.",
       "- Google(Google Analytics 4) 및 Microsoft(Clarity): 사이트 이용 통계.",
       "- Meta(WhatsApp) 및 Google(Gmail): 이 사이트의 WhatsApp 또는 이메일 링크를 통해 저희에게 문의하실 때.",

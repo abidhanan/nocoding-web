@@ -315,6 +315,29 @@ export const projects = [
     logoFull: true,
     imageAlt: "Tampilan website I Need Barcode di laptop dan ponsel",
   },
+  {
+    name: "Gao Education",
+    category: "Website kursus & studi Tiongkok",
+    categoryId: "project.category.gao",
+    description:
+      "Pusat kursus Mandarin dan pendampingan kuliah di Tiongkok: pilihan universitas mitra, beasiswa, dan konsultasi lewat WhatsApp.",
+    descriptionId: "project.description.gao",
+    image: "/projects/gao-education.webp",
+    logo: "/projects/logos/gao-education-round.webp",
+    imageAlt: "Tampilan website Gao Education di laptop dan ponsel",
+  },
+  {
+    name: "Made For Honey",
+    category: "Website ucapan ulang tahun",
+    categoryId: "project.category.honey",
+    description:
+      "Website ucapan ulang tahun interaktif: penerima mengetuk kado, menikmati animasi partikel, lalu meniup lilin kue dan membuat permohonan.",
+    descriptionId: "project.description.honey",
+    image: "/projects/made-for-honey.webp",
+    logo: "/projects/logos/made-for-honey-sq.webp",
+    logoFull: true,
+    imageAlt: "Tampilan website Made For Honey di laptop dan ponsel",
+  },
 ] satisfies Project[];
 
 // WhatsApp contact. Display uses the international format with a leading +; the href

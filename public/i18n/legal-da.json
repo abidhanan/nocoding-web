@@ -36,7 +36,7 @@
     {
      "t": "4. Involverede tredjeparter",
      "b": [
-      "- Vercel: hosting og levering af sitet.",
+      "- Cloudflare: hosting og levering af sitet.",
       "- Cloudflare: CDN og sikkerhed.",
       "- Google (Google Analytics 4) og Microsoft (Clarity): statistik over brugen af sitet.",
       "- Meta (WhatsApp) og Google (Gmail): når du kontakter os via WhatsApp- eller e-mail-linkene på dette site.",

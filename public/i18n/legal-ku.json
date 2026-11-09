@@ -36,7 +36,7 @@
     {
      "t": "4. Aliyên sêyem ên beşdar",
      "b": [
-      "- Vercel: hostin û pêşkêşkirina malperê.",
+      "- Cloudflare: hostin û pêşkêşkirina malperê.",
       "- Cloudflare: CDN û ewlehî.",
       "- Google (Google Analytics 4) û Microsoft (Clarity): statîstîkên bikaranîna malperê.",
       "- Meta (WhatsApp) û Google (Gmail): gava tu bi lînkên WhatsApp an e-nameyê yên li ser vê malperê bi me re têkilî datînî.",

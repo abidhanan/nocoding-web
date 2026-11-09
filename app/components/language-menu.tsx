@@ -71,7 +71,6 @@ export default function LanguageMenu({ onClose }: { onClose: () => void }) {
       <input
         type="search"
         value={query}
-        autoFocus
         onChange={(event) => setQuery(event.target.value)}
         placeholder={placeholder}
         aria-label={placeholder}

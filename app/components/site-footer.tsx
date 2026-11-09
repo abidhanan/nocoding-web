@@ -42,8 +42,8 @@ export function Footer() {
   return (
     <footer className="border-t border-white/10 bg-brand-dark px-6 pt-7 pb-0 text-xs text-slate-400">
       <div className="mx-auto w-full max-w-[21.5rem] sm:max-w-7xl">
-        <div className="grid gap-6 text-center md:grid-cols-3 md:items-start md:text-left">
-          <div className="flex flex-col items-center md:items-start">
+        <div className="grid gap-6 text-left md:grid-cols-3 md:items-start">
+          <div className="flex flex-col items-start">
             <CenteredScrollLink
               href="/#beranda"
               scrollBlock="start"
@@ -58,6 +58,7 @@ export function Footer() {
                   width={36}
                   height={36}
                   className="nocoding-logo-mark__image h-9 w-9 object-contain"
+                  unoptimized
                 />
               </span>
               <span className="flex h-9 -translate-y-0.5 items-center text-lg font-black leading-none">
@@ -74,7 +75,7 @@ export function Footer() {
             </p>
           </div>
 
-          <div className="flex flex-col items-center md:text-center">
+          <div className="flex flex-col items-start md:items-center md:text-center">
             <p className="flex h-9 items-center text-xs font-black uppercase tracking-[0.22em] text-brand-cyan sm:tracking-[0.32em]">
               <LocalizedText id="footer.connect">Mari Terhubung</LocalizedText>
             </p>
@@ -83,8 +84,8 @@ export function Footer() {
             </div>
           </div>
 
-          <div className="flex flex-col items-center md:items-end">
-            <div className="flex flex-col items-center md:items-start md:text-left">
+          <div className="flex flex-col items-start md:items-end">
+            <div className="flex flex-col items-start md:text-left">
               <p className="flex h-9 items-center text-xs font-black uppercase tracking-[0.32em] text-brand-cyan">
                 <LocalizedText id="footer.contact">Kontak</LocalizedText>
               </p>

@@ -36,7 +36,7 @@
     {
      "t": "4. Tercers implicats",
      "b": [
-      "- Vercel: allotjament i servei del lloc.",
+      "- Cloudflare: allotjament i servei del lloc.",
       "- Cloudflare: CDN i seguretat.",
       "- Google (Google Analytics 4) i Microsoft (Clarity): estadístiques d'ús del lloc.",
       "- Meta (WhatsApp) i Google (Gmail): quan ens contacteu mitjançant els enllaços de WhatsApp o de correu electrònic d'aquest lloc.",

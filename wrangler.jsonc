@@ -1,0 +1,53 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"main": "worker.ts",
+	"name": "nocoding-web",
+	"workers_dev": false,
+	"preview_urls": false,
+	"compatibility_date": "2026-10-25",
+	"compatibility_flags": [
+		"nodejs_compat",
+		"global_fetch_strictly_public"
+	],
+	"vars": {
+		"NEXTJS_ENV": "production"
+	},
+	"routes": [
+		{
+			"pattern": "nocoding.web.id/*",
+			"zone_name": "nocoding.web.id"
+		},
+		{
+			"pattern": "www.nocoding.web.id/*",
+			"zone_name": "nocoding.web.id"
+		}
+	],
+	"assets": {
+		"directory": ".open-next/assets",
+		"binding": "ASSETS",
+		"run_worker_first": true
+	},
+	"services": [
+		{
+			// Self-reference service binding, the service name must match the worker name
+			// see https://opennext.js.org/cloudflare/caching
+			"binding": "WORKER_SELF_REFERENCE",
+			"service": "nocoding-web"
+		}
+	],
+	"images": {
+		// Enable image optimization
+		// see https://opennext.js.org/cloudflare/howtos/image
+		"binding": "IMAGES"
+	},
+	"kv_namespaces": [
+		{
+			"binding": "NEXT_INC_CACHE_KV",
+			"id": "9d895ac2ea6e4868803868fd7f5375af"
+		},
+		{
+			"binding": "MEDIA_KV",
+			"id": "3cb13519b66d418db533afd5b4086829"
+		}
+	]
+}

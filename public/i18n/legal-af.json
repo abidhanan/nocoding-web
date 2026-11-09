@@ -36,7 +36,7 @@
     {
      "t": "4. Derde partye wat betrokke is",
      "b": [
-      "- Vercel: gasheer en bediening van die webwerf.",
+      "- Cloudflare: gasheer en bediening van die webwerf.",
       "- Cloudflare: CDN en sekuriteit.",
       "- Google (Google Analytics 4) en Microsoft (Clarity): statistiek oor webwerfgebruik.",
       "- Meta (WhatsApp) en Google (Gmail): wanneer jy ons kontak deur die WhatsApp- of e-posskakels op hierdie webwerf.",

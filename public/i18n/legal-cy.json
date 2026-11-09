@@ -36,7 +36,7 @@
     {
      "t": "4. Trydydd partïon dan sylw",
      "b": [
-      "- Vercel: gwesteio a darparu'r wefan.",
+      "- Cloudflare: gwesteio a darparu'r wefan.",
       "- Cloudflare: CDN a diogelwch.",
       "- Google (Google Analytics 4) a Microsoft (Clarity): ystadegau defnydd y wefan.",
       "- Meta (WhatsApp) a Google (Gmail): pan fyddwch yn cysylltu â ni drwy'r dolenni WhatsApp neu e-bost ar y wefan hon.",

@@ -36,7 +36,7 @@
     {
      "t": "4. Beteiligte Dritte",
      "b": [
-      "- Vercel: Hosting und Auslieferung der Website.",
+      "- Cloudflare: Hosting und Auslieferung der Website.",
       "- Cloudflare: CDN und Sicherheit.",
       "- Google (Google Analytics 4) und Microsoft (Clarity): Statistiken zur Nutzung der Website.",
       "- Meta (WhatsApp) und Google (Gmail): wenn Sie uns über die WhatsApp- oder E-Mail-Links auf dieser Website kontaktieren.",

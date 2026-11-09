@@ -36,7 +36,7 @@
     {
      "t": "4. Vključene tretje osebe",
      "b": [
-      "- Vercel: gostovanje in prikazovanje strani.",
+      "- Cloudflare: gostovanje in prikazovanje strani.",
       "- Cloudflare: CDN in varnost.",
       "- Google (Google Analytics 4) in Microsoft (Clarity): statistika uporabe strani.",
       "- Meta (WhatsApp) in Google (Gmail): ko nas kontaktirate prek povezav za WhatsApp ali e-pošto na tej strani.",

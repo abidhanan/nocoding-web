@@ -36,7 +36,7 @@
     {
      "t": "4. Betrokken derden",
      "b": [
-      "- Vercel: hosting en levering van de site.",
+      "- Cloudflare: hosting en levering van de site.",
       "- Cloudflare: CDN en beveiliging.",
       "- Google (Google Analytics 4) en Microsoft (Clarity): statistieken over het gebruik van de site.",
       "- Meta (WhatsApp) en Google (Gmail): wanneer u via de WhatsApp- of e-mailkoppelingen op deze site contact met ons opneemt.",

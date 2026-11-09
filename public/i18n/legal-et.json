@@ -36,7 +36,7 @@
     {
      "t": "4. Kaasatud kolmandad osapooled",
      "b": [
-      "- Vercel: saidi hostimine ja kuvamine.",
+      "- Cloudflare: saidi hostimine ja kuvamine.",
       "- Cloudflare: CDN ja turvalisus.",
       "- Google (Google Analytics 4) ja Microsoft (Clarity): saidi kasutusstatistika.",
       "- Meta (WhatsApp) ja Google (Gmail): kui võtad meiega ühendust selle saidi WhatsAppi või e-posti linkide kaudu.",

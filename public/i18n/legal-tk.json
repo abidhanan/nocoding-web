@@ -36,7 +36,7 @@
     {
      "t": "4. Gatnaşýan üçünji taraplar",
      "b": [
-      "- Vercel: sahypany hostlamak we görkezmek.",
+      "- Cloudflare: sahypany hostlamak we görkezmek.",
       "- Cloudflare: CDN we howpsuzlyk.",
       "- Google (Google Analytics 4) we Microsoft (Clarity): sahypanyň ulanyş statistikasy.",
       "- Meta (WhatsApp) we Google (Gmail): bu sahypadaky WhatsApp ýa-da e-poçta salgylary arkaly biz bilen habarlaşanyňyzda.",

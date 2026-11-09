@@ -36,7 +36,7 @@
     {
      "t": "4. Terceros ku yaantal",
      "b": [
-      "- Vercel: hosting yéetel u ts'aik le sitio.",
+      "- Cloudflare: hosting yéetel u ts'aik le sitio.",
       "- Cloudflare: CDN yéetel seguridad.",
       "- Google (Google Analytics 4) yéetel Microsoft (Clarity): estadisticas utia'al u meyajtik le sitio.",
       "- Meta (WhatsApp) yéetel Google (Gmail): ken a k'ajoltik to'on tu'ux le ligas WhatsApp wa correo ti' le sitio je'ela'.",

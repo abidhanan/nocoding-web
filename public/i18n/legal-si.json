@@ -36,7 +36,7 @@
     {
      "t": "4. සම්බන්ධ තෙවන පාර්ශ්ව",
      "b": [
-      "- Vercel: අඩවිය හෝස්ට් කිරීම සහ ලබා දීම.",
+      "- Cloudflare: අඩවිය හෝස්ට් කිරීම සහ ලබා දීම.",
       "- Cloudflare: CDN සහ ආරක්ෂාව.",
       "- Google (Google Analytics 4) සහ Microsoft (Clarity): අඩවි භාවිත සංඛ්‍යාලේඛන.",
       "- Meta (WhatsApp) සහ Google (Gmail): ඔබ මෙම අඩවියේ ඇති WhatsApp හෝ ඊමේල් සබැඳි හරහා අපව සම්බන්ධ කරගන්නා විට.",

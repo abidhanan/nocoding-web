@@ -1,6 +1,5 @@
 import DeferredImage from "./deferred-image";
 import { LocalizedText } from "./localized-text";
-import RevealBlock from "./reveal-block";
 
 export type DetailNote = {
   heading: string;
@@ -41,9 +40,9 @@ export default function DetailBlocks({ blocks }: { blocks: DetailBlock[] }) {
         const isOdd = index % 2 === 1;
 
         return (
-          <RevealBlock
+          <article
             key={block.titleId}
-            className={`grid items-center gap-8 lg:grid-cols-2 lg:gap-16 ${
+            className={`detail-reveal grid items-center gap-8 lg:grid-cols-2 lg:gap-16 ${
               index > 0 ? "border-t border-white/15 pt-14 sm:pt-20" : ""
             }`}
           >
@@ -110,7 +109,7 @@ export default function DetailBlocks({ blocks }: { blocks: DetailBlock[] }) {
                 </dl>
               ) : null}
             </div>
-          </RevealBlock>
+          </article>
         );
       })}
     </div>

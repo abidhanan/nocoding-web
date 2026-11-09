@@ -36,7 +36,7 @@
     {
      "t": "4. Mapato echitatu anobatanidzwa",
      "b": [
-      "- Vercel: hosting nekupa webhusaiti.",
+      "- Cloudflare: hosting nekupa webhusaiti.",
       "- Cloudflare: CDN nekuchengetedzwa.",
       "- Google (Google Analytics 4) neMicrosoft (Clarity): huwandu hwekushandiswa kwewebhusaiti.",
       "- Meta (WhatsApp) neGoogle (Gmail): paunotibata kuburikidza nemalink eWhatsApp kana email ari pawebhusaiti iyi.",

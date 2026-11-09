@@ -36,7 +36,7 @@
     {
      "t": "4. Залучені треті сторони",
      "b": [
-      "- Vercel: хостинг і показ сайту.",
+      "- Cloudflare: хостинг і показ сайту.",
       "- Cloudflare: CDN і безпека.",
       "- Google (Google Analytics 4) і Microsoft (Clarity): статистика використання сайту.",
       "- Meta (WhatsApp) і Google (Gmail): коли ви звертаєтеся до нас через посилання на WhatsApp або електронну пошту на цьому сайті.",

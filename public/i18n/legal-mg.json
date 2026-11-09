@@ -36,7 +36,7 @@
     {
      "t": "4. Ireo ampahatelo tafiditra",
      "b": [
-      "- Vercel: hosting sy fampisehoana ny tranonkala.",
+      "- Cloudflare: hosting sy fampisehoana ny tranonkala.",
       "- Cloudflare: CDN sy fiarovana.",
       "- Google (Google Analytics 4) sy Microsoft (Clarity): statistika momba ny fampiasana ny tranonkala.",
       "- Meta (WhatsApp) sy Google (Gmail): rehefa mifandray aminay amin'ny rohy WhatsApp na mailaka eto amin'ity tranonkala ity ianao.",

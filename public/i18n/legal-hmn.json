@@ -36,7 +36,7 @@
     {
      "t": "4. Cov tog thib peb uas koom nrog",
      "b": [
-      "- Vercel: tuav thiab muab lub vev xaib tuaj.",
+      "- Cloudflare: tuav thiab muab lub vev xaib tuaj.",
       "- Cloudflare: CDN thiab kev ruaj ntseg.",
       "- Google (Google Analytics 4) thiab Microsoft (Clarity): cov txheeb cais kev siv lub vev xaib.",
       "- Meta (WhatsApp) thiab Google (Gmail): thaum koj hu rau peb los ntawm cov txuas WhatsApp lossis email ntawm lub vev xaib no.",

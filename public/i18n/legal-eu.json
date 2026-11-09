@@ -36,7 +36,7 @@
     {
      "t": "4. Parte hartzen duten hirugarrenak",
      "b": [
-      "- Vercel: gunearen hosting-a eta zerbitzua.",
+      "- Cloudflare: gunearen hosting-a eta zerbitzua.",
       "- Cloudflare: CDNa eta segurtasuna.",
       "- Google (Google Analytics 4) eta Microsoft (Clarity): gunearen erabilera estatistikak.",
       "- Meta (WhatsApp) eta Google (Gmail): gune honetako WhatsApp edo posta elektronikoko esteken bidez gurekin harremanetan jartzen zarenean.",

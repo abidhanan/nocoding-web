@@ -36,7 +36,7 @@
     {
      "t": "4. Tertiae partes implicatae",
      "b": [
-      "- Vercel: hospitium et ministratio paginae.",
+      "- Cloudflare: hospitium et ministratio paginae.",
       "- Cloudflare: CDN et securitas.",
       "- Google (Google Analytics 4) et Microsoft (Clarity): statistica usus paginae.",
       "- Meta (WhatsApp) et Google (Gmail): cum nobiscum communicas per nexus WhatsApp vel epistulae electronicae in hac pagina.",

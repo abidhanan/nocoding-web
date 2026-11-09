@@ -36,7 +36,7 @@
     {
      "t": "4. Mekgatlo ya boraro yeo e amegago",
      "b": [
-      "- Vercel: housting le go direla lefelo.",
+      "- Cloudflare: housting le go direla lefelo.",
       "- Cloudflare: CDN le tšhireletšo.",
       "- Google (Google Analytics 4) le Microsoft (Clarity): dipalopalo tša tirišo ya lefelo.",
       "- Meta (WhatsApp) le Google (Gmail): ge o ikgokaganya le rena ka dikgokagano tša WhatsApp goba tša imeile lefelong le.",

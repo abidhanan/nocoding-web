@@ -36,7 +36,7 @@
     {
      "t": "4. الأطراف الثالثة المعنية",
      "b": [
-      "- Vercel: استضافة الموقع وتقديمه.",
+      "- Cloudflare: استضافة الموقع وتقديمه.",
       "- Cloudflare: شبكة CDN والأمان.",
       "- Google (Google Analytics 4) وMicrosoft (Clarity): إحصاءات استخدام الموقع.",
       "- Meta (WhatsApp) وGoogle (Gmail): عند تواصلك معنا عبر روابط WhatsApp أو البريد الإلكتروني في هذا الموقع.",

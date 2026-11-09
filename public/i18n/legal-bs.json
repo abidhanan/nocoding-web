@@ -36,7 +36,7 @@
     {
      "t": "4. Uključene treće strane",
      "b": [
-      "- Vercel: hosting i posluživanje stranice.",
+      "- Cloudflare: hosting i posluživanje stranice.",
       "- Cloudflare: CDN i sigurnost.",
       "- Google (Google Analytics 4) i Microsoft (Clarity): statistika korištenja stranice.",
       "- Meta (WhatsApp) i Google (Gmail): kada nas kontaktirate putem WhatsApp ili e-mail linkova na ovoj stranici.",

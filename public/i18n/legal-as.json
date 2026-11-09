@@ -36,7 +36,7 @@
     {
      "t": "4. জড়িত তৃতীয় পক্ষ",
      "b": [
-      "- Vercel: ছাইটটোৰ হোষ্টিং আৰু পৰিবেশন।",
+      "- Cloudflare: ছাইটটোৰ হোষ্টিং আৰু পৰিবেশন।",
       "- Cloudflare: CDN আৰু সুৰক্ষা।",
       "- Google (Google Analytics 4) আৰু Microsoft (Clarity): ছাইটৰ ব্যৱহাৰৰ পৰিসংখ্যা।",
       "- Meta (WhatsApp) আৰু Google (Gmail): আপুনি এই ছাইটৰ WhatsApp বা ইমেইল লিংকৰ জৰিয়তে আমাৰ সৈতে যোগাযোগ কৰিলে।",

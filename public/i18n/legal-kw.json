@@ -36,7 +36,7 @@
     {
      "t": "4. Tryghyes yn kever",
      "b": [
-      "- Vercel: gwesteva ha servya an le.",
+      "- Cloudflare: gwesteva ha servya an le.",
       "- Cloudflare: CDN ha sawder.",
       "- Google (Google Analytics 4) ha Microsoft (Clarity): statystygyon devnydh an le.",
       "- Meta (WhatsApp) ha Google (Gmail): pan wrewgh kontakt genen dre gevrennow WhatsApp po e-bost war an le ma.",

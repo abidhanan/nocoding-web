@@ -36,7 +36,7 @@
     {
      "t": "4. Amaqembu wesithathu ahilelekile",
      "b": [
-      "- Vercel: ukusingatha nokusebenzisa isayithi.",
+      "- Cloudflare: ukusingatha nokusebenzisa isayithi.",
       "- Cloudflare: i-CDN nokuphepha.",
       "- Google (Google Analytics 4) ne-Microsoft (Clarity): izibalo zokusetshenziswa kwesayithi.",
       "- Meta (WhatsApp) ne-Google (Gmail): uma uxhumana nathi ngezixhumanisi ze-WhatsApp noma ze-imeyili kule sayithi.",

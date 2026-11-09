@@ -7,6 +7,7 @@ import { LocalizedText } from "./localized-text";
 /** "Artikel" block on the home page. Renders nothing while there are no published articles. */
 export default async function ArticlesSection() {
   const articles = await getPublishedArticles();
+  const featuredArticles = articles.slice(0, 6);
 
   if (articles.length === 0) {
     return null;
@@ -25,7 +26,7 @@ export default async function ArticlesSection() {
         </p>
       </header>
 
-      <ArticlesCarousel articles={articles.map(toPreview)} />
+      <ArticlesCarousel articles={featuredArticles.map(toPreview)} />
 
       <div className="mt-10 flex justify-center">
         <Link

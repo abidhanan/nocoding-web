@@ -36,7 +36,7 @@
     {
      "t": "4. Pihak katolu na manumpak",
      "b": [
-      "- Vercel: hosting dohot panuduhan situs.",
+      "- Cloudflare: hosting dohot panuduhan situs.",
       "- Cloudflare: CDN dohot kaamanan.",
       "- Google (Google Analytics 4) dohot Microsoft (Clarity): statistik pamakean situs.",
       "- Meta (WhatsApp) dohot Google (Gmail): tingki manghubungi hami marhite tautan WhatsApp manang email di situs on.",

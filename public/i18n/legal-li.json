@@ -36,7 +36,7 @@
     {
      "t": "4. Betrokke derde partije",
      "b": [
-      "- Vercel: hosting en 't laote werke van de site.",
+      "- Cloudflare: hosting en 't laote werke van de site.",
       "- Cloudflare: CDN en beveiliging.",
       "- Google (Google Analytics 4) en Microsoft (Clarity): statistieke euver 't gebroek van de site.",
       "- Meta (WhatsApp) en Google (Gmail): es se contact mit os opnumps via de WhatsApp- of e-maillinks op dees site.",

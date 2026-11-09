@@ -36,7 +36,7 @@
     {
      "t": "4. Na ilala ni ketetolu e curu mai",
      "b": [
-      "- Vercel: na hosting kei na vakaraitaki ni wepsaiti.",
+      "- Cloudflare: na hosting kei na vakaraitaki ni wepsaiti.",
       "- Cloudflare: na CDN kei na taqomaki.",
       "- Google (Google Analytics 4) kei Microsoft (Clarity): na ivakatakilakila ni vakayagataki ni wepsaiti.",
       "- Meta (WhatsApp) kei Google (Gmail): ni o veitaratara kei keimami ena WhatsApp se imeli ena wepsaiti oqo.",

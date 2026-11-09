@@ -36,7 +36,7 @@
     {
      "t": "4. Ikatlo nga mga partido nga nalambigit",
      "b": [
-      "- Vercel: hosting kag pag-serbisyo sang site.",
+      "- Cloudflare: hosting kag pag-serbisyo sang site.",
       "- Cloudflare: CDN kag seguridad.",
       "- Google (Google Analytics 4) kag Microsoft (Clarity): estadistika sang paggamit sang site.",
       "- Meta (WhatsApp) kag Google (Gmail): kon kontakon mo kami paagi sa mga link sa WhatsApp ukon email sa sini nga site.",

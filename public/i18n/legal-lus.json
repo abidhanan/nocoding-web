@@ -36,7 +36,7 @@
     {
      "t": "4. Pawl thumal tel te",
      "b": [
-      "- Vercel: site hosting leh pe chhuah.",
+      "- Cloudflare: site hosting leh pe chhuah.",
       "- Cloudflare: CDN leh venhimna.",
       "- Google (Google Analytics 4) leh Microsoft (Clarity): site hman dan statistics.",
       "- Meta (WhatsApp) leh Google (Gmail): he site a WhatsApp emaw email link hmangin min i rawn biak hunah.",

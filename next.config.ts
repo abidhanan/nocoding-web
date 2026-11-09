@@ -1,7 +1,13 @@
 import type { NextConfig } from "next";
+import { initOpenNextCloudflareForDev } from "@opennextjs/cloudflare";
+
+initOpenNextCloudflareForDev();
 
 const nextConfig: NextConfig = {
   devIndicators: false,
+  experimental: {
+    inlineCss: true,
+  },
   async headers() {
     const immutableAssetHeaders = [
       {
@@ -37,35 +43,24 @@ const nextConfig: NextConfig = {
         source: "/nocoding-logo.webp",
         headers: immutableAssetHeaders,
       },
-      {
-        // Page HTML: `no-transform` stops Cloudflare from re-encoding Vercel's
-        // Brotli response as zstd, which Lighthouse mis-measures as uncompressed.
-        source: "/",
+      ...["/", "/artikel", "/artikel/:slug"].map((source) => ({
+        source,
         headers: [
           {
             key: "Cache-Control",
-            value: "public, max-age=0, must-revalidate, no-transform",
+            value: "public, max-age=0, s-maxage=300, stale-while-revalidate=86400",
           },
-        ],
-      },
-      {
-        source: "/artikel",
-        headers: [
           {
-            key: "Cache-Control",
-            value: "public, max-age=0, must-revalidate, no-transform",
+            key: "Cloudflare-CDN-Cache-Control",
+            value: "public, max-age=300, stale-while-revalidate=86400",
           },
-        ],
-      },
-      {
-        source: "/artikel/:slug",
-        headers: [
+          { key: "Content-Language", value: "id" },
           {
-            key: "Cache-Control",
-            value: "public, max-age=0, must-revalidate, no-transform",
+            key: "X-Robots-Tag",
+            value: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
           },
         ],
-      },
+      })),
       {
         source: "/:path*",
         headers: [

@@ -36,7 +36,7 @@
     {
      "t": "4. Partijiet terzi involuti",
      "b": [
-      "- Vercel: hosting u servizz tas-sit.",
+      "- Cloudflare: hosting u servizz tas-sit.",
       "- Cloudflare: CDN u sigurtà.",
       "- Google (Google Analytics 4) u Microsoft (Clarity): statistiki dwar l-użu tas-sit.",
       "- Meta (WhatsApp) u Google (Gmail): meta tikkuntattjana permezz tal-links tal-WhatsApp jew tal-email f'dan is-sit.",

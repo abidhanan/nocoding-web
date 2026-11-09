@@ -36,7 +36,7 @@
     {
      "t": "4. Mekha ea boraro e amehang",
      "b": [
-      "- Vercel: hosting le ho fana ka sebaka.",
+      "- Cloudflare: hosting le ho fana ka sebaka.",
       "- Cloudflare: CDN le tšireletso.",
       "- Google (Google Analytics 4) le Microsoft (Clarity): lipalo-palo tsa tšebeliso ea sebaka.",
       "- Meta (WhatsApp) le Google (Gmail): ha u ikopanya le rona ka likhokahano tsa WhatsApp kapa tsa imeile sebakeng sena.",

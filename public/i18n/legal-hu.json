@@ -36,7 +36,7 @@
     {
      "t": "4. Az érintett harmadik felek",
      "b": [
-      "- Vercel: az oldal tárhelye és kiszolgálása.",
+      "- Cloudflare: az oldal tárhelye és kiszolgálása.",
       "- Cloudflare: CDN és biztonság.",
       "- Google (Google Analytics 4) és Microsoft (Clarity): az oldal használati statisztikái.",
       "- Meta (WhatsApp) és Google (Gmail): amikor az oldalon található WhatsApp- vagy e-mail-hivatkozásokon keresztül veszi fel velünk a kapcsolatot.",

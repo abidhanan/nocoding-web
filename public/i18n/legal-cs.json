@@ -36,7 +36,7 @@
     {
      "t": "4. Zapojené třetí strany",
      "b": [
-      "- Vercel: hosting a zobrazování webu.",
+      "- Cloudflare: hosting a zobrazování webu.",
       "- Cloudflare: CDN a zabezpečení.",
       "- Google (Google Analytics 4) a Microsoft (Clarity): statistiky používání webu.",
       "- Meta (WhatsApp) a Google (Gmail): když nás kontaktujete přes odkazy na WhatsApp nebo e-mail na tomto webu.",

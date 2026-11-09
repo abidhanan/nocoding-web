@@ -36,7 +36,7 @@
     {
      "t": "4. Strōny trzecie, kere sōm zaangażowane",
      "b": [
-      "- Vercel: hosting i ôbsługa strōny.",
+      "- Cloudflare: hosting i ôbsługa strōny.",
       "- Cloudflare: CDN i bezpieczyństwo.",
       "- Google (Google Analytics 4) i Microsoft (Clarity): statystyki używanio strōny.",
       "- Meta (WhatsApp) i Google (Gmail): gdy sie ze nami kōntaktujesz bez linki do WhatsApp abo e-mejlu na tyj strōnie.",

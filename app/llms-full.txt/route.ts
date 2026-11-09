@@ -1,7 +1,7 @@
 import { getPublishedArticles } from "../../lib/articles/store";
 import type { Block } from "../../lib/articles/types";
 
-const siteUrl = "https://www.nocoding.web.id";
+const siteUrl = "https://nocoding.web.id";
 
 export const revalidate = 3600;
 

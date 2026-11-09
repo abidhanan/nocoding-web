@@ -36,7 +36,7 @@
     {
      "t": "4. Mɔgɔ sabanw minnu bɛ nin na",
      "b": [
-      "- Vercel: siti hosting ni a jirali.",
+      "- Cloudflare: siti hosting ni a jirali.",
       "- Cloudflare: CDN ni lakanani.",
       "- Google (Google Analytics 4) ni Microsoft (Clarity): siti baarakɛli statistikiw.",
       "- Meta (WhatsApp) ni Google (Gmail): ni i be an wele WhatsApp walima imɛli ɲɛnabɔ fɛ nin siti kan.",

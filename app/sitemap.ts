@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getPublishedArticles } from "../lib/articles/store";
 
-const siteUrl = "https://www.nocoding.web.id";
+const siteUrl = "https://nocoding.web.id";
 const lastModified = new Date("2026-07-31");
 
 export const revalidate = 3600;

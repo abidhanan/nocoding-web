@@ -36,7 +36,7 @@
     {
      "t": "4. Terze part coinvolt",
      "b": [
-      "- Vercel: hosting e distribuzion del sit.",
+      "- Cloudflare: hosting e distribuzion del sit.",
       "- Cloudflare: CDN e sicurezza.",
       "- Google (Google Analytics 4) e Microsoft (Clarity): statistich d'üs del sit.",
       "- Meta (WhatsApp) e Google (Gmail): quand te ne contatet tramite i link WhatsApp o email de quest sit.",

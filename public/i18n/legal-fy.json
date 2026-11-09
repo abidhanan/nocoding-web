@@ -36,7 +36,7 @@
     {
      "t": "4. Belutsen tredden",
      "b": [
-      "- Vercel: hosting en it oanbieden fan de side.",
+      "- Cloudflare: hosting en it oanbieden fan de side.",
       "- Cloudflare: CDN en befeiliging.",
       "- Google (Google Analytics 4) en Microsoft (Clarity): gebrûksstatistiken fan de side.",
       "- Meta (WhatsApp) en Google (Gmail): as jo fia de WhatsApp- of e-mailkeppelings op dizze side kontakt mei ús opnimme.",

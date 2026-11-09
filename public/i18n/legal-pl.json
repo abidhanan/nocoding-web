@@ -36,7 +36,7 @@
     {
      "t": "4. Zaangażowane strony trzecie",
      "b": [
-      "- Vercel: hosting i udostępnianie strony.",
+      "- Cloudflare: hosting i udostępnianie strony.",
       "- Cloudflare: sieć CDN i bezpieczeństwo.",
       "- Google (Google Analytics 4) i Microsoft (Clarity): statystyki użytkowania strony.",
       "- Meta (WhatsApp) i Google (Gmail): gdy kontaktujesz się z nami za pomocą linków do WhatsApp lub e-maila na tej stronie.",

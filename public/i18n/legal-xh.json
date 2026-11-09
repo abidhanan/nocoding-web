@@ -36,7 +36,7 @@
     {
      "t": "4. Amacandelo wesithathu abandakanyekayo",
      "b": [
-      "- Vercel: ukubamba nokusebenzisa isayithi.",
+      "- Cloudflare: ukubamba nokusebenzisa isayithi.",
       "- Cloudflare: i-CDN kunye nokhuseleko.",
       "- Google (Google Analytics 4) kunye neMicrosoft (Clarity): izibalo zokusetyenziswa kwesayithi.",
       "- Meta (WhatsApp) kunye neGoogle (Gmail): xa uqhagamshelana nathi ngeelinki ze-WhatsApp okanye ze-imeyile kule sayithi.",

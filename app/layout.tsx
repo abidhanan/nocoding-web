@@ -4,11 +4,11 @@ import "./globals.css";
 
 const inter = Inter({
   subsets: ["latin"],
+  display: "swap",
   variable: "--font-inter",
-  display: "optional",
 });
 
-const siteUrl = "https://www.nocoding.web.id";
+const siteUrl = "https://nocoding.web.id";
 const siteDescription =
   "Jasa pembuatan website, aplikasi, dan automasi yang cepat, terjangkau, dan memuaskan. Paket mulai Rp 500 ribu, konsultasi gratis, plus maintenance dan domain atau hosting 1 tahun.";
 const siteTitle = "Nocoding - Jasa Pembuatan Website, Aplikasi & Automasi";
@@ -143,9 +143,10 @@ const organizationJsonLd = {
         "SEO teknis",
       ],
       sameAs: [
-        "https://www.instagram.com/nocoding_id",
+        "https://www.instagram.com/nocoding._/",
         "https://www.tiktok.com/@nocoding._",
       ],
+      knowsLanguage: ["Indonesian", "English"],
       contactPoint: {
         "@type": "ContactPoint",
         contactType: "sales",
@@ -154,6 +155,7 @@ const organizationJsonLd = {
         availableLanguage: ["Indonesian", "English"],
         areaServed: "ID",
       },
+      hasOfferCatalog: { "@id": `${siteUrl}/#packages` },
     },
     {
       "@type": "WebSite",
@@ -163,6 +165,8 @@ const organizationJsonLd = {
       description: siteDescription,
       publisher: { "@id": `${siteUrl}/#organization` },
       inLanguage: "id-ID",
+      copyrightHolder: { "@id": `${siteUrl}/#organization` },
+      copyrightYear: 2026,
     },
   ],
 };
@@ -173,8 +177,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="id" className="scroll-smooth">
-      <body className={`${inter.variable} bg-brand-dark font-sans text-slate-200 antialiased`}>
+    <html lang="id" className={`${inter.variable} scroll-smooth`}>
+      <body className="bg-brand-dark font-sans text-slate-200 antialiased">
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}

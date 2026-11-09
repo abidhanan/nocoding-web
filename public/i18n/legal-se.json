@@ -36,7 +36,7 @@
     {
      "t": "4. Mielde leahkki goalmmátoasit",
      "b": [
-      "- Vercel: siiddu hosting ja fállan.",
+      "- Cloudflare: siiddu hosting ja fállan.",
       "- Cloudflare: CDN ja sihkkarvuohta.",
       "- Google (Google Analytics 4) ja Microsoft (Clarity): siiddu geavahanstatistihkka.",
       "- Meta (WhatsApp) ja Google (Gmail): go váldá midjiin oktavuođa dán siiddu WhatsApp- dahje e-boastačujuhusaid bokte.",

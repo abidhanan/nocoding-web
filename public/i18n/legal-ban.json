@@ -36,7 +36,7 @@
     {
      "t": "4. Pihak katiga sane kalibetang",
      "b": [
-      "- Vercel: hosting miwah panayangan situs.",
+      "- Cloudflare: hosting miwah panayangan situs.",
       "- Cloudflare: CDN miwah kaamanan.",
       "- Google (Google Analytics 4) miwah Microsoft (Clarity): statistik pamakéan situs.",
       "- Meta (WhatsApp) miwah Google (Gmail): rikala ragane ngubungin titiang antuk tautan WhatsApp utawi email ring situs puniki.",

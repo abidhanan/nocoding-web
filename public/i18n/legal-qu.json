@@ -36,7 +36,7 @@
     {
      "t": "4. Hukkuna yanapaqkuna",
      "b": [
-      "- Vercel: hosting hinallataq sitio rikuchiy.",
+      "- Cloudflare: hosting hinallataq sitio rikuchiy.",
       "- Cloudflare: CDN hinallataq waqaychay.",
       "- Google (Google Analytics 4) hinallataq Microsoft (Clarity): sitio llamkachisqa yupaykuna.",
       "- Meta (WhatsApp) hinallataq Google (Gmail): kay sitiopi WhatsApp icha email ñanwan ñuqaykuwan rimaspa.",

@@ -36,7 +36,7 @@
     {
      "t": "4. Pihak katallu nipappisiri",
      "b": [
-      "- Vercel: hosting siagang pammakkitang situs.",
+      "- Cloudflare: hosting siagang pammakkitang situs.",
       "- Cloudflare: CDN siagang kaamanang.",
       "- Google (Google Analytics 4) siagang Microsoft (Clarity): statistik pamakeang situs.",
       "- Meta (WhatsApp) siagang Google (Gmail): punna kita' anggaukang kamma lewa' tautang WhatsApp eroki email ri situs ini.",

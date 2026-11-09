@@ -36,7 +36,7 @@
     {
      "t": "4. Terze parte coinvolte",
      "b": [
-      "- Vercel: hosting e distribuçion do scito.",
+      "- Cloudflare: hosting e distribuçion do scito.",
       "- Cloudflare: CDN e sicuessa.",
       "- Google (Google Analytics 4) e Microsoft (Clarity): statistiche d'uzo do scito.",
       "- Meta (WhatsApp) e Google (Gmail): quande ti ne contatti tramite i link WhatsApp ò email de sto scito.",

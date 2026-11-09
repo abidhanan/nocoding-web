@@ -36,7 +36,7 @@
     {
      "t": "4. Jalb qilingan uchinchi tomonlar",
      "b": [
-      "- Vercel: saytni joylashtirish va taqdim etish.",
+      "- Cloudflare: saytni joylashtirish va taqdim etish.",
       "- Cloudflare: CDN va xavfsizlik.",
       "- Google (Google Analytics 4) va Microsoft (Clarity): saytdan foydalanish statistikasi.",
       "- Meta (WhatsApp) va Google (Gmail): siz ushbu saytdagi WhatsApp yoki elektron pochta havolalari orqali biz bilan bog'langaningizda.",

@@ -1,20 +1,17 @@
 import "server-only";
 
-import { get, put } from "@vercel/blob";
+import { getCloudflareContext } from "@opennextjs/cloudflare";
 import { unstable_cache } from "next/cache";
 import { newId, slugify } from "./format";
+import { getRedis, storeConfigured } from "./redis";
 import { seedArticles } from "./seed";
 import type { Article, ArticleInput, Block } from "./types";
 
-// Everything lives in one private JSON file (all articles, drafts included) in a Vercel
-// Blob store. Images live in the same private store and are served through /media/*.
-const DATA_KEY = "data/articles.json";
+const DATA_KEY = "nocoding:articles:v1";
 
 const LOCAL_IMAGE = /^\/(media|articles|photos|projects)\/[a-zA-Z0-9._/-]+$/;
 
-export function storeConfigured() {
-  return Boolean(process.env.BLOB_READ_WRITE_TOKEN);
-}
+export { storeConfigured } from "./redis";
 
 /** Older saved articles had a single `category`; they now carry a list. */
 function normalizeArticle(raw: Article & { category?: string }): Article {
@@ -23,19 +20,13 @@ function normalizeArticle(raw: Article & { category?: string }): Article {
   return { ...article, categories: Array.isArray(raw.categories) ? raw.categories : category ? [category] : [] };
 }
 
-async function readJson(useCache: boolean): Promise<Article[] | null> {
+async function readJson(): Promise<Article[] | null> {
   if (!storeConfigured()) {
     return null;
   }
 
   try {
-    const result = await get(DATA_KEY, { access: "private", useCache });
-
-    if (!result || result.statusCode !== 200) {
-      return null;
-    }
-
-    const parsed = JSON.parse(await new Response(result.stream).text());
+    const parsed = await getRedis().get<Article[]>(DATA_KEY);
 
     return Array.isArray(parsed) ? parsed.map(normalizeArticle) : null;
   } catch {
@@ -49,12 +40,12 @@ function sortNewestFirst(articles: Article[]) {
 
 /** Always-fresh read for the admin panel (drafts included). */
 export async function readAllFresh(): Promise<Article[]> {
-  return sortNewestFirst((await readJson(false)) ?? seedArticles);
+  return sortNewestFirst((await readJson()) ?? seedArticles);
 }
 
 const readPublishedCached = unstable_cache(
   async () => {
-    const all = (await readJson(true)) ?? seedArticles;
+    const all = (await readJson()) ?? seedArticles;
 
     return sortNewestFirst(all.filter((article) => article.status === "published"));
   },
@@ -75,12 +66,7 @@ export async function getArticleById(id: string) {
 }
 
 async function saveAll(articles: Article[]) {
-  await put(DATA_KEY, JSON.stringify(articles), {
-    access: "private",
-    allowOverwrite: true,
-    contentType: "application/json",
-    cacheControlMaxAge: 60,
-  });
+  await getRedis().set(DATA_KEY, articles);
 }
 
 function uniqueSlug(base: string, articles: Article[], ownId?: string) {
@@ -147,6 +133,16 @@ const IMAGE_TYPES: Record<string, string> = {
 
 export const MAX_IMAGE_BYTES = 3 * 1024 * 1024;
 
+async function getMediaStore() {
+  const { env } = await getCloudflareContext({ async: true });
+
+  if (!env.MEDIA_KV) {
+    throw new Error("Cloudflare KV belum dikonfigurasi.");
+  }
+
+  return env.MEDIA_KV;
+}
+
 /** Stores an uploaded image and returns the path it is served from. */
 export async function saveImage(file: File): Promise<string> {
   const ext = IMAGE_TYPES[file.type];
@@ -160,24 +156,31 @@ export async function saveImage(file: File): Promise<string> {
   }
 
   const base = slugify(file.name.replace(/\.[^.]+$/, "")) || "gambar";
-  const blob = await put(`media/${base}.${ext}`, file, {
-    access: "private",
-    addRandomSuffix: true,
-    contentType: file.type,
-    cacheControlMaxAge: 60 * 60 * 24 * 365,
+  const suffix = crypto.randomUUID().replaceAll("-", "").slice(0, 12);
+  const pathname = `media/${base}-${suffix}.${ext}`;
+  const media = await getMediaStore();
+
+  await media.put(pathname, await file.arrayBuffer(), {
+    metadata: { contentType: file.type },
   });
 
-  return `/${blob.pathname}`;
+  return `/${pathname}`;
 }
 
 export async function readImage(pathname: string) {
-  if (!storeConfigured() || !/^media\/[a-z0-9._-]+$/i.test(pathname)) {
+  if (!/^media\/[a-z0-9._-]+$/i.test(pathname)) {
     return null;
   }
 
-  const result = await get(pathname, { access: "private" });
+  try {
+    const result = await (await getMediaStore()).getWithMetadata<{ contentType?: string }>(pathname, "arrayBuffer");
 
-  return result && result.statusCode === 200 ? result : null;
+    return result.value
+      ? { body: result.value, size: result.value.byteLength, contentType: result.metadata?.contentType }
+      : null;
+  } catch {
+    return null;
+  }
 }
 
 export function sanitizeBlocks(blocks: unknown): Block[] {

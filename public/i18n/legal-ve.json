@@ -36,7 +36,7 @@
     {
      "t": "4. Vhaṅwe vha vhuraru vhane vha dzhenelela",
      "b": [
-      "- Vercel: hosting na u ṱanzwa ha saithi.",
+      "- Cloudflare: hosting na u ṱanzwa ha saithi.",
       "- Cloudflare: CDN na tsireledzo.",
       "- Google (Google Analytics 4) na Microsoft (Clarity): zwiṱatisiṱiki zwa u shumiswa ha saithi.",
       "- Meta (WhatsApp) na Google (Gmail): musi ni tshi tshimbidzana na ṋe nga lingi dza WhatsApp kana imeiḽi kha saithi iyi.",

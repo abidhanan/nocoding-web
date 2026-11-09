@@ -36,7 +36,7 @@
     {
      "t": "4. اشخاص ثالث درگیر",
      "b": [
-      "- Vercel: میزبانی و نمایش سایت.",
+      "- Cloudflare: میزبانی و نمایش سایت.",
       "- Cloudflare: CDN و امنیت.",
       "- Google (Google Analytics 4) و Microsoft (Clarity): آمار استفاده از سایت.",
       "- Meta (WhatsApp) و Google (Gmail): هنگامی که از طریق پیوندهای WhatsApp یا ایمیل در این سایت با ما تماس می‌گیرید.",

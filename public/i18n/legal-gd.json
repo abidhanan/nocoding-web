@@ -36,7 +36,7 @@
     {
      "t": "4. Treas pàrtaidhean an sàs",
      "b": [
-      "- Vercel: aoigheachd agus lìbhrigeadh na làraich.",
+      "- Cloudflare: aoigheachd agus lìbhrigeadh na làraich.",
       "- Cloudflare: CDN agus tèarainteachd.",
       "- Google (Google Analytics 4) agus Microsoft (Clarity): staitistigean cleachdaidh na làraich.",
       "- Meta (WhatsApp) agus Google (Gmail): nuair a nì thu fios thugainn tro cheanglaichean WhatsApp no post-d air an làrach seo.",

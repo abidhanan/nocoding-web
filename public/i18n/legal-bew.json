@@ -36,7 +36,7 @@
     {
      "t": "4. Pihak ketiga yang terlibat",
      "b": [
-      "- Vercel: hosting dan nyajiin situs.",
+      "- Cloudflare: hosting dan nyajiin situs.",
       "- Cloudflare: CDN dan keamanan.",
       "- Google (Google Analytics 4) dan Microsoft (Clarity): statistik pemakaian situs.",
       "- Meta (WhatsApp) dan Google (Gmail): waktu lu ngubungin kite lewat tautan WhatsApp atau email di situs ini.",

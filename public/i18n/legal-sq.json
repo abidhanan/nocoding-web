@@ -36,7 +36,7 @@
     {
      "t": "4. Palët e treta të përfshira",
      "b": [
-      "- Vercel: hostimi dhe shërbimi i faqes.",
+      "- Cloudflare: hostimi dhe shërbimi i faqes.",
       "- Cloudflare: CDN dhe siguria.",
       "- Google (Google Analytics 4) dhe Microsoft (Clarity): statistika të përdorimit të faqes.",
       "- Meta (WhatsApp) dhe Google (Gmail): kur na kontaktoni përmes lidhjeve të WhatsApp ose emailit në këtë faqe.",

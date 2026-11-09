@@ -36,7 +36,7 @@
     {
      "t": "4. Implikitaj triaj partoj",
      "b": [
-      "- Vercel: gastigado kaj servado de la retejo.",
+      "- Cloudflare: gastigado kaj servado de la retejo.",
       "- Cloudflare: CDN kaj sekureco.",
       "- Google (Google Analytics 4) kaj Microsoft (Clarity): statistikoj pri uzo de la retejo.",
       "- Meta (WhatsApp) kaj Google (Gmail): kiam vi kontaktas nin per la WhatsApp- aŭ retpoŝtaj ligiloj en ĉi tiu retejo.",

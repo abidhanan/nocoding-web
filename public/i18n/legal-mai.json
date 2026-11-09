@@ -36,7 +36,7 @@
     {
      "t": "4. शामिल तेसर पक्ष",
      "b": [
-      "- Vercel: साइटक होस्टिंग आ वितरण।",
+      "- Cloudflare: साइटक होस्टिंग आ वितरण।",
       "- Cloudflare: CDN आ सुरक्षा।",
       "- Google (Google Analytics 4) आ Microsoft (Clarity): साइटक उपयोगक आँकड़ा।",
       "- Meta (WhatsApp) आ Google (Gmail): जखन अहाँ एहि साइट पर WhatsApp वा ईमेल लिंक सँ हमरा सँ संपर्क करैत छी।",

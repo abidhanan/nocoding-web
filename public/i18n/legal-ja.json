@@ -36,7 +36,7 @@
     {
      "t": "4. 関与する第三者",
      "b": [
-      "- Vercel：サイトのホスティングと配信。",
+      "- Cloudflare：サイトのホスティングと配信。",
       "- Cloudflare：CDN とセキュリティ。",
       "- Google（Google Analytics 4）および Microsoft（Clarity）：サイトの利用統計。",
       "- Meta（WhatsApp）および Google（Gmail）：本サイト上の WhatsApp またはメールのリンクからお問い合わせいただく場合。",

@@ -36,7 +36,7 @@
     {
      "t": "4. Tredje parter som är involverade",
      "b": [
-      "- Vercel: webbhotell och leverans av webbplatsen.",
+      "- Cloudflare: webbhotell och leverans av webbplatsen.",
       "- Cloudflare: CDN och säkerhet.",
       "- Google (Google Analytics 4) och Microsoft (Clarity): statistik över webbplatsens användning.",
       "- Meta (WhatsApp) och Google (Gmail): när du kontaktar oss via länkarna till WhatsApp eller e-post på webbplatsen.",

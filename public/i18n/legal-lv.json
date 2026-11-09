@@ -36,7 +36,7 @@
     {
      "t": "4. Iesaistītās trešās puses",
      "b": [
-      "- Vercel: vietnes hostings un piegāde.",
+      "- Cloudflare: vietnes hostings un piegāde.",
       "- Cloudflare: CDN un drošība.",
       "- Google (Google Analytics 4) un Microsoft (Clarity): vietnes lietošanas statistika.",
       "- Meta (WhatsApp) un Google (Gmail): kad sazināties ar mums, izmantojot šīs vietnes WhatsApp vai e-pasta saites.",

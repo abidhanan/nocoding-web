@@ -36,7 +36,7 @@
     {
      "t": "4. Tiers concernés",
      "b": [
-      "- Vercel : hébergement et diffusion du site.",
+      "- Cloudflare : hébergement et diffusion du site.",
       "- Cloudflare : CDN et sécurité.",
       "- Google (Google Analytics 4) et Microsoft (Clarity) : statistiques d'utilisation du site.",
       "- Meta (WhatsApp) et Google (Gmail) : lorsque vous nous contactez via les liens WhatsApp ou e-mail de ce site.",

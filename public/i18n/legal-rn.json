@@ -36,7 +36,7 @@
     {
      "t": "4. Abandi bagira uruhara",
      "b": [
-      "- Vercel: hosting no gutanga urubuga.",
+      "- Cloudflare: hosting no gutanga urubuga.",
       "- Cloudflare: CDN n'umutekano.",
       "- Google (Google Analytics 4) na Microsoft (Clarity): imibare y'ukuntu urubuga rukoreshwa.",
       "- Meta (WhatsApp) na Google (Gmail): igihe utwandikiye unyuze ku miyoboro ya WhatsApp canke imeri iri kuri uru rubuga.",

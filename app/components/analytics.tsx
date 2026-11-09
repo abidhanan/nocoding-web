@@ -1,6 +1,6 @@
 import AnalyticsLoader from "./analytics-loader";
 
-// IDs come from environment variables (set them in Vercel > Settings > Environment Variables
+// IDs come from environment variables configured for the deployment.
 // and redeploy). Nothing is loaded while a variable is empty, so it is safe to ship without them.
 const gaId = process.env.NEXT_PUBLIC_GA_ID?.trim();
 const clarityId = process.env.NEXT_PUBLIC_CLARITY_ID?.trim();

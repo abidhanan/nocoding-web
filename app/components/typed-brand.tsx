@@ -13,8 +13,8 @@ type BrandAnimationSnapshot = {
 };
 
 const initialSnapshot: BrandAnimationSnapshot = {
-  visibleCount: 0,
-  showUnderscore: false,
+  visibleCount: totalGlyphs,
+  showUnderscore: true,
 };
 
 let snapshot = initialSnapshot;
@@ -58,6 +58,8 @@ function setupMotionPreference() {
 }
 
 async function runSharedAnimation() {
+  let isFirstCycle = true;
+
   while (animationStarted) {
     if (prefersReducedMotion) {
       updateSnapshot({
@@ -66,6 +68,13 @@ async function runSharedAnimation() {
       });
       await wait(1000);
       continue;
+    }
+
+    if (isFirstCycle) {
+      isFirstCycle = false;
+      await wait(2200);
+    } else {
+      await wait(900);
     }
 
     updateSnapshot({
@@ -92,7 +101,6 @@ async function runSharedAnimation() {
       await wait(eraseDelays[totalGlyphs - index] ?? 78);
     }
 
-    await wait(900);
   }
 }
 

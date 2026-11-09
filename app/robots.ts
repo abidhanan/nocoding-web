@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const siteUrl = "https://www.nocoding.web.id";
+const siteUrl = "https://nocoding.web.id";
 
 // Search engines and AI assistants (answer engines) are all welcome to read and cite the site.
 const aiCrawlers = [
@@ -28,6 +28,6 @@ export default function robots(): MetadataRoute.Robots {
       { userAgent: aiCrawlers, allow: "/", disallow: ["/api/"] },
     ],
     sitemap: `${siteUrl}/sitemap.xml`,
-    host: siteUrl,
+    host: new URL(siteUrl).host,
   };
 }

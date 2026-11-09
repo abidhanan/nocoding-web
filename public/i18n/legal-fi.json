@@ -36,7 +36,7 @@
     {
      "t": "4. Mukana olevat kolmannet osapuolet",
      "b": [
-      "- Vercel: sivuston isännöinti ja tarjoaminen.",
+      "- Cloudflare: sivuston isännöinti ja tarjoaminen.",
       "- Cloudflare: CDN ja tietoturva.",
       "- Google (Google Analytics 4) ja Microsoft (Clarity): sivuston käyttötilastot.",
       "- Meta (WhatsApp) ja Google (Gmail): kun otat meihin yhteyttä tämän sivuston WhatsApp- tai sähköpostilinkkien kautta.",

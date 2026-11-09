@@ -36,7 +36,7 @@
     {
      "t": "4. Triðjapartar, sum eru við",
      "b": [
-      "- Vercel: vevtænasta og vísing av síðuni.",
+      "- Cloudflare: vevtænasta og vísing av síðuni.",
       "- Cloudflare: CDN og trygd.",
       "- Google (Google Analytics 4) og Microsoft (Clarity): brúkstølfrøði fyri síðuna.",
       "- Meta (WhatsApp) og Google (Gmail): tá tú tekur samband við okkum gjøgnum WhatsApp- ella teldupostleinkjurnar á hesi síðu.",

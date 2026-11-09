@@ -36,7 +36,7 @@
     {
      "t": "4. צדדים שלישיים המעורבים",
      "b": [
-      "- Vercel: אחסון והגשת האתר.",
+      "- Cloudflare: אחסון והגשת האתר.",
       "- Cloudflare: CDN ואבטחה.",
       "- Google (Google Analytics 4) ו-Microsoft (Clarity): סטטיסטיקות שימוש באתר.",
       "- Meta (WhatsApp) ו-Google (Gmail): כאשר אתה יוצר איתנו קשר דרך הקישורים ל-WhatsApp או לדוא״ל באתר זה.",

@@ -36,7 +36,7 @@
     {
      "t": "4. Pihak katello sè acarèta",
      "b": [
-      "- Vercel: hosting bân panampelan situs.",
+      "- Cloudflare: hosting bân panampelan situs.",
       "- Cloudflare: CDN bân kaamanan.",
       "- Google (Google Analytics 4) bân Microsoft (Clarity): statistik panggunaan situs.",
       "- Meta (WhatsApp) bân Google (Gmail): bâ'na sampèyan nyambung ka kamè' lèwat tautan WhatsApp otabâ email è situs reya.",

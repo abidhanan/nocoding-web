@@ -36,7 +36,7 @@
     {
      "t": "4. संलग्न तेस्रो पक्षहरू",
      "b": [
-      "- Vercel: साइट होस्ट गर्ने र सञ्चालन गर्ने।",
+      "- Cloudflare: साइट होस्ट गर्ने र सञ्चालन गर्ने।",
       "- Cloudflare: CDN र सुरक्षा।",
       "- Google (Google Analytics 4) र Microsoft (Clarity): साइट प्रयोगको तथ्याङ्क।",
       "- Meta (WhatsApp) र Google (Gmail): तपाईंले यो साइटका WhatsApp वा इमेल लिङ्कमार्फत हामीलाई सम्पर्क गर्दा।",

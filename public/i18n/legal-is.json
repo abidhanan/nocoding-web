@@ -36,7 +36,7 @@
     {
      "t": "4. Þriðju aðilar sem koma við sögu",
      "b": [
-      "- Vercel: hýsing og þjónusta vefsins.",
+      "- Cloudflare: hýsing og þjónusta vefsins.",
       "- Cloudflare: CDN og öryggi.",
       "- Google (Google Analytics 4) og Microsoft (Clarity): notkunartölfræði vefsins.",
       "- Meta (WhatsApp) og Google (Gmail): þegar þú hefur samband við okkur í gegnum WhatsApp- eða tölvupóstshlekkina á þessum vef.",

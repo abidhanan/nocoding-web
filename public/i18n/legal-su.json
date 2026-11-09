@@ -36,7 +36,7 @@
     {
      "t": "4. Pihak katilu anu kalibet",
      "b": [
-      "- Vercel: hosting jeung ngahaturkeun situs.",
+      "- Cloudflare: hosting jeung ngahaturkeun situs.",
       "- Cloudflare: CDN jeung kaamanan.",
       "- Google (Google Analytics 4) jeung Microsoft (Clarity): statistik pamakéan situs.",
       "- Meta (WhatsApp) jeung Google (Gmail): nalika anjeun ngahubungan kami ngaliwatan tautan WhatsApp atawa surélék dina situs ieu.",

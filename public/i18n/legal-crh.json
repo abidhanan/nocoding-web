@@ -36,7 +36,7 @@
     {
      "t": "4. Alâqadar üçünci taraflar",
      "b": [
-      "- Vercel: saytnıñ hostingi ve kösterilüvi.",
+      "- Cloudflare: saytnıñ hostingi ve kösterilüvi.",
       "- Cloudflare: CDN ve emniyet.",
       "- Google (Google Analytics 4) ve Microsoft (Clarity): sayt qullanuv statistikası.",
       "- Meta (WhatsApp) ve Google (Gmail): bu saytta WhatsApp yaki e-poçta bağlantıları ile bizim ile alâqağa keçkeniñizde.",

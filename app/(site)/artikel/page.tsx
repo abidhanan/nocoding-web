@@ -9,7 +9,7 @@ import { getPublishedArticles } from "../../../lib/articles/store";
 
 export const revalidate = 300;
 
-const siteUrl = "https://www.nocoding.web.id";
+const siteUrl = "https://nocoding.web.id";
 
 export const metadata: Metadata = {
   title: "Artikel",

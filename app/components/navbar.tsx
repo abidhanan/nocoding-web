@@ -31,7 +31,7 @@ export default function Navbar() {
               height={40}
               className="nocoding-logo-mark__image h-10 w-10 object-contain"
               loading="eager"
-              fetchPriority="high"
+              unoptimized
             />
           </span>
           <span className="flex h-10 -translate-y-0.5 items-center">

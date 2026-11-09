@@ -36,7 +36,7 @@
     {
      "t": "4. Mga third party na kasangkot",
      "b": [
-      "- Vercel: pag-host at paghahatid ng site.",
+      "- Cloudflare: pag-host at paghahatid ng site.",
       "- Cloudflare: CDN at seguridad.",
       "- Google (Google Analytics 4) at Microsoft (Clarity): mga istatistika ng paggamit ng site.",
       "- Meta (WhatsApp) at Google (Gmail): kapag nakipag-ugnayan ka sa amin sa pamamagitan ng mga link sa WhatsApp o email sa site na ito.",

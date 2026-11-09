@@ -36,7 +36,7 @@
     {
      "t": "4. An mga ikatlong partido na may kaiba",
      "b": [
-      "- Vercel: hosting asin pagpaserbi kan site.",
+      "- Cloudflare: hosting asin pagpaserbi kan site.",
       "- Cloudflare: CDN asin seguridad.",
       "- Google (Google Analytics 4) asin Microsoft (Clarity): estadistika sa paggamit kan site.",
       "- Meta (WhatsApp) asin Google (Gmail): kun nakikipag-ugnayan kamo samuya paagi sa mga link sa WhatsApp o email sa site na ini.",

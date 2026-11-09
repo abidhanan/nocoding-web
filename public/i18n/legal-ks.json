@@ -36,7 +36,7 @@
     {
      "t": "4. شامل تیسرِ فریق",
      "b": [
-      "- Vercel: سایٹ ہوسٹ کرنہٕ تہٕ چلاونہٕ.",
+      "- Cloudflare: سایٹ ہوسٹ کرنہٕ تہٕ چلاونہٕ.",
       "- Cloudflare: CDN تہٕ سیکورٹی.",
       "- Google (Google Analytics 4) تہٕ Microsoft (Clarity): سایٹ استعمال ہند اعداد و شمار.",
       "- Meta (WhatsApp) تہٕ Google (Gmail): یلہِ توٚہۍ یمہ سایٹ پیٹھ WhatsApp یا ای میل لنکن ذریعہ ساتھ رابطہ کرو.",

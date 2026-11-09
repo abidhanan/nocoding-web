@@ -91,7 +91,7 @@ export const privacyPolicy: LegalDoc = {
       title: { id: "4. Pihak ketiga yang terlibat", en: "4. Third parties involved" },
       body: {
         id: [
-          "- Vercel: hosting dan penayangan situs.",
+          "- Cloudflare: hosting dan penayangan situs.",
           "- Cloudflare: CDN dan keamanan.",
           "- Google (Google Analytics 4) dan Microsoft (Clarity): statistik penggunaan situs.",
           "- Meta (WhatsApp) dan Google (Gmail): saat Anda menghubungi kami lewat tautan WhatsApp atau email di situs ini.",
@@ -99,7 +99,7 @@ export const privacyPolicy: LegalDoc = {
           "Penyedia tersebut dapat memproses data di luar Indonesia sesuai kebijakan masing-masing.",
         ],
         en: [
-          "- Vercel: hosting and serving the site.",
+          "- Cloudflare: hosting and serving the site.",
           "- Cloudflare: CDN and security.",
           "- Google (Google Analytics 4) and Microsoft (Clarity): site usage statistics.",
           "- Meta (WhatsApp) and Google (Gmail): when you contact us through the WhatsApp or email links on this site.",

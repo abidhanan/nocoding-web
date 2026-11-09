@@ -36,7 +36,7 @@
     {
      "t": "4. Pihak katigo nan tabalik",
      "b": [
-      "- Vercel: hosting jo panyajian situs.",
+      "- Cloudflare: hosting jo panyajian situs.",
       "- Cloudflare: CDN jo karamanan.",
       "- Google (Google Analytics 4) jo Microsoft (Clarity): statistik panggunoan situs.",
       "- Meta (WhatsApp) jo Google (Gmail): katiko Sanak manghubuangi kami lewat tautan WhatsApp atau email di situs iko.",

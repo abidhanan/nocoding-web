@@ -22,8 +22,9 @@ export default function ScrollRevealController() {
     const sections = Array.from(
       document.querySelectorAll<HTMLElement>("main > section[id]:not(#beranda)"),
     );
+    const blocks = Array.from(document.querySelectorAll<HTMLElement>(".detail-reveal"));
 
-    if (!sections.length) {
+    if (!sections.length && !blocks.length) {
       return undefined;
     }
 
@@ -43,6 +44,19 @@ export default function ScrollRevealController() {
       pending.push(section);
     });
 
+    blocks.forEach((block) => {
+      const rect = block.getBoundingClientRect();
+
+      block.classList.add("block-reveal");
+
+      if ((startsAtTop ? rect.top + window.scrollY : rect.top) < window.innerHeight * 0.92) {
+        block.classList.add("block-reveal--visible");
+        return;
+      }
+
+      pending.push(block);
+    });
+
     if (!pending.length) {
       return undefined;
     }
@@ -56,7 +70,11 @@ export default function ScrollRevealController() {
 
           const section = entry.target as HTMLElement;
 
-          section.classList.add("section-reveal--visible");
+          section.classList.add(
+            section.classList.contains("block-reveal")
+              ? "block-reveal--visible"
+              : "section-reveal--visible",
+          );
           observer.unobserve(section);
         });
       },

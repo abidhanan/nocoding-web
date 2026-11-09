@@ -36,7 +36,7 @@
     {
      "t": "4. Cəlb olunan üçüncü tərəflər",
      "b": [
-      "- Vercel: saytın hostinqi və göstərilməsi.",
+      "- Cloudflare: saytın hostinqi və göstərilməsi.",
       "- Cloudflare: CDN və təhlükəsizlik.",
       "- Google (Google Analytics 4) və Microsoft (Clarity): saytın istifadə statistikası.",
       "- Meta (WhatsApp) və Google (Gmail): bizimlə bu saytdakı WhatsApp və ya e-poçt keçidləri vasitəsilə əlaqə saxladığınız zaman.",

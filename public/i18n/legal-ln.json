@@ -36,7 +36,7 @@
     {
      "t": "4. Bato mosusu oyo bazali na mosala",
      "b": [
-      "- Vercel: hébergement mpe kopesa site.",
+      "- Cloudflare: hébergement mpe kopesa site.",
       "- Cloudflare: CDN mpe libateli.",
       "- Google (Google Analytics 4) mpe Microsoft (Clarity): statistiques ya mosaleli ya site.",
       "- Meta (WhatsApp) mpe Google (Gmail): tango ozali kosolola na biso na nzela ya bilongi ya WhatsApp to ya email na site oyo.",

@@ -36,7 +36,7 @@
     {
      "t": "4. Pihak katelu sing kalebu",
      "b": [
-      "- Vercel: hosting lan nyedhiyakake situs.",
+      "- Cloudflare: hosting lan nyedhiyakake situs.",
       "- Cloudflare: CDN lan keamanan.",
       "- Google (Google Analytics 4) lan Microsoft (Clarity): statistik panggunaan situs.",
       "- Meta (WhatsApp) lan Google (Gmail): nalika sampeyan ngubungi kita liwat pranala WhatsApp utawa email ing situs iki.",

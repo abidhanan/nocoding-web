@@ -36,7 +36,7 @@
     {
      "t": "4. Bantu ya zole yina ke na kati",
      "b": [
-      "- Vercel: hébergement ti kupesa site.",
+      "- Cloudflare: hébergement ti kupesa site.",
       "- Cloudflare: CDN ti kukanga.",
       "- Google (Google Analytics 4) ti Microsoft (Clarity): ba statistique ya mutindu site ke sadilama.",
       "- Meta (WhatsApp) ti Google (Gmail): ntangu nge ke tuba ti beto na nzila ya ba lien ya WhatsApp to ya email na site yai.",

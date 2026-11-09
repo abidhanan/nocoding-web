@@ -36,7 +36,7 @@
     {
      "t": "4. Tredjeparter som er involvert",
      "b": [
-      "- Vercel: drift og levering av nettstedet.",
+      "- Cloudflare: drift og levering av nettstedet.",
       "- Cloudflare: CDN og sikkerhet.",
       "- Google (Google Analytics 4) og Microsoft (Clarity): statistikk over bruk av nettstedet.",
       "- Meta (WhatsApp) og Google (Gmail): når du kontakter oss via WhatsApp- eller e-postlenkene på dette nettstedet.",

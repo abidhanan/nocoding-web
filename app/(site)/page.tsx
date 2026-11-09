@@ -259,7 +259,7 @@ const faqs = [
   answer: string;
 }>;
 
-const siteUrl = "https://www.nocoding.web.id";
+const siteUrl = "https://nocoding.web.id";
 const organizationId = `${siteUrl}/#organization`;
 
 /** Everything search engines and AI assistants need to describe the page: what it is, what is offered, for how much. */
@@ -271,19 +271,27 @@ const homeJsonLd = {
       "@id": `${siteUrl}/#webpage`,
       url: siteUrl,
       name: "Nocoding - Jasa Pembuatan Website, Aplikasi & Automasi",
+      description:
+        "Nocoding membantu bisnis membuat website, aplikasi, sistem informasi, dan automasi dengan proses terarah, harga transparan, serta konsultasi gratis.",
       isPartOf: { "@id": `${siteUrl}/#website` },
       about: { "@id": organizationId },
       primaryImageOfPage: { "@type": "ImageObject", url: `${siteUrl}/opengraph-image.png`, width: 1200, height: 630 },
       inLanguage: "id-ID",
       speakable: { "@type": "SpeakableSpecification", cssSelector: ["#hero-title", "#hero-description"] },
     },
-    ...services.map((service) => ({
+    ...services.map((service, index) => ({
       "@type": "Service",
+      "@id": `${siteUrl}/#service-${index + 1}`,
       name: service.title,
       description: service.description,
       serviceType: service.title,
       provider: { "@id": organizationId },
       areaServed: [{ "@type": "Country", name: "Indonesia" }, { "@type": "Place", name: "Worldwide (remote)" }],
+      availableChannel: {
+        "@type": "ServiceChannel",
+        serviceUrl: `${siteUrl}/#kontak`,
+        availableLanguage: ["Indonesian", "English"],
+      },
     })),
     {
       "@type": "OfferCatalog",
@@ -363,6 +371,7 @@ function Hero() {
               className="nocoding-logo-mark__image h-full w-full object-contain"
               loading="eager"
               fetchPriority="high"
+              unoptimized
             />
           </span>
           <h1 id="hero-title" aria-label="nocoding_" className="text-6xl font-black leading-[0.95] text-white lg:text-7xl">

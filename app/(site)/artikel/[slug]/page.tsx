@@ -18,7 +18,7 @@ import { getAllCounts } from "../../../../lib/articles/stats";
 
 export const revalidate = 300;
 
-const siteUrl = "https://www.nocoding.web.id";
+const siteUrl = "https://nocoding.web.id";
 
 type Props = { params: Promise<{ slug: string }> };
 

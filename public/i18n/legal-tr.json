@@ -36,7 +36,7 @@
     {
      "t": "4. Dahil olan üçüncü taraflar",
      "b": [
-      "- Vercel: sitenin barındırılması ve sunulması.",
+      "- Cloudflare: sitenin barındırılması ve sunulması.",
       "- Cloudflare: CDN ve güvenlik.",
       "- Google (Google Analytics 4) ve Microsoft (Clarity): site kullanım istatistikleri.",
       "- Meta (WhatsApp) ve Google (Gmail): bizimle bu sitedeki WhatsApp veya e-posta bağlantıları üzerinden iletişime geçtiğinizde.",

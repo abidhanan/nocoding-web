@@ -36,7 +36,7 @@
     {
      "t": "4. शामिल तीसर पक्ष",
      "b": [
-      "- Vercel: साइट के होस्टिंग अउर सेवा।",
+      "- Cloudflare: साइट के होस्टिंग अउर सेवा।",
       "- Cloudflare: CDN अउर सुरक्षा।",
       "- Google (Google Analytics 4) अउर Microsoft (Clarity): साइट के इस्तेमाल के आँकड़ा।",
       "- Meta (WhatsApp) अउर Google (Gmail): जब आप इ साइट के WhatsApp या ईमेल लिंक से हमसे संपर्क करत हय।",

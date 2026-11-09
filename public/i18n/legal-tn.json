@@ -36,7 +36,7 @@
     {
      "t": "4. Batho ba bangwe ba ba amegang",
      "b": [
-      "- Vercel: hosting le go tsenya setsha pele.",
+      "- Cloudflare: hosting le go tsenya setsha pele.",
       "- Cloudflare: CDN le tshireletso.",
       "- Google (Google Analytics 4) le Microsoft (Clarity): dipalopalo tsa tiriso ya setsha.",
       "- Meta (WhatsApp) le Google (Gmail): fa o ikgolaganya le rona ka dikhonekeshene tsa WhatsApp kgotsa tsa imeile tse di mo setsheng seno.",

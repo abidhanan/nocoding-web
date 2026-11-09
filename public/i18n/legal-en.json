@@ -36,7 +36,7 @@
     {
      "t": "4. Third parties involved",
      "b": [
-      "- Vercel: hosting and serving the site.",
+      "- Cloudflare: hosting and serving the site.",
       "- Cloudflare: CDN and security.",
       "- Google (Google Analytics 4) and Microsoft (Clarity): site usage statistics.",
       "- Meta (WhatsApp) and Google (Gmail): when you contact us through the WhatsApp or email links on this site.",

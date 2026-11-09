@@ -36,7 +36,7 @@
     {
      "t": "4. सहभागी तृतीय पक्ष",
      "b": [
-      "- Vercel: साइटचे होस्टिंग आणि वितरण.",
+      "- Cloudflare: साइटचे होस्टिंग आणि वितरण.",
       "- Cloudflare: CDN आणि सुरक्षा.",
       "- Google (Google Analytics 4) आणि Microsoft (Clarity): साइटच्या वापराची आकडेवारी.",
       "- Meta (WhatsApp) आणि Google (Gmail): तुम्ही या साइटवरील WhatsApp किंवा ईमेल लिंकद्वारे आमच्याशी संपर्क साधता तेव्हा.",

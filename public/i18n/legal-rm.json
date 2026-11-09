@@ -36,7 +36,7 @@
     {
      "t": "4. Terzas partidas participadas",
      "b": [
-      "- Vercel: hosting e furniment da la pagina.",
+      "- Cloudflare: hosting e furniment da la pagina.",
       "- Cloudflare: CDN e segirezza.",
       "- Google (Google Analytics 4) e Microsoft (Clarity): statisticas davart l'utilisaziun da la pagina.",
       "- Meta (WhatsApp) e Google (Gmail): cur che Vus ans contactais cun agid dals links a WhatsApp u a l'e-mail sin questa pagina.",

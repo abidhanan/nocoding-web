@@ -36,7 +36,7 @@
     {
      "t": "4. Pihak ketiga yang terlibat",
      "b": [
-      "- Vercel: pengehosan dan penyampaian laman.",
+      "- Cloudflare: pengehosan dan penyampaian laman.",
       "- Cloudflare: CDN dan keselamatan.",
       "- Google (Google Analytics 4) dan Microsoft (Clarity): statistik penggunaan laman.",
       "- Meta (WhatsApp) dan Google (Gmail): apabila anda menghubungi kami melalui pautan WhatsApp atau e-mel di laman ini.",

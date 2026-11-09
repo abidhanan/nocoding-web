@@ -36,7 +36,7 @@
     {
      "t": "4. 涉及的第三方",
      "b": [
-      "- Vercel：網站的主機代管與提供服務。",
+      "- Cloudflare：網站的主機代管與提供服務。",
       "- Cloudflare：CDN 與安全防護。",
       "- Google (Google Analytics 4) 與 Microsoft (Clarity)：網站使用統計。",
       "- Meta (WhatsApp) 與 Google (Gmail)：當您透過本網站上的 WhatsApp 或電子郵件連結與我們聯絡時。",

@@ -36,7 +36,7 @@
     {
      "t": "4. Dagiti kabuyon a maikatlo a paset",
      "b": [
-      "- Vercel: hosting ken panagserbi iti site.",
+      "- Cloudflare: hosting ken panagserbi iti site.",
       "- Cloudflare: CDN ken seguridad.",
       "- Google (Google Analytics 4) ken Microsoft (Clarity): estadistika ti panagus-usar ti site.",
       "- Meta (WhatsApp) ken Google (Gmail): inton kontakenmo kami babaen dagiti link ti WhatsApp wenno email iti daytoy a site.",

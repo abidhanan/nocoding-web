@@ -36,7 +36,7 @@
     {
      "t": "4. Dalyvaujančios trečiosios šalys",
      "b": [
-      "- Vercel: svetainės talpinimas ir pateikimas.",
+      "- Cloudflare: svetainės talpinimas ir pateikimas.",
       "- Cloudflare: CDN ir saugumas.",
       "- Google (Google Analytics 4) ir Microsoft (Clarity): svetainės naudojimo statistika.",
       "- Meta (WhatsApp) ir Google (Gmail): kai susisiekiate su mumis per šioje svetainėje esančias WhatsApp ar el. pašto nuorodas.",

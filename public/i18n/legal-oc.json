@@ -36,7 +36,7 @@
     {
      "t": "4. Los tèrces implicats",
      "b": [
-      "- Vercel: albergament e servici del site.",
+      "- Cloudflare: albergament e servici del site.",
       "- Cloudflare: CDN e seguretat.",
       "- Google (Google Analytics 4) e Microsoft (Clarity): estatisticas d'utilizacion del site.",
       "- Meta (WhatsApp) e Google (Gmail): quand nos contactatz amb los ligams WhatsApp o corrièl d'aqueste site.",

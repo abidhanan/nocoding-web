@@ -1,7 +1,7 @@
 import { getPublishedArticles } from "../../lib/articles/store";
 import { projects } from "../components/projects-data";
 
-const siteUrl = "https://www.nocoding.web.id";
+const siteUrl = "https://nocoding.web.id";
 
 export const revalidate = 3600;
 

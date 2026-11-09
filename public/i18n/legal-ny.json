@@ -36,7 +36,7 @@
     {
      "t": "4. Anthu ena okhudzidwa",
      "b": [
-      "- Vercel: kusunga ndi kupereka webusayiti.",
+      "- Cloudflare: kusunga ndi kupereka webusayiti.",
       "- Cloudflare: CDN ndi chitetezo.",
       "- Google (Google Analytics 4) ndi Microsoft (Clarity): ziwerengero za kagwiritsidwe ntchito ka webusayiti.",
       "- Meta (WhatsApp) ndi Google (Gmail): mukalankhula nafe kudzera m'maulalo a WhatsApp kapena imelo pa webusayiti iyi.",

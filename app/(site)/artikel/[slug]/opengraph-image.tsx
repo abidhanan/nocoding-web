@@ -55,7 +55,7 @@ export default async function Image({ params }: { params: Promise<{ slug: string
             <span style={{ color: "#ffffff", fontWeight: 800 }}>nocoding</span>
             <span style={{ color: "#22d3ee", fontWeight: 800 }}>_</span>
           </div>
-          <div style={{ display: "flex", fontSize: 30 }}>www.nocoding.web.id</div>
+          <div style={{ display: "flex", fontSize: 30 }}>nocoding.web.id</div>
         </div>
       </div>
     ),

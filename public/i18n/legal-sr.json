@@ -36,7 +36,7 @@
     {
      "t": "4. Укључене треће стране",
      "b": [
-      "- Vercel: хостинг и испорука сајта.",
+      "- Cloudflare: хостинг и испорука сајта.",
       "- Cloudflare: CDN и безбедност.",
       "- Google (Google Analytics 4) и Microsoft (Clarity): статистика коришћења сајта.",
       "- Meta (WhatsApp) и Google (Gmail): када нас контактирате преко WhatsApp или имејл линкова на овом сајту.",

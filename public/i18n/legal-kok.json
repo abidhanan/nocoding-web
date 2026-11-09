@@ -36,7 +36,7 @@
     {
      "t": "4. संबंदीत तिसरे पक्ष",
      "b": [
-      "- Vercel: वेबसायट होस्ट करप आनी चलोवप.",
+      "- Cloudflare: वेबसायट होस्ट करप आनी चलोवप.",
       "- Cloudflare: CDN आनी सुरक्षा.",
       "- Google (Google Analytics 4) आनी Microsoft (Clarity): वेबसायट वापराचे आंकडे.",
       "- Meta (WhatsApp) आनी Google (Gmail): जेन्ना तुमी ह्या वेबसायटीवयल्या WhatsApp वा ईमेल दुव्यांवरवीं आमकां संपर्क करतात.",
